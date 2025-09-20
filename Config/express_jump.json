@@ -1,0 +1,234 @@
+{
+  "data": [
+    {
+      "dest": "-1",
+      "image": "homepage",
+      "name": "主页",
+      "clickLock": 0,
+      "closeother": 1,
+      "id": 1,
+      "priority": 1,
+      "reddotid": 0
+    },
+    {
+      "dest": "270000",
+      "image": "guide",
+      "name": "航行指南",
+      "clickLock": 0,
+      "closeother": 0,
+      "id": 2,
+      "priority": 1,
+      "reddotid": 211000
+    },
+    {
+      "dest": "110000",
+      "image": "activityCenter",
+      "name": "活动中心",
+      "clickLock": 0,
+      "closeother": 0,
+      "id": 3,
+      "priority": 2,
+      "reddotid": 212000
+    },
+    {
+      "dest": "170000",
+      "image": "plotTasks",
+      "name": "剧情任务",
+      "clickLock": 0,
+      "closeother": 1,
+      "id": 4,
+      "priority": 2,
+      "reddotid": 213000
+    },
+    {
+      "dest": "200000",
+      "image": "peakJihad",
+      "name": "巅峰圣战",
+      "clickLock": 0,
+      "closeother": 1,
+      "id": 5,
+      "priority": 2,
+      "reddotid": 214000
+    },
+    {
+      "dest": "220000",
+      "image": "petBag",
+      "name": "精灵",
+      "clickLock": 0,
+      "closeother": 0,
+      "id": 6,
+      "priority": 3,
+      "reddotid": 0
+    },
+    {
+      "dest": "240000",
+      "image": "itemWarehouse",
+      "name": "物品",
+      "clickLock": 0,
+      "closeother": 0,
+      "id": 7,
+      "priority": 3,
+      "reddotid": 216000
+    },
+    {
+      "dest": "230000",
+      "image": "handBook",
+      "name": "图鉴",
+      "clickLock": 0,
+      "closeother": 0,
+      "id": 8,
+      "priority": 3,
+      "reddotid": 217000
+    },
+    {
+      "dest": "130000",
+      "image": "mall",
+      "name": "商城",
+      "clickLock": 0,
+      "closeother": 0,
+      "id": 9,
+      "priority": 3,
+      "reddotid": 218000
+    },
+    {
+      "dest": "150000",
+      "image": "petLevel",
+      "name": "精灵获得",
+      "clickLock": 0,
+      "closeother": 1,
+      "id": 10,
+      "priority": 3,
+      "reddotid": 0
+    },
+    {
+      "dest": "161000",
+      "image": "resourceCollection",
+      "name": "资源收集",
+      "clickLock": 0,
+      "closeother": 1,
+      "id": 11,
+      "priority": 3,
+      "reddotid": 124000
+    },
+    {
+      "dest": "180000",
+      "image": "markWheel",
+      "name": "刻印之轮",
+      "clickLock": 0,
+      "closeother": 0,
+      "id": 12,
+      "priority": 3,
+      "reddotid": 126000
+    },
+    {
+      "dest": "190000",
+      "image": "petRecruit",
+      "name": "精灵招募",
+      "clickLock": 0,
+      "closeother": 0,
+      "id": 13,
+      "priority": 3,
+      "reddotid": 0
+    },
+    {
+      "dest": "140000",
+      "image": "quantum",
+      "name": "量子回廊",
+      "clickLock": 0,
+      "closeother": 1,
+      "id": 14,
+      "priority": 3,
+      "reddotid": 0
+    },
+    {
+      "dest": "140001",
+      "image": "spt",
+      "name": "SPT挑战",
+      "clickLock": 0,
+      "closeother": 1,
+      "id": 15,
+      "priority": 3,
+      "reddotid": 0
+    },
+    {
+      "dest": "250000",
+      "image": "team",
+      "name": "战队",
+      "clickLock": 0,
+      "closeother": 0,
+      "id": 16,
+      "priority": 3,
+      "reddotid": 225000
+    },
+    {
+      "dest": "260000",
+      "image": "map",
+      "name": "星系地图",
+      "clickLock": 0,
+      "closeother": 1,
+      "id": 17,
+      "priority": 3,
+      "reddotid": 0
+    },
+    {
+      "dest": "100000",
+      "image": "personalInfo",
+      "name": "个人",
+      "clickLock": 0,
+      "closeother": 0,
+      "id": 18,
+      "priority": 3,
+      "reddotid": 223000
+    },
+    {
+      "dest": "310000",
+      "image": "friend",
+      "name": "好友",
+      "clickLock": 0,
+      "closeother": 0,
+      "id": 19,
+      "priority": 3,
+      "reddotid": 0
+    },
+    {
+      "dest": "-3",
+      "image": "base",
+      "name": "基地",
+      "clickLock": 0,
+      "closeother": 1,
+      "id": 20,
+      "priority": 3,
+      "reddotid": 0
+    },
+    {
+      "dest": "320000",
+      "image": "setUp",
+      "name": "设置",
+      "clickLock": 0,
+      "closeother": 0,
+      "id": 21,
+      "priority": 4,
+      "reddotid": 0
+    },
+    {
+      "dest": "300000",
+      "image": "email",
+      "name": "邮件",
+      "clickLock": 0,
+      "closeother": 0,
+      "id": 22,
+      "priority": 4,
+      "reddotid": 228000
+    },
+    {
+      "dest": "-2",
+      "image": "notice",
+      "name": "公告",
+      "clickLock": 0,
+      "closeother": 0,
+      "id": 23,
+      "priority": 4,
+      "reddotid": 229000
+    }
+  ]
+}

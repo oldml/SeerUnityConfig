@@ -1,0 +1,21 @@
+{
+  "root": {
+    "item": [
+      {
+        "hitEffect": 1,
+        "id": 600091,
+        "track": 0
+      },
+      {
+        "hitEffect": 0,
+        "id": 600092,
+        "track": 1
+      },
+      {
+        "hitEffect": 1,
+        "id": 600093,
+        "track": 1
+      }
+    ]
+  }
+}

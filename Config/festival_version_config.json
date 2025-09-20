@@ -1,0 +1,11 @@
+{
+  "data": [
+    {
+      "endTime": "2025/05/02 00:00:00",
+      "startTime": "2025/04/25 00:00:00",
+      "suffix": "_temp",
+      "tables": "petbook,archivesStory,new_monster_level,chapterpoint",
+      "id": 1
+    }
+  ]
+}

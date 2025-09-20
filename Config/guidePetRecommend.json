@@ -1,0 +1,8328 @@
+{
+  "data": [
+    {
+      "fifthProgress": [
+        "15_105737_1_12"
+      ],
+      "gainday": "星光密藏",
+      "judge5thmoveByvalue": [
+        "14_105737_25"
+      ],
+      "judgeNewseByvalue": [
+        "14_105737_25"
+      ],
+      "judgePetByvalue": [
+        "14_105737_25"
+      ],
+      "petProgress": [
+        "15_105737_1_12"
+      ],
+      "seProgress": [
+        "15_105737_1_12"
+      ],
+      "strategy": null,
+      "id": 1,
+      "petID": 4647,
+      "recommend": 0,
+      "stage": 1
+    },
+    {
+      "fifthProgress": [
+        "15_105737_13_24"
+      ],
+      "gainday": "星光密藏",
+      "judge5thmoveByvalue": [
+        "14_105737_26"
+      ],
+      "judgeNewseByvalue": [
+        "14_105737_26"
+      ],
+      "judgePetByvalue": [
+        "14_105737_26"
+      ],
+      "petProgress": [
+        "15_105737_13_24"
+      ],
+      "seProgress": [
+        "15_105737_13_24"
+      ],
+      "strategy": null,
+      "id": 2,
+      "petID": 4648,
+      "recommend": 0,
+      "stage": 1
+    },
+    {
+      "fifthProgress": [
+        "15_105738_1_12"
+      ],
+      "gainday": "星光密藏",
+      "judge5thmoveByvalue": [
+        "14_105738_25"
+      ],
+      "judgeNewseByvalue": [
+        "14_105738_25"
+      ],
+      "judgePetByvalue": [
+        "14_105738_25"
+      ],
+      "petProgress": [
+        "15_105738_1_12"
+      ],
+      "seProgress": [
+        "15_105738_1_12"
+      ],
+      "strategy": null,
+      "id": 3,
+      "petID": 4649,
+      "recommend": 0,
+      "stage": 1
+    },
+    {
+      "fifthProgress": [
+        "1_1714112_40"
+      ],
+      "gainday": "专属关卡 约2天",
+      "judge5thmoveByvalue": [
+        "14_6918_4"
+      ],
+      "judgeNewseByvalue": [
+        "14_6918_3"
+      ],
+      "judgePetByvalue": [
+        "14_6918_1"
+      ],
+      "petProgress": [
+        "1_1714112_12"
+      ],
+      "seProgress": [
+        "1_1714112_40"
+      ],
+      "strategy": [
+        4648,
+        3582
+      ],
+      "id": 4,
+      "petID": 3437,
+      "recommend": 0,
+      "stage": 1
+    },
+    {
+      "fifthProgress": [
+        "15_121251_1_6",
+        "15_121252_1_6",
+        "15_121253_1_6",
+        "15_121254_1_6"
+      ],
+      "gainday": "作战实验室 约4天",
+      "judge5thmoveByvalue": [
+        "15_121251_1_6",
+        "15_121252_1_6",
+        "15_121253_1_6",
+        "15_121254_1_6"
+      ],
+      "judgeNewseByvalue": [
+        "15_121251_1_6",
+        "15_121252_1_6",
+        "15_121253_1_6",
+        "15_121254_1_6"
+      ],
+      "judgePetByvalue": [
+        "15_121251_1_6",
+        "15_121252_1_6",
+        "15_121253_1_6",
+        "15_121254_1_6"
+      ],
+      "petProgress": [
+        "15_121251_1_6",
+        "15_121252_1_6",
+        "15_121253_1_6",
+        "15_121254_1_6"
+      ],
+      "seProgress": [
+        "15_121251_1_6",
+        "15_121252_1_6",
+        "15_121253_1_6",
+        "15_121254_1_6"
+      ],
+      "strategy": null,
+      "id": 5,
+      "petID": 4338,
+      "recommend": 0,
+      "stage": 1
+    },
+    {
+      "fifthProgress": [
+        "12_8632_2_12"
+      ],
+      "gainday": "专属关卡 约8天",
+      "judge5thmoveByvalue": [
+        "14_8631_16"
+      ],
+      "judgeNewseByvalue": [
+        "14_8631_15"
+      ],
+      "judgePetByvalue": [
+        "14_8631_13"
+      ],
+      "petProgress": [
+        "1_1714415_100"
+      ],
+      "seProgress": [
+        "12_8632_2_8"
+      ],
+      "strategy": [
+        4648,
+        3437
+      ],
+      "id": 6,
+      "petID": 3460,
+      "recommend": 0,
+      "stage": 1
+    },
+    {
+      "fifthProgress": [
+        "1_1715963_15"
+      ],
+      "gainday": "专属关卡 约5天",
+      "judge5thmoveByvalue": [
+        "14_104127_4"
+      ],
+      "judgeNewseByvalue": [
+        "14_104127_3"
+      ],
+      "judgePetByvalue": [
+        "14_104127_1"
+      ],
+      "petProgress": [
+        "11_104128_0_3"
+      ],
+      "seProgress": [
+        "1_1715963_15"
+      ],
+      "strategy": [
+        4648,
+        3437,
+        3460
+      ],
+      "id": 7,
+      "petID": 3573,
+      "recommend": 0,
+      "stage": 2
+    },
+    {
+      "fifthProgress": [
+        "1_1719577_15"
+      ],
+      "gainday": "专属关卡 约7天",
+      "judge5thmoveByvalue": [
+        "14_106414_3"
+      ],
+      "judgeNewseByvalue": [
+        "14_106414_4"
+      ],
+      "judgePetByvalue": [
+        "14_106414_1"
+      ],
+      "petProgress": [
+        "11_106415_0_20"
+      ],
+      "seProgress": [
+        "1_1719577_25"
+      ],
+      "strategy": [
+        4648,
+        3460
+      ],
+      "id": 8,
+      "petID": 3844,
+      "recommend": 0,
+      "stage": 2
+    },
+    {
+      "fifthProgress": [
+        "1_2400129_200"
+      ],
+      "gainday": "周年珍藏馆",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400129_1000"
+      ],
+      "seProgress": [
+        "1_2400129_500"
+      ],
+      "strategy": null,
+      "id": 9,
+      "petID": 4377,
+      "recommend": 0,
+      "stage": 2
+    },
+    {
+      "fifthProgress": [
+        "12_123027_1_21"
+      ],
+      "gainday": "专属关卡 约25天",
+      "judge5thmoveByvalue": [
+        "14_123027_17"
+      ],
+      "judgeNewseByvalue": [
+        "14_123027_18"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "11_2714_0_5"
+      ],
+      "seProgress": [
+        "12_123027_1_14"
+      ],
+      "strategy": [
+        4648,
+        3437
+      ],
+      "id": 10,
+      "petID": 3022,
+      "recommend": 0,
+      "stage": 2
+    },
+    {
+      "fifthProgress": [
+        "-1"
+      ],
+      "gainday": "精灵王的试炼 困难模式6天",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_1721757_900"
+      ],
+      "seProgress": [
+        "-1"
+      ],
+      "strategy": [
+        4648,
+        3844,
+        3437
+      ],
+      "id": 11,
+      "petID": 3322,
+      "recommend": 0,
+      "stage": 2
+    },
+    {
+      "fifthProgress": [
+        "-1"
+      ],
+      "gainday": "精灵王的试炼 困难模式6天",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_1721756_900"
+      ],
+      "seProgress": [
+        "-1"
+      ],
+      "strategy": [
+        4648,
+        3460
+      ],
+      "id": 12,
+      "petID": 3240,
+      "recommend": 0,
+      "stage": 2
+    },
+    {
+      "fifthProgress": [
+        "-1"
+      ],
+      "gainday": "精灵王的试炼 困难模式6天",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_1721748_900"
+      ],
+      "seProgress": [
+        "-1"
+      ],
+      "strategy": [
+        4648,
+        3573
+      ],
+      "id": 13,
+      "petID": 3036,
+      "recommend": 0,
+      "stage": 2
+    },
+    {
+      "fifthProgress": [
+        "1_1726848_100"
+      ],
+      "gainday": "专属关卡 约8天",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_1726848_500"
+      ],
+      "seProgress": [
+        "1_1726848_200"
+      ],
+      "strategy": [
+        4648,
+        3437,
+        3460
+      ],
+      "id": 14,
+      "petID": 4731,
+      "recommend": 0,
+      "stage": 2
+    },
+    {
+      "fifthProgress": [
+        "11_101222_0_8"
+      ],
+      "gainday": "专属关卡 约4天",
+      "judge5thmoveByvalue": [
+        "14_101221_4"
+      ],
+      "judgeNewseByvalue": [
+        "14_101221_3"
+      ],
+      "judgePetByvalue": [
+        "14_101221_1"
+      ],
+      "petProgress": [
+        "15_101221_5_6"
+      ],
+      "seProgress": [
+        "11_101222_0_12"
+      ],
+      "strategy": [
+        4648,
+        3437,
+        3460
+      ],
+      "id": 15,
+      "petID": 3390,
+      "recommend": 0,
+      "stage": 3
+    },
+    {
+      "fifthProgress": [
+        "1_1713329_2",
+        "1_1713330_15",
+        "1_1713331_20"
+      ],
+      "gainday": "专属关卡 约4天",
+      "judge5thmoveByvalue": [
+        "14_101218_4"
+      ],
+      "judgeNewseByvalue": [
+        "14_101218_3"
+      ],
+      "judgePetByvalue": [
+        "14_101218_1"
+      ],
+      "petProgress": [
+        "1_1713329_12",
+        "1_1713330_8",
+        "1_1713331_20"
+      ],
+      "seProgress": [
+        "1_1713329_2",
+        "1_1713330_15",
+        "1_1713331_20"
+      ],
+      "strategy": [
+        4648,
+        3437,
+        3460
+      ],
+      "id": 16,
+      "petID": 3386,
+      "recommend": 0,
+      "stage": 3
+    },
+    {
+      "fifthProgress": [
+        "1_1712553_120"
+      ],
+      "gainday": "专属关卡 约11天",
+      "judge5thmoveByvalue": [
+        "14_102487_3"
+      ],
+      "judgeNewseByvalue": [
+        "14_102487_2"
+      ],
+      "judgePetByvalue": [
+        "14_102486_4"
+      ],
+      "petProgress": [
+        "11_102486_0_7"
+      ],
+      "seProgress": [
+        "1_1712553_110"
+      ],
+      "strategy": [
+        4648,
+        3437,
+        3460,
+        3240
+      ],
+      "id": 17,
+      "petID": 3329,
+      "recommend": 0,
+      "stage": 3
+    },
+    {
+      "fifthProgress": [
+        "1_2400191_100"
+      ],
+      "gainday": "月下拾光",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400191_400"
+      ],
+      "seProgress": [
+        "1_2400191_200"
+      ],
+      "strategy": null,
+      "id": 18,
+      "petID": 4462,
+      "recommend": 0,
+      "stage": 3
+    },
+    {
+      "fifthProgress": [
+        "1_1720234_15"
+      ],
+      "gainday": "专属关卡 约8天",
+      "judge5thmoveByvalue": [
+        "14_106570_3"
+      ],
+      "judgeNewseByvalue": [
+        "14_106570_4"
+      ],
+      "judgePetByvalue": [
+        "14_106570_1"
+      ],
+      "petProgress": [
+        "11_106572_0_7"
+      ],
+      "seProgress": [
+        "1_1720234_15"
+      ],
+      "strategy": [
+        3437,
+        3460,
+        4647,
+        4648,
+        4649
+      ],
+      "id": 19,
+      "petID": 3894,
+      "recommend": 0,
+      "stage": 3
+    },
+    {
+      "fifthProgress": [
+        "1_2400171_100"
+      ],
+      "gainday": "因子关卡 简单模式20天",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400171_400"
+      ],
+      "seProgress": [
+        "1_2400171_200"
+      ],
+      "strategy": [
+        3437,
+        3460,
+        4647,
+        4648,
+        4649
+      ],
+      "id": 20,
+      "petID": 4442,
+      "recommend": 0,
+      "stage": 3
+    },
+    {
+      "fifthProgress": [
+        "1_2400212_100"
+      ],
+      "gainday": "因子关卡 简单模式20天",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400212_400"
+      ],
+      "seProgress": [
+        "1_2400212_200"
+      ],
+      "strategy": [
+        3437,
+        3460,
+        4647,
+        4648,
+        4649
+      ],
+      "id": 21,
+      "petID": 4487,
+      "recommend": 0,
+      "stage": 3
+    },
+    {
+      "fifthProgress": [
+        "1_1719912_15"
+      ],
+      "gainday": "专属关卡 约10天",
+      "judge5thmoveByvalue": [
+        "14_106467_3"
+      ],
+      "judgeNewseByvalue": [
+        "14_106467_4"
+      ],
+      "judgePetByvalue": [
+        "14_106467_1"
+      ],
+      "petProgress": [
+        "11_106468_0_2"
+      ],
+      "seProgress": [
+        "1_1719912_15"
+      ],
+      "strategy": [
+        4648,
+        3894
+      ],
+      "id": 22,
+      "petID": 3866,
+      "recommend": 0,
+      "stage": 3
+    },
+    {
+      "fifthProgress": [
+        "1_1726848_100"
+      ],
+      "gainday": "专属关卡 约13天",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_1726848_1000"
+      ],
+      "seProgress": [
+        "1_1726848_200"
+      ],
+      "strategy": [
+        4648,
+        3437,
+        3460
+      ],
+      "id": 23,
+      "petID": 4732,
+      "recommend": 0,
+      "stage": 3
+    },
+    {
+      "fifthProgress": [
+        "1_1714110_16"
+      ],
+      "gainday": "专属关卡 约30天",
+      "judge5thmoveByvalue": [
+        "14_4945_4"
+      ],
+      "judgeNewseByvalue": [
+        "14_4945_3"
+      ],
+      "judgePetByvalue": [
+        "14_4945_1"
+      ],
+      "petProgress": [
+        "11_4946_0_6"
+      ],
+      "seProgress": [
+        "1_1714110_25"
+      ],
+      "strategy": [
+        3437,
+        4647,
+        4648,
+        4649,
+        3866,
+        4442
+      ],
+      "id": 24,
+      "petID": 5000,
+      "recommend": 0,
+      "stage": 4
+    },
+    {
+      "fifthProgress": [
+        "16_101267_0_15"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_101268_2"
+      ],
+      "judgeNewseByvalue": [
+        "14_101268_2"
+      ],
+      "judgePetByvalue": [
+        "14_101268_1"
+      ],
+      "petProgress": [
+        "16_101264_0_4"
+      ],
+      "seProgress": [
+        "16_101267_0_15"
+      ],
+      "strategy": [
+        3022,
+        5000,
+        4647,
+        4648,
+        4649,
+        4442
+      ],
+      "id": 25,
+      "petID": 3414,
+      "recommend": 1,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1715982_40"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_7094_4"
+      ],
+      "judgeNewseByvalue": [
+        "14_7094_3"
+      ],
+      "judgePetByvalue": [
+        "14_7094_1"
+      ],
+      "petProgress": [
+        "11_7095_0_3"
+      ],
+      "seProgress": [
+        "1_1715982_60"
+      ],
+      "strategy": [
+        3022,
+        5000,
+        4647,
+        4648,
+        4649,
+        4442
+      ],
+      "id": 26,
+      "petID": 3577,
+      "recommend": 1,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1717252_25"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_101638_7"
+      ],
+      "judgeNewseByvalue": [
+        "14_101638_8"
+      ],
+      "judgePetByvalue": [
+        "14_101638_5"
+      ],
+      "petProgress": [
+        "15_101638_1_4"
+      ],
+      "seProgress": [
+        "1_1717252_15"
+      ],
+      "strategy": [
+        3022,
+        5000,
+        4647,
+        4648,
+        4649,
+        4442
+      ],
+      "id": 27,
+      "petID": 3673,
+      "recommend": 1,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400033_200"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400033_1000"
+      ],
+      "seProgress": [
+        "1_2400033_500"
+      ],
+      "strategy": [
+        3022,
+        5000,
+        4647,
+        4648,
+        4649,
+        4442
+      ],
+      "id": 28,
+      "petID": 4275,
+      "recommend": 1,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400338_200"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400338_1000"
+      ],
+      "seProgress": [
+        "1_2400338_500"
+      ],
+      "strategy": [
+        3022,
+        5000,
+        4647,
+        4648,
+        4649,
+        4442
+      ],
+      "id": 29,
+      "petID": 4599,
+      "recommend": 1,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400377_200"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400377_1000"
+      ],
+      "seProgress": [
+        "1_2400377_500"
+      ],
+      "strategy": [
+        3022,
+        5000,
+        4647,
+        4648,
+        4649,
+        4442
+      ],
+      "id": 30,
+      "petID": 4635,
+      "recommend": 1,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "15_2915_1_8"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "15_2915_1_8"
+      ],
+      "seProgress": [
+        "15_2915_1_8"
+      ],
+      "strategy": null,
+      "id": 31,
+      "petID": 300,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "12_8632_1_12"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_8631_12"
+      ],
+      "judgeNewseByvalue": [
+        "14_8631_11"
+      ],
+      "judgePetByvalue": [
+        "14_8631_9"
+      ],
+      "petProgress": [
+        "1_1714414_100"
+      ],
+      "seProgress": [
+        "12_8632_1_8"
+      ],
+      "strategy": null,
+      "id": 32,
+      "petID": 3463,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "15_6898_1_8"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_6898_9"
+      ],
+      "judgeNewseByvalue": [
+        "14_6898_9"
+      ],
+      "judgePetByvalue": [
+        "14_6898_9"
+      ],
+      "petProgress": [
+        "15_6898_1_8"
+      ],
+      "seProgress": [
+        "15_6898_1_8"
+      ],
+      "strategy": null,
+      "id": 33,
+      "petID": 3399,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1713674_40"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "17_9532"
+      ],
+      "judgeNewseByvalue": [
+        "17_9532"
+      ],
+      "judgePetByvalue": [
+        "17_9532"
+      ],
+      "petProgress": [
+        "1_1713674_40"
+      ],
+      "seProgress": [
+        "1_1713674_40"
+      ],
+      "strategy": null,
+      "id": 34,
+      "petID": 3403,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "0_0_0"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "11_7093_0_10"
+      ],
+      "petProgress": [
+        "11_7093_0_10"
+      ],
+      "seProgress": [
+        "0_0_0"
+      ],
+      "strategy": null,
+      "id": 35,
+      "petID": 122,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "0_0_0"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "17_9712"
+      ],
+      "petProgress": [
+        "11_104124_0_50",
+        "11_104125_0_50"
+      ],
+      "seProgress": [
+        "0_0_0"
+      ],
+      "strategy": null,
+      "id": 36,
+      "petID": 124,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "-1"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "14_3084_2"
+      ],
+      "petProgress": [
+        "0_0_0"
+      ],
+      "seProgress": [
+        "-1"
+      ],
+      "strategy": null,
+      "id": 37,
+      "petID": 2000,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "16_4714_0_15"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_4702_2"
+      ],
+      "judgeNewseByvalue": [
+        "14_4702_2"
+      ],
+      "judgePetByvalue": [
+        "14_4702_1"
+      ],
+      "petProgress": [
+        "11_4703_0_4",
+        "14_3084_2"
+      ],
+      "seProgress": [
+        "16_4714_0_15"
+      ],
+      "strategy": null,
+      "id": 38,
+      "petID": 3312,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1717078_15"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_104376_4"
+      ],
+      "judgeNewseByvalue": [
+        "14_104376_5"
+      ],
+      "judgePetByvalue": [
+        "14_104376_1"
+      ],
+      "petProgress": [
+        "11_104377_0_3"
+      ],
+      "seProgress": [
+        "1_1717078_25"
+      ],
+      "strategy": null,
+      "id": 39,
+      "petID": 3644,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1707127_30"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_2631_2"
+      ],
+      "judgeNewseByvalue": [
+        "14_2631_1"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_1707127_60"
+      ],
+      "seProgress": [
+        "1_1707127_30"
+      ],
+      "strategy": null,
+      "id": 40,
+      "petID": 2220,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1707128_30"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_2631_5"
+      ],
+      "judgeNewseByvalue": [
+        "14_2631_4"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_1707128_60"
+      ],
+      "seProgress": [
+        "1_1707128_30"
+      ],
+      "strategy": null,
+      "id": 41,
+      "petID": 2221,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1707129_30"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_2631_8"
+      ],
+      "judgeNewseByvalue": [
+        "14_2631_7"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_1707129_60"
+      ],
+      "seProgress": [
+        "1_1707129_30"
+      ],
+      "strategy": null,
+      "id": 42,
+      "petID": 2189,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1716092_15"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_101422_2"
+      ],
+      "judgeNewseByvalue": [
+        "14_101422_3"
+      ],
+      "judgePetByvalue": [
+        "14_101422_1"
+      ],
+      "petProgress": [
+        "11_101423_0_4"
+      ],
+      "seProgress": [
+        "1_1716092_15"
+      ],
+      "strategy": null,
+      "id": 43,
+      "petID": 3586,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1710269_200"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_102065_2"
+      ],
+      "judgeNewseByvalue": [
+        "14_102065_2"
+      ],
+      "judgePetByvalue": [
+        "14_102065_1"
+      ],
+      "petProgress": [
+        "1_1710268_400"
+      ],
+      "seProgress": [
+        "1_1710269_200"
+      ],
+      "strategy": null,
+      "id": 44,
+      "petID": 3194,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1711053_150"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_4454_4"
+      ],
+      "judgeNewseByvalue": [
+        "14_4454_2"
+      ],
+      "judgePetByvalue": [
+        "14_4454_1"
+      ],
+      "petProgress": [
+        "1_1711052_200"
+      ],
+      "seProgress": [
+        "1_1711053_50"
+      ],
+      "strategy": null,
+      "id": 45,
+      "petID": 3251,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1714220_40"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_102764_3"
+      ],
+      "judgeNewseByvalue": [
+        "14_102764_4"
+      ],
+      "judgePetByvalue": [
+        "14_102764_1"
+      ],
+      "petProgress": [
+        "1_1714220_100"
+      ],
+      "seProgress": [
+        "1_1714220_60"
+      ],
+      "strategy": null,
+      "id": 46,
+      "petID": 3451,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1713997_20"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_101295_3"
+      ],
+      "judgeNewseByvalue": [
+        "14_101295_4"
+      ],
+      "judgePetByvalue": [
+        "14_101295_1"
+      ],
+      "petProgress": [
+        "1_1713997_50"
+      ],
+      "seProgress": [
+        "1_1713997_30"
+      ],
+      "strategy": null,
+      "id": 47,
+      "petID": 3428,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1714135_40"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_102750_3"
+      ],
+      "judgeNewseByvalue": [
+        "14_102750_4"
+      ],
+      "judgePetByvalue": [
+        "14_102750_1"
+      ],
+      "petProgress": [
+        "1_1714135_100"
+      ],
+      "seProgress": [
+        "1_1714135_60"
+      ],
+      "strategy": null,
+      "id": 48,
+      "petID": 3439,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1713788_20"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_4930_3"
+      ],
+      "judgeNewseByvalue": [
+        "14_4930_4"
+      ],
+      "judgePetByvalue": [
+        "14_4930_1"
+      ],
+      "petProgress": [
+        "1_1713788_60"
+      ],
+      "seProgress": [
+        "1_1713788_30"
+      ],
+      "strategy": null,
+      "id": 49,
+      "petID": 3420,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1710672_90"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_102155_4"
+      ],
+      "judgeNewseByvalue": [
+        "14_102155_3"
+      ],
+      "judgePetByvalue": [
+        "14_102155_1"
+      ],
+      "petProgress": [
+        "1_1710639_800"
+      ],
+      "seProgress": [
+        "1_1710672_70"
+      ],
+      "strategy": null,
+      "id": 50,
+      "petID": 3214,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1718527_15"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_106146_3"
+      ],
+      "judgeNewseByvalue": [
+        "14_106146_4"
+      ],
+      "judgePetByvalue": [
+        "14_106146_1"
+      ],
+      "petProgress": [
+        "11_106147_0_3"
+      ],
+      "seProgress": [
+        "1_1718527_15"
+      ],
+      "strategy": null,
+      "id": 51,
+      "petID": 3759,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1715111_15"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_8693_7"
+      ],
+      "judgeNewseByvalue": [
+        "14_8693_8"
+      ],
+      "judgePetByvalue": [
+        "14_8693_1"
+      ],
+      "petProgress": [
+        "15_8697_1_4"
+      ],
+      "seProgress": [
+        "1_1715111_15"
+      ],
+      "strategy": null,
+      "id": 52,
+      "petID": 3514,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1717627_15"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_101669_3"
+      ],
+      "judgeNewseByvalue": [
+        "14_101669_4"
+      ],
+      "judgePetByvalue": [
+        "14_101669_1"
+      ],
+      "petProgress": [
+        "16_101670_0_4"
+      ],
+      "seProgress": [
+        "1_1717627_15"
+      ],
+      "strategy": null,
+      "id": 53,
+      "petID": 3699,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1713673_30"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_101244_2"
+      ],
+      "judgeNewseByvalue": [
+        "14_101244_2"
+      ],
+      "judgePetByvalue": [
+        "14_101244_1"
+      ],
+      "petProgress": [
+        "16_101245_0_4"
+      ],
+      "seProgress": [
+        "1_1713673_30"
+      ],
+      "strategy": null,
+      "id": 54,
+      "petID": 3406,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1717759_20"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_104483_3"
+      ],
+      "judgeNewseByvalue": [
+        "14_104483_4"
+      ],
+      "judgePetByvalue": [
+        "14_104483_1"
+      ],
+      "petProgress": [
+        "11_104484_0_4"
+      ],
+      "seProgress": [
+        "1_1717759_20"
+      ],
+      "strategy": null,
+      "id": 55,
+      "petID": 3711,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1713284_40",
+        "1_1713285_3"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_101215_4"
+      ],
+      "judgeNewseByvalue": [
+        "14_101215_3"
+      ],
+      "judgePetByvalue": [
+        "14_101215_1"
+      ],
+      "petProgress": [
+        "1_1713284_40",
+        "1_1713285_4"
+      ],
+      "seProgress": [
+        "1_1713284_30",
+        "1_1713285_3"
+      ],
+      "strategy": null,
+      "id": 56,
+      "petID": 3381,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1717713_15"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_104475_3"
+      ],
+      "judgeNewseByvalue": [
+        "14_104475_4"
+      ],
+      "judgePetByvalue": [
+        "14_104475_1"
+      ],
+      "petProgress": [
+        "11_104476_0_2"
+      ],
+      "seProgress": [
+        "1_1717713_15"
+      ],
+      "strategy": null,
+      "id": 57,
+      "petID": 3704,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "17_15286"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "16_102801_0_6"
+      ],
+      "judgeNewseByvalue": [
+        "16_102801_0_6"
+      ],
+      "judgePetByvalue": [
+        "16_102801_0_5"
+      ],
+      "petProgress": [
+        "11_102801_0_4"
+      ],
+      "seProgress": [
+        "17_15286"
+      ],
+      "strategy": null,
+      "id": 58,
+      "petID": 3465,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "15_6942_9_18"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_6942_2"
+      ],
+      "judgeNewseByvalue": [
+        "14_6942_2"
+      ],
+      "judgePetByvalue": [
+        "14_6942_1"
+      ],
+      "petProgress": [
+        "15_6942_9_18"
+      ],
+      "seProgress": [
+        "15_6942_9_18"
+      ],
+      "strategy": null,
+      "id": 59,
+      "petID": 3481,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1715922_15"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_7072_4"
+      ],
+      "judgeNewseByvalue": [
+        "14_7072_3"
+      ],
+      "judgePetByvalue": [
+        "14_7072_1"
+      ],
+      "petProgress": [
+        "16_7079_0_10000",
+        "16_7078_0_100000"
+      ],
+      "seProgress": [
+        "1_1715922_15"
+      ],
+      "strategy": null,
+      "id": 60,
+      "petID": 3568,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1715442_40"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "17_17829"
+      ],
+      "judgeNewseByvalue": [
+        "17_17830"
+      ],
+      "judgePetByvalue": [
+        "17_17827"
+      ],
+      "petProgress": [
+        "1_1715441_150"
+      ],
+      "seProgress": [
+        "1_1715442_60"
+      ],
+      "strategy": null,
+      "id": 61,
+      "petID": 3539,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1710543_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_102100_4"
+      ],
+      "judgeNewseByvalue": [
+        "14_102100_3"
+      ],
+      "judgePetByvalue": [
+        "14_102100_1"
+      ],
+      "petProgress": [
+        "1_1710513_40"
+      ],
+      "seProgress": [
+        "1_1710543_80"
+      ],
+      "strategy": null,
+      "id": 62,
+      "petID": 3205,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "16_102245_0_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_102223_4"
+      ],
+      "judgeNewseByvalue": [
+        "14_102223_3"
+      ],
+      "judgePetByvalue": [
+        "14_102223_1"
+      ],
+      "petProgress": [
+        "1_1710974_120"
+      ],
+      "seProgress": [
+        "16_102244_0_100"
+      ],
+      "strategy": null,
+      "id": 63,
+      "petID": 3242,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1709932_40"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_100571_3"
+      ],
+      "judgeNewseByvalue": [
+        "14_100571_2"
+      ],
+      "judgePetByvalue": [
+        "16_100570_0_5"
+      ],
+      "petProgress": [
+        "11_100570_0_4"
+      ],
+      "seProgress": [
+        "1_1709932_35"
+      ],
+      "strategy": null,
+      "id": 64,
+      "petID": 3170,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1710816_20"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_3969_3"
+      ],
+      "judgeNewseByvalue": [
+        "14_3969_2"
+      ],
+      "judgePetByvalue": [
+        "14_3969_1"
+      ],
+      "petProgress": [
+        "1_1710816_60"
+      ],
+      "seProgress": [
+        "1_1710816_20"
+      ],
+      "strategy": null,
+      "id": 65,
+      "petID": 3142,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1705611_20"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_6420_3"
+      ],
+      "judgeNewseByvalue": [
+        "14_6420_2"
+      ],
+      "judgePetByvalue": [
+        "17_174"
+      ],
+      "petProgress": [
+        "11_6419_0_4"
+      ],
+      "seProgress": [
+        "1_1705611_15"
+      ],
+      "strategy": null,
+      "id": 66,
+      "petID": 2852,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "0_0_0"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "0_0_0"
+      ],
+      "seProgress": [
+        "0_0_0"
+      ],
+      "strategy": null,
+      "id": 67,
+      "petID": 2780,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "14_2374_3"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_2366_4"
+      ],
+      "judgeNewseByvalue": [
+        "14_2366_3"
+      ],
+      "judgePetByvalue": [
+        "14_2366_1"
+      ],
+      "petProgress": [
+        "16_2367_0_3",
+        "16_2368_0_3",
+        "16_2369_0_3",
+        "16_2370_0_3",
+        "16_2371_0_3",
+        "16_2372_0_3",
+        "16_2373_0_3"
+      ],
+      "seProgress": [
+        "14_2374_2"
+      ],
+      "strategy": null,
+      "id": 68,
+      "petID": 2817,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "14_6404_3"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_6404_6"
+      ],
+      "judgeNewseByvalue": [
+        "14_6404_5"
+      ],
+      "judgePetByvalue": [
+        "17_170"
+      ],
+      "petProgress": [
+        "11_6401_0_1",
+        "1_1705400_60"
+      ],
+      "seProgress": [
+        "14_6404_3"
+      ],
+      "strategy": null,
+      "id": 69,
+      "petID": 2833,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1706345_20"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "16_2448_0_3"
+      ],
+      "judgeNewseByvalue": [
+        "16_2448_0_4"
+      ],
+      "judgePetByvalue": [
+        "16_2448_0_2"
+      ],
+      "petProgress": [
+        "11_2448_0_1",
+        "11_2452_0_31"
+      ],
+      "seProgress": [
+        "1_1706345_25"
+      ],
+      "strategy": null,
+      "id": 70,
+      "petID": 2887,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "15_6118_1_4"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_6118_6"
+      ],
+      "judgeNewseByvalue": [
+        "14_6118_5"
+      ],
+      "judgePetByvalue": [
+        "14_6118_5"
+      ],
+      "petProgress": [
+        "15_6118_1_4"
+      ],
+      "seProgress": [
+        "15_6118_1_4"
+      ],
+      "strategy": null,
+      "id": 71,
+      "petID": 2527,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "0_0_0"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "17_25666"
+      ],
+      "petProgress": [
+        "17_27280"
+      ],
+      "seProgress": [
+        "0_0_0"
+      ],
+      "strategy": null,
+      "id": 72,
+      "petID": 1845,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "0_0_0"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "17_2323"
+      ],
+      "petProgress": [
+        "1_1700769_3",
+        "1_1700770_3",
+        "1_1700771_3",
+        "1_1700772_3"
+      ],
+      "seProgress": [
+        "0_0_0"
+      ],
+      "strategy": null,
+      "id": 73,
+      "petID": 2323,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "0_0_0"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_1701289_100"
+      ],
+      "seProgress": [
+        "0_0_0"
+      ],
+      "strategy": null,
+      "id": 74,
+      "petID": 2341,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "17_9665",
+        "17_9666",
+        "17_9667",
+        "17_9668"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "17_25671"
+      ],
+      "judgeNewseByvalue": [
+        "17_25671"
+      ],
+      "judgePetByvalue": [
+        "17_25671"
+      ],
+      "petProgress": [
+        "17_9665",
+        "17_9666",
+        "17_9667",
+        "17_9668"
+      ],
+      "seProgress": [
+        "17_9665",
+        "17_9666",
+        "17_9667",
+        "17_9668"
+      ],
+      "strategy": null,
+      "id": 75,
+      "petID": 2394,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400025_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400025_540"
+      ],
+      "seProgress": [
+        "1_2400025_270"
+      ],
+      "strategy": null,
+      "id": 76,
+      "petID": 4261,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400026_200"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400026_1000"
+      ],
+      "seProgress": [
+        "1_2400026_500"
+      ],
+      "strategy": null,
+      "id": 77,
+      "petID": 4264,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400027_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400027_540"
+      ],
+      "seProgress": [
+        "1_2400027_270"
+      ],
+      "strategy": null,
+      "id": 78,
+      "petID": 4270,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400034_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400034_400"
+      ],
+      "seProgress": [
+        "1_2400034_200"
+      ],
+      "strategy": null,
+      "id": 79,
+      "petID": 4276,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400035_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400035_540"
+      ],
+      "seProgress": [
+        "1_2400035_270"
+      ],
+      "strategy": null,
+      "id": 80,
+      "petID": 4278,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400036_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400036_400"
+      ],
+      "seProgress": [
+        "1_2400036_200"
+      ],
+      "strategy": null,
+      "id": 81,
+      "petID": 4285,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400038_200"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400038_1000"
+      ],
+      "seProgress": [
+        "1_2400038_500"
+      ],
+      "strategy": null,
+      "id": 82,
+      "petID": 4287,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400037_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400037_540"
+      ],
+      "seProgress": [
+        "1_2400037_270"
+      ],
+      "strategy": null,
+      "id": 83,
+      "petID": 4289,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400047_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400047_400"
+      ],
+      "seProgress": [
+        "1_2400047_200"
+      ],
+      "strategy": null,
+      "id": 84,
+      "petID": 4294,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400048_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400048_540"
+      ],
+      "seProgress": [
+        "1_2400048_270"
+      ],
+      "strategy": null,
+      "id": 85,
+      "petID": 4299,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400049_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400049_400"
+      ],
+      "seProgress": [
+        "1_2400049_200"
+      ],
+      "strategy": null,
+      "id": 86,
+      "petID": 4301,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400050_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400050_400"
+      ],
+      "seProgress": [
+        "1_2400050_200"
+      ],
+      "strategy": null,
+      "id": 87,
+      "petID": 4302,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400055_200"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400055_1000"
+      ],
+      "seProgress": [
+        "1_2400055_500"
+      ],
+      "strategy": null,
+      "id": 88,
+      "petID": 4305,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400056_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400056_400"
+      ],
+      "seProgress": [
+        "1_2400056_200"
+      ],
+      "strategy": null,
+      "id": 89,
+      "petID": 4310,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400057_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400057_400"
+      ],
+      "seProgress": [
+        "1_2400057_200"
+      ],
+      "strategy": null,
+      "id": 90,
+      "petID": 4311,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400058_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400058_400"
+      ],
+      "seProgress": [
+        "1_2400058_200"
+      ],
+      "strategy": null,
+      "id": 91,
+      "petID": 4312,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400064_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400064_400"
+      ],
+      "seProgress": [
+        "1_2400064_200"
+      ],
+      "strategy": null,
+      "id": 92,
+      "petID": 4323,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400065_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400065_400"
+      ],
+      "seProgress": [
+        "1_2400065_200"
+      ],
+      "strategy": null,
+      "id": 93,
+      "petID": 4324,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400074_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400074_400"
+      ],
+      "seProgress": [
+        "1_2400074_200"
+      ],
+      "strategy": null,
+      "id": 94,
+      "petID": 4325,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400082_200"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400082_1000"
+      ],
+      "seProgress": [
+        "1_2400082_500"
+      ],
+      "strategy": null,
+      "id": 95,
+      "petID": 4327,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400083_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400083_540"
+      ],
+      "seProgress": [
+        "1_2400083_270"
+      ],
+      "strategy": null,
+      "id": 96,
+      "petID": 4332,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400084_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400084_400"
+      ],
+      "seProgress": [
+        "1_2400084_200"
+      ],
+      "strategy": null,
+      "id": 97,
+      "petID": 4334,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400090_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400090_400"
+      ],
+      "seProgress": [
+        "1_2400090_200"
+      ],
+      "strategy": null,
+      "id": 98,
+      "petID": 4337,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400091_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400091_400"
+      ],
+      "seProgress": [
+        "1_2400091_200"
+      ],
+      "strategy": null,
+      "id": 99,
+      "petID": 4339,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400092_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400092_540"
+      ],
+      "seProgress": [
+        "1_2400092_270"
+      ],
+      "strategy": null,
+      "id": 100,
+      "petID": 4345,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400098_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400098_540"
+      ],
+      "seProgress": [
+        "1_2400098_270"
+      ],
+      "strategy": null,
+      "id": 101,
+      "petID": 4347,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400099_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400099_400"
+      ],
+      "seProgress": [
+        "1_2400099_200"
+      ],
+      "strategy": null,
+      "id": 102,
+      "petID": 4350,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400105_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400105_400"
+      ],
+      "seProgress": [
+        "1_2400105_200"
+      ],
+      "strategy": null,
+      "id": 103,
+      "petID": 4356,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400106_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400106_540"
+      ],
+      "seProgress": [
+        "1_2400106_270"
+      ],
+      "strategy": null,
+      "id": 104,
+      "petID": 4358,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400107_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400107_540"
+      ],
+      "seProgress": [
+        "1_2400107_270"
+      ],
+      "strategy": null,
+      "id": 105,
+      "petID": 4359,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400108_200"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400108_1000"
+      ],
+      "seProgress": [
+        "1_2400108_500"
+      ],
+      "strategy": null,
+      "id": 106,
+      "petID": 4364,
+      "recommend": 1,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400109_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400109_400"
+      ],
+      "seProgress": [
+        "1_2400109_200"
+      ],
+      "strategy": null,
+      "id": 107,
+      "petID": 4365,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400110_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400110_400"
+      ],
+      "seProgress": [
+        "1_2400110_200"
+      ],
+      "strategy": null,
+      "id": 108,
+      "petID": 4366,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400111_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400111_400"
+      ],
+      "seProgress": [
+        "1_2400111_200"
+      ],
+      "strategy": null,
+      "id": 109,
+      "petID": 4368,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400123_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400123_400"
+      ],
+      "seProgress": [
+        "1_2400123_200"
+      ],
+      "strategy": null,
+      "id": 110,
+      "petID": 4370,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400126_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400126_400"
+      ],
+      "seProgress": [
+        "1_2400126_200"
+      ],
+      "strategy": null,
+      "id": 111,
+      "petID": 4371,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400127_200"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400127_1000"
+      ],
+      "seProgress": [
+        "1_2400127_500"
+      ],
+      "strategy": null,
+      "id": 112,
+      "petID": 4376,
+      "recommend": 1,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400130_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400130_400"
+      ],
+      "seProgress": [
+        "1_2400130_500"
+      ],
+      "strategy": null,
+      "id": 113,
+      "petID": 4384,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400132_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400132_400"
+      ],
+      "seProgress": [
+        "1_2400132_200"
+      ],
+      "strategy": null,
+      "id": 114,
+      "petID": 4385,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400137_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400137_400"
+      ],
+      "seProgress": [
+        "1_2400137_200"
+      ],
+      "strategy": null,
+      "id": 115,
+      "petID": 4396,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400150_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400150_540"
+      ],
+      "seProgress": [
+        "1_2400150_270"
+      ],
+      "strategy": null,
+      "id": 116,
+      "petID": 4414,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400151_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400151_400"
+      ],
+      "seProgress": [
+        "1_2400151_200"
+      ],
+      "strategy": null,
+      "id": 117,
+      "petID": 4417,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400153_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400153_400"
+      ],
+      "seProgress": [
+        "1_2400153_200"
+      ],
+      "strategy": null,
+      "id": 118,
+      "petID": 4419,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400154_200"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400154_1000"
+      ],
+      "seProgress": [
+        "1_2400154_500"
+      ],
+      "strategy": null,
+      "id": 119,
+      "petID": 4422,
+      "recommend": 1,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400155_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400155_540"
+      ],
+      "seProgress": [
+        "1_2400155_270"
+      ],
+      "strategy": null,
+      "id": 120,
+      "petID": 4426,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400156_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400156_400"
+      ],
+      "seProgress": [
+        "1_2400156_200"
+      ],
+      "strategy": null,
+      "id": 121,
+      "petID": 4427,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400157_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400157_400"
+      ],
+      "seProgress": [
+        "1_2400157_200"
+      ],
+      "strategy": null,
+      "id": 122,
+      "petID": 4430,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400167_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400167_540"
+      ],
+      "seProgress": [
+        "1_2400167_270"
+      ],
+      "strategy": null,
+      "id": 123,
+      "petID": 4432,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400168_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400168_540"
+      ],
+      "seProgress": [
+        "1_2400168_270"
+      ],
+      "strategy": null,
+      "id": 124,
+      "petID": 4435,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400169_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400169_400"
+      ],
+      "seProgress": [
+        "1_2400169_200"
+      ],
+      "strategy": null,
+      "id": 125,
+      "petID": 4436,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400170_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400170_540"
+      ],
+      "seProgress": [
+        "1_2400170_270"
+      ],
+      "strategy": null,
+      "id": 126,
+      "petID": 4438,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400133_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400133_540"
+      ],
+      "seProgress": [
+        "1_2400133_270"
+      ],
+      "strategy": null,
+      "id": 127,
+      "petID": 4387,
+      "recommend": 1,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400134_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400134_400"
+      ],
+      "seProgress": [
+        "1_2400134_200"
+      ],
+      "strategy": null,
+      "id": 128,
+      "petID": 4390,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400135_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400135_540"
+      ],
+      "seProgress": [
+        "1_2400135_270"
+      ],
+      "strategy": null,
+      "id": 129,
+      "petID": 4392,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400136_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400136_540"
+      ],
+      "seProgress": [
+        "1_2400136_270"
+      ],
+      "strategy": null,
+      "id": 130,
+      "petID": 4394,
+      "recommend": 1,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400172_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400172_400"
+      ],
+      "seProgress": [
+        "1_2400172_200"
+      ],
+      "strategy": null,
+      "id": 131,
+      "petID": 4445,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400138_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400138_540"
+      ],
+      "seProgress": [
+        "1_2400138_270"
+      ],
+      "strategy": null,
+      "id": 132,
+      "petID": 4395,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400139_200"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400139_1000"
+      ],
+      "seProgress": [
+        "1_2400139_500"
+      ],
+      "strategy": null,
+      "id": 133,
+      "petID": 4401,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400140_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400140_400"
+      ],
+      "seProgress": [
+        "1_2400140_200"
+      ],
+      "strategy": null,
+      "id": 134,
+      "petID": 4403,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400173_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400173_400"
+      ],
+      "seProgress": [
+        "1_2400173_200"
+      ],
+      "strategy": null,
+      "id": 135,
+      "petID": 4448,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400141_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400141_400"
+      ],
+      "seProgress": [
+        "1_2400141_200"
+      ],
+      "strategy": null,
+      "id": 136,
+      "petID": 4405,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400147_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400147_400"
+      ],
+      "seProgress": [
+        "1_2400147_200"
+      ],
+      "strategy": null,
+      "id": 137,
+      "petID": 4407,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400149_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400149_400"
+      ],
+      "seProgress": [
+        "1_2400149_200"
+      ],
+      "strategy": null,
+      "id": 138,
+      "petID": 4411,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400148_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400148_400"
+      ],
+      "seProgress": [
+        "1_2400148_200"
+      ],
+      "strategy": null,
+      "id": 139,
+      "petID": 4408,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400174_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400174_400"
+      ],
+      "seProgress": [
+        "1_2400174_200"
+      ],
+      "strategy": null,
+      "id": 140,
+      "petID": 4449,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400175_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400175_540"
+      ],
+      "seProgress": [
+        "1_2400175_270"
+      ],
+      "strategy": null,
+      "id": 141,
+      "petID": 4454,
+      "recommend": 1,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400176_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400176_400"
+      ],
+      "seProgress": [
+        "1_2400176_200"
+      ],
+      "strategy": null,
+      "id": 142,
+      "petID": 4455,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400186_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400186_400"
+      ],
+      "seProgress": [
+        "1_2400186_200"
+      ],
+      "strategy": null,
+      "id": 143,
+      "petID": 4459,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400189_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400189_600"
+      ],
+      "seProgress": [
+        "1_2400189_210"
+      ],
+      "strategy": null,
+      "id": 144,
+      "petID": 4466,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400190_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400190_400"
+      ],
+      "seProgress": [
+        "1_2400190_200"
+      ],
+      "strategy": null,
+      "id": 145,
+      "petID": 4461,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400192_200"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400192_1000"
+      ],
+      "seProgress": [
+        "1_2400192_500"
+      ],
+      "strategy": null,
+      "id": 146,
+      "petID": 4467,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400194_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400194_400"
+      ],
+      "seProgress": [
+        "1_2400194_200"
+      ],
+      "strategy": null,
+      "id": 147,
+      "petID": 4469,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400195_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400195_540"
+      ],
+      "seProgress": [
+        "1_2400195_270"
+      ],
+      "strategy": null,
+      "id": 148,
+      "petID": 4472,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400196_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400196_540"
+      ],
+      "seProgress": [
+        "1_2400196_270"
+      ],
+      "strategy": null,
+      "id": 149,
+      "petID": 4476,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400197_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400197_540"
+      ],
+      "seProgress": [
+        "1_2400197_270"
+      ],
+      "strategy": null,
+      "id": 150,
+      "petID": 4477,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400198_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400198_400"
+      ],
+      "seProgress": [
+        "1_2400198_200"
+      ],
+      "strategy": null,
+      "id": 151,
+      "petID": 4479,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400209_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400209_400"
+      ],
+      "seProgress": [
+        "1_2400209_200"
+      ],
+      "strategy": null,
+      "id": 152,
+      "petID": 4481,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400210_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400210_400"
+      ],
+      "seProgress": [
+        "1_2400210_200"
+      ],
+      "strategy": null,
+      "id": 153,
+      "petID": 4483,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400211_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400211_400"
+      ],
+      "seProgress": [
+        "1_2400211_200"
+      ],
+      "strategy": null,
+      "id": 154,
+      "petID": 4484,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400214_200"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400214_1000"
+      ],
+      "seProgress": [
+        "1_2400214_500"
+      ],
+      "strategy": null,
+      "id": 155,
+      "petID": 4489,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400215_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400215_540"
+      ],
+      "seProgress": [
+        "1_2400215_270"
+      ],
+      "strategy": null,
+      "id": 156,
+      "petID": 4492,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400216_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400216_400"
+      ],
+      "seProgress": [
+        "1_2400216_200"
+      ],
+      "strategy": null,
+      "id": 157,
+      "petID": 4493,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400217_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400217_540"
+      ],
+      "seProgress": [
+        "1_2400217_270"
+      ],
+      "strategy": null,
+      "id": 158,
+      "petID": 4494,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400218_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400218_400"
+      ],
+      "seProgress": [
+        "1_2400218_200"
+      ],
+      "strategy": null,
+      "id": 159,
+      "petID": 4495,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400219_200"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400219_1000"
+      ],
+      "seProgress": [
+        "1_2400219_500"
+      ],
+      "strategy": null,
+      "id": 160,
+      "petID": 4499,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400220_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400220_400"
+      ],
+      "seProgress": [
+        "1_2400220_200"
+      ],
+      "strategy": null,
+      "id": 161,
+      "petID": 4501,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400231_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400231_400"
+      ],
+      "seProgress": [
+        "1_2400231_200"
+      ],
+      "strategy": null,
+      "id": 162,
+      "petID": 4502,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400232_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400232_400"
+      ],
+      "seProgress": [
+        "1_2400232_200"
+      ],
+      "strategy": null,
+      "id": 163,
+      "petID": 4503,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400233_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400233_400"
+      ],
+      "seProgress": [
+        "1_2400233_200"
+      ],
+      "strategy": null,
+      "id": 164,
+      "petID": 4505,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400234_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400234_400"
+      ],
+      "seProgress": [
+        "1_2400234_200"
+      ],
+      "strategy": null,
+      "id": 165,
+      "petID": 4507,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400235_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400235_540"
+      ],
+      "seProgress": [
+        "1_2400235_270"
+      ],
+      "strategy": null,
+      "id": 166,
+      "petID": 4510,
+      "recommend": 1,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400236_200"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400236_1000"
+      ],
+      "seProgress": [
+        "1_2400236_500"
+      ],
+      "strategy": null,
+      "id": 167,
+      "petID": 4511,
+      "recommend": 1,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400238_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400238_540"
+      ],
+      "seProgress": [
+        "1_2400238_270"
+      ],
+      "strategy": null,
+      "id": 168,
+      "petID": 4514,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400239_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400239_400"
+      ],
+      "seProgress": [
+        "1_2400239_200"
+      ],
+      "strategy": null,
+      "id": 169,
+      "petID": 4516,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400240_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400240_400"
+      ],
+      "seProgress": [
+        "1_2400240_200"
+      ],
+      "strategy": null,
+      "id": 170,
+      "petID": 4519,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400251_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400251_540"
+      ],
+      "seProgress": [
+        "1_2400251_270"
+      ],
+      "strategy": null,
+      "id": 171,
+      "petID": 4521,
+      "recommend": 1,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400253_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400253_400"
+      ],
+      "seProgress": [
+        "1_2400253_200"
+      ],
+      "strategy": null,
+      "id": 172,
+      "petID": 4523,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400257_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400257_400"
+      ],
+      "seProgress": [
+        "1_2400257_200"
+      ],
+      "strategy": null,
+      "id": 173,
+      "petID": 4528,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400259_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400259_540"
+      ],
+      "seProgress": [
+        "1_2400259_270"
+      ],
+      "strategy": null,
+      "id": 174,
+      "petID": 4531,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400260_200"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400260_1000"
+      ],
+      "seProgress": [
+        "1_2400260_500"
+      ],
+      "strategy": null,
+      "id": 175,
+      "petID": 4532,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400261_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400261_400"
+      ],
+      "seProgress": [
+        "1_2400261_200"
+      ],
+      "strategy": null,
+      "id": 176,
+      "petID": 4534,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400263_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400263_400"
+      ],
+      "seProgress": [
+        "1_2400263_200"
+      ],
+      "strategy": null,
+      "id": 177,
+      "petID": 4537,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400273_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400273_400"
+      ],
+      "seProgress": [
+        "1_2400273_200"
+      ],
+      "strategy": null,
+      "id": 178,
+      "petID": 4539,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400275_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400275_540"
+      ],
+      "seProgress": [
+        "1_2400275_270"
+      ],
+      "strategy": null,
+      "id": 179,
+      "petID": 4542,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400276_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400276_400"
+      ],
+      "seProgress": [
+        "1_2400276_200"
+      ],
+      "strategy": null,
+      "id": 180,
+      "petID": 4546,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400277_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400277_400"
+      ],
+      "seProgress": [
+        "1_2400277_200"
+      ],
+      "strategy": null,
+      "id": 181,
+      "petID": 4547,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400278_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400278_400"
+      ],
+      "seProgress": [
+        "1_2400278_200"
+      ],
+      "strategy": null,
+      "id": 182,
+      "petID": 4549,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400279_200"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400279_1000"
+      ],
+      "seProgress": [
+        "1_2400279_500"
+      ],
+      "strategy": null,
+      "id": 183,
+      "petID": 4553,
+      "recommend": 1,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400280_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400280_400"
+      ],
+      "seProgress": [
+        "1_2400280_200"
+      ],
+      "strategy": null,
+      "id": 184,
+      "petID": 4556,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400291_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400291_400"
+      ],
+      "seProgress": [
+        "1_2400291_200"
+      ],
+      "strategy": null,
+      "id": 185,
+      "petID": 4557,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400292_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400292_400"
+      ],
+      "seProgress": [
+        "1_2400292_200"
+      ],
+      "strategy": null,
+      "id": 186,
+      "petID": 4559,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400293_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400293_400"
+      ],
+      "seProgress": [
+        "1_2400293_200"
+      ],
+      "strategy": null,
+      "id": 187,
+      "petID": 4562,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400301_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400301_400"
+      ],
+      "seProgress": [
+        "1_2400301_200"
+      ],
+      "strategy": null,
+      "id": 188,
+      "petID": 4564,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400302_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400302_400"
+      ],
+      "seProgress": [
+        "1_2400302_200"
+      ],
+      "strategy": null,
+      "id": 189,
+      "petID": 4567,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400303_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400303_540"
+      ],
+      "seProgress": [
+        "1_2400303_270"
+      ],
+      "strategy": null,
+      "id": 190,
+      "petID": 4568,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400304_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400304_540"
+      ],
+      "seProgress": [
+        "1_2400304_270"
+      ],
+      "strategy": null,
+      "id": 191,
+      "petID": 4569,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400305_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400305_400"
+      ],
+      "seProgress": [
+        "1_2400305_200"
+      ],
+      "strategy": null,
+      "id": 192,
+      "petID": 4572,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400307_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400307_400"
+      ],
+      "seProgress": [
+        "1_2400307_200"
+      ],
+      "strategy": null,
+      "id": 193,
+      "petID": 4573,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400309_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400309_400"
+      ],
+      "seProgress": [
+        "1_2400309_200"
+      ],
+      "strategy": null,
+      "id": 194,
+      "petID": 4577,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400310_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400310_400"
+      ],
+      "seProgress": [
+        "1_2400310_200"
+      ],
+      "strategy": null,
+      "id": 195,
+      "petID": 4578,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400311_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400311_540"
+      ],
+      "seProgress": [
+        "1_2400311_270"
+      ],
+      "strategy": null,
+      "id": 196,
+      "petID": 4582,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400314_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400314_400"
+      ],
+      "seProgress": [
+        "1_2400314_200"
+      ],
+      "strategy": null,
+      "id": 197,
+      "petID": 4583,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400326_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400326_400"
+      ],
+      "seProgress": [
+        "1_2400326_200"
+      ],
+      "strategy": null,
+      "id": 198,
+      "petID": 4587,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400328_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400328_540"
+      ],
+      "seProgress": [
+        "1_2400328_270"
+      ],
+      "strategy": null,
+      "id": 199,
+      "petID": 4589,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400330_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400330_400"
+      ],
+      "seProgress": [
+        "1_2400330_200"
+      ],
+      "strategy": null,
+      "id": 200,
+      "petID": 4592,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400335_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400335_400"
+      ],
+      "seProgress": [
+        "1_2400335_200"
+      ],
+      "strategy": null,
+      "id": 201,
+      "petID": 4594,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400337_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400337_400"
+      ],
+      "seProgress": [
+        "1_2400337_200"
+      ],
+      "strategy": null,
+      "id": 202,
+      "petID": 4597,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400339_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400339_400"
+      ],
+      "seProgress": [
+        "1_2400339_200"
+      ],
+      "strategy": null,
+      "id": 203,
+      "petID": 4603,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400340_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400340_540"
+      ],
+      "seProgress": [
+        "1_2400340_270"
+      ],
+      "strategy": null,
+      "id": 204,
+      "petID": 4605,
+      "recommend": 1,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400341_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400341_400"
+      ],
+      "seProgress": [
+        "1_2400341_200"
+      ],
+      "strategy": null,
+      "id": 205,
+      "petID": 4608,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400351_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400351_540"
+      ],
+      "seProgress": [
+        "1_2400351_270"
+      ],
+      "strategy": null,
+      "id": 206,
+      "petID": 4611,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400352_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400352_540"
+      ],
+      "seProgress": [
+        "1_2400352_270"
+      ],
+      "strategy": null,
+      "id": 207,
+      "petID": 4612,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400353_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400353_400"
+      ],
+      "seProgress": [
+        "1_2400353_200"
+      ],
+      "strategy": null,
+      "id": 208,
+      "petID": 4613,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400355_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400355_400"
+      ],
+      "seProgress": [
+        "1_2400355_200"
+      ],
+      "strategy": null,
+      "id": 209,
+      "petID": 4617,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400356_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400356_540"
+      ],
+      "seProgress": [
+        "1_2400356_270"
+      ],
+      "strategy": null,
+      "id": 210,
+      "petID": 4618,
+      "recommend": 1,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400357_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400357_400"
+      ],
+      "seProgress": [
+        "1_2400357_200"
+      ],
+      "strategy": null,
+      "id": 211,
+      "petID": 4621,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400361_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400361_540"
+      ],
+      "seProgress": [
+        "1_2400361_270"
+      ],
+      "strategy": null,
+      "id": 212,
+      "petID": 4623,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400362_200"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400362_1000"
+      ],
+      "seProgress": [
+        "1_2400362_500"
+      ],
+      "strategy": null,
+      "id": 213,
+      "petID": 4625,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400372_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400372_540"
+      ],
+      "seProgress": [
+        "1_2400372_270"
+      ],
+      "strategy": null,
+      "id": 214,
+      "petID": 4628,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400373_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400373_540"
+      ],
+      "seProgress": [
+        "1_2400373_270"
+      ],
+      "strategy": null,
+      "id": 215,
+      "petID": 4629,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400374_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400374_400"
+      ],
+      "seProgress": [
+        "1_2400374_200"
+      ],
+      "strategy": null,
+      "id": 216,
+      "petID": 4631,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400375_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400375_400"
+      ],
+      "seProgress": [
+        "1_2400375_200"
+      ],
+      "strategy": null,
+      "id": 217,
+      "petID": 4632,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400376_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400376_540"
+      ],
+      "seProgress": [
+        "1_2400376_270"
+      ],
+      "strategy": null,
+      "id": 218,
+      "petID": 4633,
+      "recommend": 1,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400378_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400378_540"
+      ],
+      "seProgress": [
+        "1_2400378_270"
+      ],
+      "strategy": null,
+      "id": 219,
+      "petID": 4642,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400379_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400379_540"
+      ],
+      "seProgress": [
+        "1_2400379_270"
+      ],
+      "strategy": null,
+      "id": 220,
+      "petID": 4646,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400380_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400380_400"
+      ],
+      "seProgress": [
+        "1_2400380_200"
+      ],
+      "strategy": null,
+      "id": 221,
+      "petID": 4650,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400391_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400391_400"
+      ],
+      "seProgress": [
+        "1_2400391_200"
+      ],
+      "strategy": null,
+      "id": 222,
+      "petID": 4651,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400395_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400395_540"
+      ],
+      "seProgress": [
+        "1_2400395_270"
+      ],
+      "strategy": null,
+      "id": 223,
+      "petID": 4653,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400396_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400396_400"
+      ],
+      "seProgress": [
+        "1_2400396_200"
+      ],
+      "strategy": null,
+      "id": 224,
+      "petID": 4655,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400398_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400398_400"
+      ],
+      "seProgress": [
+        "1_2400398_200"
+      ],
+      "strategy": null,
+      "id": 225,
+      "petID": 4657,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400399_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400399_540"
+      ],
+      "seProgress": [
+        "1_2400399_270"
+      ],
+      "strategy": null,
+      "id": 226,
+      "petID": 4658,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400400_200"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400400_1000"
+      ],
+      "seProgress": [
+        "1_2400400_500"
+      ],
+      "strategy": null,
+      "id": 227,
+      "petID": 4661,
+      "recommend": 1,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400401_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400401_540"
+      ],
+      "seProgress": [
+        "1_2400401_270"
+      ],
+      "strategy": null,
+      "id": 228,
+      "petID": 4662,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400402_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400402_400"
+      ],
+      "seProgress": [
+        "1_2400402_200"
+      ],
+      "strategy": null,
+      "id": 229,
+      "petID": 4665,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400404_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400404_400"
+      ],
+      "seProgress": [
+        "1_2400404_200"
+      ],
+      "strategy": null,
+      "id": 230,
+      "petID": 4667,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400405_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400405_400"
+      ],
+      "seProgress": [
+        "1_2400405_200"
+      ],
+      "strategy": null,
+      "id": 231,
+      "petID": 4669,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400411_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400411_540"
+      ],
+      "seProgress": [
+        "1_2400411_270"
+      ],
+      "strategy": null,
+      "id": 232,
+      "petID": 4671,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400413_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400413_540"
+      ],
+      "seProgress": [
+        "1_2400413_270"
+      ],
+      "strategy": null,
+      "id": 233,
+      "petID": 4674,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400414_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400414_400"
+      ],
+      "seProgress": [
+        "1_2400414_200"
+      ],
+      "strategy": null,
+      "id": 234,
+      "petID": 4682,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400415_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400415_540"
+      ],
+      "seProgress": [
+        "1_2400415_270"
+      ],
+      "strategy": null,
+      "id": 235,
+      "petID": 4683,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400416_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400416_540"
+      ],
+      "seProgress": [
+        "1_2400416_270"
+      ],
+      "strategy": null,
+      "id": 236,
+      "petID": 4684,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400420_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400420_540"
+      ],
+      "seProgress": [
+        "1_2400420_270"
+      ],
+      "strategy": null,
+      "id": 237,
+      "petID": 4686,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400422_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400422_400"
+      ],
+      "seProgress": [
+        "1_2400422_200"
+      ],
+      "strategy": null,
+      "id": 238,
+      "petID": 4688,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400423_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400423_400"
+      ],
+      "seProgress": [
+        "1_2400423_200"
+      ],
+      "strategy": null,
+      "id": 239,
+      "petID": 4690,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400425_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400425_540"
+      ],
+      "seProgress": [
+        "1_2400425_270"
+      ],
+      "strategy": null,
+      "id": 240,
+      "petID": 4693,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400426_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400426_400"
+      ],
+      "seProgress": [
+        "1_2400426_200"
+      ],
+      "strategy": null,
+      "id": 241,
+      "petID": 4695,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "-1"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_1721746_900"
+      ],
+      "seProgress": [
+        "-1"
+      ],
+      "strategy": null,
+      "id": 242,
+      "petID": 2959,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "-1"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_1721747_900"
+      ],
+      "seProgress": [
+        "-1"
+      ],
+      "strategy": null,
+      "id": 243,
+      "petID": 2988,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "-1"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_1721749_900"
+      ],
+      "seProgress": [
+        "-1"
+      ],
+      "strategy": null,
+      "id": 244,
+      "petID": 3082,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "-1"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_1721750_900"
+      ],
+      "seProgress": [
+        "-1"
+      ],
+      "strategy": null,
+      "id": 245,
+      "petID": 3105,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "-1"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_1721751_900"
+      ],
+      "seProgress": [
+        "-1"
+      ],
+      "strategy": null,
+      "id": 246,
+      "petID": 3150,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "-1"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_1721752_900"
+      ],
+      "seProgress": [
+        "-1"
+      ],
+      "strategy": null,
+      "id": 247,
+      "petID": 3174,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "-1"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_1721753_900"
+      ],
+      "seProgress": [
+        "-1"
+      ],
+      "strategy": null,
+      "id": 248,
+      "petID": 3200,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "-1"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_1721754_900"
+      ],
+      "seProgress": [
+        "-1"
+      ],
+      "strategy": null,
+      "id": 249,
+      "petID": 3211,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "-1"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_1721755_900"
+      ],
+      "seProgress": [
+        "-1"
+      ],
+      "strategy": null,
+      "id": 250,
+      "petID": 3223,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "-1"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_1721758_900"
+      ],
+      "seProgress": [
+        "-1"
+      ],
+      "strategy": null,
+      "id": 251,
+      "petID": 3340,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "-1"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_1721759_900"
+      ],
+      "seProgress": [
+        "-1"
+      ],
+      "strategy": null,
+      "id": 252,
+      "petID": 3355,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "-1"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_1721760_900"
+      ],
+      "seProgress": [
+        "-1"
+      ],
+      "strategy": null,
+      "id": 253,
+      "petID": 3372,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "-1"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_1721743_900"
+      ],
+      "seProgress": [
+        "-1"
+      ],
+      "strategy": null,
+      "id": 254,
+      "petID": 2739,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "-1"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_1721744_900"
+      ],
+      "seProgress": [
+        "-1"
+      ],
+      "strategy": null,
+      "id": 255,
+      "petID": 2787,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "-1"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_1721745_900"
+      ],
+      "seProgress": [
+        "-1"
+      ],
+      "strategy": null,
+      "id": 256,
+      "petID": 2844,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400437_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400437_400"
+      ],
+      "seProgress": [
+        "1_2400437_200"
+      ],
+      "strategy": null,
+      "id": 257,
+      "petID": 4696,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400438_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400438_400"
+      ],
+      "seProgress": [
+        "1_2400438_200"
+      ],
+      "strategy": null,
+      "id": 258,
+      "petID": 4700,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400439_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400439_400"
+      ],
+      "seProgress": [
+        "1_2400439_200"
+      ],
+      "strategy": null,
+      "id": 259,
+      "petID": 4702,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400440_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400440_540"
+      ],
+      "seProgress": [
+        "1_2400440_270"
+      ],
+      "strategy": null,
+      "id": 260,
+      "petID": 4704,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400442_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400442_400"
+      ],
+      "seProgress": [
+        "1_2400442_200"
+      ],
+      "strategy": null,
+      "id": 261,
+      "petID": 4707,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400443_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400443_540"
+      ],
+      "seProgress": [
+        "1_2400443_270"
+      ],
+      "strategy": null,
+      "id": 262,
+      "petID": 4709,
+      "recommend": 1,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400444_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400444_400"
+      ],
+      "seProgress": [
+        "1_2400444_200"
+      ],
+      "strategy": null,
+      "id": 263,
+      "petID": 4711,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400445_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400445_400"
+      ],
+      "seProgress": [
+        "1_2400445_200"
+      ],
+      "strategy": null,
+      "id": 264,
+      "petID": 4713,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400455_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400455_540"
+      ],
+      "seProgress": [
+        "1_2400455_270"
+      ],
+      "strategy": null,
+      "id": 265,
+      "petID": 4725,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400456_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400456_400"
+      ],
+      "seProgress": [
+        "1_2400456_200"
+      ],
+      "strategy": null,
+      "id": 266,
+      "petID": 4726,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400458_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400458_400"
+      ],
+      "seProgress": [
+        "1_2400458_200"
+      ],
+      "strategy": null,
+      "id": 267,
+      "petID": 4728,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "0_0_0"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "17_9352"
+      ],
+      "judgeNewseByvalue": [
+        "17_9352"
+      ],
+      "judgePetByvalue": [
+        "17_9352"
+      ],
+      "petProgress": [
+        "0_0_0"
+      ],
+      "seProgress": [
+        "0_0_0"
+      ],
+      "strategy": null,
+      "id": 268,
+      "petID": 4721,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400459_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400459_400"
+      ],
+      "seProgress": [
+        "1_2400459_200"
+      ],
+      "strategy": null,
+      "id": 269,
+      "petID": 4734,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400460_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400460_400"
+      ],
+      "seProgress": [
+        "1_2400460_200"
+      ],
+      "strategy": null,
+      "id": 270,
+      "petID": 4736,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1726808_30"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "17_9349"
+      ],
+      "petProgress": [
+        "11_125195_0_12"
+      ],
+      "seProgress": [
+        "1_1726808_30"
+      ],
+      "strategy": null,
+      "id": 271,
+      "petID": 4716,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400462_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400462_400"
+      ],
+      "seProgress": [
+        "1_2400462_200"
+      ],
+      "strategy": null,
+      "id": 272,
+      "petID": 4738,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400463_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400463_400"
+      ],
+      "seProgress": [
+        "1_2400463_200"
+      ],
+      "strategy": null,
+      "id": 273,
+      "petID": 4739,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400464_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400464_400"
+      ],
+      "seProgress": [
+        "1_2400464_200"
+      ],
+      "strategy": null,
+      "id": 274,
+      "petID": 4740,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400465_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400465_540"
+      ],
+      "seProgress": [
+        "1_2400465_270"
+      ],
+      "strategy": null,
+      "id": 275,
+      "petID": 4743,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400466_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400466_400"
+      ],
+      "seProgress": [
+        "1_2400466_200"
+      ],
+      "strategy": null,
+      "id": 276,
+      "petID": 4744,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400467_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400467_400"
+      ],
+      "seProgress": [
+        "1_2400467_200"
+      ],
+      "strategy": null,
+      "id": 277,
+      "petID": 4746,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400480_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400480_400"
+      ],
+      "seProgress": [
+        "1_2400480_200"
+      ],
+      "strategy": null,
+      "id": 278,
+      "petID": 4748,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400481_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400481_400"
+      ],
+      "seProgress": [
+        "1_2400481_200"
+      ],
+      "strategy": null,
+      "id": 279,
+      "petID": 4752,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1727034_30"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_125231_3"
+      ],
+      "judgeNewseByvalue": [
+        "14_125231_2"
+      ],
+      "judgePetByvalue": [
+        "17_9367"
+      ],
+      "petProgress": [
+        "11_125230_0_100"
+      ],
+      "seProgress": [
+        "1_1727034_30"
+      ],
+      "strategy": null,
+      "id": 280,
+      "petID": 4749,
+      "recommend": 1,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "0_0_0"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_3842_1"
+      ],
+      "judgeNewseByvalue": [
+        "14_3842_2"
+      ],
+      "judgePetByvalue": [
+        "11_3835_0_4"
+      ],
+      "petProgress": [
+        "11_3835_0_4"
+      ],
+      "seProgress": [
+        "0_0_0"
+      ],
+      "strategy": null,
+      "id": 281,
+      "petID": 3056,
+      "recommend": 1,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400482_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400482_540"
+      ],
+      "seProgress": [
+        "1_2400482_270"
+      ],
+      "strategy": null,
+      "id": 282,
+      "petID": 4753,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400489_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400489_400"
+      ],
+      "seProgress": [
+        "1_2400489_200"
+      ],
+      "strategy": null,
+      "id": 283,
+      "petID": 4755,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400490_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400490_400"
+      ],
+      "seProgress": [
+        "1_2400490_200"
+      ],
+      "strategy": null,
+      "id": 284,
+      "petID": 4756,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "11_125237_0_30000"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "17_9369"
+      ],
+      "judgeNewseByvalue": [
+        "17_9369"
+      ],
+      "judgePetByvalue": [
+        "17_9369"
+      ],
+      "petProgress": [
+        "11_125237_0_30000"
+      ],
+      "seProgress": [
+        "11_125237_0_30000"
+      ],
+      "strategy": null,
+      "id": 285,
+      "petID": 4757,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "11_125237_0_30000"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "17_9370"
+      ],
+      "judgeNewseByvalue": [
+        "17_9370"
+      ],
+      "judgePetByvalue": [
+        "17_9370"
+      ],
+      "petProgress": [
+        "11_125237_0_30000"
+      ],
+      "seProgress": [
+        "11_125237_0_30000"
+      ],
+      "strategy": null,
+      "id": 286,
+      "petID": 4758,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400492_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400492_400"
+      ],
+      "seProgress": [
+        "1_2400492_200"
+      ],
+      "strategy": null,
+      "id": 287,
+      "petID": 4763,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "11_125247_0_5"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_125259_2"
+      ],
+      "judgeNewseByvalue": [
+        "14_125259_3"
+      ],
+      "judgePetByvalue": [
+        "14_125259_1"
+      ],
+      "petProgress": [
+        "11_125247_0_5"
+      ],
+      "seProgress": [
+        "11_125247_0_5"
+      ],
+      "strategy": null,
+      "id": 288,
+      "petID": 4765,
+      "recommend": 1,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "12_108542_4_6"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_108542_2"
+      ],
+      "judgeNewseByvalue": [
+        "14_108542_3"
+      ],
+      "judgePetByvalue": [
+        "14_108542_1"
+      ],
+      "petProgress": [
+        "13_108542_3_3",
+        "13_108542_4_3",
+        "13_108542_5_3"
+      ],
+      "seProgress": [
+        "12_108542_4_12"
+      ],
+      "strategy": null,
+      "id": 289,
+      "petID": 4766,
+      "recommend": 1,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400494_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400494_400"
+      ],
+      "seProgress": [
+        "1_2400494_200"
+      ],
+      "strategy": null,
+      "id": 290,
+      "petID": 4780,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400495_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400495_400"
+      ],
+      "seProgress": [
+        "1_2400495_200"
+      ],
+      "strategy": null,
+      "id": 291,
+      "petID": 4782,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400496_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400496_400"
+      ],
+      "seProgress": [
+        "1_2400496_200"
+      ],
+      "strategy": null,
+      "id": 292,
+      "petID": 4783,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1720115_30"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_104828_3"
+      ],
+      "judgeNewseByvalue": [
+        "14_104828_4"
+      ],
+      "judgePetByvalue": [
+        "14_104828_1"
+      ],
+      "petProgress": [
+        "13_104828_2_3"
+      ],
+      "seProgress": [
+        "1_1720115_50"
+      ],
+      "strategy": null,
+      "id": 293,
+      "petID": 3886,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400497_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400497_400"
+      ],
+      "seProgress": [
+        "1_2400497_200"
+      ],
+      "strategy": null,
+      "id": 294,
+      "petID": 4784,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "12_108552_1_100",
+        "12_108552_2_100",
+        "12_108552_3_100",
+        "12_108552_4_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "17_12328"
+      ],
+      "judgeNewseByvalue": [
+        "17_12328"
+      ],
+      "judgePetByvalue": [
+        "17_12328"
+      ],
+      "petProgress": [
+        "12_108552_1_100",
+        "12_108552_2_100",
+        "12_108552_3_100",
+        "12_108552_4_100"
+      ],
+      "seProgress": [
+        "12_108552_1_100",
+        "12_108552_2_100",
+        "12_108552_3_100",
+        "12_108552_4_100"
+      ],
+      "strategy": null,
+      "id": 295,
+      "petID": 4787,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1715211_15"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_102918_4"
+      ],
+      "judgeNewseByvalue": [
+        "14_102918_3"
+      ],
+      "judgePetByvalue": [
+        "14_102918_1"
+      ],
+      "petProgress": [
+        "11_102917_0_4"
+      ],
+      "seProgress": [
+        "1_1715211_15"
+      ],
+      "strategy": null,
+      "id": 296,
+      "petID": 3516,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400502_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400502_400"
+      ],
+      "seProgress": [
+        "1_2400502_200"
+      ],
+      "strategy": null,
+      "id": 297,
+      "petID": 4793,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1716392_40"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_101473_3"
+      ],
+      "judgeNewseByvalue": [
+        "14_101473_4"
+      ],
+      "judgePetByvalue": [
+        "14_101473_1"
+      ],
+      "petProgress": [
+        "11_101474_0_3"
+      ],
+      "seProgress": [
+        "1_1716392_60"
+      ],
+      "strategy": null,
+      "id": 298,
+      "petID": 3613,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400503_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400503_540"
+      ],
+      "seProgress": [
+        "1_2400503_270"
+      ],
+      "strategy": null,
+      "id": 299,
+      "petID": 4798,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1727354_50"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_108562_6"
+      ],
+      "judgeNewseByvalue": [
+        "14_108562_7"
+      ],
+      "judgePetByvalue": [
+        "14_108562_5"
+      ],
+      "petProgress": [
+        "13_108562_1_4"
+      ],
+      "seProgress": [
+        "1_1727354_50"
+      ],
+      "strategy": null,
+      "id": 300,
+      "petID": 4797,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "16_124433_0_50"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_107804_3"
+      ],
+      "judgeNewseByvalue": [
+        "14_107804_4"
+      ],
+      "judgePetByvalue": [
+        "14_107804_1"
+      ],
+      "petProgress": [
+        "16_107805_0_4"
+      ],
+      "seProgress": [
+        "16_124433_0_75"
+      ],
+      "strategy": null,
+      "id": 301,
+      "petID": 4219,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1726265_30"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "17_9337"
+      ],
+      "judgeNewseByvalue": [
+        "17_9338"
+      ],
+      "judgePetByvalue": [
+        "17_9336"
+      ],
+      "petProgress": [
+        "11_125140_0_4"
+      ],
+      "seProgress": [
+        "1_1726265_30"
+      ],
+      "strategy": null,
+      "id": 302,
+      "petID": 4676,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1718150_15"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_104560_3"
+      ],
+      "judgeNewseByvalue": [
+        "14_104560_4"
+      ],
+      "judgePetByvalue": [
+        "14_104560_1"
+      ],
+      "petProgress": [
+        "11_104561_0_4"
+      ],
+      "seProgress": [
+        "1_1718150_25"
+      ],
+      "strategy": null,
+      "id": 303,
+      "petID": 3740,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1715261_15"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_102925_4"
+      ],
+      "judgeNewseByvalue": [
+        "14_102925_3"
+      ],
+      "judgePetByvalue": [
+        "14_102925_7"
+      ],
+      "petProgress": [
+        "14_102924_1",
+        "14_102924_2",
+        "14_102924_3"
+      ],
+      "seProgress": [
+        "1_1715261_15"
+      ],
+      "strategy": null,
+      "id": 304,
+      "petID": 3524,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1714722_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_6953_4"
+      ],
+      "judgeNewseByvalue": [
+        "14_6953_3"
+      ],
+      "judgePetByvalue": [
+        "14_6953_1"
+      ],
+      "petProgress": [
+        "11_6954_0_4"
+      ],
+      "seProgress": [
+        "1_1714722_150"
+      ],
+      "strategy": null,
+      "id": 305,
+      "petID": 3482,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400513_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400513_400"
+      ],
+      "seProgress": [
+        "1_2400513_200"
+      ],
+      "strategy": null,
+      "id": 306,
+      "petID": 4807,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1717548_15"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_101659_4"
+      ],
+      "judgeNewseByvalue": [
+        "14_101659_5"
+      ],
+      "judgePetByvalue": [
+        "14_101659_2"
+      ],
+      "petProgress": [
+        "14_101659_1"
+      ],
+      "seProgress": [
+        "1_1717548_25"
+      ],
+      "strategy": null,
+      "id": 307,
+      "petID": 3697,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400515_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400515_400"
+      ],
+      "seProgress": [
+        "1_2400515_200"
+      ],
+      "strategy": null,
+      "id": 308,
+      "petID": 4810,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "14_103036_1",
+        "14_103036_2",
+        "14_103036_3"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_103033_3"
+      ],
+      "judgeNewseByvalue": [
+        "14_103033_3"
+      ],
+      "judgePetByvalue": [
+        "14_103033_2"
+      ],
+      "petProgress": [
+        "16_103035_0_5000",
+        "14_103033_1"
+      ],
+      "seProgress": [
+        "14_103036_1",
+        "14_103036_2",
+        "14_103036_3"
+      ],
+      "strategy": null,
+      "id": 309,
+      "petID": 3663,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1717243_15"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_103041_4"
+      ],
+      "judgeNewseByvalue": [
+        "14_103041_5"
+      ],
+      "judgePetByvalue": [
+        "14_103041_3"
+      ],
+      "petProgress": [
+        "14_103041_1",
+        "14_103041_2"
+      ],
+      "seProgress": [
+        "1_1717243_15"
+      ],
+      "strategy": null,
+      "id": 310,
+      "petID": 3670,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400516_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400516_400"
+      ],
+      "seProgress": [
+        "1_2400516_200"
+      ],
+      "strategy": null,
+      "id": 311,
+      "petID": 4811,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400517_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400517_540"
+      ],
+      "seProgress": [
+        "1_2400517_270"
+      ],
+      "strategy": null,
+      "id": 312,
+      "petID": 4814,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1715053_40"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_8682_6"
+      ],
+      "judgeNewseByvalue": [
+        "14_8682_7"
+      ],
+      "judgePetByvalue": [
+        "14_8682_1"
+      ],
+      "petProgress": [
+        "14_8682_4"
+      ],
+      "seProgress": [
+        "1_1715053_60"
+      ],
+      "strategy": null,
+      "id": 313,
+      "petID": 3507,
+      "recommend": 0,
+      "stage": 0
+    }
+  ]
+}

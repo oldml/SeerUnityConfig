@@ -1,0 +1,49 @@
+{
+  "Monsters": {
+    "Monster": [
+      {
+        "DefName": "",
+        "ExtraMoves": {
+          "AdvMove": null,
+          "Move": null,
+          "SpMove": null
+        },
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": null,
+          "SpMove": null
+        },
+        "Move": {
+          "ID": 16777216,
+          "LearningLv": 33554432,
+          "Rec": 0,
+          "Tag": 0
+        },
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": -1192951796,
+        "CharacterAttrParam": -2085034621,
+        "Combo": -443701273,
+        "Def": 102573,
+        "EvolvesTo": 69,
+        "EvolvFlag": 55,
+        "EvolvingLv": 65,
+        "FreeForbidden": 55,
+        "Gender": 31,
+        "HP": 2,
+        "ID": 18,
+        "isFlyPet": 1,
+        "isRidePet": 75,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 0,
+        "Spd": 0,
+        "SpDef": 0,
+        "Support": 512,
+        "Transform": -452982528,
+        "Type": -1192918088,
+        "Vip": -1987188605
+      }
+    ]
+  }
+}

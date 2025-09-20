@@ -1,0 +1,3715 @@
+{
+  "data": [
+    {
+      "moduleName": "exchangeAwardPromptView",
+      "resConfig": [
+        "exchange_clt",
+        "boxordinary",
+        "BuyPopup",
+        "profilephoto"
+      ],
+      "currAppDo": 2,
+      "id": 1,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "peakWarAwardExchange",
+      "resConfig": [
+        "exchange_clt"
+      ],
+      "currAppDo": 1,
+      "id": 2,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "pveExpTraining",
+      "resConfig": [
+        "PveBossExperienceTraining",
+        "boxordinary",
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 3,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "warehouse",
+      "resConfig": [
+        "brave_lv",
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 4,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "markCenter",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 5,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "mail",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 6,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "handbook",
+      "resConfig": [
+        "archivesStory"
+      ],
+      "currAppDo": 1,
+      "id": 7,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "peakJihadFirstPage",
+      "resConfig": [
+        "help_tips",
+        "pvp_ban",
+        "pvp_reward",
+        "pvp_shop",
+        "pass_reward",
+        "pvp_task",
+        "pvp_StageConfig",
+        "pass_shop",
+        "pvp_achieve",
+        "pvp_vote"
+      ],
+      "currAppDo": 1,
+      "id": 8,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "petBag",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 10,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "personalInformation",
+      "resConfig": [
+        "profilephoto"
+      ],
+      "currAppDo": 2,
+      "id": 12,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "peakJihadNewTask",
+      "resConfig": [
+        "help_tips",
+        "pvp_task"
+      ],
+      "currAppDo": 1,
+      "id": 13,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "towerOfCouragePanel",
+      "resConfig": [
+        "PveBossBraveTower",
+        "boxordinary",
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 14,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "itemWarehouse",
+      "resConfig": [
+        "boxordinary",
+        "treasure_chest_gift"
+      ],
+      "currAppDo": 1,
+      "id": 15,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "pveTitanHole",
+      "resConfig": [
+        "titanMineReward"
+      ],
+      "currAppDo": 1,
+      "id": 16,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "studytraining",
+      "resConfig": [
+        "PveBossLearningTraining",
+        "boxordinary",
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 17,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "pveEnterPanel",
+      "resConfig": [
+        "pveEnter",
+        "SPTtask",
+        "SPTstar",
+        "SPTreward",
+        "btl_condition",
+        "Dungeon_enter",
+        "exchange_clt",
+        "medaltask"
+      ],
+      "currAppDo": 1,
+      "id": 18,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "pveElvenKingTrial",
+      "resConfig": [
+        "boxordinary"
+      ],
+      "currAppDo": 1,
+      "id": 19,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "pveXTeamRoom",
+      "resConfig": [
+        "X_Team",
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 20,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "mainPanel",
+      "resConfig": [
+        "shop"
+      ],
+      "currAppDo": 1,
+      "id": 21,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "login",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 22,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "pveNinjutsuClub",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 23,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "friend",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 24,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "pveStarTrek",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 25,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "eggWarehouse",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 26,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "personalInformation",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 27,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "studyPetAttribute",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 29,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "learningabilityChoosePanle",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 31,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "natureChoosePanel",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 32,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "itemUsePanel",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 33,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "petChooseAttributePanel",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 34,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "headFrame",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 35,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "highLadderRank",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 38,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "reconnectionPanel",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 42,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "peakJihadMatchWaitModePanel",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 43,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "thepeakofJihadModePanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 44,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "thepeakofJihadModePanel",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 45,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "peakJihadBanPickList",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 46,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "peakJihadVote",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 47,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "bagStorageSwitchChoosePanel",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 48,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "achieve",
+      "resConfig": [
+        "achievementbonus"
+      ],
+      "currAppDo": 1,
+      "id": 50,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "seerTitleChangeVIew",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 51,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "seerSuitClothesView",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 52,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "activityAnnouncement",
+      "resConfig": [
+        "announcement"
+      ],
+      "currAppDo": 1,
+      "id": 53,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "seerClothesWarehouse",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 54,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "pveSpt",
+      "resConfig": [
+        "SPTtask",
+        "SPTstar",
+        "SPTreward",
+        "btl_condition",
+        "help_tips",
+        "exchange_clt"
+      ],
+      "currAppDo": 1,
+      "id": 56,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "pveTrek",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 57,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "puniFight",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 58,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "wishFloating",
+      "resConfig": [
+        "WishFloating",
+        "help_tips",
+        "exchange_clt"
+      ],
+      "currAppDo": 1,
+      "id": 59,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "militaryBook",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 60,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "pvpPunishPop",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 61,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "pvpPunishPop",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 62,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "mall",
+      "resConfig": [
+        "shop",
+        "recharge"
+      ],
+      "currAppDo": 1,
+      "id": 63,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "mapChangeSelectPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 64,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "pveJiehuang",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 65,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "pveJiehuangPowerup",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 66,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "pveAoliaPop",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 67,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "pveAoliaPanel",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 68,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "kingHamorPop",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 69,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "kingHamorLevel",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 70,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "comic",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 71,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "systemSet",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 72,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "teamCreate",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 73,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "team",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 74,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "petIntroducePanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 76,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "team",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 77,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "team",
+      "resConfig": [
+        "TeamResource"
+      ],
+      "currAppDo": 2,
+      "id": 78,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "team",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 79,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "team",
+      "resConfig": [
+        "TeamTaskInfo"
+      ],
+      "currAppDo": 2,
+      "id": 80,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "pveYiFuLiSha",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 81,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "battleTestMachine",
+      "resConfig": [
+        "help_tips",
+        "fightTestStageConfig",
+        "fightTestBossConfig",
+        "fightTestMonsterConfig"
+      ],
+      "currAppDo": 1,
+      "id": 82,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "pveEncarlose",
+      "resConfig": [
+        "help_tips",
+        "talk"
+      ],
+      "currAppDo": 1,
+      "id": 83,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "nonoMgrPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 84,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "pveSorensen",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 85,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "holyPuni",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 87,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "bruteSorensen",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 88,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "pveLanLu",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 90,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "pveMainPet",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 91,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "sorensenFinal",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 92,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "pveYingKaLuoSi",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 93,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "pveZhanZhiKuangRe",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 94,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "pveAiXiaLa",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 95,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "destroyMecha",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 97,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "mechaFrenzy",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 98,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "jianBiMecha",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 99,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "yongzhezhengcheng",
+      "resConfig": [
+        "brave_task",
+        "brave_lv",
+        "brave_guide"
+      ],
+      "currAppDo": 2,
+      "id": 100,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "devilZax",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 101,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "demonKingGirod",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 102,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "divineDomain4Kings",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 103,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "evilKingWesk",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 104,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "pveDragonKillerAiMoLiSha",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 105,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "mingYi",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 106,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "godEmperorHuting",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 107,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "mainLine",
+      "resConfig": [
+        "profilephoto"
+      ],
+      "currAppDo": 1,
+      "id": 108,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "iceContractAksia",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 109,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "activityCenter",
+      "resConfig": [
+        "help_tips",
+        "ActivityCenter"
+      ],
+      "currAppDo": 1,
+      "id": 110,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "preferentialBest",
+      "resConfig": [
+        "PreferentialBest"
+      ],
+      "currAppDo": 2,
+      "id": 111,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "shengTingReay",
+      "resConfig": [
+        "help_tips",
+        "New_monster_level"
+      ],
+      "currAppDo": 1,
+      "id": 112,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "qianShang",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 113,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "sixRealmsGodKingHall",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 114,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "holyLightMonica",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 116,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "createAvatar",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 117,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "moonShiningStarSoul",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 118,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "godOfDream",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 119,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "godOfStorm",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 120,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "godOfFear",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 121,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "worldMap",
+      "resConfig": [
+        "starmaplist",
+        "starmap"
+      ],
+      "currAppDo": 1,
+      "id": 122,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "rapidMecha",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 123,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "petLevelPanel",
+      "resConfig": [
+        "New_monster_level"
+      ],
+      "currAppDo": 1,
+      "id": 124,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "pveAoliaPanel",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 125,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "pveAoliaPanel",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 126,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "pveEncarlose",
+      "resConfig": [
+        "help_tips",
+        "talk"
+      ],
+      "currAppDo": 1,
+      "id": 127,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "guideMainPetsOutPut",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 128,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "guideJimiOutPut",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 129,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "guideSuitOutPut",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 130,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "guideAresAllianceOutPut",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 131,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "guideFeturePetsOutPut",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 132,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "passGuideAward",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 133,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "holidaySign",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 134,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "markDraw",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 2,
+      "id": 135,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "newSeerToolbarGuide",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 136,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "vip",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 137,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "springActivity2022",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 138,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "fightlab",
+      "resConfig": [
+        "fightLabMonsterConfig",
+        "fightLabLevelConfig",
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 139,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "login202202",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 140,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "newSeerWelfare",
+      "resConfig": [
+        "NewSeerWelfare"
+      ],
+      "currAppDo": 1,
+      "id": 141,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "newSeer7Sign",
+      "resConfig": [
+        "newSeer7Sign"
+      ],
+      "currAppDo": 1,
+      "id": 142,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "qingMingSign2022",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 143,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "petRecruit",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 144,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "signIn20220501",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 2,
+      "id": 145,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "firstPay",
+      "resConfig": [
+        "privateShop",
+        "privateCostDiamondReward",
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 146,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "dragonBoatSign2022",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 147,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "markWheel",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 148,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "diamondTask",
+      "resConfig": [
+        "retrieve",
+        "dailytask",
+        "dailytask_gift",
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 149,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "battleFirePanel",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 150,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "pvePetYinzi",
+      "resConfig": [
+        "help_tips",
+        "New_monster_level"
+      ],
+      "currAppDo": 1,
+      "id": 151,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "mainLinePop",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 152,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "roomEditPop",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 153,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "seerComplain",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 154,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "roomVisitPop",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 155,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "roomVisitorInfoPop",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 156,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "roomInformationPop",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 157,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "roomShop",
+      "resConfig": [
+        "baseShop"
+      ],
+      "currAppDo": 1,
+      "id": 158,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "team",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 2,
+      "id": 159,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "team",
+      "resConfig": [
+        "help_tips",
+        "teamTrader"
+      ],
+      "currAppDo": 2,
+      "id": 160,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "mAF2022SignPanel",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 161,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "newWorldMap",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 162,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "spacecraftManual",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 163,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "contractCall",
+      "resConfig": [
+        "partner",
+        "partnerEffectUpgrade"
+      ],
+      "currAppDo": 2,
+      "id": 164,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "nationalDay2022SignPanel",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 165,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "seerFactory",
+      "resConfig": [
+        "seerFactory"
+      ],
+      "currAppDo": 1,
+      "id": 166,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "templeHeroesMain",
+      "resConfig": [
+        "templeHeroes",
+        "templeHeroesMain"
+      ],
+      "currAppDo": 1,
+      "id": 167,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "petMonthlyLoginGiftPanel",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 168,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "templeHeroesPanel2015",
+      "resConfig": [
+        "templeHeroes",
+        "templeHeroesMain"
+      ],
+      "currAppDo": 1,
+      "id": 169,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "templeHeroesPanel2016",
+      "resConfig": [
+        "templeHeroes",
+        "templeHeroesMain"
+      ],
+      "currAppDo": 1,
+      "id": 170,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "templeHeroesPanel2017",
+      "resConfig": [
+        "templeHeroes",
+        "templeHeroesMain"
+      ],
+      "currAppDo": 1,
+      "id": 171,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "templeHeroesPanel2018",
+      "resConfig": [
+        "templeHeroes",
+        "templeHeroesMain"
+      ],
+      "currAppDo": 1,
+      "id": 172,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "templeHeroesPanel2019",
+      "resConfig": [
+        "templeHeroes",
+        "templeHeroesMain"
+      ],
+      "currAppDo": 1,
+      "id": 173,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "kappaTravel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 174,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "OnekeyUltimate",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 175,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "templeHeroesDrawPanel",
+      "resConfig": [
+        "templeHeroes",
+        "templeHeroesMain"
+      ],
+      "currAppDo": 1,
+      "id": 176,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "templeHeroesBuyPetPop",
+      "resConfig": [
+        "templeHeroes",
+        "templeHeroesMain"
+      ],
+      "currAppDo": 2,
+      "id": 177,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "templeHeroesBuySkinPop",
+      "resConfig": [
+        "templeHeroes",
+        "templeHeroesMain"
+      ],
+      "currAppDo": 2,
+      "id": 178,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "oneKeyTheBestPop",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 179,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "learningAbilityChoosePop",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 180,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "learningAbilityInputPop",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 181,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "diamondAward",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 182,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "latestActivities",
+      "resConfig": [
+        "latestActivity"
+      ],
+      "currAppDo": 2,
+      "id": 183,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "yearVip2022",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 184,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "blessOfDivineAnimals",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 185,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "taoLeFestivalSign",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 186,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "oracleAdvance",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 187,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "energyResearchStation",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 188,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "backflow",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 189,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "militaryReward",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 190,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "learningAbilityInputAndBtnPop",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 191,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "christmas2022",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 192,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "wishChristmasTree",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 193,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "peakWeeklyReward",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 194,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "christmasPet",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 195,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "newYearSignPanel",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 196,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "choosePetPop",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 197,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "fixCloth",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 198,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "yearvip2025",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 199,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "aresAlliance",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 200,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "girodRabidPanel",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 201,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "holyMuse",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 202,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "fusionMonster",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 203,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "holyGaia",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 204,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "holyCassius",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 205,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "chaoticBlake",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 206,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "kingGaia",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 207,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "achieveNotice",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 208,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "signInActivityPopUpPanel",
+      "resConfig": [
+        "Popup"
+      ],
+      "currAppDo": 2,
+      "id": 209,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "kingMuse",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 210,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "peakJihadOrderPanel",
+      "resConfig": [
+        "help_tips",
+        "pvp_task",
+        "pass_shop",
+        "pass_reward"
+      ],
+      "currAppDo": 1,
+      "id": 211,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "peakJihadOrderPanel",
+      "resConfig": [
+        "help_tips",
+        "pvp_task",
+        "pass_shop",
+        "pass_reward"
+      ],
+      "currAppDo": 1,
+      "id": 212,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "newSeerGift",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 213,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "kingCassius",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 214,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "treeSignIn",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 215,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "kingRay",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 216,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "communityCenter",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 217,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "redPupilMuse",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 218,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "godOfWarGaia",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 219,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "godOfEarthCassius",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 220,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "phoenixPassPanel",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 221,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "militaryInfo",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 222,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "tortoisePassPanel",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 223,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "memoryArchivesPop",
+      "resConfig": [
+        "help_tips",
+        "archivesStory",
+        "archivesBook"
+      ],
+      "currAppDo": 2,
+      "id": 224,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "memoryArchivesPanel",
+      "resConfig": [
+        "help_tips",
+        "archivesStory",
+        "archivesBook"
+      ],
+      "currAppDo": 1,
+      "id": 225,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "memoryArchivesPet",
+      "resConfig": [
+        "help_tips",
+        "archivesStory",
+        "archivesBook"
+      ],
+      "currAppDo": 2,
+      "id": 226,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "petInfoPop",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 227,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "holyHowlBaiHu",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 228,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "godOfNightDemonBlake",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 229,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "godOfThunderRay",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 230,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "cassiusSuperEvo",
+      "resConfig": [
+        "help_tips",
+        "new_monster_level"
+      ],
+      "currAppDo": 1,
+      "id": 231,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "museSuperEvo",
+      "resConfig": [
+        "help_tips",
+        "new_monster_level"
+      ],
+      "currAppDo": 1,
+      "id": 232,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "godReay",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 233,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "holyKylin",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 234,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "anniversarySignIn",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 235,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "anniversarySignWeiyue",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 236,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "anniversaryDrainage",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 237,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "museSpecialTraining",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 238,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "blackEvo",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 239,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "blakeSpecialTraining",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 240,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "leiyiSpecialTraining",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 241,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "cassiusSpecialTraining",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 242,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "gaiyaSpecialTraining",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 243,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "anniversarySignWuxinchan",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 244,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "wishingBlessingPopView",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 245,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "godofWarGaiaSuperevo",
+      "resConfig": [
+        "help_tips",
+        "new_monster_level"
+      ],
+      "currAppDo": 1,
+      "id": 246,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "qingLong",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 247,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "sixGod",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 248,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "helpBook",
+      "resConfig": [
+        "helper"
+      ],
+      "currAppDo": 1,
+      "id": 249,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "summerSign",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 250,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "holyHowlBless",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 251,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "qixiGiftSign",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 252,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "petGetPop",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 253,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "schoolBeginSign",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 254,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "peakJihadShopPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 255,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "peakJihadRankPanel",
+      "resConfig": [
+        "pvp_task"
+      ],
+      "currAppDo": 1,
+      "id": 256,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "peakJihad6V6BanPickModePanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 257,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "peakJihadFreeWar",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 258,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "peakjihadlimitpanel",
+      "resConfig": [
+        "help_tips",
+        "pvp_ban"
+      ],
+      "currAppDo": 1,
+      "id": 259,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "battleResultPanel",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 260,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "npcDialog",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 261,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "petHandbookInfo",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 262,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "twelveYearsPromise",
+      "resConfig": [
+        "twelveYearsPromise",
+        "twelveYearsPromise_Bonus"
+      ],
+      "currAppDo": 1,
+      "id": 263,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "advancedPetBackStore",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 264,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "petbookAttRelationShip",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 265,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "peakEndReward",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 266,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "personalInformation",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 267,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "teamDefence",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 268,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "petNewSkillPanel",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 269,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "springFestivalSign",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 270,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "contractPanel",
+      "resConfig": [
+        "partner",
+        "partnerEffectUpgrade"
+      ],
+      "currAppDo": 2,
+      "id": 271,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "petEffect",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 272,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "heroTemple",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 273,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "crewHandbook",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 274,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "peakJihadExpertModeBanPickPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 275,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "Survey",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 276,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "BilibiliModule",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 277,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "OfficialGroupModule",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 278,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "WebviewModule",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 279,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "adAstra",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 280,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "petCompetitorInfo",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 281,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "mainStoryLine",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 282,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "adAstraActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 283,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "starlightHidden",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 284,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "starlightHiddenAward",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 285,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "markBacktrack",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 286,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "awakeActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 287,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "petAwakeMain",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 288,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "seerInterstellarPassport",
+      "resConfig": [
+        "help_tips",
+        "battlepass_task",
+        "battlepass_shop",
+        "battlepass_reward"
+      ],
+      "currAppDo": 1,
+      "id": 289,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "vipMonthPet",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 290,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "anHunSuoBiLaTe",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 291,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "elderHelkasOutput",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 292,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "weeklyUpdateGuidelines",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 293,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "piGodLevel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 294,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "piGodJump",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 295,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "signIn7Days",
+      "resConfig": [
+        "LoginGift"
+      ],
+      "currAppDo": 2,
+      "id": 296,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "battleTestFight",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 297,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "laidashenzhiEntrance",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 298,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "laidashenzhiMain",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 299,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "lightUpHandBook",
+      "resConfig": [
+        "light_book"
+      ],
+      "currAppDo": 1,
+      "id": 300,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getDaNaoTianGong",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 301,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "happyBingoSofy",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 302,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "dreamyHotSpringRoad",
+      "resConfig": [
+        "help_tips",
+        "dreamyHotSpringRoadLevelConfig",
+        "bitBuffer"
+      ],
+      "currAppDo": 1,
+      "id": 303,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "angerDilke",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 304,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "cangyueShadowLegendSkinSale",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 305,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "oneKeyBestLimitDiscount",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 306,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "oneKeyBestDiscountMain",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 307,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "nadoresJourneyofRecovery",
+      "resConfig": [
+        "help_tips",
+        "natolesJourneyOfRevivalEventConfig",
+        "Activity_ShopConfig",
+        "Activity_TaskConfig"
+      ],
+      "currAppDo": 1,
+      "id": 308,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "ExploreUndergroundCavesPanel",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 309,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "zhiMingActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 400,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "zhiMingActivityMain",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 401,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "newfightsuit",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 402,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "ArtemisCompletePopPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 403,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "ArtemisCompletePanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 404,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "ArtemisSkin",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 405,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "skinShopActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 406,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "gotoTapTap_1",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 407,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "gotoTapTap_2",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 408,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "peakJihadAutoOpen",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 409,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "NewSeasonCompletePanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 410,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "repairSpaceStation",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 411,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "repairSpaceStation",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 412,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "HideMovesShop",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 413,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "activityListPreview",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 414,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "perviousYearvip",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 415,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "shawnsMission",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 416,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "DangerousDataCabinEntry",
+      "resConfig": [
+        "Activity_TaskConfig",
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 417,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "shawnsMissionActivity",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 418,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "DangerousDataCabinMain",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 419,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "braveTowerReverseDefense",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 1,
+      "id": 420,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "luoKaiShop",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 421,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "castleSeriesSkinSales",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 422,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "castleSeriesSkinSalesPop",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 423,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "PetBattleMainPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 424,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "taikongzhanFight",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 425,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "yinKaLuoShiSkin",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 426,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "puniGodChallengeEntry",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 427,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "puniGodChallenge",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 0,
+      "id": 428,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "privateSign",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 429,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "godWeaponKenzhate",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 430,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "petBattleActivity",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 431,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "darkArenaLegends",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 432,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "ShizulingshouNewForm",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 433,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "ShizulingshouNewForm-tan",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 434,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "newPlayerGuild",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 435,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "interstellarArena",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 436,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "godWeaponKenzhateRec",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 437,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "newerMainSelect",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 438,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "holyWarCompleteBody",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 439,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "petKingBattleActivity",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 440,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "petKingBattle ",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 441,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "firstPayPopUp",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 442,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "newBrave",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 443,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "destinyWheel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 444,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "activityCenterCommon",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 445,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "vippetSalesMainPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 446,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "resistPirateAttacks",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 447,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "vehicleDiscountedSales",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 448,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "powerSupportGame",
+      "resConfig": [
+        "help_tips"
+      ],
+      "currAppDo": 2,
+      "id": 449,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "limitedAdastraActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 450,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "seerPainting",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 451,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "cdkey",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 452,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "originRecall",
+      "resConfig": [
+        "help_tips",
+        "OriginRecall_Main"
+      ],
+      "currAppDo": 1,
+      "id": 453,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "AnniversaryVaultEntry",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 454,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "AnniversaryVaultMall",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 455,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "exploreMysteriousRealmEntry",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 456,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "exploreMysteriousRealm",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 457,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "journeyWithTheStarlight",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 458,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "wishList",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 459,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "stgBossshare",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 471,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "stgstage",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 472,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "legendOfDiceEntrance",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 474,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "legendOfDice",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 475,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "sixteenYearsEntrance",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 476,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "LeiyiGaiyaEntry",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 477,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "LeiyiGaiyaMain",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 478,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "obtLoginSign",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 479,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "xingguangpetskin",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 480,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "SixteenyearsFateRevealsPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 483,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "interstellarPrivilege",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 484,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "gaoKaoSupport",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 485,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getLiumengSkin",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 486,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "zhakesiSellPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 487,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "seer16thAnniversaryHelpsGetGift",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 488,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "16thLoginReward",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 489,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "zhakesiSellPanel",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 490,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "fightWorldBossZacks",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 491,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "leiyiSecondOrder",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 492,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getyounasiskinpanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 493,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "exploreLuciou",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 494,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "exploreLuciou",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 495,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "gaiyaSecondOrder",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 496,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "unusPayReturn",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 498,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "rayGaiaPetSkin",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 499,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "exploreLuciouGame1",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 500,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "exploreLuciouGame2",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 501,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "yuehuaGainPanel",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 502,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "sixteenThMarkSell",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 503,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "mintstonesellpanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 504,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "liumengClassicsSkinPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 505,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getTOH",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 506,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "thirteenYearSkin",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 507,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "diamondMonthlyCard",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 508,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "summerDrinkSupply",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 509,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "sharkMouthCleaning",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 510,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "sharkMouthCleaning",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 511,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "activityAttireMain",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 512,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "oceanstargame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 513,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "summerSkin",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 514,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "summerSkin",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 515,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "deepSeaMonsterFight",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 516,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "colderEvolution",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 517,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "KulatakeSkinPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 518,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "oreProspect",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 519,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "dihuangzhiyuSummerSkinSell",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 520,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "turma",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 521,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "turma",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 522,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "OceanPlanetHermit",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 523,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "OceanPlanetCook",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 524,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "deepSeaGameMain",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 525,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "deepSeaGamePlay",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 526,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "hunDunDiWang",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 527,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "pveAutoFight",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 528,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "resistanceItemShop",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 529,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "mechSharpedo",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 530,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "summerHolidaySign",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 531,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "dragonbingoGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 532,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getReinhardtSkinPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 533,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "webglToApp",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 534,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "moleculeIntensification",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 535,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "shenHaiGuLong",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 536,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "fightshark",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 537,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "mainLineDeepSeaDragonPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 538,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getDS001Module",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 539,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "langlangMountainPreSignPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 540,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "llsWorking",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 541,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "langlangshanArtCourse",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 542,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "s86AnkaMainPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 543,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "LlsFarm",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 544,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "LlsTrip",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 545,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "jiangHuSkinSell",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 546,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "langlangshanEmoji",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 547,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "misticSuperevolution",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 548,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "huangMeiPetSellPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 549,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "huangMeiSkinSellPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 550,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "llsDuelEntrance",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 551,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "llsDuelGameMain",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 552,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "canglan",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 553,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "fightmousepanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 554,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "canglanCompleteActivityCenter",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 555,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "langlangshanfightpanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 556,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "langlangshanCyberWoodenFishEnter",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 557,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "team",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 558,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getAncientdragonking",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 559,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "team",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 560,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "kuixingjieqiao",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 561,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "zhenXinGongMingSkinSellPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 562,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "luolinkaPreviewPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 563,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "shengzhanRuiersi",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 564,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "shengzhanRuiersi",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 565,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "mixiuliNewForm",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 566,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "qiQiaoXinYuSkinSell",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 567,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "RoadConnectionActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 568,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "RoadConnectionGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 569,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "luoLinKaFuKePanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 570,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "FlyingKingVansStrongEntrancePanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 571,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "flyingKingVansStrongMainPanel",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 572,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "industryAndMagic",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 573,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "epicTreasurePanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 574,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "colourmatchGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 575,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "aoliaFeatureUpgrade",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 576,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "PeakAssemblySale",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 577,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "goldShiningPegasusNationalBroadcasting",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 578,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "goldShiningPegasusNationalBroadcasting",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 579,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "goldenLightPegasusSuperEvolution",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 580,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "goldenLightPegasusSuperEvolution",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 581,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "wrenchBroSellPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 582,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "luolinkaCommunicate",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 583,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "DeepSpaceEnterPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 584,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "shenluoShenghuaSkin1",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 585,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "shenluoShenghuaSkin3",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 586,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "HelpingGodPetPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 587,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "securityCheck",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 588,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "securityCheck",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 589,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "BlueMoonModule",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 590,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "ShuoxingCeremony",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 591,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "ChessGameEnterPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 592,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "XitalunGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 600,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "NationalDayGoldCard",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 601,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "OrganizeEndgameActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 602,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "OrganizeEndgame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 603,
+      "isFullScreen": 1
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "data": [
+    {
+      "controller": "",
+      "dest": "110",
+      "finishtime": "",
+      "image": "center",
+      "name": "活动中心",
+      "reddotid": [
+        116000
+      ],
+      "dailyRed": 0,
+      "id": 1,
+      "iOSreviewshow": 1,
+      "isdeadline": 0,
+      "isshow": 1,
+      "jumptarget": 0,
+      "priority": 1,
+      "truepos": 1
+    },
+    {
+      "controller": "",
+      "dest": "146",
+      "finishtime": "",
+      "image": "dailyTask",
+      "name": "新手特惠",
+      "reddotid": null,
+      "dailyRed": 0,
+      "id": 2,
+      "iOSreviewshow": 0,
+      "isdeadline": 0,
+      "isshow": 0,
+      "jumptarget": 0,
+      "priority": 3,
+      "truepos": 0
+    },
+    {
+      "controller": "",
+      "dest": "189",
+      "finishtime": "",
+      "image": "backflow",
+      "name": "老兵回归",
+      "reddotid": [
+        118000
+      ],
+      "dailyRed": 0,
+      "id": 4,
+      "iOSreviewshow": 1,
+      "isdeadline": 0,
+      "isshow": 1,
+      "jumptarget": 0,
+      "priority": 4,
+      "truepos": 1
+    },
+    {
+      "controller": "PeakJihadOrderRedDotController",
+      "dest": "PeakJihadOrderManager.showOrder()",
+      "finishtime": "",
+      "image": "order",
+      "name": "巅峰战令",
+      "reddotid": null,
+      "dailyRed": 0,
+      "id": 5,
+      "iOSreviewshow": 0,
+      "isdeadline": 0,
+      "isshow": 0,
+      "jumptarget": 0,
+      "priority": 10,
+      "truepos": 0
+    },
+    {
+      "controller": "",
+      "dest": "276",
+      "finishtime": "2025/1/22 00:00:00",
+      "image": "questionnaire",
+      "name": "问卷调查",
+      "reddotid": null,
+      "dailyRed": 0,
+      "id": 6,
+      "iOSreviewshow": 0,
+      "isdeadline": 1,
+      "isshow": 0,
+      "jumptarget": 0,
+      "priority": 99,
+      "truepos": 1
+    },
+    {
+      "controller": "",
+      "dest": "199",
+      "finishtime": "",
+      "image": "years2025",
+      "name": "至尊年费",
+      "reddotid": [
+        117000
+      ],
+      "dailyRed": 0,
+      "id": 7,
+      "iOSreviewshow": 0,
+      "isdeadline": 0,
+      "isshow": 1,
+      "jumptarget": 0,
+      "priority": 99,
+      "truepos": 1
+    },
+    {
+      "controller": "",
+      "dest": "274",
+      "finishtime": "",
+      "image": "new_guide",
+      "name": "航行指南",
+      "reddotid": [
+        115000
+      ],
+      "dailyRed": 0,
+      "id": 8,
+      "iOSreviewshow": 1,
+      "isdeadline": 0,
+      "isshow": 1,
+      "jumptarget": 0,
+      "priority": 2,
+      "truepos": 1
+    },
+    {
+      "controller": "",
+      "dest": "289",
+      "finishtime": "",
+      "image": "battlepassnew",
+      "name": "星际通行证",
+      "reddotid": [
+        119000
+      ],
+      "dailyRed": 0,
+      "id": 9,
+      "iOSreviewshow": 0,
+      "isdeadline": 0,
+      "isshow": 1,
+      "jumptarget": 0,
+      "priority": 5,
+      "truepos": 1
+    },
+    {
+      "controller": "",
+      "dest": "",
+      "finishtime": "",
+      "image": "starlight",
+      "name": "星光三主宠",
+      "reddotid": [
+        4
+      ],
+      "dailyRed": 0,
+      "id": 10,
+      "iOSreviewshow": 1,
+      "isdeadline": 0,
+      "isshow": 1,
+      "jumptarget": 111600,
+      "priority": 6,
+      "truepos": 1
+    },
+    {
+      "controller": "",
+      "dest": "",
+      "finishtime": "",
+      "image": "newBrave_head",
+      "name": "传说之路",
+      "reddotid": [
+        311000
+      ],
+      "dailyRed": 0,
+      "id": 12,
+      "iOSreviewshow": 1,
+      "isdeadline": 0,
+      "isshow": 1,
+      "jumptarget": 360000,
+      "priority": 7,
+      "truepos": 1
+    },
+    {
+      "controller": "",
+      "dest": "",
+      "finishtime": "",
+      "image": "newSeer",
+      "name": "新兵礼遇",
+      "reddotid": [
+        321000
+      ],
+      "dailyRed": 0,
+      "id": 13,
+      "iOSreviewshow": 0,
+      "isdeadline": 0,
+      "isshow": 1,
+      "jumptarget": 370000,
+      "priority": 8,
+      "truepos": 1
+    },
+    {
+      "controller": "",
+      "dest": "",
+      "finishtime": "0",
+      "image": "privateShop",
+      "name": "限时特惠",
+      "reddotid": [
+        341000
+      ],
+      "dailyRed": 0,
+      "id": 14,
+      "iOSreviewshow": 0,
+      "isdeadline": 0,
+      "isshow": 1,
+      "jumptarget": 380000,
+      "priority": 9,
+      "truepos": 1
+    },
+    {
+      "controller": "",
+      "dest": "",
+      "finishtime": "2025/7/4 10:00:00",
+      "image": "markWheel",
+      "name": "永恒召唤",
+      "reddotid": [
+        126000
+      ],
+      "dailyRed": 0,
+      "id": 16,
+      "iOSreviewshow": 0,
+      "isdeadline": 1,
+      "isshow": 0,
+      "jumptarget": 180000,
+      "priority": 11,
+      "truepos": 0
+    },
+    {
+      "controller": "",
+      "dest": "508",
+      "finishtime": "2025/9/6 00:00:00",
+      "image": "diamondCard",
+      "name": "钻石月卡",
+      "reddotid": [
+        61
+      ],
+      "dailyRed": 0,
+      "id": 17,
+      "iOSreviewshow": 0,
+      "isdeadline": 1,
+      "isshow": 1,
+      "jumptarget": 0,
+      "priority": 12,
+      "truepos": 1
+    },
+    {
+      "controller": "",
+      "dest": "522",
+      "finishtime": "2025/10/10 00:00:00",
+      "image": "petBagReturn",
+      "name": "背包返钻",
+      "reddotid": [
+        71
+      ],
+      "dailyRed": 0,
+      "id": 18,
+      "iOSreviewshow": 0,
+      "isdeadline": 1,
+      "isshow": 1,
+      "jumptarget": 0,
+      "priority": 13,
+      "truepos": 1
+    }
+  ]
+}

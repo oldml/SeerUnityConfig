@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "Discountprice": 1597046794,
+      "exchangeId": 808464435,
+      "id": 828323382,
+      "itemID": 1400352,
+      "limittype": 1,
+      "productID": 20,
+      "usenew": 1
+    },
+    {
+      "Discountprice": 2,
+      "exchangeId": 0,
+      "id": 1744941600,
+      "itemID": 1743645600,
+      "limittype": 0,
+      "productID": 1597046805,
+      "usenew": -441206041
+    },
+    {
+      "Discountprice": -1679189340,
+      "exchangeId": -1600395849,
+      "id": 1603317221,
+      "itemID": 540030257,
+      "limittype": 33559902,
+      "productID": 335544320,
+      "usenew": 16777216
+    },
+    {
+      "Discountprice": 33554432,
+      "exchangeId": 0,
+      "id": 536870912,
+      "itemID": -1603796558,
+      "limittype": 6811115,
+      "productID": 184549376,
+      "usenew": 845099264
+    },
+    {
+      "Discountprice": 808464437,
+      "exchangeId": 828322608,
+      "id": 1400352,
+      "itemID": 3,
+      "limittype": 20,
+      "productID": 6,
+      "usenew": 2
+    },
+    {
+      "Discountprice": 0,
+      "exchangeId": 1744941600,
+      "id": 1743645600,
+      "itemID": 0,
+      "limittype": 1597046795,
+      "productID": 808465714,
+      "usenew": 1597255728
+    },
+    {
+      "Discountprice": 358490161,
+      "exchangeId": 1024,
+      "id": 5120,
+      "itemID": 1536,
+      "limittype": 512,
+      "productID": 0,
+      "usenew": 28450816
+    },
+    {
+      "Discountprice": -303325080,
+      "exchangeId": 103,
+      "id": 822087424,
+      "itemID": 842477919,
+      "limittype": 892680243,
+      "productID": 808464735,
+      "usenew": 1579167792
+    },
+    {
+      "Discountprice": 327701,
+      "exchangeId": 1310720,
+      "id": 983040,
+      "itemID": 131072,
+      "limittype": 0,
+      "productID": -1306525696,
+      "usenew": -341809151
+    },
+    {
+      "Discountprice": 26605,
+      "exchangeId": 720896,
+      "id": 892493617,
+      "itemID": 808464432,
+      "limittype": 540172085,
+      "productID": 100668766,
+      "usenew": 335544320
+    },
+    {
+      "Discountprice": 167772160,
+      "exchangeId": 33554432,
+      "id": 0,
+      "itemID": 536870912,
+      "limittype": -1603796558,
+      "productID": 6811115,
+      "usenew": 218103808
+    },
+    {
+      "Discountprice": 828322048,
+      "exchangeId": 959852599,
+      "id": 828323634,
+      "itemID": 1579167792,
+      "limittype": 458773,
+      "productID": 1310720,
+      "usenew": 393216
+    }
+  ]
+}

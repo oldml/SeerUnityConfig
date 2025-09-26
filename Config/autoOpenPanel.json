@@ -467,6 +467,18 @@
       "id": 40,
       "moduleId": 534,
       "state": 1
+    },
+    {
+      "actionName": "无极圣武",
+      "controller": "AutoOpenLocalOnce",
+      "endTime": "2025_10_10 10:00:00",
+      "param1": "wujishengwuPopup",
+      "param2": "",
+      "param3": "pop",
+      "startTime": "2025_09_26 10:00:00",
+      "id": 41,
+      "moduleId": 598,
+      "state": 1
     }
   ]
 }

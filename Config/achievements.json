@@ -2324,6 +2324,20 @@
                     "ID": 19,
                     "proicon": 1438,
                     "SpeNameBonus": 554
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "俯瞰星穹",
+                    "Desc": "完成支线【俯仰星尘】获得",
+                    "Threshold": "20",
+                    "title": "俯瞰星穹",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 20,
+                    "proicon": 1440,
+                    "SpeNameBonus": 556
                   }
                 ],
                 "ID": 161,
@@ -17655,6 +17669,20 @@
                     "hide": 0,
                     "ID": 10,
                     "proicon": 1437,
+                    "SpeNameBonus": 0
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "新时代",
+                    "Desc": "达成时代轨迹系列皮肤收集进度",
+                    "Threshold": "11",
+                    "title": "",
+                    "titleColor": "",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 11,
+                    "proicon": 1441,
                     "SpeNameBonus": 0
                   }
                 ],

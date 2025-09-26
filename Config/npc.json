@@ -809,6 +809,26 @@
       "id": 81,
       "scale": 1,
       "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "NONO",
+      "portrait": "nono_fg",
+      "CharacterID": 93,
+      "id": 82,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "月桂小兔",
+      "portrait": "ygxt_fg",
+      "CharacterID": 4819,
+      "id": 83,
+      "scale": 1,
+      "silhouette": 0
     }
   ]
 }

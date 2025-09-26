@@ -3684,6 +3684,27 @@
       "isFullScreen": 0
     },
     {
+      "moduleName": "xitalunAstronautSkinSell",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 597,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "wujishengwuModule",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 598,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "luckyrocketGameEntry",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 599,
+      "isFullScreen": 1
+    },
+    {
       "moduleName": "XitalunGame",
       "resConfig": null,
       "currAppDo": 1,
@@ -3710,6 +3731,83 @@
       "currAppDo": 1,
       "id": 603,
       "isFullScreen": 1
+    },
+    {
+      "moduleName": "sweetOsmanthusActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 604,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "sweetOsmanthus",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 605,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "s67NihunPTFD",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 606,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "anniversary15thMarkSell",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 607,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "yifuPveLevel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 608,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "yifuPveLevel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 609,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "gearAndStarBrilliant",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 610,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "gearAndStarKrefeld",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 611,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "qunxingSkinSell",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 612,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "keleibeiliOldSkin",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 613,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "keleibeiliSkinPanel",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 614,
+      "isFullScreen": 0
     }
   ]
 }

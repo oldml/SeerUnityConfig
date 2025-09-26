@@ -5398,7 +5398,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 8,
             "Type": 2,
             "Year": 0
           }
@@ -5415,7 +5415,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 8,
             "Type": 2,
             "Year": 0
           }
@@ -7030,7 +7030,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 8,
             "Type": 2,
             "Year": 0
           }
@@ -7047,7 +7047,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 8,
             "Type": 2,
             "Year": 0
           }
@@ -9087,7 +9087,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 7,
             "Type": 2,
             "Year": 0
           }
@@ -9614,7 +9614,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 7,
             "Type": 2,
             "Year": 0
           }
@@ -10447,7 +10447,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 6,
             "Type": 2,
             "Year": 0
           }
@@ -10481,7 +10481,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 7,
             "Type": 2,
             "Year": 0
           }
@@ -10498,7 +10498,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 7,
             "Type": 2,
             "Year": 0
           }
@@ -10515,7 +10515,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 6,
             "Type": 2,
             "Year": 0
           }
@@ -10532,7 +10532,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 6,
             "Type": 2,
             "Year": 0
           }
@@ -10549,7 +10549,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 6,
             "Type": 2,
             "Year": 0
           }
@@ -10566,7 +10566,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 6,
             "Type": 2,
             "Year": 0
           }
@@ -11025,7 +11025,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 8,
             "Type": 2,
             "Year": 0
           }
@@ -12769,8 +12769,8 @@
         "Type": 0
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "汐梦·安卡",
         "SkinKind": [
           {
@@ -12786,9 +12786,94 @@
         "Type": 2
       },
       {
+        "Go": "",
+        "GoType": "",
+        "Name": "极简悖论·罗库",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 7,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 755,
+        "MonID": 4569,
+        "Type": 3
+      },
+      {
         "Go": "app/FinalActivityPanel",
         "GoType": "module",
-        "Name": "极简悖论·罗库",
+        "Name": "第一宇航员·西塔伦",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 6,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 756,
+        "MonID": 4636,
+        "Type": 18
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "领衔·克雷弗德",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 6,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 757,
+        "MonID": 4644,
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "朔星·蓓丽安特",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 6,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 758,
+        "MonID": 4643,
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "光阴十年·西塔伦",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 6,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 759,
+        "MonID": 4636,
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "索比斯",
         "SkinKind": [
           {
             "ID": 1,
@@ -12798,9 +12883,26 @@
             "Year": 0
           }
         ],
-        "ID": 755,
-        "MonID": 4569,
-        "Type": 3
+        "ID": 760,
+        "MonID": 4721,
+        "Type": 0
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "永恒圣拳",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 761,
+        "MonID": 4800,
+        "Type": 0
       }
     ]
   }

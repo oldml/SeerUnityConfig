@@ -263,6 +263,24 @@
       "jumptarget": 0,
       "priority": 13,
       "truepos": 1
+    },
+    {
+      "controller": "",
+      "dest": "",
+      "finishtime": "2025/10/10 10:00:00",
+      "image": "nationalDayCard",
+      "name": "钻石金卡",
+      "reddotid": [
+        111
+      ],
+      "dailyRed": 0,
+      "id": 19,
+      "iOSreviewshow": 0,
+      "isdeadline": 1,
+      "isshow": 1,
+      "jumptarget": 113044,
+      "priority": 14,
+      "truepos": 1
     }
   ]
 }

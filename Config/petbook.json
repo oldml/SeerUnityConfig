@@ -1407,12 +1407,6 @@
     },
     "Hotspot": {
       "item": {
-        "_text": [
-          " -->\r\n      ",
-          " -->\r\n\t  ",
-          " -->\r\n\t  ",
-          " -->\r\n      "
-        ],
         "intro": "全新精灵上线，快来看看吧！",
         "place": [
           {
@@ -1420,8 +1414,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4814,
-            "ImageID": 4814,
+            "ID": 4818,
+            "ImageID": 4818,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1431,8 +1425,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4815,
-            "ImageID": 4815,
+            "ID": 4819,
+            "ImageID": 4819,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -30347,7 +30341,7 @@
       {
         "DefName": "逆魂·佩特菲德",
         "Features": "逆魂旅团团长的真实面目，侵略星球的幕后黑手，总是把俘获的精灵变成石像作为收藏品！",
-        "Target": "",
+        "Target": "150093",
         "Tyjumptargetpe": "",
         "ID": 4163
       },
@@ -34783,6 +34777,13 @@
         "ID": 4799
       },
       {
+        "DefName": "无极圣武",
+        "Features": "星宇朽坏的存在之边陲，拳圣再度紧握长锋，义无反顾。",
+        "Target": "150092",
+        "Tyjumptargetpe": "",
+        "ID": 4800
+      },
+      {
         "DefName": "小猪妖",
         "Features": "来自浪浪山的小妖怪。有着一颗成就大事业的心，扮演猪八戒，与同伴一齐踏上漫漫取经路。性格正直，决心要活成自己喜欢的样子。",
         "Target": "",
@@ -34886,6 +34887,34 @@
         "Target": "113041",
         "Tyjumptargetpe": "",
         "ID": 4815
+      },
+      {
+        "DefName": "伊芙",
+        "Features": "来自奥瑞亚区，深空计划局局长，同时也是克雷弗德的学生。同时掌握了工业科技和魔法两种知识，是两区合作中不可多得的人才。此外，她非常喜欢古早的特摄动画剧。",
+        "Target": "150091",
+        "Tyjumptargetpe": "",
+        "ID": 4816
+      },
+      {
+        "DefName": "玛艾拉",
+        "Features": "2025包月精灵，赫星童话之《月亮下的约定》。故事中一位叫做艾莉娅的小女孩邂逅了月灵玛艾拉。玛艾拉所展示的，究竟是一个预言，还是一段历史呢？",
+        "Target": "120000",
+        "Tyjumptargetpe": "",
+        "ID": 4817
+      },
+      {
+        "DefName": "福尔摩苏斯",
+        "Features": "奥瑞亚区“灰色圣典”，在联合议会中有一席之位。他彬彬有礼，以商人自称，但隐藏在他面具之下的又是怎样一副脸孔呢？",
+        "Target": "153201/321",
+        "Tyjumptargetpe": "",
+        "ID": 4818
+      },
+      {
+        "DefName": "月桂小兔",
+        "Features": "在中秋出现的神秘小兔子，对桂花非常喜爱的它身上也常常带有桂花的香气。",
+        "Target": "113048",
+        "Tyjumptargetpe": "",
+        "ID": 4819
       }
     ],
     "RecMintmark": {

@@ -16672,6 +16672,1070 @@
       "groupId": 547,
       "id": 1577,
       "npcId": 92
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "唔…这下麻烦了，没想到对方居然会采取这样的方式进行反制。",
+      "dir": 0,
+      "groupId": 548,
+      "id": 1578,
+      "npcId": 90
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "嗯？小西塔伦，你在做什么呢？",
+      "dir": 0,
+      "groupId": 548,
+      "id": 1579,
+      "npcId": 89
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "最近洛林卡民间流行起了一个名为“绒绒菊大作战”的策略游戏，我也尝试了一下。",
+      "dir": 0,
+      "groupId": 548,
+      "id": 1580,
+      "npcId": 90
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "没想到这游戏竟然这么难，我试了好几遍才通关前面的挑战。伊芙姐，我是不是没有游戏天分啊？",
+      "dir": 0,
+      "groupId": 548,
+      "id": 1581,
+      "npcId": 90
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "只是小西塔伦沉迷于深空局的工作，很少接触这些娱乐方式啦。让我来帮你看看…",
+      "dir": 0,
+      "groupId": 548,
+      "id": 1582,
+      "npcId": 89
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "如果是这样呢？采取这样的方式组织绒绒菊进攻…接下来再这样…这样…应该就没问题了。",
+      "dir": 0,
+      "groupId": 548,
+      "id": 1583,
+      "npcId": 89
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "哇！伊芙姐！你真是太聪明了！三下五除二就通关了，我怎么就没想到这一层呢！",
+      "dir": 0,
+      "groupId": 548,
+      "id": 1584,
+      "npcId": 90
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "没什么啦，这种游戏其实都一个样，多玩玩就自然可以找到诀窍啦……",
+      "dir": 0,
+      "groupId": 548,
+      "id": 1585,
+      "npcId": 89
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "等一下等一下！我可没有一个人在办公室里偷偷玩游戏，都是在下班之后才玩的！",
+      "dir": 0,
+      "groupId": 548,
+      "id": 1586,
+      "npcId": 89
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "伊芙姐，我可什么都没说呢，你那么紧张干什么……",
+      "dir": 0,
+      "groupId": 548,
+      "id": 1587,
+      "npcId": 90
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "啊，这样吗…哈哈哈……总之，劳逸结合是非常正确的生活方式，我很高兴小西塔伦可以尝试接触别的事物。",
+      "dir": 0,
+      "groupId": 548,
+      "id": 1588,
+      "npcId": 89
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "知道啦伊芙姐，在我面前，没必要学着前辈的那一套发言啦，这种话从你口中说出来总给我一种奇怪的感觉。",
+      "dir": 0,
+      "groupId": 548,
+      "id": 1589,
+      "npcId": 90
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "好啦，那接下来的几关就让我自己来吧。伊芙姐对我的点拨可是非常有效的呢，我已经做好准备了。",
+      "dir": 0,
+      "groupId": 548,
+      "id": 1590,
+      "npcId": 90
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "奇怪，火山星是不是与此前勘探记录中的有所不同？总有一种很奇怪，说不上来的异样感。",
+      "dir": 0,
+      "groupId": 549,
+      "id": 1591,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "终于等到你了。",
+      "dir": 0,
+      "groupId": 549,
+      "id": 1592,
+      "npcId": 5825
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "谁？！是谁在说话？",
+      "dir": 0,
+      "groupId": 549,
+      "id": 1593,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "未识别到声源信号，主人，请重新检查音频解码模块。",
+      "dir": 0,
+      "groupId": 549,
+      "id": 1594,
+      "npcId": 93
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "（奇怪，NONO居然听不见？一旁的黄晶矿微微发光，声音似乎是从那传来的，凑近看看吧。）",
+      "dir": 0,
+      "groupId": 549,
+      "id": 1595,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这是你多久之后，再次回到这里呢？只是很可惜，现在已经快没有时间了。",
+      "dir": 0,
+      "groupId": 549,
+      "id": 1596,
+      "npcId": 5825
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我知道，勇敢的你曾在过去拯救了露希欧星。请原谅我的冒昧，这一次，这颗星球也需要拜托你了。",
+      "dir": 0,
+      "groupId": 549,
+      "id": 1597,
+      "npcId": 5825
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "火山星的每处矿脉都在饱受侵蚀，我能感受到，地核深处的紊乱能量正在给星球造成不可逆的伤害。",
+      "dir": 0,
+      "groupId": 549,
+      "id": 1598,
+      "npcId": 5825
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "所以，拜托你了。来自宇宙的勇者，请你驱散笼罩在星球上的迷障，让这颗星球重新焕发生机吧……",
+      "dir": 0,
+      "groupId": 549,
+      "id": 1599,
+      "npcId": 5825
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "诶？奇怪的声音消失了…",
+      "dir": 0,
+      "groupId": 549,
+      "id": 1600,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "且不说这几乎是强塞给我的请求，为什么“黄晶矿”会说话呀！",
+      "dir": 0,
+      "groupId": 549,
+      "id": 1601,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "纠正：NONO未曾捕捉到来源于黄晶矿的声源信号。",
+      "dir": 0,
+      "groupId": 549,
+      "id": 1602,
+      "npcId": 93
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "算了，这不重要。现在的火山星处处充满异状，不解决这些麻烦，恐怕会引发更大的危机。",
+      "dir": 0,
+      "groupId": 549,
+      "id": 1603,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "地表裂隙喷涌的火焰，完全阻碍了我的行动。NONO，有没有什么好办法。",
+      "dir": 0,
+      "groupId": 549,
+      "id": 1604,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "回答：赛尔先锋队重新在火山星地表布设了便携高压水枪装置，主人您可通过装置直接领取<font color=\"0xf80909\">喷水装</font>。",
+      "dir": 0,
+      "groupId": 549,
+      "id": 1605,
+      "npcId": 93
+    },
+    {
+      "answer": [
+        "明白了，我这就去试试！"
+      ],
+      "deal": null,
+      "msg": "主人您可尝试穿着<font color=\"0xf80909\">喷水装</font>，开启<font color=\"0xf80909\">射击模式</font>对裂隙火焰进行压制。",
+      "dir": 0,
+      "groupId": 549,
+      "id": 1606,
+      "npcId": 93
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "果然有用，把裂隙的火焰压制下去，这样就可以顺利前进了。",
+      "dir": 0,
+      "groupId": 550,
+      "id": 1607,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "提示：火山星的岩体结构相对松散，在探索过程中，主人不妨多多使用喷水装的射击模式进行尝试。",
+      "dir": 0,
+      "groupId": 550,
+      "id": 1608,
+      "npcId": 93
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "明白了，我会留意周围的情况的。现在，就让我们向火山星深处进发吧！",
+      "dir": 0,
+      "groupId": 550,
+      "id": 1609,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "去背包换上喷水装。"
+      ],
+      "deal": null,
+      "msg": "（这就是赛尔先锋队重新布设的便捷高压水枪装置了，真方便，赶紧换上<font color=\"0xf80909\">喷水装</font>吧。）",
+      "dir": 0,
+      "groupId": 551,
+      "id": 1610,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "吼——！！",
+      "dir": 0,
+      "groupId": 552,
+      "id": 1611,
+      "npcId": 5825
+    },
+    {
+      "answer": [
+        "好奇怪的精灵。"
+      ],
+      "deal": [
+        "2_553"
+      ],
+      "msg": "你吼那么大声干什么呀！你起床气有这么重的吗！",
+      "dir": 0,
+      "groupId": 552,
+      "id": 1612,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "侦测到敌对反应，主人，请做好应战准备。",
+      "dir": 0,
+      "groupId": 553,
+      "id": 1613,
+      "npcId": 93
+    },
+    {
+      "answer": [
+        "进入战斗",
+        "稍等，我准备一下。"
+      ],
+      "deal": null,
+      "msg": "就让你见识见识我的厉害！",
+      "dir": 0,
+      "groupId": 553,
+      "id": 1614,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "战胜这个奇怪家伙了，话说回来好像还是第一次见到这个品种的精灵，它身上有一股邪恶的气息。",
+      "dir": 0,
+      "groupId": 554,
+      "id": 1615,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "先收下来吧。"
+      ],
+      "deal": null,
+      "msg": "不过它逃走时，似乎留下了什么东西。",
+      "dir": 0,
+      "groupId": 554,
+      "id": 1616,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "……",
+      "dir": 0,
+      "groupId": 555,
+      "id": 1617,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "为什么“黄晶矿”会说话呢？",
+      "dir": 0,
+      "groupId": 555,
+      "id": 1618,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "天呐，吉尔你怎么都变成这个样子了，发生什么事了。",
+      "dir": 0,
+      "groupId": 556,
+      "id": 1619,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "吉尔…（好难受…那个黑黑的能量…弄得吉尔好难受…）",
+      "dir": 0,
+      "groupId": 556,
+      "id": 1620,
+      "npcId": 5825
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "吉尔…（不能让黑黑的能量…溢出来…吉尔必须堵住它们…）",
+      "dir": 0,
+      "groupId": 556,
+      "id": 1621,
+      "npcId": 5825
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "警告：检测到吉尔体内正在急剧上升，若不进行紧急处理，精灵将存在生命危险。",
+      "dir": 0,
+      "groupId": 556,
+      "id": 1622,
+      "npcId": 93
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "吉尔应该是吸收了大量异常的能量，体内的免疫系统一时半会无法中和这股外来的能量。",
+      "dir": 0,
+      "groupId": 556,
+      "id": 1623,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "去对吉尔使用【水流射击】"
+      ],
+      "deal": null,
+      "msg": "既然如此，就用水给吉尔降温吧，这样它应该会好受一些。",
+      "dir": 0,
+      "groupId": 556,
+      "id": 1624,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "吉尔恢复正常了，看样子降温疗法很有效，但不知道能维持多久…",
+      "dir": 0,
+      "groupId": 557,
+      "id": 1625,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "吉尔吉尔。（吉尔好舒服，谢谢你，正义的赛尔机器人。）",
+      "dir": 0,
+      "groupId": 557,
+      "id": 1626,
+      "npcId": 5825
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "能帮到吉尔就好。保险起见，之后有时间，我再来给你做一遍全身检查吧",
+      "dir": 0,
+      "groupId": 557,
+      "id": 1627,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "但我现在想知道，火山星究竟发生了什么，现在处处都弥漫着异常的气息，吉尔你知道什么吗？",
+      "dir": 0,
+      "groupId": 557,
+      "id": 1628,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "吉尔吉尔。（吉尔也不知道发生了什么。就是突然有一天，<font color=\"0xf80909\">地下深处传来了奇怪的能量</font>。）",
+      "dir": 0,
+      "groupId": 557,
+      "id": 1629,
+      "npcId": 5825
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "吉尔吉尔。（当吉尔反应过来时，周围的同伴都变得十分难受。吉尔必须保护同伴，于是就用身体去堵住那股能量。）",
+      "dir": 0,
+      "groupId": 557,
+      "id": 1630,
+      "npcId": 5825
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "吉尔吉尔。（洞穴里的其他事物，似乎也受到了影响，<font color=\"0xf80909\">岩石变得松动无比</font>。吉尔轻轻碰一下就会掉下来。赛尔机器人可要小心了。）",
+      "dir": 0,
+      "groupId": 557,
+      "id": 1631,
+      "npcId": 5825
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "吉尔吉尔。（这股奇怪的能量还把我们的<font color=\"0xf80909\">老大</font>召唤了回来，不过他现在去外边调查情况了。）",
+      "dir": 0,
+      "groupId": 557,
+      "id": 1632,
+      "npcId": 5825
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "吉尔吉尔。（老大让我们不要轻举妄动，只需要吉尔<font color=\"0xf80909\">触摸墙上的图腾</font>，他就会飞回来保护我们。）",
+      "dir": 0,
+      "groupId": 557,
+      "id": 1633,
+      "npcId": 5825
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "原来如此，勇敢的吉尔挺身而出保护了同伴，但这样还是不能阻止奇怪能量的蔓延。",
+      "dir": 0,
+      "groupId": 557,
+      "id": 1634,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "别担心，接下来的调查就交给我们吧，我们会想办法解决火山星的异状的。",
+      "dir": 0,
+      "groupId": 557,
+      "id": 1635,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "嘿嘿，谢谢吉尔。"
+      ],
+      "deal": null,
+      "msg": "吉尔。（赛尔机器人是好机器人，谢谢你为我们所做的一切，这个送给你！）",
+      "dir": 0,
+      "groupId": 557,
+      "id": 1636,
+      "npcId": 5825
+    },
+    {
+      "answer": [
+        "（得去火山星更深处进行调查。）"
+      ],
+      "deal": null,
+      "msg": "吉尔吉尔。（地下深处究竟发生了什么呢，吉尔好担心。）",
+      "dir": 0,
+      "groupId": 558,
+      "id": 1637,
+      "npcId": 5825
+    },
+    {
+      "answer": [
+        "不客气啦。"
+      ],
+      "deal": null,
+      "msg": "吉尔吉尔。（吉尔感谢你！正义的赛尔机器人！谢谢你帮我们解决了危机！）",
+      "dir": 0,
+      "groupId": 559,
+      "id": 1638,
+      "npcId": 5825
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "是你啊，我还记得你。<font color=\"0xffd325\">${nick}</font>，没想到是你把我唤来的。",
+      "dir": 0,
+      "groupId": 560,
+      "id": 1639,
+      "npcId": 5825
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "原来吉尔说的老大是炽翼火龙呀，好久不见。看样子你也很在意火山星的情况呢。",
+      "dir": 0,
+      "groupId": 560,
+      "id": 1640,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "火山星的异状我无法置之不理，我曾在这片土地上修炼，还有许多同伴在这里生活，我得为他们做些什么。",
+      "dir": 0,
+      "groupId": 560,
+      "id": 1641,
+      "npcId": 5825
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "话说回来，许久未见，不知道你有没有沉下心来增强实力呢？趁这个机会，要不与我切磋一番？",
+      "dir": 0,
+      "groupId": 560,
+      "id": 1642,
+      "npcId": 5825
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "如果你能得到我的认可，我可以与你分享一些我调查到的情报。",
+      "dir": 0,
+      "groupId": 560,
+      "id": 1643,
+      "npcId": 5825
+    },
+    {
+      "answer": [
+        "这句话应该是我说吧！"
+      ],
+      "deal": [
+        "2_561"
+      ],
+      "msg": "好呀，我可不会手下留情哦。",
+      "dir": 0,
+      "groupId": 560,
+      "id": 1644,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "进入战斗",
+        "稍等，我准备一下。"
+      ],
+      "deal": null,
+      "msg": "准备好了吗？可别让我失望。",
+      "dir": 0,
+      "groupId": 561,
+      "id": 1645,
+      "npcId": 5825
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "不错，你的实力也不同往日，有了大幅的增强。有你在一同调查火山星的异状，我或许可以稍微轻松点了。",
+      "dir": 0,
+      "groupId": 562,
+      "id": 1646,
+      "npcId": 5825
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "没什么，这是我们应该做的。话说回来，炽翼火龙有调查出什么东西吗？",
+      "dir": 0,
+      "groupId": 562,
+      "id": 1647,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "很遗憾，除了火山运动变得异常活跃以外，我在火山星的表层几乎没有发现什么。",
+      "dir": 0,
+      "groupId": 562,
+      "id": 1648,
+      "npcId": 5825
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "那么，造成这一切异状的原因只可能来源于<font color=\"0xf80909\">星球深处</font>了，岩浆之下肯定藏有什么秘密。",
+      "dir": 0,
+      "groupId": 562,
+      "id": 1649,
+      "npcId": 5825
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "<font color=\"0xffd325\">${nick}</font>，我希望你能替我前往火山星的更深处，去调查这一切问题的源头，去阻止更坏的情况发生。",
+      "dir": 0,
+      "groupId": 562,
+      "id": 1650,
+      "npcId": 5825
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这都说的什么话，像我这么正义的机器人肯定不会放任异状不管的，放心交给我吧。",
+      "dir": 0,
+      "groupId": 562,
+      "id": 1651,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这个请你务必收下，前方路途定是险阻，希望这块火焰精华能为你带来庇佑。",
+      "dir": 0,
+      "groupId": 562,
+      "id": 1652,
+      "npcId": 5825
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "好的，谢谢你，炽翼火龙。",
+      "dir": 0,
+      "groupId": 562,
+      "id": 1653,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "再见啦。"
+      ],
+      "deal": null,
+      "msg": "不耽搁了，我该回到地表去继续调查其他情况了，希望能有新的发现。",
+      "dir": 0,
+      "groupId": 562,
+      "id": 1654,
+      "npcId": 5825
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这些奇怪的壁画…在我的记录里，赛尔先锋队以前没在火山星洞穴发现这些啊。",
+      "dir": 0,
+      "groupId": 563,
+      "id": 1655,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "推测：火山星的剧烈运动，使得这些潜藏在岩壁之下的壁画得以重见天日。",
+      "dir": 0,
+      "groupId": 563,
+      "id": 1656,
+      "npcId": 93
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我来看看…这些壁画似乎都对应着一只<font color=\"0xf80909\">精灵的图腾</font>，上面好像还有能够嵌入物品的凹槽。",
+      "dir": 0,
+      "groupId": 563,
+      "id": 1657,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我记得一路上，我们好像收集到了一些物品，把这些物品试着放进去看看吧。",
+      "dir": 0,
+      "groupId": 563,
+      "id": 1658,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "而且，岩浆里有巴多在游泳诶。这是非常少见的情况，难道这也和火山星的现状有关吗？",
+      "dir": 0,
+      "groupId": 563,
+      "id": 1659,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "明白了，我留意的。"
+      ],
+      "deal": null,
+      "msg": "提示：使用<font color=\"0xf80909\">水流射击</font>击中巴多，即可令其进入眩晕状态，请放心，这不会对巴多造成实质性的伤害。",
+      "dir": 0,
+      "groupId": 563,
+      "id": 1660,
+      "npcId": 93
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "话说回来，我怎么没见到里奥斯的身影，她去哪里了？",
+      "dir": 0,
+      "groupId": 563,
+      "id": 1661,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "咯嘎嘎——！！",
+      "dir": 0,
+      "groupId": 564,
+      "id": 1662,
+      "npcId": 5825
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "火山星洞穴深处的温度比以往高了不止一点，直接让这里的赤甲虫于赤西格躁动起来了。",
+      "dir": 0,
+      "groupId": 564,
+      "id": 1663,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "侦测到敌对反应，主人，请做好应战准备。",
+      "dir": 0,
+      "groupId": 564,
+      "id": 1664,
+      "npcId": 93
+    },
+    {
+      "answer": null,
+      "deal": [
+        "2_565"
+      ],
+      "msg": "看样子这是不可避免的一战了。",
+      "dir": 0,
+      "groupId": 564,
+      "id": 1665,
+      "npcId": 5825
+    },
+    {
+      "answer": [
+        "进入战斗",
+        "稍等，我准备一下。"
+      ],
+      "deal": null,
+      "msg": "咯嘎嘎——！！",
+      "dir": 0,
+      "groupId": 565,
+      "id": 1666,
+      "npcId": 5825
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "赤西格被暂时击退了，它在这似乎里留下了什么东西？先收下来吧。",
+      "dir": 0,
+      "groupId": 566,
+      "id": 1667,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "放入【邪火之眼】",
+        "稍等一下"
+      ],
+      "deal": null,
+      "msg": "这看上去像是火炎贝的图腾，要试着把收集到的物品放进去吗？",
+      "dir": 0,
+      "groupId": 567,
+      "id": 1668,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "放入【炽火精华】",
+        "稍等一下"
+      ],
+      "deal": null,
+      "msg": "这看上去像是赤甲虫的图腾，要试着把收集到的物品放进去吗？",
+      "dir": 0,
+      "groupId": 568,
+      "id": 1669,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "放入【狂热残片】",
+        "稍等一下"
+      ],
+      "deal": null,
+      "msg": "这看上去像是吉尔的图腾，要试着把收集到的物品放进去吗？",
+      "dir": 0,
+      "groupId": 569,
+      "id": 1670,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "放入【流火星源】",
+        "稍等一下"
+      ],
+      "deal": null,
+      "msg": "这看上去像是里奥斯的图腾，要试着把收集到的物品放进去吗？",
+      "dir": 0,
+      "groupId": 570,
+      "id": 1671,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "图腾被顺利点亮了，看看能发现什么有趣的信息。",
+      "dir": 0,
+      "groupId": 571,
+      "id": 1672,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "似乎还没有收集到正确的物品。",
+      "dir": 0,
+      "groupId": 572,
+      "id": 1673,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "啧，这股邪恶的气息，不会错了…是死黑能量……",
+      "dir": 0,
+      "groupId": 573,
+      "id": 1674,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "正在检索…死黑能量…记录样本过少。仅检索到一条信息：死黑能量可将不同的生物基因进行融合，进而制造出全新物种…",
+      "dir": 0,
+      "groupId": 573,
+      "id": 1675,
+      "npcId": 93
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "经过演算，火山星的死黑能量或为过去遗留的残余能量。死黑能量蔓延不仅会对精灵生物造成影响，也会对星球本身地脉造成不可逆的伤害。",
+      "dir": 0,
+      "groupId": 573,
+      "id": 1676,
+      "npcId": 93
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "火山星短期内爆发如此多的异状，肯定和它脱不开干系，我们得想办法继续深入，铲除死黑能量的源头！",
+      "dir": 0,
+      "groupId": 573,
+      "id": 1677,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "经测算，此处洞口受到死黑能量淤堵，自然降解需要花费大量时间，暂时无法深入探索。",
+      "dir": 0,
+      "groupId": 573,
+      "id": 1678,
+      "npcId": 93
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "还有别的办法吗？现在的我可做不到眼睁睁地看着死黑能量侵蚀火山星的一切。",
+      "dir": 0,
+      "groupId": 573,
+      "id": 1679,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "回答：对死黑能量使用<font color=\"0xf80909\">火焰元素</font>，可加速其降解过程。但最快也许消耗几个标准日的等待时间。",
+      "dir": 0,
+      "groupId": 573,
+      "id": 1680,
+      "npcId": 93
+    },
+    {
+      "answer": null,
+      "deal": [
+        "2_574"
+      ],
+      "msg": "不管怎么样，我们得赶紧行动起来。<font color=\"0xf80909\">火焰元素</font>，我记得可以在火山星地表通过<font color=\"0xf80909\">与火炎贝战斗收集</font>获得，赶紧去看看吧。",
+      "dir": 0,
+      "groupId": 573,
+      "id": 1681,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "使用火焰元素",
+        "稍等一下"
+      ],
+      "deal": null,
+      "msg": "降解淤堵在洞口死黑能量需要花费5个火焰元素，要使用吗？",
+      "dir": 0,
+      "groupId": 574,
+      "id": 1682,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "不行，还没收集到足够的火焰元素。",
+      "dir": 0,
+      "groupId": 575,
+      "id": 1683,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "好了，这样应该就可以了，已经加速降解一部分死黑能量了，接下来只需要耐心等待了。",
+      "dir": 0,
+      "groupId": 576,
+      "id": 1684,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "咦？降解后的死黑能量中居然有这些好东西，那我就全部收下了。",
+      "dir": 0,
+      "groupId": 576,
+      "id": 1685,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "去对吉尔使用【水流射击】"
+      ],
+      "deal": null,
+      "msg": "吉尔…（吉尔…好难受…）",
+      "dir": 0,
+      "groupId": 577,
+      "id": 1686,
+      "npcId": 5825
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "秋深凉露白，月下识桂香。又到了一年一度的中秋佳节，桂香和月光早已指引着我外出采集。",
+      "dir": 0,
+      "groupId": 578,
+      "id": 1687,
+      "npcId": 4819
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "桂花树一共有5层，在行动界面选择行动格子后，会在对应列和行数字的层树上盛开桂花。例如，选择第1列第2行的行动，就会在第1、2层各盛开一个桂花。（每层最多盛开3朵桂花）",
+      "dir": 0,
+      "groupId": 578,
+      "id": 1688,
+      "npcId": 4819
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "接着，我将执行格子上的行动，向上或向下移动，并且收集当前到达层的所有桂花，快帮助我收集更多的桂花吧！",
+      "dir": 0,
+      "groupId": 578,
+      "id": 1689,
+      "npcId": 4819
     }
   ]
 }

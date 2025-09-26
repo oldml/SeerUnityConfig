@@ -186,6 +186,83 @@
       "subtype": 0,
       "userbit": 17,
       "userinfo": 122601
+    },
+    {
+      "reward": "1_1706926_2",
+      "id": 18,
+      "param": 2,
+      "redbadge": 131181,
+      "skintype": 6,
+      "stainfo": -1785716596,
+      "subtype": 0,
+      "userbit": 18,
+      "userinfo": 122601
+    },
+    {
+      "reward": "14_168_1",
+      "id": 19,
+      "param": 5,
+      "redbadge": 131181,
+      "skintype": 6,
+      "stainfo": -1785716595,
+      "subtype": 0,
+      "userbit": 19,
+      "userinfo": 122601
+    },
+    {
+      "reward": "12_540097_1",
+      "id": 20,
+      "param": 8,
+      "redbadge": 131181,
+      "skintype": 6,
+      "stainfo": -1785716594,
+      "subtype": 0,
+      "userbit": 20,
+      "userinfo": 122601
+    },
+    {
+      "reward": "10_171_11",
+      "id": 21,
+      "param": 2,
+      "redbadge": 131183,
+      "skintype": 7,
+      "stainfo": -1785716593,
+      "subtype": 0,
+      "userbit": 21,
+      "userinfo": 122601
+    },
+    {
+      "reward": "1_1723117_50",
+      "id": 22,
+      "param": 5,
+      "redbadge": 131183,
+      "skintype": 7,
+      "stainfo": -1785716592,
+      "subtype": 0,
+      "userbit": 22,
+      "userinfo": 122601
+    },
+    {
+      "reward": "1_300065_2",
+      "id": 23,
+      "param": 2,
+      "redbadge": 131185,
+      "skintype": 8,
+      "stainfo": -1785716591,
+      "subtype": 0,
+      "userbit": 23,
+      "userinfo": 122601
+    },
+    {
+      "reward": "14_169_1",
+      "id": 24,
+      "param": 5,
+      "redbadge": 131185,
+      "skintype": 8,
+      "stainfo": -1785716590,
+      "subtype": 0,
+      "userbit": 24,
+      "userinfo": 122601
     }
   ]
 }

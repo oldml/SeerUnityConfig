@@ -120498,6 +120498,42 @@
         "Type": 3
       },
       {
+        "Des": "无极圣武专属全能刻印",
+        "EffectDes": "攻击5/56,防御2/27,特防2/27,速度4/40,体力9/90",
+        "Arg": null,
+        "BaseAttriValue": [
+          5,
+          2,
+          0,
+          2,
+          4,
+          9
+        ],
+        "ExtraAttriValue": null,
+        "MaxAttriValue": [
+          56,
+          27,
+          0,
+          27,
+          40,
+          90
+        ],
+        "MonsterID": [
+          4800
+        ],
+        "MoveID": null,
+        "Grade": 5,
+        "ID": 42593,
+        "Level": 100,
+        "Max": 99,
+        "MintmarkClass": 0,
+        "Quality": 5,
+        "Rare": 1,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
         "Des": "小碎片",
         "EffectDes": "",
         "Arg": null,

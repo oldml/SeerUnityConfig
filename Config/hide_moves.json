@@ -12608,6 +12608,30 @@
         "petId": 4815
       },
       {
+        "moveName1": "潮涌核",
+        "moveName2": "共鸣",
+        "moveId": 38085,
+        "petId": 4816
+      },
+      {
+        "moveName1": "圣武",
+        "moveName2": "虚极拓世",
+        "moveId": 38088,
+        "petId": 4800
+      },
+      {
+        "moveName1": "盈盘",
+        "moveName2": "衬怀乡",
+        "moveId": 38091,
+        "petId": 4817
+      },
+      {
+        "moveName1": "天机",
+        "moveName2": "解明",
+        "moveId": 38094,
+        "petId": 4818
+      },
+      {
         "moveName1": "神灵",
         "moveName2": "救世光",
         "moveId": 31143,

@@ -1,6 +1,6 @@
-﻿**Parsing finished with 344 successes and 107 failures.**
+﻿**Parsing finished with 359 successes and 104 failures.**
 
-**Failed Files (107 files)**
+**Failed Files (104 files)**
   2025YearPetTrain.bytes
   AdAstraBoss.bytes
   AdventureChapter.bytes
@@ -18,7 +18,6 @@
   brave_tower.bytes
   BuyPopup.bytes
   chapterbranchpoint.bytes
-  chapterpoint_temp.bytes
   CombatBossInfo.bytes
   CombatLabInfo.bytes
   diamon_box.bytes
@@ -52,7 +51,6 @@
   natolesJourneyOfRevivalTaskConfig.bytes
   new_monster_level_0119.bytes
   new_monster_level_0428.bytes
-  new_monster_level_temp.bytes
   new_monster_level0930.bytes
   new_se_config.bytes
   new_starmap.bytes
@@ -62,7 +60,6 @@
   partner0331.bytes
   partnerEffectUpgrade0331.bytes
   pass_task.bytes
-  petbook_temp.bytes
   petbookOptimizeMonster.bytes
   PreferentialBest.bytes
   PremiumPetInfo.bytes
@@ -110,4 +107,4 @@
   yizhishang_shop.bytes
 
 ---
-**Total duration: 6.93 seconds.**
+**Total duration: 6.78 seconds.**

@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "Name": "福尔摩苏斯因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400519,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "西塔伦因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400518,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "娜诺因子",
       "catID": 24,
       "Hide": 0,

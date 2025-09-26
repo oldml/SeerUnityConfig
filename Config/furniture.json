@@ -4292,6 +4292,15 @@
       "id": 540096,
       "type": 2,
       "vipOnly": 0
+    },
+    {
+      "funcParam": "",
+      "name": "深空一号纪念",
+      "func": 0,
+      "funcIdentity": 0,
+      "id": 540097,
+      "type": 2,
+      "vipOnly": 0
     }
   ]
 }

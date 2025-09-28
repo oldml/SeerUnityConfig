@@ -3025,6 +3025,23 @@
       "signType": 0,
       "sorting": 3,
       "type": 5
+    },
+    {
+      "args": "Assets/Game/UI/sixthousandcelebration/sixthousandcelebration.prefab",
+      "beginning": "2025_09_26 10:00:00",
+      "ending": "2025_12_28 23:59:59",
+      "labelName": "启航6000天",
+      "name": "sixthousandcelebration",
+      "channel": 0,
+      "Go": 445,
+      "helptips": 0,
+      "id": 193,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 123,
+      "signType": 0,
+      "sorting": 5,
+      "type": 5
     }
   ]
 }

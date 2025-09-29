@@ -7447,6 +7447,31 @@
       "weekly": 0,
       "weeklyAdd": 0,
       "showTag": false
+    },
+    {
+      "image": "4763",
+      "isnew": "1",
+      "isrecommend": "",
+      "monsterid": "4763",
+      "param": "{Design:206}",
+      "quality": "s",
+      "statlog": "H5精灵因子关卡系统功能,魇魔,点击进入关卡",
+      "tag": [
+        4,
+        6
+      ],
+      "type": [
+        1
+      ],
+      "difficult": 0,
+      "fightType": 1,
+      "hide": 0,
+      "id": 268,
+      "moduleid": 151,
+      "sort": 1069,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
     }
   ]
 }

@@ -3030,7 +3030,7 @@
       "args": "Assets/Game/UI/sixthousandcelebration/sixthousandcelebration.prefab",
       "beginning": "2025_09_26 10:00:00",
       "ending": "2025_12_28 23:59:59",
-      "labelName": "启航6000天",
+      "labelName": "航行6000天",
       "name": "sixthousandcelebration",
       "channel": 0,
       "Go": 445,

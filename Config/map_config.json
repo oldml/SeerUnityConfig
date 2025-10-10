@@ -275,22 +275,14 @@
         "changeMapComp": {
           "component": [
             {
-              "targetID": 1,
-              "x": 95,
-              "y": 213.5
-            },
-            {
               "targetID": 16,
-              "x": 805.95,
-              "y": 164.75
+              "x": 2214,
+              "y": 152
             }
           ]
         },
         "Entries": {
           "Entry": [
-            {
-              "FromMap": 1
-            },
             {
               "FromMap": 16
             }
@@ -303,13 +295,13 @@
           "component": [
             {
               "targetID": 17,
-              "x": 478.65,
-              "y": 114.5
+              "x": 566,
+              "y": 116
             },
             {
               "targetID": 15,
-              "x": 108.7,
-              "y": 298.5
+              "x": 120,
+              "y": 391
             }
           ]
         },

@@ -410,6 +410,16 @@
         "price": 8.8,
         "productID": 200061,
         "vip": 1
+      },
+      {
+        "name": "解锁巴姆的宝藏",
+        "itemID": [
+          1727476
+        ],
+        "gold": 1,
+        "price": 9.8,
+        "productID": 200062,
+        "vip": 1
       }
     ]
   }

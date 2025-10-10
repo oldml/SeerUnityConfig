@@ -12903,6 +12903,23 @@
         "ID": 761,
         "MonID": 4800,
         "Type": 0
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "地狱使者·伊洛特斯",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 762,
+        "MonID": 4477,
+        "Type": 3
       }
     ]
   }

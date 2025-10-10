@@ -6,13 +6,6 @@
       "suffix": "_temp",
       "tables": "petbook,new_monster_level,pvp_vote,chapterpoint,chapterreward",
       "id": 1
-    },
-    {
-      "endTime": "2025/10/10 10:00:00",
-      "startTime": "2025/10/03 00:00:00",
-      "suffix": "_guoqing",
-      "tables": "AdAstraGalaxy",
-      "id": 2
     }
   ]
 }

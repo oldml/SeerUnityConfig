@@ -3808,6 +3808,41 @@
       "currAppDo": 0,
       "id": 614,
       "isFullScreen": 0
+    },
+    {
+      "moduleName": "DeathBlackEnergy",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 615,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "treasureOfBamPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 616,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "midAutumnSkin",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 617,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "xiaohuohouTraining",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 618,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "BlazeMonopolyGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 619,
+      "isFullScreen": 1
     }
   ]
 }

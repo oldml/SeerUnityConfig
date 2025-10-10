@@ -829,6 +829,56 @@
       "id": 83,
       "scale": 1,
       "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "贝尔恩克",
+      "portrait": "beierenke_fg",
+      "CharacterID": 4820,
+      "id": 84,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "炽翼火龙",
+      "portrait": "chiyihuolong_fg",
+      "CharacterID": 1238,
+      "id": 85,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "赤西格",
+      "portrait": "chixige_fg",
+      "CharacterID": 1759,
+      "id": 86,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "吉尔",
+      "portrait": "jier_fg",
+      "CharacterID": 35,
+      "id": 87,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "吉尔",
+      "portrait": "jiersp_fg",
+      "CharacterID": 94,
+      "id": 88,
+      "scale": 1,
+      "silhouette": 0
     }
   ]
 }

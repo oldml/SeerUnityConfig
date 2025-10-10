@@ -411,7 +411,7 @@
     {
       "args": "",
       "beginning": "2025_09_26 10:00:00",
-      "ending": "2025_10_10 10:00:00",
+      "ending": "2025_10_10 23:59:59",
       "labelName": "一键极品折扣",
       "name": "oneKeyBestLimitDiscount",
       "channel": 0,
@@ -1567,7 +1567,7 @@
     {
       "args": "",
       "beginning": "2025_10_03 00:00:00",
-      "ending": "2025_10_10 10:00:00",
+      "ending": "2025_10_10 23:59:59",
       "labelName": "刻印宝石特惠",
       "name": "mintstonesellpanel",
       "channel": 0,
@@ -2791,7 +2791,7 @@
     {
       "args": "",
       "beginning": "2025_09_26 10:00:00",
-      "ending": "2025_10_10 10:00:00",
+      "ending": "2025_10_10 23:59:59",
       "labelName": "钻石金卡",
       "name": "NationalDayGoldCard",
       "channel": 0,
@@ -2808,7 +2808,7 @@
     {
       "args": "",
       "beginning": "2025_10_03 00:00:00",
-      "ending": "2025_10_10 10:00:00",
+      "ending": "2025_10_10 23:59:59",
       "labelName": "残局整理计划",
       "name": "OrganizeEndgameActivity",
       "channel": 0,
@@ -2842,7 +2842,7 @@
     {
       "args": "",
       "beginning": "2025_10_03 00:00:00",
-      "ending": "2025_10_10 10:00:00",
+      "ending": "2025_10_10 23:59:59",
       "labelName": "月下识桂香",
       "name": "sweetOsmanthusActivity",
       "channel": 0,
@@ -2910,7 +2910,7 @@
     {
       "args": "",
       "beginning": "2025_09_26 10:00:00",
-      "ending": "2025_10_10 10:00:00",
+      "ending": "2025_10_10 23:59:59",
       "labelName": "无极圣武",
       "name": "wujishengwuModule",
       "channel": 0,

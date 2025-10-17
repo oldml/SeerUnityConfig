@@ -68,7 +68,7 @@
         "ExchangeNum": 20,
         "ID": 8,
         "Platform": 0,
-        "RewardID": 300671,
+        "RewardID": 300136,
         "RewardNum": 1,
         "SubNum": 20,
         "UserInfo": 124095
@@ -77,27 +77,27 @@
         "ExchangeNum": 20,
         "ID": 9,
         "Platform": 0,
-        "RewardID": 1706826,
+        "RewardID": 300405,
         "RewardNum": 1,
-        "SubNum": 4,
+        "SubNum": 20,
         "UserInfo": 124096
       },
       {
         "ExchangeNum": 20,
         "ID": 10,
         "Platform": 0,
-        "RewardID": 300075,
+        "RewardID": 300021,
         "RewardNum": 1,
-        "SubNum": 2,
+        "SubNum": 7,
         "UserInfo": 124097
       },
       {
         "ExchangeNum": 20,
         "ID": 11,
         "Platform": 0,
-        "RewardID": 300673,
+        "RewardID": 300075,
         "RewardNum": 1,
-        "SubNum": 5,
+        "SubNum": 2,
         "UserInfo": 124098
       }
     ]

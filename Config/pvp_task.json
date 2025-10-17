@@ -8,7 +8,7 @@
       "id": 1,
       "pos": 0,
       "rarity": 1,
-      "subkey": 20250711,
+      "subkey": 20251017,
       "time": 1,
       "userinfo": 0,
       "value": 1
@@ -21,7 +21,7 @@
       "id": 2,
       "pos": 0,
       "rarity": 1,
-      "subkey": 20250711,
+      "subkey": 20251017,
       "time": 1,
       "userinfo": 0,
       "value": 1
@@ -34,7 +34,7 @@
       "id": 3,
       "pos": 0,
       "rarity": 1,
-      "subkey": 20250711,
+      "subkey": 20251017,
       "time": 1,
       "userinfo": 0,
       "value": 3
@@ -47,7 +47,7 @@
       "id": 4,
       "pos": 0,
       "rarity": 1,
-      "subkey": 20250711,
+      "subkey": 20251017,
       "time": 1,
       "userinfo": 0,
       "value": 2
@@ -60,7 +60,7 @@
       "id": 5,
       "pos": 0,
       "rarity": 2,
-      "subkey": 20250711,
+      "subkey": 20251017,
       "time": 1,
       "userinfo": 0,
       "value": 3
@@ -73,7 +73,7 @@
       "id": 6,
       "pos": 0,
       "rarity": 2,
-      "subkey": 20250711,
+      "subkey": 20251017,
       "time": 1,
       "userinfo": 0,
       "value": 4
@@ -86,7 +86,7 @@
       "id": 7,
       "pos": 0,
       "rarity": 2,
-      "subkey": 20250711,
+      "subkey": 20251017,
       "time": 1,
       "userinfo": 0,
       "value": 5
@@ -99,7 +99,7 @@
       "id": 8,
       "pos": 0,
       "rarity": 2,
-      "subkey": 20250711,
+      "subkey": 20251017,
       "time": 1,
       "userinfo": 0,
       "value": 8
@@ -112,7 +112,7 @@
       "id": 1001,
       "pos": 0,
       "rarity": 0,
-      "subkey": 20250711,
+      "subkey": 20251017,
       "time": 2,
       "userinfo": 20581,
       "value": 35
@@ -125,7 +125,7 @@
       "id": 1002,
       "pos": 1,
       "rarity": 0,
-      "subkey": 20250711,
+      "subkey": 20251017,
       "time": 2,
       "userinfo": 20581,
       "value": 20
@@ -138,7 +138,7 @@
       "id": 1003,
       "pos": 0,
       "rarity": 0,
-      "subkey": 20250711,
+      "subkey": 20251017,
       "time": 2,
       "userinfo": 20582,
       "value": 200
@@ -151,7 +151,7 @@
       "id": 1004,
       "pos": 1,
       "rarity": 0,
-      "subkey": 20250711,
+      "subkey": 20251017,
       "time": 2,
       "userinfo": 20582,
       "value": 20
@@ -164,7 +164,7 @@
       "id": 1005,
       "pos": 0,
       "rarity": 0,
-      "subkey": 20250711,
+      "subkey": 20251017,
       "time": 2,
       "userinfo": 20583,
       "value": 10
@@ -177,33 +177,33 @@
       "id": 1006,
       "pos": 1,
       "rarity": 0,
-      "subkey": 20250711,
+      "subkey": 20251017,
       "time": 2,
       "userinfo": 20583,
       "value": 15
     },
     {
       "describe": "参与80场巅峰圣战竞技/休闲模式/专家模式对战",
-      "rewardinfo": "1_1727309_1",
+      "rewardinfo": "1_1727487_1",
       "title": "赛季任务1",
       "exp": 0,
       "id": 10001,
       "pos": 0,
       "rarity": 0,
-      "subkey": 20250711,
+      "subkey": 20251017,
       "time": 4,
       "userinfo": 124901,
       "value": 80
     },
     {
       "describe": "累计完成10次每周任务",
-      "rewardinfo": "1_1727309_1",
+      "rewardinfo": "1_1727487_1",
       "title": "赛季任务2",
       "exp": 0,
       "id": 10002,
       "pos": 1,
       "rarity": 0,
-      "subkey": 20250711,
+      "subkey": 20251017,
       "time": 4,
       "userinfo": 124901,
       "value": 10

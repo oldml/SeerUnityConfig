@@ -3843,6 +3843,34 @@
       "currAppDo": 1,
       "id": 619,
       "isFullScreen": 1
+    },
+    {
+      "moduleName": "peakJihadHonorPantheon",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 620,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "sPetMoerae",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 621,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "vipGiftBoxPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 622,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "badboyswork",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 623,
+      "isFullScreen": 1
     }
   ]
 }

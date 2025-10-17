@@ -323,7 +323,7 @@
       "opentime": 0,
       "priority": 4,
       "rare": 4,
-      "unlock": 600
+      "unlock": 0
     },
     {
       "describe": "当回合数为3的倍数时，将额外获取一次材料选择",
@@ -336,7 +336,7 @@
       "opentime": 0,
       "priority": 17,
       "rare": 4,
-      "unlock": 1500
+      "unlock": 0
     },
     {
       "describe": "每回合获取额外的1枚齿轮",
@@ -349,7 +349,7 @@
       "opentime": 0,
       "priority": 18,
       "rare": 4,
-      "unlock": 4000
+      "unlock": 0
     },
     {
       "describe": "每回合结算时，获取等同于齿轮数量的螺母",
@@ -362,7 +362,7 @@
       "opentime": 0,
       "priority": 19,
       "rare": 4,
-      "unlock": 6000
+      "unlock": 0
     },
     {
       "describe": "玩家每次阶段切换提交螺母时，额外获取5枚齿轮",
@@ -411,7 +411,7 @@
       "id": 32,
       "isopen": 2,
       "namedescribe": 4,
-      "opentime": 1759420800,
+      "opentime": 0,
       "priority": 17,
       "rare": 4,
       "unlock": 0

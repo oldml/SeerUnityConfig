@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "time": "2025.7-2025.10",
+      "account1": 264391071,
+      "account2": 346196054,
+      "account3": 105538397,
+      "id": 1,
+      "score1": 2203,
+      "score2": 1891,
+      "score3": 1890,
+      "winrate1": 65,
+      "winrate2": 62,
+      "winrate3": 51
+    }
+  ]
+}

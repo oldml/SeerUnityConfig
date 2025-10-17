@@ -690,9 +690,9 @@
     },
     {
       "commodity": "",
-      "petinfo": "4785_6285_29089_0",
+      "petinfo": "4823_6315_38114_0",
       "bagLimit": 0,
-      "consumeitemid": 1727309,
+      "consumeitemid": 1727487,
       "discount": 0,
       "id": 44,
       "limit": 6,
@@ -705,10 +705,10 @@
       "userinfo": 124701
     },
     {
-      "commodity": "6_741_1",
+      "commodity": "6_763_1",
       "petinfo": "0_0_0_0",
       "bagLimit": 0,
-      "consumeitemid": 1727309,
+      "consumeitemid": 1727487,
       "discount": 0,
       "id": 45,
       "limit": 6,

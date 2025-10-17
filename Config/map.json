@@ -15960,6 +15960,49 @@
       "id": 2158,
       "MapRatio": 1,
       "pic": 2158
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "火山星地核",
+      "sound": "BGM_487",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": [
+        216,
+        206
+      ],
+      "WildBossID": [
+        4824
+      ],
+      "WildBossPoint": [
+        539,
+        235,
+        559,
+        453,
+        941,
+        480,
+        1200,
+        551,
+        714,
+        704,
+        537,
+        1005,
+        246,
+        1225,
+        1019,
+        1089,
+        791,
+        36
+      ],
+      "WildBossWeight": [
+        1
+      ],
+      "enterMap": 0,
+      "GroupID": 20104,
+      "id": 2159,
+      "MapRatio": 1,
+      "pic": 1343
     }
   ]
 }

@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "checkpoint": "待添加",
+      "gift": "1_1723855_40000",
+      "introduce": "待添加",
+      "name": "第一日",
+      "id": 1,
+      "type": 1
+    },
+    {
+      "checkpoint": "待添加",
+      "gift": "1_1723855_40000",
+      "introduce": "待添加",
+      "name": "第二日",
+      "id": 2,
+      "type": 1
+    },
+    {
+      "checkpoint": "待添加",
+      "gift": "1_1723855_40000",
+      "introduce": "待添加",
+      "name": "第三日",
+      "id": 3,
+      "type": 1
+    },
+    {
+      "checkpoint": "待添加",
+      "gift": "1_1723855_40000",
+      "introduce": "待添加",
+      "name": "第四日",
+      "id": 4,
+      "type": 1
+    },
+    {
+      "checkpoint": "待添加",
+      "gift": "1_1723855_40000",
+      "introduce": "待添加",
+      "name": "第五日",
+      "id": 5,
+      "type": 1
+    },
+    {
+      "checkpoint": "待添加",
+      "gift": "1_1723116_10",
+      "introduce": "待添加",
+      "name": "第六日",
+      "id": 6,
+      "type": 1
+    },
+    {
+      "checkpoint": "待添加",
+      "gift": "1_1723116_10",
+      "introduce": "待添加",
+      "name": "第七日",
+      "id": 7,
+      "type": 1
+    },
+    {
+      "checkpoint": "待添加",
+      "gift": "6_158_1",
+      "introduce": "待添加",
+      "name": "挑战一",
+      "id": 8,
+      "type": 2
+    },
+    {
+      "checkpoint": "待添加",
+      "gift": "6_159_1",
+      "introduce": "待添加",
+      "name": "挑战二",
+      "id": 9,
+      "type": 2
+    },
+    {
+      "checkpoint": "待添加",
+      "gift": "6_160_1",
+      "introduce": "待添加",
+      "name": "挑战三",
+      "id": 10,
+      "type": 2
+    }
+  ]
+}

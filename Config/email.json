@@ -681,6 +681,11 @@
           "_text": "weixin://dl/business/?appid=wxf0d22ab84976dc91&path=pages/yinliu/index&query=configId%3D3%26gameId%3D2%26onechannel%3Dgame%26twochannel%3Dgamemail",
           "type": "url",
           "id": 137
+        },
+        {
+          "_text": "https://seer.61.com/events/tjxb",
+          "type": "url",
+          "id": 138
         }
       ]
     }

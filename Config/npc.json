@@ -879,6 +879,56 @@
       "id": 88,
       "scale": 1,
       "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "火炎巨鹿·里奥斯",
+      "portrait": "liaosi_hyjl_fg",
+      "CharacterID": 3786,
+      "id": 89,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "茸炘兔",
+      "portrait": "rxt_fg",
+      "CharacterID": 4824,
+      "id": 90,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "星光·里奥斯",
+      "portrait": "liaosi_xg_fg",
+      "CharacterID": 4822,
+      "id": 91,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "海盗精英·α",
+      "portrait": "obisoldier_fg",
+      "CharacterID": 95,
+      "id": 92,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "海盗精英·γ",
+      "portrait": "obisoldier4_fg",
+      "CharacterID": 96,
+      "id": 93,
+      "scale": 1,
+      "silhouette": 0
     }
   ]
 }

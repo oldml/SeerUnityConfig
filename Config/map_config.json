@@ -8310,6 +8310,19 @@
         "changeMapComp": {
           "component": [
             {
+              "targetID": 17,
+              "x": 200,
+              "y": 190
+            }
+          ]
+        },
+        "Entries": null,
+        "id": 1343
+      },
+      {
+        "changeMapComp": {
+          "component": [
+            {
               "targetID": 1238,
               "x": 0,
               "y": 0
@@ -8820,19 +8833,6 @@
         },
         "Entries": null,
         "id": 2158
-      },
-      {
-        "changeMapComp": {
-          "component": [
-            {
-              "targetID": 17,
-              "x": 200,
-              "y": 190
-            }
-          ]
-        },
-        "Entries": null,
-        "id": 2159
       },
       {
         "changeMapComp": {

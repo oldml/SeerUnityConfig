@@ -142,6 +142,39 @@
       "monsterid": 3524,
       "order": 0,
       "type": 4
+    },
+    {
+      "Arg2": "4",
+      "LevelLock": "",
+      "name": "神觉·米斯蒂克",
+      "Arg1": 4,
+      "dataKey": 11,
+      "id": 14,
+      "monsterid": 4676,
+      "order": 0,
+      "type": 1
+    },
+    {
+      "Arg2": "3",
+      "LevelLock": "",
+      "name": "芳馨·茉蕊儿",
+      "Arg1": 3,
+      "dataKey": 12,
+      "id": 15,
+      "monsterid": 3613,
+      "order": 0,
+      "type": 1
+    },
+    {
+      "Arg2": "1_2",
+      "LevelLock": "",
+      "name": "擎空凡尔斯",
+      "Arg1": 2,
+      "dataKey": 14,
+      "id": 16,
+      "monsterid": 3697,
+      "order": 0,
+      "type": 1
     }
   ]
 }

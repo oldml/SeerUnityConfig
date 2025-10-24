@@ -1414,8 +1414,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4822,
-            "ImageID": 4822,
+            "ID": 4825,
+            "ImageID": 4825,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1425,8 +1425,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4823,
-            "ImageID": 4823,
+            "ID": 4826,
+            "ImageID": 4826,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1436,8 +1436,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4824,
-            "ImageID": 4824,
+            "ID": 4827,
+            "ImageID": 4827,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1447,10 +1447,32 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 743,
-            "ImageID": 1400743,
+            "ID": 4828,
+            "ImageID": 4828,
             "Label": 0,
-            "monID": 3697,
+            "monID": 0,
+            "type": 0
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "Redirect": "module",
+            "Mintmark": null,
+            "ID": 4829,
+            "ImageID": 4829,
+            "Label": 0,
+            "monID": 0,
+            "type": 0
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "Redirect": "module",
+            "Mintmark": null,
+            "ID": 766,
+            "ImageID": 1400766,
+            "Label": 0,
+            "monID": 4825,
             "type": 1
           },
           {
@@ -1458,10 +1480,10 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 763,
-            "ImageID": 1400763,
+            "ID": 767,
+            "ImageID": 1400767,
             "Label": 0,
-            "monID": 4823,
+            "monID": 4828,
             "type": 1
           },
           {
@@ -1469,10 +1491,10 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 764,
-            "ImageID": 1400764,
+            "ID": 768,
+            "ImageID": 1400768,
             "Label": 0,
-            "monID": 3524,
+            "monID": 4829,
             "type": 1
           },
           {
@@ -1480,10 +1502,10 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 765,
-            "ImageID": 1400765,
+            "ID": 769,
+            "ImageID": 1400769,
             "Label": 0,
-            "monID": 4454,
+            "monID": 4822,
             "type": 1
           }
         ]
@@ -35005,6 +35027,41 @@
         "Target": "400014",
         "Tyjumptargetpe": "",
         "ID": 4824
+      },
+      {
+        "DefName": "卡布达",
+        "Features": "卡布达是B系列最初制作的1号机器人，性格热血充满正义，而“卡布”是他的口头禅。",
+        "Target": "113055",
+        "Tyjumptargetpe": "",
+        "ID": 4825
+      },
+      {
+        "DefName": "鲨鱼辣椒",
+        "Features": "鲨鱼辣椒是B系列中的9号机，他拥有强大的破坏力，性格狂妄自大、做事也不择手段。",
+        "Target": "113055",
+        "Tyjumptargetpe": "",
+        "ID": 4826
+      },
+      {
+        "DefName": "蜘蛛侦探",
+        "Features": "蜘蛛侦探是B系列中的5号机，他非常喜欢金钱与财富，但真有了一大笔钱时，却会变得胆战心惊。",
+        "Target": "113053",
+        "Tyjumptargetpe": "",
+        "ID": 4827
+      },
+      {
+        "DefName": "蜻蜓队长",
+        "Features": "在“和平星争夺战”中出现的神秘裁判机器人，总是自说自话的开始主持各种比赛。",
+        "Target": "113057",
+        "Tyjumptargetpe": "",
+        "ID": 4828
+      },
+      {
+        "DefName": "卡布达超级形态",
+        "Features": "开启了超级变换形态的卡布达，实力强大，十分的神气威武。友情是卡布达强大的力量来源。",
+        "Target": "113054",
+        "Tyjumptargetpe": "",
+        "ID": 4829
       }
     ],
     "RecMintmark": {

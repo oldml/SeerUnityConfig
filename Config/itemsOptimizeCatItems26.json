@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "Name": "奇见礼遇",
+      "catID": 26,
+      "ID": 2600051,
+      "Max": 99,
+      "purpose": 1,
+      "Rarity": 0,
+      "Sort": 35,
+      "UseMax": 99,
+      "wd": 1
+    },
+    {
       "Name": "星际礼盒",
       "catID": 26,
       "ID": 2600050,

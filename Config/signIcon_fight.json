@@ -2688,6 +2688,22 @@
         "sort": 5
       },
       {
+        "className": "*",
+        "dec": "和平对抗",
+        "Des": "己方在场精灵免疫受到的异常状态，免疫成功时回合数-1，最多减少至1",
+        "frame": null,
+        "NumDes": "剩余回合",
+        "spDes": null,
+        "spicon": null,
+        "sptips": null,
+        "tips": "和平对抗",
+        "id": 138,
+        "isShowNum": 1,
+        "showmonster": 0,
+        "showtime": 0,
+        "sort": 5
+      },
+      {
         "className": "SignBuffView_1000",
         "dec": "折叠icon",
         "Des": "",

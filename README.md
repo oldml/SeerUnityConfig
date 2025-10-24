@@ -1,4 +1,4 @@
-﻿**Parsing finished with 365 successes and 104 failures.**
+﻿**Parsing finished with 387 successes and 104 failures.**
 
 **Failed Files (104 files)**
   2025YearPetTrain.bytes
@@ -13,6 +13,7 @@
   awakenlevel.bytes
   awakentask.bytes
   BackFlowTask.bytes
+  badgeBattlePass_task .bytes
   bottlebonus.bytes
   boxbonus.bytes
   brave_tower.bytes
@@ -30,7 +31,6 @@
   gainWay.bytes
   h5_12th_box.bytes
   h5_12th_task.bytes
-  handbook.bytes
   item_field.bytes
   itemsOptimize.bytes
   journey_content.bytes
@@ -107,4 +107,4 @@
   yizhishang_shop.bytes
 
 ---
-**Total duration: 9.16 seconds.**
+**Total duration: 8.16 seconds.**

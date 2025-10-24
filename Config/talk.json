@@ -18524,6 +18524,1563 @@
       "groupId": 597,
       "id": 1769,
       "npcId": 4824
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "大哥，你手上拿的是什么呀？",
+      "dir": 0,
+      "groupId": 598,
+      "id": 1770,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这玩意，好像叫做……合同还是什么的东西。",
+      "dir": 0,
+      "groupId": 598,
+      "id": 1771,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "合同？什么意思啊，我看看？",
+      "dir": 0,
+      "groupId": 598,
+      "id": 1772,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "“本人因身体原因，暂时将我名下的饮料店经营权移交给蟑螂恶霸及其友人们……”",
+      "dir": 0,
+      "groupId": 598,
+      "id": 1773,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "“店铺将于七天后收回，在此期间所有的营业额都为蟑螂恶霸及其友人所有……”",
+      "dir": 0,
+      "groupId": 598,
+      "id": 1774,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "等等等等会？大哥，这是什么意思？什么饮料店？",
+      "dir": 0,
+      "groupId": 598,
+      "id": 1775,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这张合同是谁给你的啊？",
+      "dir": 0,
+      "groupId": 598,
+      "id": 1776,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "呃……刚才遇到一个老人家，我看他腿脚不便就帮了他个小忙。",
+      "dir": 0,
+      "groupId": 598,
+      "id": 1777,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "然后我也不知道后来为什么会发展成这样了，总之他就塞给了我这张纸。",
+      "dir": 0,
+      "groupId": 598,
+      "id": 1778,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "他好像很信任我的样子，而且他也很急的样子，就……我就没多说什么。",
+      "dir": 0,
+      "groupId": 598,
+      "id": 1779,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "总而言之就是我们有了一家店！太好了！",
+      "dir": 0,
+      "groupId": 598,
+      "id": 1780,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "那还等什么啊？快去看看呗！快去快去！",
+      "dir": 0,
+      "groupId": 598,
+      "id": 1781,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "打工，比想象中要难啊。",
+      "dir": 0,
+      "groupId": 599,
+      "id": 1782,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这才刚开始第一天，你怎么就抱怨上了？",
+      "dir": 0,
+      "groupId": 599,
+      "id": 1783,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "因为……我们完全不知道饮料到底要怎么做嘛……",
+      "dir": 0,
+      "groupId": 599,
+      "id": 1784,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "刚才说明书上不是已经教了吗？我看看……",
+      "dir": 0,
+      "groupId": 599,
+      "id": 1785,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "呃……（实在写得太麻烦了感觉已经失去了耐心）",
+      "dir": 0,
+      "groupId": 599,
+      "id": 1786,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "不过就算做不来也没事，因为完全没有客人来！",
+      "dir": 0,
+      "groupId": 599,
+      "id": 1787,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "是真的没事呢！",
+      "dir": 0,
+      "groupId": 599,
+      "id": 1788,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "白痴！如果没有客人来的话，那这家店就要经营不下去了啊！",
+      "dir": 0,
+      "groupId": 599,
+      "id": 1789,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "只有一两个客人是没办法维持经营的，要吸引客流！客流懂吗？",
+      "dir": 0,
+      "groupId": 599,
+      "id": 1790,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "客流？",
+      "dir": 0,
+      "groupId": 599,
+      "id": 1791,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "那到底要靠什么来吸引客人呢？",
+      "dir": 0,
+      "groupId": 599,
+      "id": 1792,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "嗯……新品！",
+      "dir": 0,
+      "groupId": 599,
+      "id": 1793,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "就是新品！",
+      "dir": 0,
+      "groupId": 599,
+      "id": 1794,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "经过一晚上的思考，我决定了。",
+      "dir": 0,
+      "groupId": 600,
+      "id": 1795,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "决定什么了？",
+      "dir": 0,
+      "groupId": 600,
+      "id": 1796,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "进行新品饮料的开发！",
+      "dir": 0,
+      "groupId": 600,
+      "id": 1797,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "……然后呢？",
+      "dir": 0,
+      "groupId": 600,
+      "id": 1798,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "还有什么然后？开发啊。",
+      "dir": 0,
+      "groupId": 600,
+      "id": 1799,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我是说，呃，怎么开发？",
+      "dir": 0,
+      "groupId": 600,
+      "id": 1800,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "不知道！",
+      "dir": 0,
+      "groupId": 600,
+      "id": 1801,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "咱们先一起想想吧？",
+      "dir": 0,
+      "groupId": 600,
+      "id": 1802,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "快到开店的时间了，一边做一边想吧。",
+      "dir": 0,
+      "groupId": 600,
+      "id": 1803,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这一天下来，营业额还是不太行啊。",
+      "dir": 0,
+      "groupId": 601,
+      "id": 1804,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "话说回来，你们到底开发了什么新品？我闻到好奇怪的味道。",
+      "dir": 0,
+      "groupId": 601,
+      "id": 1805,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "大哥，来尝尝味道！",
+      "dir": 0,
+      "groupId": 601,
+      "id": 1806,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "咕，哇！这，这不是酒吗？好苦，好辣！",
+      "dir": 0,
+      "groupId": 601,
+      "id": 1807,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这酒不错吧？",
+      "dir": 0,
+      "groupId": 601,
+      "id": 1808,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "为什么在饮料里面加这么多酒！咱们这是饮料店，是给小朋友喝的！",
+      "dir": 0,
+      "groupId": 601,
+      "id": 1809,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "酒，很好喝啊！",
+      "dir": 0,
+      "groupId": 601,
+      "id": 1810,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "不可以加酒，给我把所有的酒去掉！蜘蛛侦探，你做的饮料里面应该没有酒吧？",
+      "dir": 0,
+      "groupId": 601,
+      "id": 1811,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "那当然没有啦，我又不像蝎子莱莱那样喜欢喝酒。",
+      "dir": 0,
+      "groupId": 601,
+      "id": 1812,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "嗯？但我看，为什么今天你这饮料一杯都没有卖出去？",
+      "dir": 0,
+      "groupId": 601,
+      "id": 1813,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "价格……一杯饮料10万元！？这么贵谁买啊！",
+      "dir": 0,
+      "groupId": 601,
+      "id": 1814,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "啊，怪不得，刚才有顾客一看到价目表就走了，原来是被吓跑的啊！",
+      "dir": 0,
+      "groupId": 601,
+      "id": 1815,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "给我重新定价！",
+      "dir": 0,
+      "groupId": 601,
+      "id": 1816,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "由于前两天的乱来，今天好像也完全没有客人。",
+      "dir": 0,
+      "groupId": 602,
+      "id": 1817,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "是啊，大哥……我们到底什么地方做错了？",
+      "dir": 0,
+      "groupId": 602,
+      "id": 1818,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "可能是因为我们完全不知道要怎么开店吧？",
+      "dir": 0,
+      "groupId": 602,
+      "id": 1819,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "原来如此，是因为换店长了啊。",
+      "dir": 0,
+      "groupId": 602,
+      "id": 1820,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "客人？你是客人吗？",
+      "dir": 0,
+      "groupId": 602,
+      "id": 1821,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "算是客人吧，而且我还是这家店的老顾客呢。",
+      "dir": 0,
+      "groupId": 602,
+      "id": 1822,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "当然我并不是完全的以顾客身份来的，别看我这样，我也有经营自己的店铺来着。",
+      "dir": 0,
+      "groupId": 602,
+      "id": 1823,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "那，那是竞争对手？",
+      "dir": 0,
+      "groupId": 602,
+      "id": 1824,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "不是不是，我不是来竞争的，而且，看你们店铺现在这个样子，应该也竞争不起来吧？",
+      "dir": 0,
+      "groupId": 602,
+      "id": 1825,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "当然，要是我强行买下你们这家店，将其据为己有，也不是做不到的事。",
+      "dir": 0,
+      "groupId": 602,
+      "id": 1826,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "果然是竞争对手！",
+      "dir": 0,
+      "groupId": 602,
+      "id": 1827,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "哈哈，开个玩笑而已。其实我并不希望这家店倒闭，所以你们可以把我当成一位顾问。",
+      "dir": 0,
+      "groupId": 602,
+      "id": 1828,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "不如，你们先按自己的步调经营一天让我看看，或许我能够给你们提些建议呢。",
+      "dir": 0,
+      "groupId": 602,
+      "id": 1829,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "一天下来，只有这么几个客人啊……",
+      "dir": 0,
+      "groupId": 603,
+      "id": 1830,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这也没办法，这家店的地段本来就不好，也不打广告，少有老顾客。",
+      "dir": 0,
+      "groupId": 603,
+      "id": 1831,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "饮品种类也很单一，没有特色。虽然说店里氛围还行，但那是拜来的人少所赐……",
+      "dir": 0,
+      "groupId": 603,
+      "id": 1832,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "呜呜，你不要再说了。",
+      "dir": 0,
+      "groupId": 603,
+      "id": 1833,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你有什么解决办法吗？我们也不希望这家店倒闭！",
+      "dir": 0,
+      "groupId": 603,
+      "id": 1834,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "而且我们还得把这家店还给原来的店长呢，如果倒闭了那可太丢脸了！",
+      "dir": 0,
+      "groupId": 603,
+      "id": 1835,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "嗯，我知道，所以我总结了一些办法。",
+      "dir": 0,
+      "groupId": 603,
+      "id": 1836,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "首先，我需要对你们调制饮料的技术进行特训，并研制出独家秘方。",
+      "dir": 0,
+      "groupId": 603,
+      "id": 1837,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "秘方！",
+      "dir": 0,
+      "groupId": 603,
+      "id": 1838,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "不仅如此，我们还需要用新品饮料吸引到投资人。",
+      "dir": 0,
+      "groupId": 603,
+      "id": 1839,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "投资人？",
+      "dir": 0,
+      "groupId": 603,
+      "id": 1840,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "没错，眼下只有新资金的注入才能挽救局面，首先要维持住运营才行！",
+      "dir": 0,
+      "groupId": 603,
+      "id": 1841,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "自从开始打工以来，收到的纸片就越来越多了，让我看看，这是什么纸片？",
+      "dir": 0,
+      "groupId": 604,
+      "id": 1842,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "纸片？是钱吗？不对……这是！",
+      "dir": 0,
+      "groupId": 604,
+      "id": 1843,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "账单！是水电费房租和材料费的账单！哇！",
+      "dir": 0,
+      "groupId": 604,
+      "id": 1844,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "太可怕了，非常可怕！",
+      "dir": 0,
+      "groupId": 604,
+      "id": 1845,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "是的，账单是很可怕，不过只要拉到投资这些问题也就迎刃而解了。",
+      "dir": 0,
+      "groupId": 604,
+      "id": 1846,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "而解决问题的前提是你们要好好训练，而我会全力想办法开发独家秘方。",
+      "dir": 0,
+      "groupId": 604,
+      "id": 1847,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我会去联系几个我店里的老顾客，让他们明天来看看，在此之前一定要训练出效果哦。",
+      "dir": 0,
+      "groupId": 604,
+      "id": 1848,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "没问题！我们三个别的不行，但干劲是MAX的！",
+      "dir": 0,
+      "groupId": 604,
+      "id": 1849,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "干劲满满！",
+      "dir": 0,
+      "groupId": 604,
+      "id": 1850,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "要你好看！",
+      "dir": 0,
+      "groupId": 604,
+      "id": 1851,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "累趴下了……",
+      "dir": 0,
+      "groupId": 605,
+      "id": 1852,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "累趴下了……",
+      "dir": 0,
+      "groupId": 605,
+      "id": 1853,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "好想喝酒……",
+      "dir": 0,
+      "groupId": 605,
+      "id": 1854,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "辛苦了，看来我不在的这段时间里，你们相当努力啊。",
+      "dir": 0,
+      "groupId": 605,
+      "id": 1855,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我也有好消息，我联系的几位老顾客明天会来店里看看情况，所以明天得好好表现。",
+      "dir": 0,
+      "groupId": 605,
+      "id": 1856,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "不过，我明天可能有些事，就来不了店里了。",
+      "dir": 0,
+      "groupId": 605,
+      "id": 1857,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "倒不如说，我这个顾问做的事好像有点太多了。",
+      "dir": 0,
+      "groupId": 605,
+      "id": 1858,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "真是，太谢谢你了。",
+      "dir": 0,
+      "groupId": 605,
+      "id": 1859,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "但我们还不知道你的名字呢？",
+      "dir": 0,
+      "groupId": 605,
+      "id": 1860,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我是谁并不重要，你就当我是一个喜欢帮忙的饮品店爱好者吧。",
+      "dir": 0,
+      "groupId": 605,
+      "id": 1861,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "拜拜！",
+      "dir": 0,
+      "groupId": 605,
+      "id": 1862,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "都准备好了吗，小子们！",
+      "dir": 0,
+      "groupId": 606,
+      "id": 1863,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "今天是关键的一天，投资人大驾光临，会对我们的小店进行全方位考察。",
+      "dir": 0,
+      "groupId": 606,
+      "id": 1864,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "任何时候都不得怠慢！",
+      "dir": 0,
+      "groupId": 606,
+      "id": 1865,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "当然！",
+      "dir": 0,
+      "groupId": 606,
+      "id": 1866,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "啊，不过，我们知道投资人是谁吗？长什么样子啊？",
+      "dir": 0,
+      "groupId": 606,
+      "id": 1867,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这个……",
+      "dir": 0,
+      "groupId": 606,
+      "id": 1868,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "既然不知道投资人是谁，那就把所有客人都当做投资人对待！",
+      "dir": 0,
+      "groupId": 606,
+      "id": 1869,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这才是服务业应有的态度！哦，有客人来了！",
+      "dir": 0,
+      "groupId": 606,
+      "id": 1870,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你好……",
+      "dir": 0,
+      "groupId": 606,
+      "id": 1871,
+      "npcId": 3105
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "正如所听说的那样，是家不大的店呢。",
+      "dir": 0,
+      "groupId": 606,
+      "id": 1872,
+      "npcId": 1960
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "欢迎光临！",
+      "dir": 0,
+      "groupId": 606,
+      "id": 1873,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "欢迎光临！",
+      "dir": 0,
+      "groupId": 606,
+      "id": 1874,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这家店的特色饮料，很有意思。",
+      "dir": 0,
+      "groupId": 607,
+      "id": 1875,
+      "npcId": 3105
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "有种熟悉的感觉，或者说怀旧？",
+      "dir": 0,
+      "groupId": 607,
+      "id": 1876,
+      "npcId": 1960
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "不过看起来人真是不多呢。",
+      "dir": 0,
+      "groupId": 607,
+      "id": 1877,
+      "npcId": 3105
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "有意思，确实会让我想看看这家店发展如何。",
+      "dir": 0,
+      "groupId": 607,
+      "id": 1878,
+      "npcId": 1960
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "也不要那么快下定论，我是很严格的。",
+      "dir": 0,
+      "groupId": 607,
+      "id": 1879,
+      "npcId": 3105
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "也行，那明天再来看一次？我们今天先回去吧。",
+      "dir": 0,
+      "groupId": 607,
+      "id": 1880,
+      "npcId": 1960
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "好，走吧。",
+      "dir": 0,
+      "groupId": 607,
+      "id": 1881,
+      "npcId": 3105
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "忙一天了，也不知道到底谁是投资人啊。",
+      "dir": 0,
+      "groupId": 607,
+      "id": 1882,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "说到底我们都不知道投资人到底来没来！",
+      "dir": 0,
+      "groupId": 607,
+      "id": 1883,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "嗯……好累好累。",
+      "dir": 0,
+      "groupId": 607,
+      "id": 1884,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "感觉今天投资人……应该不会来吧？",
+      "dir": 0,
+      "groupId": 608,
+      "id": 1885,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "一直没消息，是不是没戏了？",
+      "dir": 0,
+      "groupId": 608,
+      "id": 1886,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "昨天我们是不是做得不够好啊？",
+      "dir": 0,
+      "groupId": 608,
+      "id": 1887,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你好……",
+      "dir": 0,
+      "groupId": 608,
+      "id": 1888,
+      "npcId": 3105
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我们又来了。",
+      "dir": 0,
+      "groupId": 608,
+      "id": 1889,
+      "npcId": 1960
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "是回头客！快，快快接待客人！",
+      "dir": 0,
+      "groupId": 608,
+      "id": 1890,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "欢，欢迎光临！",
+      "dir": 0,
+      "groupId": 608,
+      "id": 1891,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "欢迎光临！啊呀！！脚滑了！",
+      "dir": 0,
+      "groupId": 608,
+      "id": 1892,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "喂！蝎子莱莱，你怎么把秘方饮料罐给打翻了！",
+      "dir": 0,
+      "groupId": 608,
+      "id": 1893,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "啊，啊糟糕了！这，这怎么办！？",
+      "dir": 0,
+      "groupId": 608,
+      "id": 1894,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "唔……",
+      "dir": 0,
+      "groupId": 608,
+      "id": 1895,
+      "npcId": 3105
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这……咱们来得不是时候？",
+      "dir": 0,
+      "groupId": 608,
+      "id": 1896,
+      "npcId": 1960
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "蜘蛛侦探，快点先稳住客人！",
+      "dir": 0,
+      "groupId": 608,
+      "id": 1897,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "原，原来二位就是投资人？",
+      "dir": 0,
+      "groupId": 609,
+      "id": 1898,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "糟了，咱们刚才的表现很糟糕啊！",
+      "dir": 0,
+      "groupId": 609,
+      "id": 1899,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这下完了，这下完了，咱们真的要倒闭了！",
+      "dir": 0,
+      "groupId": 609,
+      "id": 1900,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "等等一下！两位，请先听我们一言！",
+      "dir": 0,
+      "groupId": 609,
+      "id": 1901,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我们虽然是第一次开店，但实际上这家店继承自一个萍水相逢的老先生！",
+      "dir": 0,
+      "groupId": 609,
+      "id": 1902,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我们也知道自己不适合做生意，但还是希望能够为这家小店出一点力。",
+      "dir": 0,
+      "groupId": 609,
+      "id": 1903,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "至少希望不要倒闭，如果倒闭了，真是愧对原来的店主了。",
+      "dir": 0,
+      "groupId": 609,
+      "id": 1904,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "请再尝尝我们努力调配的饮料吧！虽然看起来很普通，但是我们经过刻苦特训的产物！",
+      "dir": 0,
+      "groupId": 609,
+      "id": 1905,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "知道我们是投资人了之后，好像他们很慌张啊。",
+      "dir": 0,
+      "groupId": 609,
+      "id": 1906,
+      "npcId": 3105
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "各位店员，不用慌张，你们的表现我们昨天就已经看在了眼里。",
+      "dir": 0,
+      "groupId": 609,
+      "id": 1907,
+      "npcId": 1960
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "事实上我对你们的表现很满意，虽然今天出了点意外。",
+      "dir": 0,
+      "groupId": 609,
+      "id": 1908,
+      "npcId": 3105
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "但你们展露出了真诚的一面，所以我们也做出了决定。",
+      "dir": 0,
+      "groupId": 609,
+      "id": 1909,
+      "npcId": 1960
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这决定是？",
+      "dir": 0,
+      "groupId": 609,
+      "id": 1910,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "当然是好消息了，支持一家小店的经营也不算什么难事。",
+      "dir": 0,
+      "groupId": 609,
+      "id": 1911,
+      "npcId": 3105
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "当然，要保持住这份热情，才能获得我们持续的支持。",
+      "dir": 0,
+      "groupId": 609,
+      "id": 1912,
+      "npcId": 1960
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "太好了！",
+      "dir": 0,
+      "groupId": 609,
+      "id": 1913,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "有了投资人的支持，账单也全部付清了，我们可以继续开店了！",
+      "dir": 0,
+      "groupId": 610,
+      "id": 1914,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "接下来才刚刚开始呢！努力经营好，转亏为盈吧！",
+      "dir": 0,
+      "groupId": 610,
+      "id": 1915,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "各位，我有个坏消息……",
+      "dir": 0,
+      "groupId": 610,
+      "id": 1916,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "刚刚我重新确认了下合同，我们今天营业结束后，老店长就要把店铺收回去了。",
+      "dir": 0,
+      "groupId": 610,
+      "id": 1917,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "……那也不算坏消息吧？至少我们没有把店干倒闭。",
+      "dir": 0,
+      "groupId": 610,
+      "id": 1918,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "但我还收到一封信，这里，你看。",
+      "dir": 0,
+      "groupId": 610,
+      "id": 1919,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "“本人因为身体原因，无法再继续经营店铺，因此打算关掉小店，感谢你们这几天的帮忙。”",
+      "dir": 0,
+      "groupId": 610,
+      "id": 1920,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "老店长好像因为身体不好，这家店要关掉了。",
+      "dir": 0,
+      "groupId": 610,
+      "id": 1921,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "怎么这样！我们的事业才刚刚开始起步啊！",
+      "dir": 0,
+      "groupId": 610,
+      "id": 1922,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "唉，事已至此，那就营业好最后这一天吧。",
+      "dir": 0,
+      "groupId": 610,
+      "id": 1923,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "哟，几位营业结束了？怎么都没精打采的？",
+      "dir": 0,
+      "groupId": 611,
+      "id": 1924,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你来了啊，其实这家店要闭店了，所以我们……有点沮丧。",
+      "dir": 0,
+      "groupId": 611,
+      "id": 1925,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "是啊，之前都做了那么多，都那么刻苦地训练了，也拉到了投资人……",
+      "dir": 0,
+      "groupId": 611,
+      "id": 1926,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "但是要闭店，总觉得心里不是滋味。",
+      "dir": 0,
+      "groupId": 611,
+      "id": 1927,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "原来是因为这个原因，确实，自己付出了努力却因为客观原因而得不到回报。",
+      "dir": 0,
+      "groupId": 611,
+      "id": 1928,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "那确实很不是滋味。",
+      "dir": 0,
+      "groupId": 611,
+      "id": 1929,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "不过呢，我还是想为你们带来一个好消息。",
+      "dir": 0,
+      "groupId": 611,
+      "id": 1930,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "好消息？",
+      "dir": 0,
+      "groupId": 611,
+      "id": 1931,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "其实我今天去看望了老店长，并告诉了他店里的最新的情况。",
+      "dir": 0,
+      "groupId": 611,
+      "id": 1932,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你们把店铺照顾得很好，虽然他没有办法继续经营下去，但你们可以继续啊。",
+      "dir": 0,
+      "groupId": 611,
+      "id": 1933,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我们可以继续？",
+      "dir": 0,
+      "groupId": 611,
+      "id": 1934,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这是什么意思？",
+      "dir": 0,
+      "groupId": 611,
+      "id": 1935,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "老店长决定将店送给你们，你们代替他成为了新的店长。",
+      "dir": 0,
+      "groupId": 611,
+      "id": 1936,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "所以就可以继续经营啦。",
+      "dir": 0,
+      "groupId": 611,
+      "id": 1937,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这，这太棒了！",
+      "dir": 0,
+      "groupId": 611,
+      "id": 1938,
+      "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我就知道！努力一定是会有回报的！",
+      "dir": 0,
+      "groupId": 611,
+      "id": 1939,
+      "npcId": 4827
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "别忘了抽空去看望看望老店长，你们可要对这家小店负责啊！",
+      "dir": 0,
+      "groupId": 611,
+      "id": 1940,
+      "npcId": 3372
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "没问题！我们会好好经营这家店的！",
+      "dir": 0,
+      "groupId": 611,
+      "id": 1941,
+      "npcId": 4830
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "谢谢你！",
+      "dir": 0,
+      "groupId": 611,
+      "id": 1942,
+      "npcId": 4834
     }
   ]
 }

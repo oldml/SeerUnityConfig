@@ -3677,13 +3677,6 @@
       "isFullScreen": 1
     },
     {
-      "moduleName": "ChessGameEnterPanel",
-      "resConfig": null,
-      "currAppDo": 1,
-      "id": 592,
-      "isFullScreen": 0
-    },
-    {
       "moduleName": "xitalunAstronautSkinSell",
       "resConfig": null,
       "currAppDo": 1,
@@ -3870,6 +3863,55 @@
       "resConfig": null,
       "currAppDo": 1,
       "id": 623,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "giantDuelModule",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 624,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "spiderDetectiveMoneyBox",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 625,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "chessGameMain",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 650,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "chessGameActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 651,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "kabutackAppointmentPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 652,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "tiejiaxiaobaoBattlePass",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 653,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "kaBuDaEvolvePanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 654,
       "isFullScreen": 1
     }
   ]

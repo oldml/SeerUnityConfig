@@ -420,6 +420,16 @@
         "price": 9.8,
         "productID": 200062,
         "vip": 1
+      },
+      {
+        "name": "购买闪耀徽章进阶版",
+        "itemID": [
+          1727499
+        ],
+        "gold": 1,
+        "price": 30,
+        "productID": 200063,
+        "vip": 1
       }
     ]
   }

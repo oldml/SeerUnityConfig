@@ -127,8 +127,8 @@
       "tag": "解辣",
       "id": 12,
       "recipe1": 3,
-      "recipe2": 3,
-      "recipe3": 6,
+      "recipe2": 7,
+      "recipe3": 2,
       "time": 4,
       "type": 3
     },
@@ -204,7 +204,7 @@
       "tag": "清香",
       "id": 19,
       "recipe1": 3,
-      "recipe2": 2,
+      "recipe2": 10,
       "recipe3": 9,
       "time": 7,
       "type": 3

@@ -153,6 +153,39 @@
       "time": 4,
       "userinfo": 124542,
       "value": 100
+    },
+    {
+      "describe": "在和平星斗技场寻绘星路中激活任意天赋1次",
+      "timeend": "1763690400",
+      "timelimit": "1",
+      "timestart": "1761271200",
+      "exp": 2000,
+      "id": 10001,
+      "time": 4,
+      "userinfo": 124571,
+      "value": 1
+    },
+    {
+      "describe": "在和平星斗技场中击败1次BOSS",
+      "timeend": "1763690400",
+      "timelimit": "1",
+      "timestart": "1761271200",
+      "exp": 3000,
+      "id": 10002,
+      "time": 4,
+      "userinfo": 124572,
+      "value": 1
+    },
+    {
+      "describe": "获得精灵蜘蛛侦探",
+      "timeend": "1763690400",
+      "timelimit": "1",
+      "timestart": "1761271200",
+      "exp": 1500,
+      "id": 10003,
+      "time": 4,
+      "userinfo": 124573,
+      "value": 1
     }
   ]
 }

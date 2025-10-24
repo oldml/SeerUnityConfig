@@ -48891,6 +48891,127 @@
         "limitedType": 0,
         "target": 0,
         "to": 0
+      },
+      {
+        "args": "0 40 0 0 1",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "回合开始时，若对手不处于能力提升状态则当回合造成的攻击伤害提升40%，若对手不处于回合类效果则当回合所有技能先制+1；自身使用技能后吸取对手最大体力的20%（boss无效）",
+        "kind": [
+          1,
+          9
+        ],
+        "petId": [
+          4825
+        ],
+        "specificId": null,
+        "effectId": 2441,
+        "iconId": 2015,
+        "Id": 2015,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0
+      },
+      {
+        "args": "0 25 0 0 1",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "对手不处于流血状态时自身受到的攻击伤害、固定伤害、百分比伤害减少25%，每回合受到上述类型伤害达到2种后剩余的类型所对应的减伤效果当回合翻倍；对手处于流血状态时自身免疫控制类异常状态（boss无效）",
+        "kind": [
+          3
+        ],
+        "petId": [
+          4826
+        ],
+        "specificId": null,
+        "effectId": 2442,
+        "iconId": 2016,
+        "Id": 2016,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0
+      },
+      {
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身每次登场之后2回合内每回合开始时令对手速度、命中-2，效果结束后本次在场忽略对手特防值的25%；对手使用技能时若处于能力下降状态则消除对手能力提升状态，若不处于能力下降状态则令对手束缚3回合（boss无效）",
+        "kind": [
+          12,
+          1
+        ],
+        "petId": [
+          4827
+        ],
+        "specificId": null,
+        "effectId": 2440,
+        "iconId": 2017,
+        "Id": 2017,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0
+      },
+      {
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身免疫B-ROBO造成的攻击伤害|每次登场时，使己方与对方获得4回合的和平对抗|自身受到真实伤害后获得等量的护盾、护罩，并令对手随机2个技能PP值归0（boss无效）",
+        "kind": [
+          3,
+          7
+        ],
+        "petId": [
+          4828
+        ],
+        "specificId": null,
+        "effectId": 2443,
+        "iconId": 2018,
+        "Id": 2018,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0
+      },
+      {
+        "args": "30 50 3 10 1",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "登场时，自身每有30%的体力值，自身1回合内免疫受到的麻痹状态，免疫成功则消除对手的回合类效果与能力提升状态|回合开始时，若对手不处于能力提升状态则当回合造成的攻击伤害提升50%，若对手不处于回合类效果则当回合所有技能先制+1，同时满足时，当回合战斗阶段结束时自身恢复最大体力的1/3|自身使用攻击技能后吸取对手最大体力的20%，本次在场自身受到、进入的异常状态每被免疫、转化过1次效果提升10%，最高60%，达到最高之后，本次在场自身免疫受到的异常状态（boss无效）",
+        "kind": [
+          7,
+          1,
+          9,
+          14
+        ],
+        "petId": [
+          4829
+        ],
+        "specificId": null,
+        "effectId": 2441,
+        "iconId": 2019,
+        "Id": 2019,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0
       }
     ]
   }

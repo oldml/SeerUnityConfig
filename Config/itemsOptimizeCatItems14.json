@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "Name": "星之能量",
+      "Bean": 0,
+      "catID": 14,
+      "Hide": 1,
+      "ID": 1400161,
+      "Max": 9999,
+      "purpose": 0,
+      "Rarity": 1,
+      "Sort": 31,
+      "wd": 1
+    },
+    {
       "Name": "幻境积分",
       "Bean": 0,
       "catID": 14,

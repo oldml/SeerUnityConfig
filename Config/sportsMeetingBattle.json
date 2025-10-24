@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "battelattack": "2_2_3_3_4",
+      "battelhp": "4_5_5_6_6",
+      "name": "网球",
+      "attackup": 0,
+      "hpup": 0,
+      "id": 1
+    },
+    {
+      "battelattack": "3_3_4_4_5",
+      "battelhp": "4_5_5_6_6",
+      "name": "柔道",
+      "attackup": 0,
+      "hpup": 0,
+      "id": 2
+    },
+    {
+      "battelattack": "1_1_2_2_3",
+      "battelhp": "5_6_6_7_7",
+      "name": "冲浪",
+      "attackup": 0,
+      "hpup": 0,
+      "id": 3
+    },
+    {
+      "battelattack": "2_2_3_3_4",
+      "battelhp": "5_6_6_7_7",
+      "name": "射箭",
+      "attackup": 0,
+      "hpup": 0,
+      "id": 4
+    },
+    {
+      "battelattack": "3_3_4_4_5",
+      "battelhp": "4_5_5_6_6",
+      "name": "拔河",
+      "attackup": 0,
+      "hpup": 0,
+      "id": 5
+    },
+    {
+      "battelattack": "4_4_5_5_6",
+      "battelhp": "3_4_4_5_5",
+      "name": "剑道",
+      "attackup": 0,
+      "hpup": 0,
+      "id": 6
+    },
+    {
+      "battelattack": "3_3_4_4_5",
+      "battelhp": "4_5_5_6_6",
+      "name": "足球",
+      "attackup": 0,
+      "hpup": 0,
+      "id": 7
+    },
+    {
+      "battelattack": "4_4_5_5_6",
+      "battelhp": "3_4_4_5_5",
+      "name": "棒球",
+      "attackup": 0,
+      "hpup": 0,
+      "id": 8
+    },
+    {
+      "battelattack": "5_5_6_6_7",
+      "battelhp": "3_4_4_5_5",
+      "name": "排球",
+      "attackup": 0,
+      "hpup": 0,
+      "id": 9
+    },
+    {
+      "battelattack": "5_5_6_6_7",
+      "battelhp": "3_4_4_5_5",
+      "name": "拳击",
+      "attackup": 0,
+      "hpup": 0,
+      "id": 10
+    },
+    {
+      "battelattack": "4_4_5_5_6",
+      "battelhp": "4_5_5_6_6",
+      "name": "攀岩",
+      "attackup": 0,
+      "hpup": 0,
+      "id": 11
+    },
+    {
+      "battelattack": "2_2_3_3_4",
+      "battelhp": "6_7_7_8_8",
+      "name": "马拉松",
+      "attackup": 0,
+      "hpup": 0,
+      "id": 12
+    },
+    {
+      "battelattack": "",
+      "battelhp": "",
+      "name": "生命增益+1",
+      "attackup": 0,
+      "hpup": 1,
+      "id": 21
+    },
+    {
+      "battelattack": "",
+      "battelhp": "",
+      "name": "生命增益+2",
+      "attackup": 0,
+      "hpup": 2,
+      "id": 22
+    },
+    {
+      "battelattack": "",
+      "battelhp": "",
+      "name": "生命增益+3",
+      "attackup": 0,
+      "hpup": 3,
+      "id": 23
+    },
+    {
+      "battelattack": "",
+      "battelhp": "",
+      "name": "攻击增益+1",
+      "attackup": 1,
+      "hpup": 0,
+      "id": 24
+    },
+    {
+      "battelattack": "",
+      "battelhp": "",
+      "name": "攻击增益+2",
+      "attackup": 2,
+      "hpup": 0,
+      "id": 25
+    },
+    {
+      "battelattack": "",
+      "battelhp": "",
+      "name": "攻击增益+3",
+      "attackup": 3,
+      "hpup": 0,
+      "id": 26
+    }
+  ]
+}

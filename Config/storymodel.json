@@ -398,7 +398,7 @@
     },
     {
       "CharacterID": "seer",
-      "emoji": "seer_black",
+      "emoji": "seer_black,seer_01,seer_02,seer_03,seer_04,seer_05,seer_06,seer_07",
       "emojixy": "",
       "head": "",
       "initialposition": "0,-50",
@@ -1084,7 +1084,7 @@
       "emojixy": "",
       "head": "",
       "initialposition": "-7.1,-20",
-      "name": "佐格（经典）",
+      "name": "佐格",
       "portrait": "zog1_fg",
       "id": 99,
       "scale": 0.95
@@ -1194,10 +1194,10 @@
       "emojixy": "",
       "head": "",
       "initialposition": "3,8.5",
-      "name": "唔喱哇啦",
+      "name": "唔哩哇啦",
       "portrait": "wuliwala_fg",
       "id": 109,
-      "scale": 1
+      "scale": 0.8
     },
     {
       "CharacterID": "hamoleite",
@@ -3046,6 +3046,94 @@
       "portrait": "blat_01_fg",
       "id": 277,
       "scale": 1.2
+    },
+    {
+      "CharacterID": "jiliguala",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "叽哩呱啦",
+      "portrait": "jiliguala_fg",
+      "id": 278,
+      "scale": 0.9
+    },
+    {
+      "CharacterID": "kbd",
+      "emoji": "kbd_1,kbd_2,kbd_3,kbd_4,kbd_5,kbd_6,kbd_7",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "卡布达",
+      "portrait": "kbd_fg",
+      "id": 279,
+      "scale": 1
+    },
+    {
+      "CharacterID": "zzzt",
+      "emoji": "zzzt_1,zzzt_2,zzzt_3,zzzt_4",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "蜘蛛侦探",
+      "portrait": "zzzt_fg",
+      "id": 280,
+      "scale": 1
+    },
+    {
+      "CharacterID": "xzll",
+      "emoji": "xzll_1,xzll_2,xzll_3,xzll_4",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,-60",
+      "name": "蝎子莱莱",
+      "portrait": "xzll_fg",
+      "id": 281,
+      "scale": 1
+    },
+    {
+      "CharacterID": "zleb",
+      "emoji": "zleb_1,zleb_2,zleb_3",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,-60",
+      "name": "蟑螂恶霸",
+      "portrait": "zleb_fg",
+      "id": 282,
+      "scale": 1
+    },
+    {
+      "CharacterID": "lameng",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "拉蒙",
+      "portrait": "lameng_fg",
+      "id": 283,
+      "scale": 1
+    },
+    {
+      "CharacterID": "pasi",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "帕斯",
+      "portrait": "pasi_fg",
+      "id": 284,
+      "scale": 1
+    },
+    {
+      "CharacterID": "qtdz",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "蜻蜓队长",
+      "portrait": "qtdz_fg",
+      "id": 285,
+      "scale": 1
     }
   ]
 }

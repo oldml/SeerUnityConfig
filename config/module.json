@@ -3913,6 +3913,48 @@
       "currAppDo": 1,
       "id": 654,
       "isFullScreen": 1
+    },
+    {
+      "moduleName": "shayulajiaoSellPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 655,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "WanziLongCellPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 656,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "kabutackSportsMeeting",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 657,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "peaceMedalMarkModule",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 658,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "cobranderFoodChallenge",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 659,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "zhenshiQTLD",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 660,
+      "isFullScreen": 1
     }
   ]
 }

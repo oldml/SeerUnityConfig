@@ -22,7 +22,7 @@
       "mark": "近战攻击",
       "skillact": "atk1",
       "skillcarton": "",
-      "skilldesc": "造成{0}点伤害",
+      "skilldesc": "向前方移动1格，并造成{0}点伤害",
       "skilleffect": "1/2/2/1/0",
       "skillicon": "skill_1",
       "skillname": "冲撞攻击",
@@ -31,7 +31,7 @@
       "skilltype": 1,
       "takerange": 2,
       "takerangetype": 2,
-      "userangelength": 1,
+      "userangelength": 2,
       "userangetype": 1
     },
     {

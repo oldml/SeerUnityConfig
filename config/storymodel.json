@@ -3134,6 +3134,83 @@
       "portrait": "qtdz_fg",
       "id": 285,
       "scale": 1
+    },
+    {
+      "CharacterID": "kbd_sp",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,90",
+      "name": "卡布达",
+      "portrait": "kbd_sp_fg",
+      "id": 286,
+      "scale": 1
+    },
+    {
+      "CharacterID": "sylj",
+      "emoji": "sylj_01,sylj_02,sylj_03,sylj_04",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "鲨鱼辣椒",
+      "portrait": "sylj_fg",
+      "id": 287,
+      "scale": 1
+    },
+    {
+      "CharacterID": "sylj_sp",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,90",
+      "name": "鲨鱼辣椒",
+      "portrait": "sylj_sp_fg",
+      "id": 288,
+      "scale": 1
+    },
+    {
+      "CharacterID": "beier_hpx",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "贝尔",
+      "portrait": "beier_hpx_fg",
+      "id": 289,
+      "scale": 0.8
+    },
+    {
+      "CharacterID": "kbd_jr",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,100",
+      "name": "卡布达巨人",
+      "portrait": "kbd_jr_fg",
+      "id": 290,
+      "scale": 1
+    },
+    {
+      "CharacterID": "sylj_jr",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,120",
+      "name": "鲨鱼巨人",
+      "portrait": "sylj_jr_fg",
+      "id": 291,
+      "scale": 1
+    },
+    {
+      "CharacterID": "moguguai_hpx",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "蘑菇怪？",
+      "portrait": "moguguai_hpx_fg",
+      "id": 292,
+      "scale": 1
     }
   ]
 }

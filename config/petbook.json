@@ -1414,8 +1414,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4825,
-            "ImageID": 4825,
+            "ID": 4830,
+            "ImageID": 4830,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1425,8 +1425,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4826,
-            "ImageID": 4826,
+            "ID": 4831,
+            "ImageID": 4831,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1436,8 +1436,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4827,
-            "ImageID": 4827,
+            "ID": 4832,
+            "ImageID": 4832,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1447,32 +1447,10 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4828,
-            "ImageID": 4828,
+            "ID": 770,
+            "ImageID": 1400770,
             "Label": 0,
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 4829,
-            "ImageID": 4829,
-            "Label": 0,
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 766,
-            "ImageID": 1400766,
-            "Label": 0,
-            "monID": 4825,
+            "monID": 4830,
             "type": 1
           },
           {
@@ -1480,32 +1458,10 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 767,
-            "ImageID": 1400767,
+            "ID": 771,
+            "ImageID": 1400770,
             "Label": 0,
-            "monID": 4828,
-            "type": 1
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 768,
-            "ImageID": 1400768,
-            "Label": 0,
-            "monID": 4829,
-            "type": 1
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 769,
-            "ImageID": 1400769,
-            "Label": 0,
-            "monID": 4822,
+            "monID": 4830,
             "type": 1
           }
         ]
@@ -16718,7 +16674,7 @@
       },
       {
         "DefName": "安娜",
-        "Features": "狄安娜pet_skin的第一形态安娜，安娜是月亮的代言，只要有她出现的夜晚，任何能够遮掩的月亮阴云都将消散。",
+        "Features": "狄安娜的第一形态安娜，安娜是月亮的代言，只要有她出现的夜晚，任何能够遮掩的月亮阴云都将消散。",
         "Target": "",
         "Tyjumptargetpe": "",
         "ID": 2180
@@ -17012,7 +16968,7 @@
       },
       {
         "DefName": "康纳",
-        "Features": "康纳是麦康纳的第一形态，他的内心中永远充满着一股正义的新年，无论身在何处，他总是声张正义的先锋。",
+        "Features": "康纳是麦康纳的第一形态，他的内心中永远充满着一股正义的信念，无论身在何处，他总是声张正义的先锋。",
         "Target": "",
         "Tyjumptargetpe": "",
         "ID": 2222
@@ -30579,7 +30535,7 @@
       {
         "DefName": "镇世·乔特鲁德",
         "Features": "龙系精灵王乔特鲁德脱离邪恶的控制后重获新生，觉醒爆发成为正义的化身！",
-        "Target": "",
+        "Target": "150096",
         "Tyjumptargetpe": "",
         "ID": 4186
       },
@@ -35062,6 +35018,27 @@
         "Target": "113054",
         "Tyjumptargetpe": "",
         "ID": 4829
+      },
+      {
+        "DefName": "鲨鱼辣椒超级形态",
+        "Features": "开启了超级变换形态的鲨鱼辣椒，成为了B系列机器人之中变身时间最长，破坏力最强的机器人。",
+        "Target": "113058",
+        "Tyjumptargetpe": "",
+        "ID": 4830
+      },
+      {
+        "DefName": "蝎子莱莱",
+        "Features": "蝎子莱莱是B系列中的4号机，他平时饮酒为乐，对待身边的朋友特别真诚。",
+        "Target": "113060",
+        "Tyjumptargetpe": "",
+        "ID": 4831
+      },
+      {
+        "DefName": "杜兰杜兰",
+        "Features": "2025包月精灵，赫星童话之《目不可及》，故事讲述的是一位有着奇怪罕见病“隐形病”的女高中生，如何成为“隐形怪盗”这一传奇般的都市传说的。",
+        "Target": "120000",
+        "Tyjumptargetpe": "",
+        "ID": 4832
       }
     ],
     "RecMintmark": {

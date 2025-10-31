@@ -175,6 +175,17 @@
       "monsterid": 3697,
       "order": 0,
       "type": 1
+    },
+    {
+      "Arg2": "3",
+      "LevelLock": "",
+      "name": "冰魄科尔德",
+      "Arg1": 3,
+      "dataKey": 13,
+      "id": 17,
+      "monsterid": 3886,
+      "order": 0,
+      "type": 1
     }
   ]
 }

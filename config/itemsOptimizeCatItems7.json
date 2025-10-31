@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "Name": "飞翔机器人",
+      "Bean": 0,
+      "catID": 7,
+      "Hide": 0,
+      "hideNum": 0,
+      "ID": 700841,
+      "Max": 1,
+      "purpose": 0,
+      "Sort": 19,
+      "wd": 1
+    },
+    {
       "Name": "黄金契约",
       "Bean": 0,
       "catID": 7,

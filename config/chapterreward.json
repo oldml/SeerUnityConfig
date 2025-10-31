@@ -623,6 +623,22 @@
       "open": 1,
       "order": 1,
       "param": 3
+    },
+    {
+      "item": "1_1706926_2",
+      "chapterid": 3002,
+      "id": 79,
+      "open": 1,
+      "order": 2,
+      "param": 6
+    },
+    {
+      "item": "1_300065_3",
+      "chapterid": 3002,
+      "id": 80,
+      "open": 1,
+      "order": 3,
+      "param": 9
     }
   ]
 }

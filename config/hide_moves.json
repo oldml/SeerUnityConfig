@@ -11786,8 +11786,8 @@
         "petId": 4660
       },
       {
-        "moveName1": " ",
-        "moveName2": "无相谛",
+        "moveName1": "无相谛",
+        "moveName2": "",
         "moveId": 37460,
         "petId": 4661
       },
@@ -12678,6 +12678,24 @@
         "moveName2": "雷击剑",
         "moveId": 38134,
         "petId": 4829
+      },
+      {
+        "moveName1": "断金",
+        "moveName2": "鳍锋斩",
+        "moveId": 38137,
+        "petId": 4830
+      },
+      {
+        "moveName1": "蝎子",
+        "moveName2": "回力标",
+        "moveId": 38140,
+        "petId": 4831
+      },
+      {
+        "moveName1": "破隐",
+        "moveName2": "缭乱刺",
+        "moveId": 38143,
+        "petId": 4832
       },
       {
         "moveName1": "神灵",

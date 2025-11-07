@@ -197,6 +197,42 @@
       "itemurl": 1727399,
       "mosterurl": 3524,
       "onekeyproductid": 261923
+    },
+    {
+      "enddate": "",
+      "jumpparam": "1",
+      "limitid": "5000;3253;3986",
+      "monstername": "混沌暗王霍德尔",
+      "startdate": "2025/11/7/10",
+      "awakentype": 2,
+      "bosslevelid": 18,
+      "diamondid": 262011,
+      "exchangepercnt": 0,
+      "fragmentid": 0,
+      "fragmentnum": 0,
+      "id": 18,
+      "itemnum": 720,
+      "itemurl": 1727516,
+      "mosterurl": 3941,
+      "onekeyproductid": 262012
+    },
+    {
+      "enddate": "",
+      "jumpparam": "1",
+      "limitid": "5000;3253;3986",
+      "monstername": "路希菲尔德",
+      "startdate": "2025/11/7/10",
+      "awakentype": 2,
+      "bosslevelid": 19,
+      "diamondid": 262013,
+      "exchangepercnt": 0,
+      "fragmentid": 0,
+      "fragmentnum": 0,
+      "id": 19,
+      "itemnum": 720,
+      "itemurl": 1727519,
+      "mosterurl": 3156,
+      "onekeyproductid": 262014
     }
   ]
 }

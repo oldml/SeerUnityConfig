@@ -274,8 +274,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_10_24 10:00:00",
-      "ending": "2025_11_07 10:00:00",
+      "beginning": "2025_11_07 10:00:00",
+      "ending": "2025_11_21 10:00:00",
       "labelName": "兑钻奖励",
       "name": "ExchangeDiamond",
       "channel": 0,
@@ -286,7 +286,7 @@
       "isShow": 1,
       "redbadge": 7,
       "signType": 0,
-      "sorting": 7,
+      "sorting": 3,
       "type": 1
     },
     {
@@ -1022,8 +1022,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_10_10 10:00:00",
-      "ending": "2025_10_31 10:00:00",
+      "beginning": "2025_11_07 10:00:00",
+      "ending": "2025_11_28 10:00:00",
       "labelName": "叠加域激励",
       "name": "limitedAdastraActivity",
       "channel": 0,
@@ -1034,7 +1034,7 @@
       "isShow": 1,
       "redbadge": 34,
       "signType": 2,
-      "sorting": 6,
+      "sorting": 4,
       "type": 1
     },
     {
@@ -1923,8 +1923,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_07_18 10:00:00",
-      "ending": "2025_07_25 10:00:00",
+      "beginning": "2025_11_07 10:00:00",
+      "ending": "2025_11_14 10:00:00",
       "labelName": "抗性道具",
       "name": "resistanceItemShop",
       "channel": 0,
@@ -1933,9 +1933,9 @@
       "id": 118,
       "iOSreviewshow": 1,
       "isShow": 1,
-      "redbadge": 72,
+      "redbadge": 148,
       "signType": 1,
-      "sorting": 1,
+      "sorting": 2,
       "type": 1
     },
     {
@@ -2323,7 +2323,7 @@
       "helptips": 0,
       "id": 151,
       "iOSreviewshow": 0,
-      "isShow": 1,
+      "isShow": 0,
       "redbadge": 0,
       "signType": 1,
       "sorting": 6,
@@ -3484,6 +3484,40 @@
       "signType": 0,
       "sorting": 2,
       "type": 6
+    },
+    {
+      "args": "",
+      "beginning": "2025_11_07 10:00:00",
+      "ending": "2025_11_21 10:00:00",
+      "labelName": "蟑螂恶霸",
+      "name": "cobranderFoodChallenge",
+      "channel": 0,
+      "Go": 659,
+      "helptips": 0,
+      "id": 220,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 150,
+      "signType": 0,
+      "sorting": 2,
+      "type": 6
+    },
+    {
+      "args": "",
+      "beginning": "2025_11_07 10:00:00",
+      "ending": "2025_11_14 10:00:00",
+      "labelName": "自在提偶",
+      "name": "HuodeerHalloweenModule",
+      "channel": 0,
+      "Go": 661,
+      "helptips": 0,
+      "id": 221,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 149,
+      "signType": 0,
+      "sorting": 1,
+      "type": 1
     }
   ]
 }

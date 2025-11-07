@@ -9716,7 +9716,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 10,
             "Type": 2,
             "Year": 0
           }
@@ -11348,7 +11348,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 10,
             "Type": 2,
             "Year": 0
           }
@@ -11365,7 +11365,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 10,
             "Type": 2,
             "Year": 0
           }
@@ -11382,7 +11382,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 10,
             "Type": 2,
             "Year": 0
           }
@@ -12606,7 +12606,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 3,
+            "SkinType": 0,
             "Type": 2,
             "Year": 0
           }
@@ -13014,7 +13014,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 9,
             "Type": 2,
             "Year": 0
           }
@@ -13031,7 +13031,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 9,
             "Type": 2,
             "Year": 0
           }
@@ -13082,7 +13082,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 9,
             "Type": 2,
             "Year": 0
           }
@@ -13090,6 +13090,40 @@
         "ID": 771,
         "MonID": 4830,
         "Type": 18
+      },
+      {
+        "Go": "",
+        "GoType": "",
+        "Name": "秋日印象·克洛托",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 772,
+        "MonID": 4231,
+        "Type": 3
+      },
+      {
+        "Go": "",
+        "GoType": "",
+        "Name": "自在提偶·霍德尔",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 10,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 773,
+        "MonID": 3941,
+        "Type": 3
       }
     ]
   }

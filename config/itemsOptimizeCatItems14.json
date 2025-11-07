@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "Name": "占位虚拟物品2",
+      "Bean": 0,
+      "catID": 14,
+      "Hide": 1,
+      "ID": 1400163,
+      "Max": 99999,
+      "purpose": 0,
+      "Rarity": 1,
+      "Sort": 31,
+      "wd": 1
+    },
+    {
+      "Name": "占位虚拟物品1",
+      "Bean": 0,
+      "catID": 14,
+      "Hide": 1,
+      "ID": 1400162,
+      "Max": 99999,
+      "purpose": 0,
+      "Rarity": 1,
+      "Sort": 31,
+      "wd": 1
+    },
+    {
       "Name": "星之能量",
       "Bean": 0,
       "catID": 14,

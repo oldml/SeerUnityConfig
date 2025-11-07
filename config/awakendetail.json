@@ -691,6 +691,88 @@
         "ID": 17,
         "NewEffID": 2427,
         "OldEffID": 1116
+      },
+      {
+        "Advances": {
+          "AdvEffect": {
+            "Des": "",
+            "Id": 1834
+          },
+          "exMove": {
+            "ExtraMoves": 37241
+          },
+          "Race": {
+            "NewRace": [
+              177,
+              80,
+              122,
+              152,
+              122,
+              137
+            ],
+            "OldRace": [
+              172,
+              70,
+              114,
+              138,
+              111,
+              135
+            ]
+          },
+          "spMove": {
+            "SpMoves": [
+              28668,
+              37239,
+              37240
+            ]
+          },
+          "AdvType": 1,
+          "MonsterId": 3941
+        },
+        "ID": 18,
+        "NewEffID": 2220,
+        "OldEffID": 1539
+      },
+      {
+        "Advances": {
+          "AdvEffect": {
+            "Des": "",
+            "Id": 1819
+          },
+          "exMove": {
+            "ExtraMoves": 37168
+          },
+          "Race": {
+            "NewRace": [
+              168,
+              70,
+              114,
+              138,
+              114,
+              136
+            ],
+            "OldRace": [
+              139,
+              70,
+              95,
+              129,
+              94,
+              123
+            ]
+          },
+          "spMove": {
+            "SpMoves": [
+              28630,
+              28631,
+              37167
+            ]
+          },
+          "AdvType": 0,
+          "MonsterId": 3156
+        },
+        "ID": 19,
+        "NewEffID": 2209,
+        "OldEffID": 801
       }
     ]
   }

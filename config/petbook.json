@@ -1414,8 +1414,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4830,
-            "ImageID": 4830,
+            "ID": 4833,
+            "ImageID": 4833,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1425,32 +1425,10 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4831,
-            "ImageID": 4831,
+            "ID": 772,
+            "ImageID": 1400772,
             "Label": 0,
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 4832,
-            "ImageID": 4832,
-            "Label": 0,
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 770,
-            "ImageID": 1400770,
-            "Label": 0,
-            "monID": 4830,
+            "monID": 4231,
             "type": 1
           },
           {
@@ -1458,10 +1436,10 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 771,
-            "ImageID": 1400770,
+            "ID": 773,
+            "ImageID": 1400773,
             "Label": 0,
-            "monID": 4830,
+            "monID": 3941,
             "type": 1
           }
         ]
@@ -35039,6 +35017,13 @@
         "Target": "120000",
         "Tyjumptargetpe": "",
         "ID": 4832
+      },
+      {
+        "DefName": "蟑螂恶霸",
+        "Features": "蟑螂恶霸是B系列中的8号机，他的行为粗暴，外表看起来很邪恶，但其实有着一颗温柔浪漫的心。",
+        "Target": "113061",
+        "Tyjumptargetpe": "",
+        "ID": 4833
       }
     ],
     "RecMintmark": {

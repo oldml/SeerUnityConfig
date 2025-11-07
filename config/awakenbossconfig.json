@@ -151,6 +151,14 @@
     {
       "id": 38,
       "monsterId": 3522
+    },
+    {
+      "id": 39,
+      "monsterId": 3200
+    },
+    {
+      "id": 40,
+      "monsterId": 3165
     }
   ]
 }

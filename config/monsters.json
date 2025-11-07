@@ -624517,6 +624517,76 @@
         "Vip": 0
       },
       {
+        "DefName": "蟑螂恶霸",
+        "ExtraMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 38146,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 38144,
+              "LearningLv": 1,
+              "Rec": 1,
+              "Tag": 1
+            },
+            {
+              "ID": 29186,
+              "LearningLv": 5,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "ID": 29176,
+              "LearningLv": 9,
+              "Rec": 1,
+              "Tag": 3
+            },
+            {
+              "ID": 38145,
+              "LearningLv": 13,
+              "Rec": 1,
+              "Tag": 4
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 147,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 116,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 0,
+        "HP": 155,
+        "ID": 4833,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 3494,
+        "RealId": 0,
+        "SpAtk": 70,
+        "Spd": 136,
+        "SpDef": 116,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 48,
+        "Vip": 0
+      },
+      {
         "DefName": "圣灵谱尼",
         "ExtraMoves": {
           "AdvMove": null,
@@ -695136,16 +695206,69 @@
         "Vip": 0
       },
       {
-        "DefName": "魁星斗转·瑞尔斯",
-        "ExtraMoves": null,
+        "DefName": "卡布达巨人",
+        "ExtraMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 38134,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
         "LearnableMoves": {
           "AdvMove": null,
           "Move": [
             {
-              "ID": 31356,
+              "ID": 38120,
               "LearningLv": 1,
-              "Rec": 1,
+              "Rec": 0,
               "Tag": 0
+            },
+            {
+              "ID": 29171,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 29172,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 38121,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 38132,
+              "LearningLv": 17,
+              "Rec": 1,
+              "Tag": 1
+            },
+            {
+              "ID": 29179,
+              "LearningLv": 21,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "ID": 29180,
+              "LearningLv": 25,
+              "Rec": 1,
+              "Tag": 3
+            },
+            {
+              "ID": 38133,
+              "LearningLv": 29,
+              "Rec": 1,
+              "Tag": 4
             }
           ],
           "SpMove": null
@@ -695153,27 +695276,27 @@
         "Move": null,
         "ShowExtraMoves": null,
         "SpExtraMoves": null,
-        "Atk": 133,
+        "Atk": 147,
         "CharacterAttrParam": 0,
         "Combo": 0,
-        "Def": 108,
+        "Def": 112,
         "EvolvesTo": 0,
         "EvolvFlag": 0,
         "EvolvingLv": 0,
         "FreeForbidden": 1,
-        "Gender": 1,
-        "HP": 166,
+        "Gender": 0,
+        "HP": 175,
         "ID": 5794,
         "isFlyPet": 0,
         "isRidePet": 0,
-        "PetClass": 2152,
+        "PetClass": 3490,
         "RealId": 0,
         "SpAtk": 70,
-        "Spd": 130,
-        "SpDef": 108,
+        "Spd": 134,
+        "SpDef": 112,
         "Support": 0,
         "Transform": 0,
-        "Type": 78,
+        "Type": 35,
         "Vip": 0
       },
       {
@@ -695317,106 +695440,69 @@
         "Vip": 0
       },
       {
-        "DefName": "馥郁玛奇朵·武心婵",
-        "ExtraMoves": null,
+        "DefName": "鲨鱼巨人",
+        "ExtraMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 38137,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
         "LearnableMoves": {
           "AdvMove": null,
           "Move": [
             {
-              "ID": 36629,
+              "ID": 38123,
               "LearningLv": 1,
               "Rec": 0,
-              "Tag": 2
+              "Tag": 0
             },
             {
-              "ID": 36630,
+              "ID": 29173,
               "LearningLv": 5,
               "Rec": 0,
-              "Tag": 2
+              "Tag": 0
             },
             {
-              "ID": 36631,
+              "ID": 29174,
               "LearningLv": 9,
               "Rec": 0,
-              "Tag": 2
+              "Tag": 0
             },
             {
-              "ID": 28321,
+              "ID": 38124,
               "LearningLv": 13,
               "Rec": 0,
               "Tag": 0
             },
             {
-              "ID": 28322,
-              "LearningLv": 17,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 28323,
-              "LearningLv": 21,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 28324,
+              "ID": 38135,
               "LearningLv": 25,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 28325,
-              "LearningLv": 29,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 28326,
-              "LearningLv": 33,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 36632,
-              "LearningLv": 37,
               "Rec": 1,
-              "Tag": 1
+              "Tag": 5
             },
             {
-              "ID": 36633,
-              "LearningLv": 41,
-              "Rec": 1,
-              "Tag": 1
-            },
-            {
-              "ID": 36634,
-              "LearningLv": 45,
-              "Rec": 1,
-              "Tag": 1
-            },
-            {
-              "ID": 28327,
-              "LearningLv": 49,
-              "Rec": 1,
-              "Tag": 3
-            },
-            {
-              "ID": 36635,
+              "ID": 29181,
               "LearningLv": 53,
-              "Rec": 0,
-              "Tag": 4
+              "Rec": 1,
+              "Tag": 6
             },
             {
-              "ID": 36636,
+              "ID": 29182,
               "LearningLv": 57,
-              "Rec": 0,
-              "Tag": 4
+              "Rec": 1,
+              "Tag": 7
             },
             {
-              "ID": 36637,
+              "ID": 38136,
               "LearningLv": 61,
-              "Rec": 0,
-              "Tag": 4
+              "Rec": 1,
+              "Tag": 8
             }
           ],
           "SpMove": null
@@ -695424,27 +695510,27 @@
         "Move": null,
         "ShowExtraMoves": null,
         "SpExtraMoves": null,
-        "Atk": 70,
-        "CharacterAttrParam": 4,
+        "Atk": 151,
+        "CharacterAttrParam": 0,
         "Combo": 0,
-        "Def": 115,
+        "Def": 112,
         "EvolvesTo": 0,
         "EvolvFlag": 0,
         "EvolvingLv": 0,
         "FreeForbidden": 1,
-        "Gender": 2,
-        "HP": 169,
+        "Gender": 0,
+        "HP": 167,
         "ID": 5797,
         "isFlyPet": 0,
         "isRidePet": 0,
-        "PetClass": 2526,
+        "PetClass": 3491,
         "RealId": 0,
-        "SpAtk": 140,
-        "Spd": 134,
+        "SpAtk": 70,
+        "Spd": 138,
         "SpDef": 112,
         "Support": 0,
         "Transform": 0,
-        "Type": 31,
+        "Type": 60,
         "Vip": 0
       },
       {
@@ -700469,6 +700555,36 @@
         "Gender": 0,
         "HP": 0,
         "ID": 1301042,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 0,
+        "Spd": 0,
+        "SpDef": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0
+      },
+      {
+        "DefName": "车轮滚滚",
+        "ExtraMoves": null,
+        "LearnableMoves": null,
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1301130,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -723479,6 +723595,66 @@
         "Gender": 0,
         "HP": 0,
         "ID": 1400771,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 0,
+        "Spd": 0,
+        "SpDef": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0
+      },
+      {
+        "DefName": "秋日印象·克洛托",
+        "ExtraMoves": null,
+        "LearnableMoves": null,
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400772,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 0,
+        "Spd": 0,
+        "SpDef": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0
+      },
+      {
+        "DefName": "自在提偶·霍德尔",
+        "ExtraMoves": null,
+        "LearnableMoves": null,
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400773,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,

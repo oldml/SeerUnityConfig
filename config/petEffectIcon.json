@@ -97,7 +97,7 @@
       "petid": 3171
     },
     {
-      "Desc": "<indent=0><sprite=0><indent=16>触发效果：\r\n<indent=16><sprite=3><indent=32>受到攻击时50%<color=#64F9FA>令对手冰封</color>\r\n<indent=32><sprite=4><indent=48>未触发则50%<color=#64F9FA>令对手麻痹</color>\r\n\r\n<indent=0><sprite=0><indent=16>回合开始效果：\r\n<indent=16><sprite=3><indent=32>回合开始时，若对手处于异常状态则令对手当回合<color=#64F9FA>先制效果失效</color>且自身当回合造成的<b>攻击伤害</b><color=#64F9FA>提升</color>50%",
+      "Desc": "<indent=0><sprite=0><indent=16>触发效果：\r\n<indent=16><sprite=3><indent=32>受到攻击时50%<color=#64F9FA>令对手冰封</color>\r\n<indent=32><sprite=4><indent=48>未触发则50%<color=#64F9FA>令对手麻痹</color>\r\n<indent=32><sprite=4><sprite=4><indent=64>未触发则<color=#64F9FA>令对手冻伤</color>且回合结束后<color=#64F9FA>恢复</color>最大体力的1/3\r\n\r\n<indent=0><sprite=0><indent=16>回合开始效果：\r\n<indent=16><sprite=3><indent=32>回合开始时，若对手处于异常状态则令对手当回合<color=#64F9FA>先制效果失效</color>且自身当回合造成的<b>攻击伤害</b><color=#64F9FA>提升</color>50%",
       "affectedBoss": 0,
       "effecticonid": 1918,
       "id": 13,
@@ -401,7 +401,7 @@
       "petid": 3540
     },
     {
-      "Desc": "<indent=0><sprite=0><indent=16>帝君之罚：\r\n<indent=16><sprite=3><indent=32>首次登场时直接<color=#64F9FA>扣除</color>对手所有<b>不在场精灵</b>1/3的最大体力，对手精灵死亡时令其<color=#64F9FA>保留</color>1点<b>体力</b>\r\n<indent=32><sprite=4><indent=48>非首次登场时触发效果削弱到1/9的最大体力\r\n\r\n<indent=0><sprite=0><indent=16>帝君之赐：\r\n<indent=16><sprite=3><indent=32>首次登场时<color=#64F9FA>恢复</color>己方所有<b>不在场精灵</b>1/3的最大体力\r\n<indent=32><sprite=4><indent=48>非首次登场时触发效果削弱到1/9的最大体力\r\n\r\n<indent=0><sprite=0><indent=16>帝君之援（boss有效）：\r\n<indent=16><sprite=3><indent=32>天启帝君存在于出战背包时，己方精灵登场时若为满体力则当回合所有技能<b>先制</b>+1\r\n\r\n<indent=0><sprite=0><indent=16>帝君之御：\r\n<indent=16><sprite=3><indent=32>天生<color=#64F9FA>免疫</color>所有<b>固定伤害</b>、<b>百分比伤害</b>\r\n<indent=16><sprite=3><indent=32>天生<color=#64F9FA>免疫</color>所有<b>异常状态</b>\r\n<indent=16><sprite=3><indent=32>在战斗中将固定伤害和百分比伤害抗性始终视为100%\r\n\r\n<indent=0><sprite=0><indent=16>帝君之阵：\r\n<indent=16><sprite=3><indent=32>己方每有一只精灵死亡则自身受到的<b>攻击伤害</b><color=#64F9FA>降低</color>10%，造成的<b>攻击伤害</b><color=#64F9FA>提升</color>10%\r\n<indent=16><sprite=3><indent=32>天启帝君为最后一只存活精灵时自身<color=#64F9FA>回合类效果无法被消除</color>\r\n<indent=16><sprite=3><indent=32>对方每有一只不在场存活精灵则自身使用技能后<color=#64F9FA>恢复</color>1/10最大体力并造成等量<b>百分比伤害</b>\r\n<indent=16><sprite=3><indent=32>对手为最后一只存活精灵时使对手<color=#64F9FA>无法通过自身技能恢复体力</color>\r\n\r\n<indent=0><sprite=0><indent=16>帝君之殒：\r\n<indent=16><sprite=3><indent=32>天启帝君被击败时，30%概率使对手随机一只<b>不在场精灵</b><color=#64F9FA>死亡</color></b>",
+      "Desc": "<indent=0><sprite=0><indent=16>帝君之罚：\r\n<indent=16><sprite=3><indent=32>首次登场时直接<color=#64F9FA>扣除</color>对手所有<b>不在场精灵</b>1/3的最大体力，对手精灵死亡时令其<color=#64F9FA>保留</color>1点<b>体力</b>\r\n<indent=32><sprite=4><indent=48>非首次登场时触发效果削弱到1/9的最大体力\r\n\r\n<indent=0><sprite=0><indent=16>帝君之赐：\r\n<indent=16><sprite=3><indent=32>首次登场时<color=#64F9FA>恢复</color>己方所有<b>不在场精灵</b>1/3的最大体力\r\n<indent=32><sprite=4><indent=48>非首次登场时触发效果削弱到1/9的最大体力\r\n\r\n<indent=0><sprite=0><indent=16>帝君之援（boss有效）：\r\n<indent=16><sprite=3><indent=32>天启帝君存在于出战背包时，己方精灵登场时若为满体力则当回合所有技能<b>先制</b>+1\r\n\r\n<indent=0><sprite=0><indent=16>帝君之御：\r\n<indent=16><sprite=3><indent=32>天生<color=#64F9FA>免疫</color>所有<b>固定伤害</b>、<b>百分比伤害</b>\r\n<indent=16><sprite=3><indent=32>天生<color=#64F9FA>免疫</color>所有<b>异常状态</b>\r\n<indent=16><sprite=3><indent=32>在战斗中将固定伤害和百分比伤害抗性始终视为100%\r\n\r\n<indent=0><sprite=0><indent=16>帝君之阵：\r\n<indent=16><sprite=3><indent=32>己方每有一只阵亡精灵则自身受到的<b>攻击伤害</b><color=#64F9FA>降低</color>10%，造成的<b>攻击伤害</b><color=#64F9FA>提升</color>10%\r\n<indent=16><sprite=3><indent=32>天启帝君为最后一只存活精灵时自身<color=#64F9FA>回合类效果无法被消除</color>\r\n<indent=16><sprite=3><indent=32>对方每有一只不在场存活精灵则自身使用技能后<color=#64F9FA>恢复</color>1/10最大体力并造成等量<b>百分比伤害</b>\r\n<indent=16><sprite=3><indent=32>对手为最后一只存活精灵时使对手<color=#64F9FA>无法通过自身技能恢复体力</color>\r\n\r\n<indent=0><sprite=0><indent=16>帝君之殒：\r\n<indent=16><sprite=3><indent=32>天启帝君被击败时，30%概率使对手随机一只<b>不在场精灵</b><color=#64F9FA>死亡</color></b>",
       "affectedBoss": 2,
       "effecticonid": 849,
       "id": 51,
@@ -673,7 +673,7 @@
       "petid": 3668
     },
     {
-      "Desc": "<indent=0><sprite=0><indent=16>常驻效果：\r\n<indent=16><sprite=3><indent=32>未被击败时，若对手<color=#64F9FA>任意一项</color>能力等级高于<color=#64F9FA>回合开始</color>时则召唤持续1回合的<b>圣辉之羽</b>庇护自身\r\n\r\n<indent=0><sprite=0><indent=16>回合开始效果：\r\n<indent=16><sprite=3><indent=32>回合开始时50%令自身<color=#64F9FA>全属性+1</color>\r\n<indent=32><sprite=4><indent=48>未触发则100%<color=#64F9FA>令对手全属性-1</color>且当回合自身攻击技能<color=#64F9FA>必定打出致命一击</color>\r\n\r\n<indent=0><sprite=5><indent=15>圣辉之羽（下场不保留）：\r\n<indent=16><sprite=6><indent=32>圣耀之光·黄金天马持有时：\r\n<indent=32><sprite=4><indent=48><color=#64F9FA>免疫</color>受到的<b>异常状态</b>和<b>能力下降状态</b>\r\n<indent=32><sprite=4><indent=48>将受到的<b>攻击伤害</b><color=#64F9FA>转化</color>为自身体力",
+      "Desc": "<indent=0><sprite=0><indent=16>常驻效果：\r\n<indent=16><sprite=3><indent=32>未被击败时，若对手<color=#64F9FA>任意一项</color>能力等级高于<color=#64F9FA>回合开始</color>时则召唤持续1回合的<b>圣辉之羽</b>庇护自身\r\n\r\n<indent=0><sprite=0><indent=16>回合开始效果：\r\n<indent=16><sprite=3><indent=32>回合开始时50%令自身<color=#64F9FA>全属性+1</color>\r\n<indent=32><sprite=4><indent=48>未触发则100%令对手<color=#64F9FA>全属性-1</color>且当回合自身攻击技能必定<color=#64F9FA>打出致命一击</color>\r\n\r\n<indent=0><sprite=5><indent=15>圣辉之羽：\r\n<indent=16><sprite=6><indent=32>圣耀之光·黄金天马持有时：\r\n<indent=32><sprite=4><indent=48><color=#64F9FA>免疫</color>受到的<b>异常状态</b>和<b>能力下降状态</b>\r\n<indent=32><sprite=4><indent=48>将受到的<b>攻击伤害</b><color=#64F9FA>转化</color>为体力恢复",
       "affectedBoss": 0,
       "effecticonid": 956,
       "id": 85,
@@ -681,7 +681,7 @@
       "petid": 3670
     },
     {
-      "Desc": "<indent=0><sprite=0><indent=16>常驻效果：\r\n<indent=16><sprite=3><indent=32>未被击败时，若对手<color=#64F9FA>任意一项</color>能力等级<color=#64F9FA>高于回合开始</color>时则召唤持续1回合的<b>圣辉之羽</b>庇护自身\r\n<indent=16><sprite=3><indent=32>未被击败时，若对手所有能力等级<color=#64F9FA>均未高于回合开始</color>则召唤持续1回合的<b>圣雷华冠</b>强化自身\r\n\r\n<indent=0><sprite=0><indent=16>回合开始效果：\r\n<indent=16><sprite=3><indent=32>回合开始时若自身不处于能力提升状态则：\r\n<indent=32><sprite=4><indent=48>100%令自身<color=#64F9FA>全属性+1</color>\r\n<indent=32><sprite=4><indent=48>当回合使用攻击技能后<color=#64F9FA>附加</color>自身最大体力1/3的<b>百分比伤害</b>\r\n<indent=16><sprite=3><indent=32>回合开始时若自身处于能力提升状态：\r\n<indent=32><sprite=4><indent=48>100%<color=#64F9FA>令对手全属性-1</color>\r\n<indent=32><sprite=4><indent=48>当回合自身攻击技能<color=#64F9FA>必定打出致命一击</color>\r\n\r\n<indent=0><sprite=5><indent=15>圣辉之羽（下场不保留）：\r\n<indent=16><sprite=6><indent=32>圣耀之光·黄金天马持有时：\r\n<indent=32><sprite=4><indent=48><color=#64F9FA>免疫</color>受到的<b>异常状态</b>和<b>能力下降状态</b>\r\n<indent=32><sprite=4><indent=48>将受到的<b>攻击伤害</b><color=#64F9FA>转化</color>为自身体力\r\n\r\n<indent=0><sprite=5><indent=15>圣雷华冠（下场不保留）：\r\n<indent=16><sprite=6><indent=32>圣耀之光·黄金天马持有时：\r\n<indent=32><sprite=4><indent=48>攻击技能<b>先制</b>+1\r\n<indent=32><sprite=4><indent=48>攻击技能命中前若对手处于异常状态则造成的伤害<color=#64F9FA>提升</color>50%",
+      "Desc": "<indent=0><sprite=0><indent=16>常驻效果：\r\n<indent=16><sprite=3><indent=32>未被击败时，若对手<color=#64F9FA>任意一项</color>能力等级<color=#64F9FA>高于回合开始</color>时则召唤持续1回合的<b>圣辉之羽</b>庇护自身\r\n<indent=16><sprite=3><indent=32>未被击败时，若对手所有能力等级<color=#64F9FA>均未高于回合开始</color>则召唤持续1回合的<b>圣雷华冠</b>强化自身\r\n\r\n<indent=0><sprite=0><indent=16>回合开始效果：\r\n<indent=16><sprite=3><indent=32>回合开始时若自身不处于能力提升状态则：\r\n<indent=32><sprite=4><indent=48>100%令自身<color=#64F9FA>全属性+1</color>\r\n<indent=32><sprite=4><indent=48>当回合使用攻击技能后<color=#64F9FA>附加</color>自身最大体力1/3的<b>百分比伤害</b>\r\n<indent=16><sprite=3><indent=32>回合开始时若自身处于能力提升状态：\r\n<indent=32><sprite=4><indent=48>100%令对手<color=#64F9FA>全属性-1</color>\r\n<indent=32><sprite=4><indent=48>当回合自身攻击技能必定<color=#64F9FA>打出致命一击</color>\r\n\r\n<indent=0><sprite=5><indent=15>圣辉之羽：\r\n<indent=16><sprite=6><indent=32>圣耀之光·黄金天马持有时：\r\n<indent=32><sprite=4><indent=48><color=#64F9FA>免疫</color>受到的<b>异常状态</b>和<b>能力下降状态</b>\r\n<indent=32><sprite=4><indent=48>将受到的<b>攻击伤害</b><color=#64F9FA>转化</color>为体力恢复\r\n\r\n<indent=0><sprite=5><indent=15>圣雷华冠：\r\n<indent=16><sprite=6><indent=32>圣耀之光·黄金天马持有时：\r\n<indent=32><sprite=4><indent=48>攻击技能<b>先制</b>+1\r\n<indent=32><sprite=4><indent=48>攻击技能命中前若对手处于异常状态则造成的<b>攻击伤害</b><color=#64F9FA>提升</color>50%",
       "affectedBoss": 0,
       "effecticonid": 1710,
       "id": 86,
@@ -745,7 +745,7 @@
       "petid": 3705
     },
     {
-      "Desc": "<indent=0><sprite=0><indent=16>登场效果：\r\n<indent=16><sprite=3><indent=32>首次登场时获得4层<b>自然祝福</b>\r\n<indent=16><sprite=3><indent=32>非首次登场时获得2层<b>自然祝福</b>\r\n\r\n<indent=0><sprite=0><indent=16>战阶结束效果：\r\n<indent=16><sprite=3><indent=32>战斗阶段结束时：\r\n<indent=32><sprite=4><indent=48>若当回合自身<color=#64F9FA>使用技能</color>则<b>消耗</b>1层自然祝福\r\n<indent=32><sprite=4><indent=48>若当回合自身<color=#64F9FA>未使用技能</color>则<b>获得</b>1层自然祝福\r\n\r\n<indent=0><sprite=5><indent=15>自然祝福（上限4层，下场不保留）：\r\n<indent=16><sprite=6><indent=32>每持有1层，则：\r\n<indent=32><sprite=4><indent=48>25%概率<color=#64F9FA>免疫</color>受到的<b>异常状态</b>\r\n<indent=32><sprite=4><indent=48>攻击技能<b>先制</b>+1\r\n<indent=32><sprite=4><indent=48>受到的<b>攻击伤害</b><color=#64F9FA>减少</color>8%\r\n",
+      "Desc": "<indent=0><sprite=0><indent=16>登场效果：\r\n<indent=16><sprite=3><indent=32>首次登场时获得4层<b>自然祝福</b>\r\n<indent=16><sprite=3><indent=32>非首次登场时获得2层自然祝福\r\n\r\n<indent=0><sprite=0><indent=16>战阶结束效果：\r\n<indent=16><sprite=3><indent=32>战斗阶段结束时：\r\n<indent=32><sprite=4><indent=48>若当回合自身使用了技能则消耗1层自然祝福\r\n<indent=32><sprite=4><indent=48>若当回合自身未使用技能则获得1层自然祝福\r\n\r\n<indent=0><sprite=5><indent=16>触发效果：\r\n<indent=16><sprite=3><indent=32>每持有1层自然祝福，莫妮卡：\r\n<indent=32><sprite=4><indent=48>25%概率<color=#64F9FA>免疫</color>受到的<b>异常状态</b>\r\n<indent=32><sprite=4><indent=48>攻击技能<b>先制</b>+1\r\n<indent=32><sprite=4><indent=48>受到的<b>攻击伤害</b><color=#64F9FA>减少</color>8%\r\n\r\n<indent=0><sprite=5><indent=15>自然祝福（上限4层）：\r\n<indent=16><sprite=6><indent=32>莫妮卡用以触发部分效果的条件",
       "affectedBoss": 1,
       "effecticonid": 987,
       "id": 94,
@@ -817,7 +817,7 @@
       "petid": 3740
     },
     {
-      "Desc": "<indent=0><sprite=0><indent=16>限定效果（每场战斗限1次，boss有效）：\r\n<indent=16><sprite=3><indent=32>登场首回合<color=#64F9FA>免疫<b></color>异常状态</b>且将受到的<b>攻击伤害</b><color=#64F9FA>转化</color>为体力\r\n\r\n<indent=0><sprite=0><indent=16>常驻效果：\r\n<indent=16><sprite=3><indent=32>自身背包内每有一只其他存活精灵则自身造成的<b>攻击伤害<color=#64F9FA></b>提升</color>20%\r\n<indent=16><sprite=3><indent=32>对手背包内每有一只阵亡精灵则自身<b>闪避率<color=#64F9FA></b>提升</color>20%\r\n\r\n<indent=0><sprite=0><indent=16>战阶结束效果：\r\n<indent=16><sprite=3><indent=32>战斗阶段结束时：\r\n<indent=32><sprite=4><indent=48>若自身体力高于对手则下回合<color=#64F9FA>免疫并反弹<b></color>异常状态</b>\r\n<indent=32><sprite=4><indent=48>若自身体力低于对手则<color=#64F9FA>恢复</color>自身最大体力的1/3并<color=#64F9FA>附加</color>等量<b>固定伤害</b>",
+      "Desc": "<indent=0><sprite=0><indent=16>限定效果（每场战斗限1次，boss有效）：\r\n<indent=16><sprite=3><indent=32>登场首回合<color=#64F9FA>免疫<b></color>异常状态</b>且将受到的<b>攻击伤害</b><color=#64F9FA>转化</color>为体力恢复\r\n\r\n<indent=0><sprite=0><indent=16>常驻效果：\r\n<indent=16><sprite=3><indent=32>己方场下每有一只其他存活精灵则自身造成的<b>攻击伤害<color=#64F9FA></b>提升</color>20%\r\n<indent=16><sprite=3><indent=32>对方场下每有一只阵亡精灵则自身<b>闪避率<color=#64F9FA></b>提升</color>20%\r\n\r\n<indent=0><sprite=0><indent=16>战阶结束效果：\r\n<indent=16><sprite=3><indent=32>战斗阶段结束时：\r\n<indent=32><sprite=4><indent=48>若自身体力高于对手则下回合<color=#64F9FA>免疫并反弹<b></color>异常状态</b>\r\n<indent=32><sprite=4><indent=48>若自身体力低于对手则<color=#64F9FA>恢复</color>自身最大体力的1/3并<color=#64F9FA>附加</color>等量<b>百分比伤害</b>",
       "affectedBoss": 2,
       "effecticonid": 1043,
       "id": 103,
@@ -2129,7 +2129,7 @@
       "petid": 3917
     },
     {
-      "Desc": "<indent=0><sprite=0><indent=16>登场效果：\r\n<indent=16><sprite=3><indent=32>首次登场首回合造成的<b>攻击伤害</b><color=#64F9FA>提升</color>100%\r\n\r\n<indent=0><sprite=0><indent=16>触发效果：\r\n<indent=16><sprite=3><indent=32>每逢第3回合，露希安会获得<b>海洋的庇护</b>\r\n\r\n<indent=0><sprite=5><indent=15>海洋的庇护：\r\n<indent=16><sprite=6><indent=32>当回合对手使用攻击技能则将受到的<b>攻击伤害</b><color=#64F9FA>转化</color>为自身<b>体力</b>\r\n<indent=16><sprite=6><indent=32>当回合对手未使用攻击技能则自身下回合造成的<b>攻击伤害</b><color=#64F9FA>提升</color>100%",
+      "Desc": "<indent=0><sprite=0><indent=16>登场效果：\r\n<indent=16><sprite=3><indent=32>首次登场首回合造成的<b>攻击伤害</b><color=#64F9FA>提升</color>100%\r\n\r\n<indent=0><sprite=0><indent=16>触发效果：\r\n<indent=16><sprite=3><indent=32>每逢第3回合，露希安会获得<b>海洋的庇护</b>\r\n\r\n<indent=0><sprite=5><indent=15>海洋的庇护：\r\n<indent=16><sprite=6><indent=32>当回合对手使用攻击技能则将受到的<b>攻击伤害</b><color=#64F9FA>转化</color>为体力恢复\r\n<indent=16><sprite=6><indent=32>当回合对手未使用攻击技能则自身下回合造成的<b>攻击伤害</b><color=#64F9FA>提升</color>100%",
       "affectedBoss": 1,
       "effecticonid": 1184,
       "id": 267,
@@ -2161,7 +2161,7 @@
       "petid": 3922
     },
     {
-      "Desc": "<indent=0><sprite=0><indent=16>触发效果：\r\n<indent=16><sprite=3><indent=32>每次受到攻击伤害的50%<color=#64F9FA>转化</color>为自身<b>体力</b>\r\n<indent=32><sprite=4><indent=48>自身当前体力低于最大体力的1/2时<color=#64F9FA>附加</color>给对手等量<b>固定伤害</b>\r\n\r\n<indent=0><sprite=0><indent=16>回合开始效果：\r\n<indent=16><sprite=3><indent=32>回合开始时：\r\n<indent=32><sprite=4><indent=48>若对手处于能力提升状态则自身当回合<color=#64F9FA>免疫</color>受到的<b>异常状态</b>\r\n<indent=32><sprite=4><indent=48>若自身处于能力提升状态则自身当回合所有技能<b>先制</b>+1",
+      "Desc": "<indent=0><sprite=0><indent=16>触发效果：\r\n<indent=16><sprite=3><indent=32>每次受到攻击伤害的50%<color=#64F9FA>转化</color>为自身<b>体力</b>\r\n<indent=32><sprite=4><indent=48>自身当前体力低于最大体力的1/2时<color=#64F9FA>附加</color>给对手等量<b>百分比伤害</b>\r\n\r\n<indent=0><sprite=0><indent=16>回合开始效果：\r\n<indent=16><sprite=3><indent=32>回合开始时：\r\n<indent=32><sprite=4><indent=48>若对手处于能力提升状态则自身当回合<color=#64F9FA>免疫</color>受到的<b>异常状态</b>\r\n<indent=32><sprite=4><indent=48>若自身处于能力提升状态则自身当回合所有技能<b>先制</b>+1",
       "affectedBoss": 0,
       "effecticonid": 1188,
       "id": 271,
@@ -2337,7 +2337,7 @@
       "petid": 3940
     },
     {
-      "Desc": "<indent=0><sprite=0><indent=16>战阶结束效果：\r\n<indent=16><sprite=3><indent=32>战斗阶段结束时：\r\n<indent=32><sprite=4><indent=48>若自身体力低于最大体力的1/2则100%<color=#64F9FA>令对手害怕</color>\r\n<indent=32><sprite=4><sprite=4><indent=64>未触发害怕则<color=#64F9FA>吸取</color>对手最大体力的1/3\r\n<indent=32><sprite=4><indent=48>若自身体力高于最大体力的1/2则2回合内<color=#64F9FA>免疫并反弹</color>异常状态\r\n<indent=32><sprite=4><indent=48>若当回合战斗阶段被中断，则于回合结束后判定上述效果\r\n\r\n<indent=0><sprite=0><indent=16>触发效果：\r\n<indent=16><sprite=3><indent=32>对手处于黑暗之种影响时：\r\n<indent=32><sprite=4><indent=48>若对手被自身击败则下只精灵登场后随机2个技能PP值<color=#64F9FA>归零</color>\r\n<indent=32><sprite=4><indent=48>若自身被对手击败则100%<color=#64F9FA>令对手害怕</color>\r\n\r\n<indent=0><sprite=5><indent=15>黑暗之种（限4级，下场不保留）：\r\n<indent=16><sprite=6><indent=32>黑暗之种从被附加的次回合起，每回合结束后成长1级，达到4级时成熟\r\n<indent=16><sprite=6><indent=32>成长期时，黑暗之种每回合使拥有者随机1个技能PP值-1\r\n<indent=16><sprite=6><indent=32>成熟后，黑暗之种每回合使拥有者所有技能PP值-1",
+      "Desc": "<indent=0><sprite=0><indent=16>战阶结束效果：\r\n<indent=16><sprite=3><indent=32>战斗阶段结束时：\r\n<indent=32><sprite=4><indent=48>若自身体力低于最大体力的1/2则100%<color=#64F9FA>令对手害怕</color>\r\n<indent=32><sprite=4><sprite=4><indent=64>未触发害怕则<color=#64F9FA>吸取</color>对手最大体力的1/3\r\n<indent=32><sprite=4><indent=48>若自身体力高于最大体力的1/2则2回合内<color=#64F9FA>免疫并反弹</color>异常状态\r\n<indent=32><sprite=4><indent=48>若当回合战斗阶段被中断，则于回合结束后判定上述效果\r\n\r\n<indent=0><sprite=0><indent=16>触发效果：\r\n<indent=16><sprite=3><indent=32>对手处于黑暗之种影响时：\r\n<indent=32><sprite=4><indent=48>若对手被自身击败则下只精灵登场后随机2个技能PP值<color=#64F9FA>归零</color>\r\n<indent=32><sprite=4><indent=48>若自身被对手击败则100%<color=#64F9FA>令对手害怕</color>\r\n\r\n<indent=0><sprite=5><indent=15>黑暗之种（上限4级）：\r\n<indent=16><sprite=6><indent=32>黑暗之种从被附加的次回合起，每回合结束后成长1级，达到4级时成熟\r\n<indent=16><sprite=6><indent=32>成长期时，黑暗之种每回合使拥有者随机1个技能PP值-1\r\n<indent=16><sprite=6><indent=32>成熟后，黑暗之种每回合使拥有者所有技能PP值-1",
       "affectedBoss": 0,
       "effecticonid": 1204,
       "id": 293,
@@ -6625,7 +6625,7 @@
       "petid": 4562
     },
     {
-      "Desc": "<indent=0><sprite=0><indent=16>常驻效果：\r\n<indent=16><sprite=3><indent=32>对手每携带一个必中技能自身受到与造成的<b>攻击伤害<color=#64F9FA></b>提升</color>15%\r\n<indent=16><sprite=3><indent=32>对手每携带一个非必中技能战斗阶段结束时<color=#64F9FA>吸取</color>对手最大体力的15%\r\n\r\n<indent=0><sprite=0><indent=16>触发效果：\r\n<indent=16><sprite=3><indent=32>对手使用属性技能后下1回合自身<b>先制</b>+1 \r\n<indent=32><sprite=4><indent=48>若为必中技能，则持续回合+1\r\n<indent=16><sprite=3><indent=32>对手使用攻击技能后下1回合自身造成的<b>攻击伤害<color=#64F9FA></b>提升</color>50%\r\n<indent=32><sprite=4><indent=48>若为必中技能，则持续回合+1",
+      "Desc": "<indent=0><sprite=0><indent=16>常驻效果：\r\n<indent=16><sprite=3><indent=32>对手每携带一个必中技能自身受到的<b>攻击伤害</b><color=#64F9FA>减少</color>10%，造成的<b>攻击伤害</b><color=#64F9FA>提升</color>15%\r\n<indent=16><sprite=3><indent=32>对手每携带一个非必中技能自身使用技能后<color=#64F9FA>吸取</color>对手最大体力的15%\r\n\r\n<indent=0><sprite=0><indent=16>触发效果：\r\n<indent=16><sprite=3><indent=32>对手使用属性技能后下1回合自身<b>先制</b>+1 \r\n<indent=32><sprite=4><indent=48>若为必中技能，则持续回合+1\r\n<indent=16><sprite=3><indent=32>对手使用攻击技能后下1回合自身造成的<b>攻击伤害<color=#64F9FA></b>提升</color>50%\r\n<indent=32><sprite=4><indent=48>若为必中技能，则持续回合+1",
       "affectedBoss": 0,
       "effecticonid": 1774,
       "id": 829,
@@ -8353,10 +8353,18 @@
       "petid": 4832
     },
     {
+      "Desc": "<indent=0><sprite=0><indent=16>战阶结束效果：\r\n<indent=16><sprite=3><indent=32>战斗阶段结束时，令对手攻击、特攻<color=#64F9FA>下降至</color>-1\r\n\r\n<indent=0><sprite=0><indent=16>攻击技能额外效果：\r\n<indent=16><sprite=3><indent=32>自身使用攻击技能后<color=#64F9FA>附加</color>对手最大体力1/3的<b>百分比伤害</b>\r\n<indent=32><sprite=4><indent=48>自身登场时此效果1回合内改为<color=#64F9FA>吸取</color>对手最大体力的1/3\r\n\r\n<indent=0><sprite=0><indent=16>触发效果：\r\n<indent=16><sprite=3><indent=32>自身的<b>体力恢复效果</b><color=#64F9FA>提升</color>80%\r\n<indent=32><sprite=4><indent=48>对手登场时此效果1回合内改为对手的<b>体力恢复效果</b><color=#64F9FA>减少</color>80%",
+      "affectedBoss": 0,
+      "effecticonid": 2023,
+      "id": 1045,
+      "isAdv": 0,
+      "petid": 4833
+    },
+    {
       "Desc": "<indent=0><sprite=0><indent=16>虚无：\r\n<indent=16><sprite=3><indent=32>受到攻击伤害时，<color=#64F9FA>抵挡</color>下1次受到的<b>攻击</b>\r\n\r\n<indent=0><sprite=0><indent=16>元素：\r\n<indent=16><sprite=3><indent=32>登场时<color=#64F9FA>消除</color>对手<b>回合类效果</b>\r\n<indent=32><sprite=4><indent=48>消除成功则使对手下1次<b>所有技能</b><color=#64F9FA>无效</color>\r\n\r\n<indent=0><sprite=0><indent=16>能量（boss有效）：\r\n<indent=16><sprite=3><indent=32>战斗阶段结束时<color=#64F9FA>附加</color>自身已损失体力50%的<b>百分比伤害</b>\r\n\r\n<indent=0><sprite=0><indent=16>生命（boss有效）：\r\n<indent=16><sprite=3><indent=32>战斗阶段结束时<color=#64F9FA>恢复</color>自身最大体力的1/4和随机2个PP值未满的技能1点<b>PP值</b>\r\n\r\n<indent=0><sprite=0><indent=16>轮回（每场战斗限1次）：\r\n<indent=16><sprite=3><indent=32>对手出手回合若自身受到致命伤害则：\r\n<indent=32><sprite=4><indent=48><color=#64F9FA>保留</color>1点<b>体力</b>\r\n<indent=32><sprite=4><indent=48>当回合结束后自身<b>体力</b>、<b>PP值</b>、<b>能力等级</b>返回当回合选择操作之后的状态\r\n\r\n<indent=0><sprite=0><indent=16>永恒：\r\n<indent=16><sprite=3><indent=32>回合开始时若自身体力高于对手则当回合自身<color=#64F9FA>必定先手</color>\r\n\r\n<indent=0><sprite=0><indent=16>圣洁（boss有效）：\r\n<indent=16><sprite=3><indent=32>天生<color=#64F9FA>免疫</color>所有<b>异常状态</b>和<b>能力下降状态</b></color></b>",
       "affectedBoss": 2,
       "effecticonid": 753,
-      "id": 1045,
+      "id": 1046,
       "isAdv": 0,
       "petid": 5000
     }

@@ -234363,6 +234363,86 @@
         "price": 2547,
         "productID": 262010,
         "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买噤夜结晶",
+        "itemID": [
+          1727517
+        ],
+        "price": 1,
+        "productID": 262011,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "一键觉醒混沌暗王霍德尔",
+        "itemID": [
+          1727518
+        ],
+        "price": 598,
+        "productID": 262012,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买邪凌结晶",
+        "itemID": [
+          1727520
+        ],
+        "price": 1,
+        "productID": 262013,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "一键觉醒路希菲尔德",
+        "itemID": [
+          1727521
+        ],
+        "price": 498,
+        "productID": 262014,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买双魂傀儡礼包",
+        "itemID": [
+          1727522
+        ],
+        "price": 498,
+        "productID": 262015,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买混沌暗王霍德尔冠名刻印",
+        "itemID": [
+          1727523
+        ],
+        "price": 298,
+        "productID": 262016,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "优惠购买混沌暗王霍德尔冠名刻印",
+        "itemID": [
+          1727524
+        ],
+        "price": 198,
+        "productID": 262017,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "快速获得挑战次数",
+        "itemID": [
+          1727525
+        ],
+        "price": 10,
+        "productID": 262018,
+        "vip": 1
       }
     ]
   }

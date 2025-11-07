@@ -3955,6 +3955,13 @@
       "currAppDo": 1,
       "id": 660,
       "isFullScreen": 1
+    },
+    {
+      "moduleName": "HuodeerHalloweenModule",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 661,
+      "isFullScreen": 0
     }
   ]
 }

@@ -3211,6 +3211,50 @@
       "portrait": "moguguai_hpx_fg",
       "id": 292,
       "scale": 1
+    },
+    {
+      "CharacterID": "qtdz_sp",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "蜻蜓队长",
+      "portrait": "qtdz_sp_fg",
+      "id": 293,
+      "scale": 1
+    },
+    {
+      "CharacterID": "qtdz_sp2",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "蜻蜓队长",
+      "portrait": "qtdz_sp2_fg",
+      "id": 294,
+      "scale": 1
+    },
+    {
+      "CharacterID": "tjxb2_fg",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "指挥棒",
+      "portrait": "tjxb2_fg_fg",
+      "id": 295,
+      "scale": 1
+    },
+    {
+      "CharacterID": "hyb",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "火炎贝",
+      "portrait": "hyb_fg",
+      "id": 296,
+      "scale": 1
     }
   ]
 }

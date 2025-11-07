@@ -2338,6 +2338,20 @@
                     "ID": 20,
                     "proicon": 1440,
                     "SpeNameBonus": 556
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "卡布达与朋友",
+                    "Desc": "完成剧情【和平星争霸赛】获得",
+                    "Threshold": "21",
+                    "title": "卡布达与朋友",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 21,
+                    "proicon": 1447,
+                    "SpeNameBonus": 558
                   }
                 ],
                 "ID": 161,
@@ -17562,7 +17576,7 @@
                   {
                     "abtext": "",
                     "achName": "梦境守望",
-                    "Desc": "守护易碎的梦境，直到星光重新点亮露希欧的夜空。",
+                    "Desc": "守护易碎的梦境，直到星光重新点亮露希欧的夜空",
                     "Threshold": "20",
                     "title": "梦境守望",
                     "titleColor": "0xFFFFFF",
@@ -17590,7 +17604,7 @@
                   {
                     "abtext": "",
                     "achName": "海洋之友",
-                    "Desc": "与海洋星居民建立友谊。",
+                    "Desc": "与海洋星居民建立友谊",
                     "Threshold": "22",
                     "title": "海洋之友",
                     "titleColor": "0xFFFFFF",

@@ -485122,6 +485122,34 @@
           "Type": 8
         },
         {
+          "info": "开始免疫并反弹受到的异常状态了；开始附加固定伤害了；消除了对手的能力提升状态",
+          "Name": "香蕉皮作战",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            191,
+            1154,
+            988
+          ],
+          "SideEffectArg": [
+            4,
+            4,
+            200,
+            1
+          ],
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "ID": 29186,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
           "info": "",
           "Name": "千星死魂灭",
           "FriendSideEffect": null,
@@ -694040,6 +694068,91 @@
           "Power": 5,
           "Priority": 0,
           "Type": 69
+        },
+        {
+          "info": "",
+          "Name": "提前启动",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            942,
+            1317,
+            1794
+          ],
+          "SideEffectArg": [
+            3,
+            3,
+            2,
+            1,
+            50
+          ],
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "ID": 38144,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Type": 48
+        },
+        {
+          "info": "",
+          "Name": "末日预言",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            79,
+            1198,
+            1469
+          ],
+          "SideEffectArg": [
+            100,
+            2,
+            30
+          ],
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "ID": 38145,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 48
+        },
+        {
+          "info": "",
+          "Name": "眼镜蛇鞭打",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1711,
+            1952,
+            1084
+          ],
+          "SideEffectArg": [
+            100,
+            6,
+            100,
+            6,
+            200
+          ],
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "ID": 38146,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 48
         },
         {
           "info": "恢复自身一定体力",

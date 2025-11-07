@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "Name": "茉茉子因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400526,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "辛西娅娜因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400525,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "燃魂巨兽因子",
       "catID": 24,
       "Hide": 0,

@@ -1017,7 +1017,7 @@
     {
       "buff": "",
       "buynum": "140_160",
-      "cardeffect": "19/3",
+      "cardeffect": "40/3",
       "desc": "造成{0}点伤害，牌库中每有一张过载时伤害+3",
       "icon": "card_21",
       "move": "0,0",
@@ -1043,7 +1043,7 @@
     {
       "buff": "",
       "buynum": "",
-      "cardeffect": "19/4",
+      "cardeffect": "40/4",
       "desc": "造成{0}点伤害，牌库中每有一张过载时伤害+4",
       "icon": "card_21",
       "move": "0,0",

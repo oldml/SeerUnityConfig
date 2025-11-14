@@ -20117,6 +20117,594 @@
       "groupId": 615,
       "id": 1946,
       "npcId": 4834
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "滴滴——身份认证通过。你好，<font color=\"0xffd325\">${nick}</font>，欢迎来到模拟宇航系统。",
+      "dir": 0,
+      "groupId": 616,
+      "id": 1947,
+      "npcId": 6001
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你好派派！你刚刚说这是什么？模拟宇航？",
+      "dir": 0,
+      "groupId": 616,
+      "id": 1948,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "滴滴，没错！进入里面就可以4D模拟宇宙旅行呢！",
+      "dir": 0,
+      "groupId": 616,
+      "id": 1949,
+      "npcId": 6001
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "好耶！那我也要模拟旅行！",
+      "dir": 0,
+      "groupId": 616,
+      "id": 1950,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "哔哔！对象错误！只有小苏摩才能体验呢！",
+      "dir": 0,
+      "groupId": 616,
+      "id": 1951,
+      "npcId": 6001
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "小苏摩们的身体远没有精灵那样强大，为了让它们也能看看这片广袤的宇宙，派特博士和发明家肖恩为小苏摩联合研发了这个模拟装置",
+      "dir": 0,
+      "groupId": 616,
+      "id": 1952,
+      "npcId": 6001
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "现在模拟装置尚未竣工，当你的<font color=\"0xffd325\">保姆等级达到2级</font>再来看看吧！",
+      "dir": 0,
+      "groupId": 616,
+      "id": 1953,
+      "npcId": 6001
+    },
+    {
+      "answer": [
+        "修复"
+      ],
+      "deal": null,
+      "msg": "滴滴！模拟宇航系统即将顺利竣工，这最后一颗螺丝，就由你来拧上吧！",
+      "dir": 0,
+      "groupId": 617,
+      "id": 1954,
+      "npcId": 6001
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "滴滴！你的小苏摩们已经可以体验不同的宇宙风光啦！",
+      "dir": 0,
+      "groupId": 618,
+      "id": 1955,
+      "npcId": 6001
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "随着你的保姆等级提升，还可以解锁更多可观光星系",
+      "dir": 0,
+      "groupId": 618,
+      "id": 1956,
+      "npcId": 6001
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "不过考虑到安全性，只有成年苏摩被允许进入喔！快试试吧！",
+      "dir": 0,
+      "groupId": 618,
+      "id": 1957,
+      "npcId": 6001
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "叮叮叮叮————",
+      "dir": 0,
+      "groupId": 619,
+      "id": 1958,
+      "npcId": 6003
+    },
+    {
+      "answer": [
+        "启动翻译模块"
+      ],
+      "deal": null,
+      "msg": "咦？这里怎么会有丁格？它在说什么呐？",
+      "dir": 0,
+      "groupId": 619,
+      "id": 1959,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "松土？"
+      ],
+      "deal": null,
+      "msg": "叮叮叮叮（你好赛尔，我是丁格甲，我正在为苏摩保育区松土！）",
+      "dir": 0,
+      "groupId": 619,
+      "id": 1960,
+      "npcId": 6003
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "叮叮叮叮（苏摩保育区的土壤来自卡兰流星雨的陨石，富含丰富的矿物质，只要稍加加工就可以变成肥沃的太空土壤啦！）",
+      "dir": 0,
+      "groupId": 619,
+      "id": 1961,
+      "npcId": 6003
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "好厉害，原来这里的土壤多亏了你在耕耘！",
+      "dir": 0,
+      "groupId": 619,
+      "id": 1962,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "叮叮叮叮（其实不只是我啦！还有我弟弟丁格乙，喏，它就在我旁边，你也可以和它聊聊~我继续工作啦！）",
+      "dir": 0,
+      "groupId": 619,
+      "id": 1963,
+      "npcId": 6003
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "叮叮————",
+      "dir": 0,
+      "groupId": 620,
+      "id": 1964,
+      "npcId": 6003
+    },
+    {
+      "answer": [
+        "启动翻译模块"
+      ],
+      "deal": null,
+      "msg": "小丁格似乎在说什么",
+      "dir": 0,
+      "groupId": 620,
+      "id": 1965,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "丁格乙？"
+      ],
+      "deal": null,
+      "msg": "叮叮（赛尔你好呀！我是丁格乙！）",
+      "dir": 0,
+      "groupId": 620,
+      "id": 1966,
+      "npcId": 6003
+    },
+    {
+      "answer": [
+        "原来如此……"
+      ],
+      "deal": null,
+      "msg": "叮叮（其实这片保育区里有6000只丁格在一起工作，我和哥哥因为太没用了只能停留在土壤表层……）",
+      "dir": 0,
+      "groupId": 620,
+      "id": 1967,
+      "npcId": 6003
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "叮叮（喔……还请别告诉我哥哥，它一定会气到螺纹倒转的……）",
+      "dir": 0,
+      "groupId": 620,
+      "id": 1968,
+      "npcId": 6003
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "吖吖————",
+      "dir": 0,
+      "groupId": 621,
+      "id": 1969,
+      "npcId": 6002
+    },
+    {
+      "answer": [
+        "启动翻译模块"
+      ],
+      "deal": null,
+      "msg": "小豆芽似乎在说什么",
+      "dir": 0,
+      "groupId": 621,
+      "id": 1970,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "吖吖（我正在光合作用，不要打扰我！）",
+      "dir": 0,
+      "groupId": 621,
+      "id": 1971,
+      "npcId": 6002
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "喔喔！好认真！",
+      "dir": 0,
+      "groupId": 621,
+      "id": 1972,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "吖吖吖吖————",
+      "dir": 0,
+      "groupId": 622,
+      "id": 1973,
+      "npcId": 6002
+    },
+    {
+      "answer": [
+        "启动翻译模块"
+      ],
+      "deal": null,
+      "msg": "小豆芽似乎在说什么",
+      "dir": 0,
+      "groupId": 622,
+      "id": 1974,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "吖吖吖吖（是赛尔！你好呀！）",
+      "dir": 0,
+      "groupId": 622,
+      "id": 1975,
+      "npcId": 6002
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你好呀，小豆芽，你在做什么呐？",
+      "dir": 0,
+      "groupId": 622,
+      "id": 1976,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "加油喔！"
+      ],
+      "deal": null,
+      "msg": "吖吖吖吖（我正在努力~努力~光合作用，为这片保育区生产一些有机物，派特博士说，这样有助于生态循环）",
+      "dir": 0,
+      "groupId": 622,
+      "id": 1977,
+      "npcId": 6002
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "呀！被你发现了！",
+      "dir": 0,
+      "groupId": 623,
+      "id": 1978,
+      "npcId": 6004
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你是……依卢？",
+      "dir": 0,
+      "groupId": 623,
+      "id": 1979,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "人家现在是太阳啦！为保育区的生态循环提供最关键的能量来源！",
+      "dir": 0,
+      "groupId": 623,
+      "id": 1980,
+      "npcId": 6004
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "太酷啦！",
+      "dir": 0,
+      "groupId": 623,
+      "id": 1981,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "早上好！"
+      ],
+      "deal": null,
+      "msg": "能发现我的你也很酷喔！早上好，赛尔！",
+      "dir": 0,
+      "groupId": 623,
+      "id": 1982,
+      "npcId": 6004
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "咦……这壁画是……派派和稀有精灵们快乐玩耍，是谁留下的呢？",
+      "dir": 0,
+      "groupId": 624,
+      "id": 1983,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "咳咳……",
+      "dir": 0,
+      "groupId": 624,
+      "id": 1984,
+      "npcId": 6008
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "咦咦咦咦咦咦咦咦咦？派鲁基达？！你从哪出现的？！",
+      "dir": 0,
+      "groupId": 624,
+      "id": 1985,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "你在做什么？"
+      ],
+      "deal": null,
+      "msg": "其实我一直都在，只不过开启了光学迷彩隐身",
+      "dir": 0,
+      "groupId": 624,
+      "id": 1986,
+      "npcId": 6008
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "宇宙海盗似乎也在觊觎小苏摩，我必须保护好这些小家伙们。",
+      "dir": 0,
+      "groupId": 624,
+      "id": 1987,
+      "npcId": 6008
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "真了不起！等等……话说回来，难道这副壁画是你的作品？",
+      "dir": 0,
+      "groupId": 624,
+      "id": 1988,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "很难不发现吧）"
+      ],
+      "deal": null,
+      "msg": "咳咳（巨大机械臂挠头）真难为情，这都被你发现了。",
+      "dir": 0,
+      "groupId": 624,
+      "id": 1989,
+      "npcId": 6008
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "在我还没有被升级成重装形态的时候，我经常在派特博士的精灵基地和小家伙们一起玩游戏，那段时光，很快乐。",
+      "dir": 0,
+      "groupId": 624,
+      "id": 1990,
+      "npcId": 6008
+    },
+    {
+      "answer": [
+        "有些沮丧？"
+      ],
+      "deal": null,
+      "msg": "升级后我已经成了大块头了，再也没有手拉手转圈圈的快乐时间了……",
+      "dir": 0,
+      "groupId": 624,
+      "id": 1991,
+      "npcId": 6008
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我觉得不是吧。林克进化成了布林克斯，正带着柯蓝们为保育区调节适宜的温度；莫比带着丁格们为大家创造丰厚的土壤，而小豆芽们正在努力光合作用，让有机质逐渐丰盈，而我——",
+      "dir": 0,
+      "groupId": 624,
+      "id": 1992,
+      "npcId": 6008
+    },
+    {
+      "answer": [
+        "没错！"
+      ],
+      "deal": null,
+      "msg": "我负责保护大家！我们仍在一起，不是么。",
+      "dir": 0,
+      "groupId": 624,
+      "id": 1993,
+      "npcId": 6008
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "滴滴——身份识别中，你好，<font color=\"0xffd325\">${nick}</font>，欢迎来到苏摩保育区。",
+      "dir": 0,
+      "groupId": 625,
+      "id": 1994,
+      "npcId": 6000
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你好，派派？你的样子好像有些特别。",
+      "dir": 0,
+      "groupId": 625,
+      "id": 1995,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "滴滴，派派是派特博士为小苏摩们改装升级的特别版本，擅长照顾它们的饮食起居。",
+      "dir": 0,
+      "groupId": 625,
+      "id": 1996,
+      "npcId": 6000
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "说起来，苏摩是什么？这里是它们生活的地方？",
+      "dir": 0,
+      "groupId": 625,
+      "id": 1997,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "我也可以参与吗？"
+      ],
+      "deal": null,
+      "msg": "滴滴，苏摩是这次流星雨带来的神秘生物，它的基因非常特殊，极易受外部影响而进化。派特博士和苏克一同搭建了这个小型保育区，专门研究这种团子的进化路线。",
+      "dir": 0,
+      "groupId": 625,
+      "id": 1998,
+      "npcId": 6000
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "当然，你是赛尔号的传奇人物，派派非常需要你的帮助！",
+      "dir": 0,
+      "groupId": 625,
+      "id": 1999,
+      "npcId": 6000
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "滴滴！快去领养属于你自己的小苏摩吧！育成过程中有什么问题都可以来找我！",
+      "dir": 0,
+      "groupId": 625,
+      "id": 2000,
+      "npcId": 6000
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "滴滴——身份识别中，你好，<font color=\"0xffd325\">${nick}</font>，这里是苏摩保育区资料库，欢迎查阅保育区及苏摩相关日志",
+      "dir": 0,
+      "groupId": 626,
+      "id": 2001,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "滴滴滴滴——",
+      "dir": 0,
+      "groupId": 627,
+      "id": 2002,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "疯狂彗星！",
+      "dir": 0,
+      "groupId": 628,
+      "id": 2003,
+      "npcId": 6007
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "同生共死！",
+      "dir": 0,
+      "groupId": 628,
+      "id": 2004,
+      "npcId": 6006
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "呜！我死了！你穿银翼，不讲武德！",
+      "dir": 0,
+      "groupId": 628,
+      "id": 2005,
+      "npcId": 6007
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "已经手下留情了啵~",
+      "dir": 0,
+      "groupId": 628,
+      "id": 2006,
+      "npcId": 6006
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你等着，我要去告诉我妈妈！<font color=\"0xffd325\">12月12日</font>，我们斯诺星见！",
+      "dir": 0,
+      "groupId": 628,
+      "id": 2007,
+      "npcId": 6007
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "赛尔号航行6000天庆典开幕了！赛尔们，尽情享受庆典时光吧！传送舱里有我为大家准备的礼物喔！",
+      "dir": 0,
+      "groupId": 629,
+      "id": 2008,
+      "npcId": 6005
     }
   ]
 }

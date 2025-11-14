@@ -3962,6 +3962,139 @@
       "currAppDo": 1,
       "id": 661,
       "isFullScreen": 0
+    },
+    {
+      "moduleName": "starDiamondShopEntryPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 662,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "seerActiveDaysPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 663,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "sixThousandCelebration",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 664,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "omniCoetusActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 665,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "dangoActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 700,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "dangoActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 701,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "dangoActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 702,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "dangoActivity",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 703,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "dangoActivity",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 704,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "dangoActivity",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 705,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "dangoActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 706,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "dangoSlot",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 707,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "dangofire",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 708,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "sixthousandReturn",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 709,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "BuyMiCard",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 710,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "LotteryGiftPuni",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 711,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "CommemorativeGift",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 712,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "sixthousandSkinSell",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 713,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "seerActiveDaysMainPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 714,
+      "isFullScreen": 0
     }
   ]
 }

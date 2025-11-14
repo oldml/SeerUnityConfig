@@ -4,6 +4,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "新兵训练营",
+      "notes": "",
       "sound": "BGM_001",
       "NPCID": [
         5,
@@ -62,6 +63,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "船长室",
+      "notes": "",
       "sound": "2",
       "NPCID": [
         27
@@ -87,6 +89,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "精灵中心",
+      "notes": "",
       "sound": "embed_5",
       "NPCID": [
         33
@@ -112,6 +115,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "传送舱",
+      "notes": "",
       "sound": "1",
       "NPCID": [
         28
@@ -127,7 +131,7 @@
       "WildBossID": null,
       "WildBossPoint": null,
       "WildBossWeight": null,
-      "enterMap": 1,
+      "enterMap": 0,
       "GroupID": 10103,
       "id": 2004,
       "MapRatio": 0,
@@ -137,6 +141,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "瞭望舱",
+      "notes": "",
       "sound": "BGM_104A",
       "NPCID": [
         32
@@ -162,6 +167,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "瞭望露台",
+      "notes": "",
       "sound": "2",
       "NPCID": [
         35
@@ -187,6 +193,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "发明室",
+      "notes": "",
       "sound": "3",
       "NPCID": [
         26
@@ -212,6 +219,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "荣誉大厅",
+      "notes": "",
       "sound": "1",
       "NPCID": [
         25
@@ -237,6 +245,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "活动中心",
+      "notes": "",
       "sound": "BGM_151A",
       "NPCID": [
         30
@@ -262,6 +271,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "动力室",
+      "notes": "",
       "sound": "embed_6A",
       "NPCID": null,
       "NPCXYZ": null,
@@ -282,6 +292,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "机械室",
+      "notes": "",
       "sound": "embed_8",
       "NPCID": [
         31
@@ -307,6 +318,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "资料室",
+      "notes": "",
       "sound": "embed_9",
       "NPCID": [
         34
@@ -332,6 +344,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "暂未开放（星际银行）",
+      "notes": "",
       "sound": "",
       "NPCID": null,
       "NPCXYZ": null,
@@ -349,6 +362,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "暂未开放（放映厅）",
+      "notes": "",
       "sound": "BGM_131",
       "NPCID": null,
       "NPCXYZ": null,
@@ -369,6 +383,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "教官办公室",
+      "notes": "",
       "sound": "BGM_003",
       "NPCID": [
         29
@@ -394,6 +409,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "克洛斯星",
+      "notes": "",
       "sound": "BGM_206",
       "NPCID": null,
       "NPCXYZ": null,
@@ -441,6 +457,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "克洛斯星沼泽",
+      "notes": "",
       "sound": "BGM_206",
       "NPCID": null,
       "NPCXYZ": null,
@@ -488,6 +505,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "克洛斯星林间",
+      "notes": "",
       "sound": "BGM_206",
       "NPCID": null,
       "NPCXYZ": null,
@@ -508,6 +526,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "火山星",
+      "notes": "",
       "sound": "BGM_005A",
       "NPCID": null,
       "NPCXYZ": null,
@@ -551,6 +570,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "火山星山洞",
+      "notes": "",
       "sound": "BGM_005A",
       "NPCID": null,
       "NPCXYZ": null,
@@ -594,6 +614,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "火山星山洞深处",
+      "notes": "",
       "sound": "BGM_005A",
       "NPCID": null,
       "NPCXYZ": null,
@@ -641,6 +662,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "海洋星浅水区",
+      "notes": "",
       "sound": "BGM_006A",
       "NPCID": null,
       "NPCXYZ": null,
@@ -686,6 +708,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "海洋星深水区",
+      "notes": "",
       "sound": "BGM_006",
       "NPCID": null,
       "NPCXYZ": null,
@@ -729,6 +752,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "海洋星海底",
+      "notes": "",
       "sound": "BGM_006",
       "NPCID": null,
       "NPCXYZ": null,
@@ -774,6 +798,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "云霄星",
+      "notes": "",
       "sound": "BGM_014",
       "NPCID": null,
       "NPCXYZ": null,
@@ -821,6 +846,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "云霄星高层",
+      "notes": "",
       "sound": "BGM_014",
       "NPCID": null,
       "NPCXYZ": null,
@@ -866,6 +892,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "云霄星最高层",
+      "notes": "",
       "sound": "BGM_014",
       "NPCID": null,
       "NPCXYZ": null,
@@ -911,6 +938,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "赫尔卡星",
+      "notes": "",
       "sound": "BGM_237",
       "NPCID": null,
       "NPCXYZ": null,
@@ -956,6 +984,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "赫尔卡星遗迹",
+      "notes": "",
       "sound": "BGM_010A",
       "NPCID": null,
       "NPCXYZ": null,
@@ -1003,6 +1032,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "赫尔卡星荒地",
+      "notes": "",
       "sound": "BGM_010A",
       "NPCID": [
         290
@@ -1053,6 +1083,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "神秘通道",
+      "notes": "",
       "sound": "BGM_010A",
       "NPCID": null,
       "NPCXYZ": null,
@@ -1073,6 +1104,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "精灵广场",
+      "notes": "",
       "sound": "BGM_010B",
       "NPCID": null,
       "NPCXYZ": null,
@@ -1093,6 +1125,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "精灵圣殿",
+      "notes": "",
       "sound": "BGM_010B",
       "NPCID": null,
       "NPCXYZ": null,
@@ -1138,6 +1171,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "塞西利亚星",
+      "notes": "",
       "sound": "BGM_220A",
       "NPCID": null,
       "NPCXYZ": null,
@@ -1185,6 +1219,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "寒冰溶洞",
+      "notes": "",
       "sound": "BGM_008B",
       "NPCID": null,
       "NPCXYZ": null,
@@ -1230,6 +1265,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "冰窖迷宫",
+      "notes": "",
       "sound": "BGM_10070",
       "NPCID": null,
       "NPCXYZ": null,
@@ -1250,6 +1286,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "赫尔卡飞船",
+      "notes": "",
       "sound": "BGM_008B",
       "NPCID": null,
       "NPCXYZ": null,
@@ -1293,6 +1330,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "海盗能源站",
+      "notes": "",
       "sound": "BGM_009B",
       "NPCID": null,
       "NPCXYZ": null,
@@ -1338,6 +1376,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "双子贝塔星",
+      "notes": "",
       "sound": "BGM_011",
       "NPCID": null,
       "NPCXYZ": null,
@@ -1383,6 +1422,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "海盗要塞废墟",
+      "notes": "",
       "sound": "BGM_012",
       "NPCID": null,
       "NPCXYZ": null,
@@ -1428,6 +1468,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "贝塔星荒原",
+      "notes": "",
       "sound": "BGM_011",
       "NPCID": null,
       "NPCXYZ": null,
@@ -1473,6 +1514,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "斯诺星",
+      "notes": "",
       "sound": "BGM_10103",
       "NPCID": null,
       "NPCXYZ": null,
@@ -1518,6 +1560,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "斯诺星密林",
+      "notes": "",
       "sound": "BGM_016",
       "NPCID": null,
       "NPCXYZ": null,
@@ -1563,6 +1606,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "斯诺岩洞",
+      "notes": "",
       "sound": "BGM_100",
       "NPCID": null,
       "NPCXYZ": null,
@@ -1583,6 +1627,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "露希欧星",
+      "notes": "",
       "sound": "BGM_040",
       "NPCID": [
         295
@@ -1637,6 +1682,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "露希欧泥潭",
+      "notes": "",
       "sound": "BGM_040",
       "NPCID": [
         296
@@ -1695,6 +1741,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "露希欧之洋",
+      "notes": "",
       "sound": "BGM_040",
       "NPCID": [
         297
@@ -1747,6 +1794,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "双子阿尔法星",
+      "notes": "",
       "sound": "BGM_009A",
       "NPCID": null,
       "NPCXYZ": null,
@@ -1792,6 +1840,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "阿尔法星岩地",
+      "notes": "",
       "sound": "BGM_009A",
       "NPCID": null,
       "NPCXYZ": null,
@@ -1837,6 +1886,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "拜伦号",
+      "notes": "",
       "sound": "BGM_013",
       "NPCID": null,
       "NPCXYZ": null,
@@ -1857,6 +1907,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "神秘空间",
+      "notes": "",
       "sound": "BGM_10071",
       "NPCID": null,
       "NPCXYZ": null,
@@ -1902,6 +1953,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "卡酷星",
+      "notes": "",
       "sound": "BGM_222",
       "NPCID": null,
       "NPCXYZ": null,
@@ -1922,6 +1974,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "卡酷星丛林",
+      "notes": "",
       "sound": "BGM_036",
       "NPCID": null,
       "NPCXYZ": null,
@@ -1942,6 +1995,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "斯诺密洞",
+      "notes": "",
       "sound": "BGM_100",
       "NPCID": null,
       "NPCXYZ": null,
@@ -1987,6 +2041,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "深海禁地",
+      "notes": "",
       "sound": "BGM_234",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2026,6 +2081,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "神宠之境",
+      "notes": "",
       "sound": "BGM_189",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2046,6 +2102,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "神碑地穴",
+      "notes": "",
       "sound": "BGM_320",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2066,6 +2123,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "冥域之门",
+      "notes": "",
       "sound": "BGM_423",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2086,6 +2144,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "死灵深潭",
+      "notes": "",
       "sound": "BGM_424",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2106,6 +2165,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "白骨峰",
+      "notes": "",
       "sound": "BGM_425",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2126,6 +2186,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "影月林",
+      "notes": "",
       "sound": "BGM_426",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2146,6 +2207,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "莫问栈道",
+      "notes": "",
       "sound": "BGM_427",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2166,6 +2228,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "修罗大殿",
+      "notes": "",
       "sound": "BGM_428",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2186,6 +2249,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "灵龟之渊",
+      "notes": "",
       "sound": "BGM_438",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2229,6 +2293,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "暴风旋涡",
+      "notes": "",
       "sound": "BGM_477",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2249,6 +2314,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "黑白森林",
+      "notes": "",
       "sound": "BGM_009C",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2269,6 +2335,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "冰雪之原",
+      "notes": "",
       "sound": "BGM_220A",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2289,6 +2356,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "尼古尔星",
+      "notes": "",
       "sound": "BGM_019A",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2325,6 +2393,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "尼古尔星峭壁",
+      "notes": "",
       "sound": "BGM_019A",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2361,6 +2430,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "尼古尔海底",
+      "notes": "",
       "sound": "BGM_019A",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2378,6 +2448,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "塔克星",
+      "notes": "",
       "sound": "BGM_020A",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2414,6 +2485,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "光之迷城",
+      "notes": "",
       "sound": "BGM_020A",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2450,6 +2522,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "暗之迷城",
+      "notes": "",
       "sound": "BGM_020A",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2486,6 +2559,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "月影花园",
+      "notes": "",
       "sound": "BGM_020D",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2503,6 +2577,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "忍魂密室",
+      "notes": "",
       "sound": "BGM_10105",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2520,6 +2595,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "地底古迹",
+      "notes": "",
       "sound": "BGM_055",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2537,6 +2613,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "艾迪星",
+      "notes": "",
       "sound": "BGM_228",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2573,6 +2650,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "暮色之城",
+      "notes": "",
       "sound": "BGM_021B",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2609,6 +2687,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "虚幻的地下城市",
+      "notes": "",
       "sound": "BGM_021B",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2645,6 +2724,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "斯科尔星",
+      "notes": "",
       "sound": "BGM_197",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2681,6 +2761,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "斯科尔浮岛",
+      "notes": "",
       "sound": "BGM_10076",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2717,6 +2798,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "斯科尔高空塔",
+      "notes": "",
       "sound": "BGM_10088",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2753,6 +2835,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "龙神祭坛",
+      "notes": "",
       "sound": "BGM_215",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2770,6 +2853,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "禁魔之崖",
+      "notes": "",
       "sound": "BGM_235",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2787,6 +2871,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "绝望魔域",
+      "notes": "",
       "sound": "BGM_235",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2804,6 +2889,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "莲华深渊",
+      "notes": "",
       "sound": "BGM_238",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2821,6 +2907,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "万骨荒冢",
+      "notes": "",
       "sound": "BGM_238",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2838,6 +2925,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "普雷空间站",
+      "notes": "",
       "sound": "BGM_023",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2874,6 +2962,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "几米塔",
+      "notes": "",
       "sound": "BGM_023",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2910,6 +2999,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "遗忘领域",
+      "notes": "",
       "sound": "BGM_023",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2927,6 +3017,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "哈莫星",
+      "notes": "",
       "sound": "BGM_025A",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2963,6 +3054,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "龙族秘境",
+      "notes": "",
       "sound": "BGM_108",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2980,6 +3072,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "塔西亚地域",
+      "notes": "",
       "sound": "BGM_10072",
       "NPCID": null,
       "NPCXYZ": null,
@@ -2997,6 +3090,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "白沙罗域",
+      "notes": "",
       "sound": "BGM_10073",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3014,6 +3108,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "龙王殿堂",
+      "notes": "",
       "sound": "BGM_10074",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3031,6 +3126,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "龙王圣殿",
+      "notes": "",
       "sound": "BGM_10075",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3048,6 +3144,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "加利部落",
+      "notes": "",
       "sound": "BGM_127",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3065,6 +3162,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "结晶岩洞",
+      "notes": "",
       "sound": "BGM_120",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3101,6 +3199,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "伯利兹广场",
+      "notes": "",
       "sound": "BGM_10065",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3118,6 +3217,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "光明顶",
+      "notes": "",
       "sound": "BGM_104",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3135,6 +3235,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "暗物质神殿",
+      "notes": "",
       "sound": "BGM_108",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3171,6 +3272,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "新泽部落",
+      "notes": "",
       "sound": "BGM_10046",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3207,6 +3309,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "迷雾森林",
+      "notes": "",
       "sound": "BGM_10047",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3224,6 +3327,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "诺可撒斯星",
+      "notes": "",
       "sound": "BGM_025B",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3241,6 +3345,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "化石林",
+      "notes": "",
       "sound": "BGM_025B",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3258,6 +3363,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "试炼之域",
+      "notes": "",
       "sound": "BGM_170",
       "NPCID": [
         294
@@ -3280,6 +3386,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "崩裂大地",
+      "notes": "",
       "sound": "BGM_10048",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3297,6 +3404,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "哀伤之境",
+      "notes": "",
       "sound": "BGM_171",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3314,6 +3422,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "冰火岛",
+      "notes": "",
       "sound": "BGM_172",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3350,6 +3459,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "重生之狱",
+      "notes": "",
       "sound": "BGM_10049",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3367,6 +3477,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "上古广场",
+      "notes": "",
       "sound": "BGM_10050",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3384,6 +3495,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "深井之地",
+      "notes": "",
       "sound": "BGM_174",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3401,6 +3513,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "火焰皇地",
+      "notes": "",
       "sound": "BGM_176",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3418,6 +3531,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "祸乱之源",
+      "notes": "",
       "sound": "BGM_10032",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3454,6 +3568,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "遗世仙境",
+      "notes": "",
       "sound": "BGM_194",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3471,6 +3586,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "魔君秘境",
+      "notes": "",
       "sound": "BGM_194",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3488,6 +3604,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "月牙之城",
+      "notes": "",
       "sound": "BGM_198",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3505,6 +3622,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "五峰山崖",
+      "notes": "",
       "sound": "BGM_203",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3522,6 +3640,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "创世遗迹",
+      "notes": "",
       "sound": "BGM_210",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3539,6 +3658,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "魔羽殿堂",
+      "notes": "",
       "sound": "BGM_191",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3556,6 +3676,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "迷宫入口",
+      "notes": "",
       "sound": "BGM_10031",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3573,6 +3694,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "星云边际",
+      "notes": "",
       "sound": "BGM_196",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3590,6 +3712,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "流芳仙洲",
+      "notes": "",
       "sound": "BGM_178",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3607,6 +3730,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "逆界之门",
+      "notes": "",
       "sound": "BGM_10051",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3624,6 +3748,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "神灵之巅",
+      "notes": "",
       "sound": "BGM_243",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3641,6 +3766,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "群魔禁地",
+      "notes": "",
       "sound": "BGM_187",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3677,6 +3803,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "失落神庙",
+      "notes": "",
       "sound": "BGM_185",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3694,6 +3821,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "叹息之境",
+      "notes": "",
       "sound": "BGM_190",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3711,6 +3839,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "天蛇花原",
+      "notes": "",
       "sound": "BGM_246",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3728,6 +3857,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "天蛇灵宫",
+      "notes": "",
       "sound": "BGM_182",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3764,6 +3894,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "天蛇禁地",
+      "notes": "",
       "sound": "BGM_229",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3781,6 +3912,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "龙游之潭",
+      "notes": "",
       "sound": "BGM_440",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3798,6 +3930,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "比格星",
+      "notes": "",
       "sound": "BGM_027A",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3834,6 +3967,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "觅食林",
+      "notes": "",
       "sound": "BGM_10077",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3851,6 +3985,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "暗影峭壁",
+      "notes": "",
       "sound": "BGM_027A",
       "NPCID": [
         291
@@ -3873,6 +4008,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "沃尔夫洞穴",
+      "notes": "",
       "sound": "BGM_027B",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3890,6 +4026,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "暗黑灯海",
+      "notes": "",
       "sound": "BGM_019B",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3907,6 +4044,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "陨石地带",
+      "notes": "",
       "sound": "BGM_10066",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3924,6 +4062,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "巨型陨石",
+      "notes": "",
       "sound": "BGM_104",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3941,6 +4080,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "空间补给站",
+      "notes": "",
       "sound": "BGM_028",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3977,6 +4117,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "迷宫",
+      "notes": "",
       "sound": "BGM_028",
       "NPCID": null,
       "NPCXYZ": null,
@@ -3994,6 +4135,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "废墟",
+      "notes": "",
       "sound": "BGM_028",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4011,6 +4153,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "拓梯星",
+      "notes": "",
       "sound": "BGM_031A",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4047,6 +4190,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "活力源泉",
+      "notes": "",
       "sound": "BGM_031A",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4064,6 +4208,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "戴斯星",
+      "notes": "",
       "sound": "BGM_032",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4081,6 +4226,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "熔岩峡谷",
+      "notes": "",
       "sound": "BGM_032",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4098,6 +4244,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "墨杜萨星",
+      "notes": "",
       "sound": "BGM_032",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4134,6 +4281,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "石化之城",
+      "notes": "",
       "sound": "BGM_029",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4170,6 +4318,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "海兹尔星",
+      "notes": "",
       "sound": "BGM_030",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4206,6 +4355,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "伪装堡垒",
+      "notes": "",
       "sound": "BGM_030",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4223,6 +4373,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "拉铂尔星",
+      "notes": "",
       "sound": "BGM_10061",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4240,6 +4391,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "拉铂尔秘境",
+      "notes": "",
       "sound": "BGM_115",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4257,6 +4409,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "地下之城",
+      "notes": "",
       "sound": "BGM_10052",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4274,6 +4427,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "摩纳星际港",
+      "notes": "",
       "sound": "BGM_10053",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4291,6 +4445,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "拉铂尔仙境",
+      "notes": "",
       "sound": "BGM_10060",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4327,6 +4482,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "般若星",
+      "notes": "",
       "sound": "BGM_047",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4363,6 +4519,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "虎啸之林",
+      "notes": "",
       "sound": "BGM_437",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4380,6 +4537,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "菲尔纳星",
+      "notes": "",
       "sound": "BGM_034B",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4416,6 +4574,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "冰雪之城",
+      "notes": "",
       "sound": "BGM_10042",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4433,6 +4592,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "赫鲁卡之门",
+      "notes": "",
       "sound": "BGM_10043",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4450,6 +4610,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "赫鲁卡祭坛",
+      "notes": "",
       "sound": "BGM_10043",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4467,6 +4628,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "赫鲁卡城",
+      "notes": "",
       "sound": "BGM_10044",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4484,6 +4646,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "怀特星",
+      "notes": "",
       "sound": "BGM_051",
       "NPCID": [
         292
@@ -4525,6 +4688,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "怀特矿场",
+      "notes": "",
       "sound": "BGM_10078",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4561,6 +4725,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "怀特矿洞",
+      "notes": "",
       "sound": "BGM_052",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4578,6 +4743,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "黑色洞穴",
+      "notes": "",
       "sound": "BGM_066",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4614,6 +4780,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "魔窟",
+      "notes": "",
       "sound": "BGM_068",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4631,6 +4798,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "炫彩山山脚",
+      "notes": "",
       "sound": "BGM_10108",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4667,6 +4835,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "炫彩山岩",
+      "notes": "",
       "sound": "BGM_068",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4703,6 +4872,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "水云洞",
+      "notes": "",
       "sound": "BGM_068",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4739,6 +4909,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "海盗研究所",
+      "notes": "",
       "sound": "BGM_074",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4775,6 +4946,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "炫彩山山顶",
+      "notes": "",
       "sound": "BGM_074",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4811,6 +4983,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "山神圣殿",
+      "notes": "",
       "sound": "BGM_074",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4828,6 +5001,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "神秘洞窟一层",
+      "notes": "",
       "sound": "BGM_10108",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4845,6 +5019,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "神秘洞窟二层",
+      "notes": "",
       "sound": "BGM_10108",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4862,6 +5037,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "神秘洞窟三层",
+      "notes": "",
       "sound": "BGM_10108",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4879,6 +5055,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "神秘洞窟四层",
+      "notes": "",
       "sound": "BGM_10108",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4896,6 +5073,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "麦兹星",
+      "notes": "",
       "sound": "BGM_10107",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4932,6 +5110,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "麦兹迷境",
+      "notes": "",
       "sound": "BGM_055",
       "NPCID": null,
       "NPCXYZ": null,
@@ -4968,6 +5147,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "黯夜之城",
+      "notes": "",
       "sound": "BGM_077",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5004,6 +5184,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "格雷山地",
+      "notes": "",
       "sound": "BGM_10111",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5021,6 +5202,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "黯夜地穴",
+      "notes": "",
       "sound": "BGM_10110",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5057,6 +5239,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "格雷大峡谷",
+      "notes": "",
       "sound": "BGM_10109",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5093,6 +5276,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "黯夜广场",
+      "notes": "",
       "sound": "BGM_077",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5129,6 +5313,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "邪灵圣殿",
+      "notes": "",
       "sound": "BGM_091",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5165,6 +5350,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "光明圣坛",
+      "notes": "",
       "sound": "BGM_098",
       "NPCID": [
         293
@@ -5206,6 +5392,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "邪灵密室",
+      "notes": "",
       "sound": "BGM_091",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5223,6 +5410,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "格雷深湖",
+      "notes": "",
       "sound": "BGM_079",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5259,6 +5447,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "草莓乐土",
+      "notes": "",
       "sound": "BGM_230",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5276,6 +5465,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "葡萄庄园",
+      "notes": "",
       "sound": "BGM_230",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5293,6 +5483,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "蜜桃森林",
+      "notes": "",
       "sound": "BGM_099",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5310,6 +5501,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "苹果天堂",
+      "notes": "",
       "sound": "BGM_099",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5327,6 +5519,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "蜜瓜宫殿",
+      "notes": "",
       "sound": "BGM_099",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5344,6 +5537,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "未来星",
+      "notes": "",
       "sound": "BGM_231",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5380,6 +5574,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "牛奶基地",
+      "notes": "",
       "sound": "BGM_231",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5416,6 +5611,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "妙妙玄岛",
+      "notes": "",
       "sound": "BGM_103",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5452,6 +5648,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "Y星",
+      "notes": "",
       "sound": "BGM_090",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5469,6 +5666,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "菲尼克斯神殿",
+      "notes": "",
       "sound": "BGM_090",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5486,6 +5684,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "菲尼克斯禁地",
+      "notes": "",
       "sound": "BGM_090",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5503,6 +5702,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "神火星",
+      "notes": "",
       "sound": "BGM_023",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5520,6 +5720,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "异能部落",
+      "notes": "",
       "sound": "BGM_097",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5537,6 +5738,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "异能山谷",
+      "notes": "",
       "sound": "BGM_10080",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5573,6 +5775,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "异能冰窟",
+      "notes": "",
       "sound": "BGM_101",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5609,6 +5812,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "能量控制室",
+      "notes": "",
       "sound": "BGM_106",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5626,6 +5830,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "守护部落",
+      "notes": "",
       "sound": "BGM_106",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5643,6 +5848,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "封印之境",
+      "notes": "",
       "sound": "BGM_111",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5660,6 +5866,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "晶石山谷",
+      "notes": "",
       "sound": "BGM_120",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5677,6 +5884,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "丛林秘境",
+      "notes": "",
       "sound": "BGM_10081",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5694,6 +5902,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "冰封洞窟",
+      "notes": "",
       "sound": "BGM_10082",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5711,6 +5920,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "神兽谷",
+      "notes": "",
       "sound": "BGM_10083",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5728,6 +5938,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "深海宫殿",
+      "notes": "",
       "sound": "BGM_128",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5745,6 +5956,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "斗者擂台",
+      "notes": "",
       "sound": "BGM_126",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5762,6 +5974,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "圣域之门",
+      "notes": "",
       "sound": "BGM_153",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5779,6 +5992,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "火凤之巢",
+      "notes": "",
       "sound": "BGM_439",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5796,6 +6010,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "巨石岛",
+      "notes": "",
       "sound": "BGM_132",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5832,6 +6047,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "熔岩大地",
+      "notes": "",
       "sound": "BGM_10018",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5868,6 +6084,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "熔岩地心",
+      "notes": "",
       "sound": "BGM_132",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5885,6 +6102,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "石源密林",
+      "notes": "",
       "sound": "BGM_10091",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5902,6 +6120,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "黑风崖",
+      "notes": "",
       "sound": "BGM_10098",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5938,6 +6157,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "巨石营地",
+      "notes": "",
       "sound": "BGM_10098",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5955,6 +6175,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "SUN星",
+      "notes": "",
       "sound": "BGM_059",
       "NPCID": null,
       "NPCXYZ": null,
@@ -5991,6 +6212,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "阳光大地",
+      "notes": "",
       "sound": "BGM_10079",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6027,6 +6249,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "浅滩海岛",
+      "notes": "",
       "sound": "BGM_133",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6063,6 +6286,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "珊瑚海礁",
+      "notes": "",
       "sound": "BGM_10084",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6080,6 +6304,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "水月洞壁",
+      "notes": "",
       "sound": "BGM_136",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6097,6 +6322,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "烟水迷阵",
+      "notes": "",
       "sound": "BGM_10097",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6114,6 +6340,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "麦田村",
+      "notes": "",
       "sound": "BGM_10096",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6131,6 +6358,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "翡翠山谷",
+      "notes": "",
       "sound": "BGM_095",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6148,6 +6376,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "幽暗洞穴",
+      "notes": "",
       "sound": "BGM_10085",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6165,6 +6394,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "流沙地洞",
+      "notes": "",
       "sound": "BGM_10086",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6182,6 +6412,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "雾气石林",
+      "notes": "",
       "sound": "BGM_019C",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6199,6 +6430,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "盘树天堂",
+      "notes": "",
       "sound": "BGM_10056",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6216,6 +6448,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "千藤洞窟",
+      "notes": "",
       "sound": "BGM_137",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6233,6 +6466,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "云层之径",
+      "notes": "",
       "sound": "BGM_10057",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6269,6 +6503,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "上古龙殿",
+      "notes": "",
       "sound": "BGM_10058",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6286,6 +6521,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "星尘龙境",
+      "notes": "",
       "sound": "BGM_10059",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6303,6 +6539,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "蘑菇绿洲",
+      "notes": "",
       "sound": "BGM_10069",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6320,6 +6557,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "蘑菇洞",
+      "notes": "",
       "sound": "BGM_10099",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6356,6 +6594,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "食草林",
+      "notes": "",
       "sound": "BGM_10100",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6373,6 +6612,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "冰火绝命崖",
+      "notes": "",
       "sound": "BGM_10101",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6390,6 +6630,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "米娜村落",
+      "notes": "",
       "sound": "BGM_123",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6426,6 +6667,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "友谊之树",
+      "notes": "",
       "sound": "BGM_130",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6443,6 +6685,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "古藤幻境",
+      "notes": "",
       "sound": "BGM_10094",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6460,6 +6703,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "上古遗迹",
+      "notes": "",
       "sound": "BGM_125",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6477,6 +6721,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "海盗集中营",
+      "notes": "",
       "sound": "BGM_121",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6513,6 +6758,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "海盗研究基地",
+      "notes": "",
       "sound": "BGM_121",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6530,6 +6776,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "海盗决斗场",
+      "notes": "",
       "sound": "BGM_121",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6547,6 +6794,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "幻梦迷境",
+      "notes": "",
       "sound": "BGM_10062",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6583,6 +6831,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "幻影迷阵",
+      "notes": "",
       "sound": "BGM_10019",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6600,6 +6849,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "比巴卜秘境",
+      "notes": "",
       "sound": "BGM_10021",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6617,6 +6867,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "幻海遗迹",
+      "notes": "",
       "sound": "BGM_10063",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6634,6 +6885,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "天空之门",
+      "notes": "",
       "sound": "BGM_10067",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6670,6 +6922,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "幽暗迷宫",
+      "notes": "",
       "sound": "BGM_034A",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6706,6 +6959,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "落日泥沼",
+      "notes": "",
       "sound": "BGM_10089",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6723,6 +6977,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "境界迷阵",
+      "notes": "",
       "sound": "BGM_044",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6740,6 +6995,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "火焰山脊",
+      "notes": "",
       "sound": "BGM_129",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6757,6 +7013,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "神圣领域",
+      "notes": "",
       "sound": "BGM_020C",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6774,6 +7031,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "兽神瀑布",
+      "notes": "",
       "sound": "BGM_020C",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6791,6 +7049,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "风暴峭壁",
+      "notes": "",
       "sound": "BGM_020C",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6808,6 +7067,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "冰雪领地",
+      "notes": "",
       "sound": "BGM_044",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6825,6 +7085,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "恶灵祭坛",
+      "notes": "",
       "sound": "BGM_044",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6842,6 +7103,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "魔神陵墓",
+      "notes": "",
       "sound": "BGM_037",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6859,6 +7121,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "审判大厅",
+      "notes": "",
       "sound": "BGM_10027",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6876,6 +7139,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "广场遗迹",
+      "notes": "",
       "sound": "BGM_10028",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6893,6 +7157,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "通天塔",
+      "notes": "",
       "sound": "BGM_084",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6910,6 +7175,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "魔神深渊",
+      "notes": "",
       "sound": "BGM_10092",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6927,6 +7193,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "九霄魔神殿",
+      "notes": "",
       "sound": "BGM_10087",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6944,6 +7211,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "魔鬼城",
+      "notes": "",
       "sound": "BGM_10029",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6961,6 +7229,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "恶灵深渊",
+      "notes": "",
       "sound": "BGM_050",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6978,6 +7247,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "精灵圣坛",
+      "notes": "",
       "sound": "BGM_137",
       "NPCID": null,
       "NPCXYZ": null,
@@ -6995,6 +7265,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "南瓜山谷",
+      "notes": "",
       "sound": "BGM_138",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7012,6 +7283,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "藏宝室",
+      "notes": "",
       "sound": "BGM_10026",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7029,6 +7301,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "南瓜墓地",
+      "notes": "",
       "sound": "BGM_138",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7046,6 +7319,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "万圣领地",
+      "notes": "",
       "sound": "BGM_10090",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7063,6 +7337,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "蝙蝠洞",
+      "notes": "",
       "sound": "BGM_141",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7080,6 +7355,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "浮空仙岛",
+      "notes": "",
       "sound": "BGM_10037",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7097,6 +7373,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "天马祭坛",
+      "notes": "",
       "sound": "BGM_143A",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7114,6 +7391,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "幻灵秘境",
+      "notes": "",
       "sound": "BGM_254",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7131,6 +7409,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "云霄古桥",
+      "notes": "",
       "sound": "BGM_10036",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7148,6 +7427,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "月牙河谷",
+      "notes": "",
       "sound": "BGM_10038",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7165,6 +7445,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "拼图草原",
+      "notes": "",
       "sound": "BGM_10040",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7182,6 +7463,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "天佛山前",
+      "notes": "",
       "sound": "BGM_10041",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7199,6 +7481,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "神灯秘窟",
+      "notes": "",
       "sound": "BGM_160",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7216,6 +7499,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "天佛山后",
+      "notes": "",
       "sound": "BGM_157",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7233,6 +7517,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "时空之间",
+      "notes": "",
       "sound": "BGM_159",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7250,6 +7535,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "晶蛇魔窟",
+      "notes": "",
       "sound": "BGM_10033",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7267,6 +7553,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "苍云之海",
+      "notes": "",
       "sound": "BGM_10035",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7284,6 +7571,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "冰晶奇宫",
+      "notes": "",
       "sound": "BGM_148A",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7301,6 +7589,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "暗黑沼泽",
+      "notes": "",
       "sound": "BGM_10093",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7318,6 +7607,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "冰晶迷道",
+      "notes": "",
       "sound": "BGM_145",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7335,6 +7625,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "神树之巅",
+      "notes": "",
       "sound": "BGM_10039",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7352,6 +7643,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "流火之地",
+      "notes": "",
       "sound": "BGM_10095",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7369,6 +7661,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "古藤幻境",
+      "notes": "",
       "sound": "BGM_10094",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7386,6 +7679,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "幽冥沙海",
+      "notes": "",
       "sound": "BGM_154",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7403,6 +7697,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "谜域之门",
+      "notes": "",
       "sound": "BGM_162",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7420,6 +7715,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "风暴谷",
+      "notes": "",
       "sound": "BGM_164A",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7437,6 +7733,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "浮空山脊",
+      "notes": "",
       "sound": "BGM_165",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7454,6 +7751,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "竹林仙踪",
+      "notes": "",
       "sound": "BGM_166",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7471,6 +7769,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "水竹山脉",
+      "notes": "",
       "sound": "BGM_10011",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7488,6 +7787,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "竹林深处",
+      "notes": "",
       "sound": "BGM_168",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7505,6 +7805,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "圣雪密径",
+      "notes": "",
       "sound": "BGM_169",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7522,6 +7823,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "麒麟之峰",
+      "notes": "",
       "sound": "BGM_441",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7539,6 +7841,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "创世广场",
+      "notes": "",
       "sound": "BGM_209",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7556,6 +7859,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "神殿前厅",
+      "notes": "",
       "sound": "BGM_10010",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7573,6 +7877,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "风暴山涧",
+      "notes": "",
       "sound": "BGM_216",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7590,6 +7895,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "恐惧之境",
+      "notes": "",
       "sound": "BGM_219",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7607,6 +7913,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "魔界之门",
+      "notes": "",
       "sound": "BGM_236",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7624,6 +7931,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "庞贝古城",
+      "notes": "",
       "sound": "BGM_10012",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7641,6 +7949,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "斗魂领域",
+      "notes": "",
       "sound": "BGM_10013",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7658,6 +7967,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "影之殿",
+      "notes": "",
       "sound": "BGM_207",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7675,6 +7985,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "创世神殿",
+      "notes": "",
       "sound": "BGM_229",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7692,6 +8003,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "永恒之树",
+      "notes": "",
       "sound": "BGM_429",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7709,6 +8021,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "永恒树深处",
+      "notes": "",
       "sound": "BGM_211A",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7726,6 +8039,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "德拉诺荒漠",
+      "notes": "",
       "sound": "BGM_223",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7743,6 +8057,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "妖石山",
+      "notes": "",
       "sound": "BGM_224",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7760,6 +8075,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "暗夜城",
+      "notes": "",
       "sound": "BGM_226",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7777,6 +8093,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "棱石地牢",
+      "notes": "",
       "sound": "BGM_430",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7794,6 +8111,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "帝陵",
+      "notes": "",
       "sound": "BGM_327",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7811,6 +8129,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "暴风峡谷",
+      "notes": "",
       "sound": "BGM_331",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7828,6 +8147,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "黑暗神庙",
+      "notes": "",
       "sound": "BGM_10015",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7845,6 +8165,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "幽暗地穴",
+      "notes": "",
       "sound": "BGM_332",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7862,6 +8183,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "炼火魔域",
+      "notes": "",
       "sound": "BGM_332",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7879,6 +8201,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "玉石峰",
+      "notes": "",
       "sound": "BGM_207",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7896,6 +8219,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "魔域之巅",
+      "notes": "",
       "sound": "BGM_214",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7913,6 +8237,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "魔灵之城",
+      "notes": "",
       "sound": "BGM_10034",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7930,6 +8255,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "魔灵广场",
+      "notes": "",
       "sound": "BGM_210",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7947,6 +8273,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "魔窟之门",
+      "notes": "",
       "sound": "BGM_149",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7964,6 +8291,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "魔灵密室",
+      "notes": "",
       "sound": "BGM_432",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7981,6 +8309,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "泰坦核心",
+      "notes": "",
       "sound": "BGM_10086",
       "NPCID": null,
       "NPCXYZ": null,
@@ -7998,6 +8327,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "极夜岛",
+      "notes": "",
       "sound": "BGM_474",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8015,6 +8345,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "逐浪崖",
+      "notes": "",
       "sound": "BGM_475",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8032,6 +8363,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "混灵角",
+      "notes": "",
       "sound": "BGM_644",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8049,6 +8381,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "塔特村落",
+      "notes": "",
       "sound": "BGM_505",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8066,6 +8399,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "水瀑山涧",
+      "notes": "",
       "sound": "BGM_506",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8083,6 +8417,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "卡尔一角",
+      "notes": "",
       "sound": "BGM_517",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8100,6 +8435,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "水瀑之巅",
+      "notes": "",
       "sound": "BGM_507",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8117,6 +8453,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "石菇林",
+      "notes": "",
       "sound": "BGM_508",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8134,6 +8471,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "冰封之门",
+      "notes": "",
       "sound": "BGM_509",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8151,6 +8489,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "凝冰崖",
+      "notes": "",
       "sound": "BGM_510",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8168,6 +8507,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "魔花藤洞",
+      "notes": "",
       "sound": "BGM_511",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8185,6 +8525,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "冰火栈道",
+      "notes": "",
       "sound": "BGM_512",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8202,6 +8543,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "千机塔一层",
+      "notes": "",
       "sound": "BGM_513",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8219,6 +8561,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "千机塔顶层",
+      "notes": "",
       "sound": "BGM_515",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8236,6 +8579,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "异次元空间",
+      "notes": "",
       "sound": "BGM_516",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8253,6 +8597,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "挽尘湾",
+      "notes": "",
       "sound": "BGM_347",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8270,6 +8615,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "不忘街",
+      "notes": "",
       "sound": "BGM_521",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8287,6 +8633,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "不忘城",
+      "notes": "",
       "sound": "BGM_522",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8304,6 +8651,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "破败花园",
+      "notes": "",
       "sound": "BGM_523",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8321,6 +8669,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "无恙结界",
+      "notes": "",
       "sound": "BGM_524",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8338,6 +8687,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "逝尘谷",
+      "notes": "",
       "sound": "BGM_525",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8355,6 +8705,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "尘沙星海",
+      "notes": "",
       "sound": "BGM_526",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8372,6 +8723,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "尘星之弈",
+      "notes": "",
       "sound": "BGM_547",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8389,6 +8741,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "忆絮崖",
+      "notes": "",
       "sound": "BGM_548",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8406,6 +8759,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "辰印之地",
+      "notes": "",
       "sound": "BGM_551",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8423,6 +8777,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "裂缝边界",
+      "notes": "",
       "sound": "BGM_552",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8440,6 +8795,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "高速星环",
+      "notes": "",
       "sound": "BGM_553",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8457,6 +8813,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "云卷之海",
+      "notes": "",
       "sound": "BGM_555",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8474,6 +8831,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "逆狂湿地",
+      "notes": "",
       "sound": "BGM_556",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8491,6 +8849,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "曙光隧道",
+      "notes": "",
       "sound": "BGM_557",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8508,6 +8867,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "蕨齿密林",
+      "notes": "",
       "sound": "BGM_445",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8525,6 +8885,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "异变之巢",
+      "notes": "",
       "sound": "BGM_446",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8542,6 +8903,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "碎石荒原",
+      "notes": "",
       "sound": "BGM_447",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8559,6 +8921,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "生命核心",
+      "notes": "",
       "sound": "BGM_449",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8576,6 +8939,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "迷雾之森",
+      "notes": "",
       "sound": "BGM_448",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8593,6 +8957,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "寂灭沼泽",
+      "notes": "",
       "sound": "BGM_450",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8610,6 +8975,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "鬼面祭坛",
+      "notes": "",
       "sound": "BGM_451",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8627,6 +8993,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "虫群之心",
+      "notes": "",
       "sound": "BGM_452",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8644,6 +9011,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "寒风峡湾",
+      "notes": "",
       "sound": "BGM_453",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8661,6 +9029,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "冰冠群山",
+      "notes": "",
       "sound": "BGM_454",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8678,6 +9047,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "镜湖雪原",
+      "notes": "",
       "sound": "BGM_455",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8695,6 +9065,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "蝎子号",
+      "notes": "",
       "sound": "BGM_456",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8712,6 +9083,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "冥域之门",
+      "notes": "",
       "sound": "BGM_423",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8729,6 +9101,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "死灵深潭",
+      "notes": "",
       "sound": "BGM_424",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8746,6 +9119,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "白骨峰",
+      "notes": "",
       "sound": "BGM_425",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8763,6 +9137,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "影月林",
+      "notes": "",
       "sound": "BGM_426",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8780,6 +9155,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "莫问栈道",
+      "notes": "",
       "sound": "BGM_427",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8797,6 +9173,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "修罗大殿",
+      "notes": "",
       "sound": "BGM_428",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8814,6 +9191,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "星空要塞",
+      "notes": "",
       "sound": "BGM_406",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8831,6 +9209,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "混沌战场",
+      "notes": "",
       "sound": "BGM_399",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8848,6 +9227,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "樱花之径",
+      "notes": "",
       "sound": "BGM_502",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8865,6 +9245,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "樱花之溪",
+      "notes": "",
       "sound": "BGM_503",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8882,6 +9263,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "樱花湖畔",
+      "notes": "",
       "sound": "BGM_531",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8899,6 +9281,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "守望峡谷",
+      "notes": "",
       "sound": "BGM_415",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8916,6 +9299,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "守望平原",
+      "notes": "",
       "sound": "BGM_416",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8933,6 +9317,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "林中祭坛",
+      "notes": "",
       "sound": "BGM_417",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8950,6 +9335,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "暗月星",
+      "notes": "",
       "sound": "BGM_412",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8967,6 +9353,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "暗月星神殿",
+      "notes": "",
       "sound": "BGM_413",
       "NPCID": null,
       "NPCXYZ": null,
@@ -8984,6 +9371,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "云巅圣域",
+      "notes": "",
       "sound": "BGM_414",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9001,6 +9389,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "巨岩星",
+      "notes": "",
       "sound": "BGM_409",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9018,6 +9407,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "巨岩星地宫",
+      "notes": "",
       "sound": "BGM_410",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9035,6 +9425,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "巨石密林",
+      "notes": "",
       "sound": "BGM_501",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9052,6 +9443,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "巨岩森林",
+      "notes": "",
       "sound": "BGM_530",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9069,6 +9461,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "魂塔底层",
+      "notes": "",
       "sound": "BGM_403",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9086,6 +9479,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "魂塔上层",
+      "notes": "",
       "sound": "BGM_404",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9103,6 +9497,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "星域魂塔",
+      "notes": "",
       "sound": "BGM_408",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9120,6 +9515,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "碎裂星域",
+      "notes": "",
       "sound": "BGM_407",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9137,6 +9533,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "光明谷",
+      "notes": "",
       "sound": "BGM_527",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9154,6 +9551,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "光明之溪",
+      "notes": "",
       "sound": "BGM_528",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9171,6 +9569,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "混沌核心",
+      "notes": "",
       "sound": "BGM_320",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9188,6 +9587,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "丧钟丘陵",
+      "notes": "",
       "sound": "BGM_400",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9205,6 +9605,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "失落战场",
+      "notes": "",
       "sound": "BGM_360",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9222,6 +9623,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "千魂要塞",
+      "notes": "",
       "sound": "BGM_421",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9239,6 +9641,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "星流之井",
+      "notes": "",
       "sound": "BGM_401",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9256,6 +9659,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "王者圣域",
+      "notes": "",
       "sound": "BGM_399",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9273,6 +9677,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "圣域大道",
+      "notes": "",
       "sound": "BGM_537",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9290,6 +9695,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "圣域星河",
+      "notes": "",
       "sound": "BGM_536",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9307,6 +9713,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "冰焱之地",
+      "notes": "",
       "sound": "BGM_525",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9324,6 +9731,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "弑神之地",
+      "notes": "",
       "sound": "BGM_369",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9341,6 +9749,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "寂杀暗野",
+      "notes": "",
       "sound": "BGM_366",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9358,6 +9767,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "天魔古道",
+      "notes": "",
       "sound": "BGM_367",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9375,6 +9785,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "妄念厄境",
+      "notes": "",
       "sound": "BGM_367",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9392,6 +9803,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "不灭尊坛",
+      "notes": "",
       "sound": "BGM_370",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9409,6 +9821,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "避泉谷",
+      "notes": "",
       "sound": "BGM_520",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9426,6 +9839,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "避泉广场",
+      "notes": "",
       "sound": "BGM_524",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9443,6 +9857,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "九幽",
+      "notes": "",
       "sound": "BGM_519",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9460,6 +9875,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "悲鸣之地",
+      "notes": "",
       "sound": "BGM_363",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9477,6 +9893,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "神殿之丘",
+      "notes": "",
       "sound": "BGM_365",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9494,6 +9911,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "叹息之地",
+      "notes": "",
       "sound": "BGM_362",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9511,6 +9929,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "洛亚大陆",
+      "notes": "",
       "sound": "BGM_361",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9528,6 +9947,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "末日之泉",
+      "notes": "",
       "sound": "BGM_364",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9545,6 +9965,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "风语之森",
+      "notes": "",
       "sound": "BGM_343",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9562,6 +9983,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "风语丛林",
+      "notes": "",
       "sound": "BGM_533",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9579,6 +10001,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "雨林篝火",
+      "notes": "",
       "sound": "BGM_538",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9596,6 +10019,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "北吹高地",
+      "notes": "",
       "sound": "BGM_544",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9613,6 +10037,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "坠雷山崖",
+      "notes": "",
       "sound": "BGM_344",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9630,6 +10055,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "痛苦沼泽",
+      "notes": "",
       "sound": "BGM_345",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9647,6 +10073,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "上古雪峰",
+      "notes": "",
       "sound": "BGM_346",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9664,6 +10091,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "冰雪洞窟",
+      "notes": "",
       "sound": "BGM_532",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9681,6 +10109,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "毁灭之海",
+      "notes": "",
       "sound": "BGM_348",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9698,6 +10127,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "闪晶洞窟",
+      "notes": "",
       "sound": "BGM_558",
       "NPCID": [
         166
@@ -9720,6 +10150,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "嶙峋之所",
+      "notes": "",
       "sound": "BGM_559",
       "NPCID": [
         167
@@ -9742,6 +10173,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "荒野遗郊",
+      "notes": "",
       "sound": "BGM_560",
       "NPCID": [
         168
@@ -9764,6 +10196,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "炎塔大厅",
+      "notes": "",
       "sound": "BGM_561",
       "NPCID": [
         169
@@ -9786,6 +10219,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "炎塔塔顶",
+      "notes": "",
       "sound": "BGM_562",
       "NPCID": null,
       "NPCXYZ": null,
@@ -9803,6 +10237,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "无垠净界",
+      "notes": "",
       "sound": "BGM_563",
       "NPCID": [
         103
@@ -9825,6 +10260,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "寒风岭",
+      "notes": "",
       "sound": "BGM_564",
       "NPCID": [
         105
@@ -9847,6 +10283,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "狮王神殿",
+      "notes": "",
       "sound": "BGM_566",
       "NPCID": [
         106
@@ -9869,6 +10306,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "苍穹之巅",
+      "notes": "",
       "sound": "BGM_567",
       "NPCID": [
         119
@@ -9891,6 +10329,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "机械城外",
+      "notes": "",
       "sound": "BGM_569",
       "NPCID": [
         176
@@ -9913,6 +10352,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "环城长廊",
+      "notes": "",
       "sound": "BGM_570",
       "NPCID": [
         177
@@ -9935,6 +10375,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "黯空之坛",
+      "notes": "",
       "sound": "BGM_571",
       "NPCID": [
         85
@@ -9957,6 +10398,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "幻雾沙城",
+      "notes": "",
       "sound": "BGM_572",
       "NPCID": [
         108
@@ -9979,6 +10421,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "环城能源区",
+      "notes": "",
       "sound": "BGM_573",
       "NPCID": [
         178
@@ -10001,6 +10444,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "火蛇炎地",
+      "notes": "",
       "sound": "BGM_574",
       "NPCID": [
         102
@@ -10023,6 +10467,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "荒芜之界",
+      "notes": "",
       "sound": "BGM_575",
       "NPCID": [
         104
@@ -10045,6 +10490,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "幻梦乐园",
+      "notes": "",
       "sound": "BGM_576",
       "NPCID": [
         158
@@ -10067,6 +10513,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "镜水之崖",
+      "notes": "",
       "sound": "BGM_577",
       "NPCID": [
         107
@@ -10089,6 +10536,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "静默祭坛",
+      "notes": "",
       "sound": "BGM_578",
       "NPCID": [
         100
@@ -10111,6 +10559,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "避风之穴",
+      "notes": "",
       "sound": "BGM_579",
       "NPCID": [
         154
@@ -10133,6 +10582,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "呓语结界",
+      "notes": "",
       "sound": "BGM_580",
       "NPCID": [
         101
@@ -10155,6 +10605,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "上野林地",
+      "notes": "",
       "sound": "BGM_581",
       "NPCID": [
         153
@@ -10177,6 +10628,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "幻彩之径",
+      "notes": "",
       "sound": "BGM_582",
       "NPCID": [
         155
@@ -10199,6 +10651,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "幻彩台地",
+      "notes": "",
       "sound": "BGM_583",
       "NPCID": [
         156
@@ -10221,6 +10674,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "彩云之巅",
+      "notes": "",
       "sound": "BGM_585",
       "NPCID": [
         157
@@ -10243,6 +10697,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "迷诱之林",
+      "notes": "",
       "sound": "BGM_587",
       "NPCID": [
         134
@@ -10265,6 +10720,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "氤氲之息",
+      "notes": "",
       "sound": "BGM_588",
       "NPCID": [
         135
@@ -10287,6 +10743,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "枫曳酒馆",
+      "notes": "",
       "sound": "BGM_589",
       "NPCID": [
         140
@@ -10309,6 +10766,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "妖精之谷",
+      "notes": "",
       "sound": "BGM_590",
       "NPCID": [
         136
@@ -10331,6 +10789,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "枫曳广场",
+      "notes": "",
       "sound": "BGM_591",
       "NPCID": [
         141
@@ -10353,6 +10812,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "夜寂塔",
+      "notes": "",
       "sound": "BGM_592",
       "NPCID": [
         125
@@ -10375,6 +10835,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "绮丽雪森",
+      "notes": "",
       "sound": "BGM_593",
       "NPCID": [
         109
@@ -10397,6 +10858,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "暮光之陵",
+      "notes": "",
       "sound": "BGM_594",
       "NPCID": [
         159
@@ -10419,6 +10881,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "银河边界",
+      "notes": "",
       "sound": "BGM_596",
       "NPCID": null,
       "NPCXYZ": null,
@@ -10436,6 +10899,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "碎石田野",
+      "notes": "",
       "sound": "BGM_595",
       "NPCID": [
         142
@@ -10458,6 +10922,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "荒漠雪原",
+      "notes": "",
       "sound": "BGM_597",
       "NPCID": [
         110
@@ -10480,6 +10945,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "迷魂石殿",
+      "notes": "",
       "sound": "BGM_598",
       "NPCID": [
         160
@@ -10502,6 +10968,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "逆魂墟丘",
+      "notes": "",
       "sound": "BGM_599",
       "NPCID": [
         161
@@ -10524,6 +10991,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "光逝之境",
+      "notes": "",
       "sound": "BGM_601",
       "NPCID": null,
       "NPCXYZ": null,
@@ -10541,6 +11009,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "沙海石原",
+      "notes": "",
       "sound": "BGM_600",
       "NPCID": [
         162
@@ -10563,6 +11032,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "沙海岩阵",
+      "notes": "",
       "sound": "BGM_602",
       "NPCID": [
         163
@@ -10585,6 +11055,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "寒流之溪",
+      "notes": "",
       "sound": "BGM_603",
       "NPCID": [
         148
@@ -10607,6 +11078,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "寒天树顶",
+      "notes": "",
       "sound": "BGM_604",
       "NPCID": [
         111
@@ -10629,6 +11101,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "寒天冰穴",
+      "notes": "",
       "sound": "BGM_605",
       "NPCID": [
         112
@@ -10651,6 +11124,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "龙吟之地",
+      "notes": "",
       "sound": "BGM_606",
       "NPCID": [
         115
@@ -10676,6 +11150,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "暮月冰河",
+      "notes": "",
       "sound": "BGM_607",
       "NPCID": [
         113
@@ -10698,6 +11173,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "炼狱囚牢",
+      "notes": "",
       "sound": "BGM_608",
       "NPCID": [
         145
@@ -10723,6 +11199,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "冰结之辉",
+      "notes": "",
       "sound": "BGM_609",
       "NPCID": [
         149
@@ -10745,6 +11222,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "冰谷余辉",
+      "notes": "",
       "sound": "BGM_610",
       "NPCID": [
         150
@@ -10767,6 +11245,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "巨藤林地",
+      "notes": "",
       "sound": "BGM_611",
       "NPCID": [
         146
@@ -10791,6 +11270,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "黑夜之源",
+      "notes": "",
       "sound": "BGM_612",
       "NPCID": [
         89
@@ -10813,6 +11293,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "夜火小道",
+      "notes": "",
       "sound": "BGM_613",
       "NPCID": [
         84
@@ -10835,6 +11316,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "链姬魔阵",
+      "notes": "",
       "sound": "BGM_614",
       "NPCID": [
         86
@@ -10857,6 +11339,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "枫曳落霞",
+      "notes": "",
       "sound": "BGM_615",
       "NPCID": [
         143
@@ -10879,6 +11362,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "天垒崖",
+      "notes": "",
       "sound": "BGM_616",
       "NPCID": [
         170
@@ -10901,6 +11385,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "迷沙之雾",
+      "notes": "",
       "sound": "BGM_617",
       "NPCID": [
         114
@@ -10923,6 +11408,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "永耀星坛",
+      "notes": "",
       "sound": "BGM_618",
       "NPCID": [
         186
@@ -10948,6 +11434,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "空语之泉",
+      "notes": "",
       "sound": "BGM_619",
       "NPCID": [
         144
@@ -10970,6 +11457,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "时钟藏馆",
+      "notes": "",
       "sound": "BGM_620",
       "NPCID": [
         181
@@ -10995,6 +11483,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "稻篱坡",
+      "notes": "",
       "sound": "BGM_621",
       "NPCID": [
         130
@@ -11020,6 +11509,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "沙渊古道",
+      "notes": "",
       "sound": "BGM_622",
       "NPCID": [
         116
@@ -11042,6 +11532,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "古树之岛",
+      "notes": "",
       "sound": "BGM_623",
       "NPCID": [
         137
@@ -11064,6 +11555,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "水源之界",
+      "notes": "",
       "sound": "BGM_624",
       "NPCID": [
         147
@@ -11086,6 +11578,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "零式领域",
+      "notes": "",
       "sound": "BGM_626",
       "NPCID": [
         179
@@ -11108,6 +11601,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "罗斯特神庙",
+      "notes": "",
       "sound": "BGM_627",
       "NPCID": [
         117
@@ -11130,6 +11624,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "南瓜墓地",
+      "notes": "",
       "sound": "BGM_628",
       "NPCID": [
         131
@@ -11152,6 +11647,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "默之试炼台",
+      "notes": "",
       "sound": "BGM_629",
       "NPCID": [
         182
@@ -11174,6 +11670,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "耀之试炼台",
+      "notes": "",
       "sound": "BGM_630",
       "NPCID": [
         183
@@ -11196,6 +11693,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "宙之试炼台",
+      "notes": "",
       "sound": "BGM_631",
       "NPCID": [
         184
@@ -11218,6 +11716,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "灼烈矿洞",
+      "notes": "",
       "sound": "BGM_632",
       "NPCID": [
         132
@@ -11240,6 +11739,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "寒月雪峰",
+      "notes": "",
       "sound": "BGM_633",
       "NPCID": [
         151
@@ -11262,6 +11762,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "水绝冰沿",
+      "notes": "",
       "sound": "BGM_634",
       "NPCID": [
         152
@@ -11284,6 +11785,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "缚龙禁地",
+      "notes": "",
       "sound": "BGM_635",
       "NPCID": [
         90
@@ -11306,6 +11808,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "古岩砂窟",
+      "notes": "",
       "sound": "BGM_636",
       "NPCID": [
         69
@@ -11328,6 +11831,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "灵间狱",
+      "notes": "",
       "sound": "BGM_637",
       "NPCID": [
         87
@@ -11350,6 +11854,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "夜寂钟楼",
+      "notes": "",
       "sound": "BGM_638",
       "NPCID": [
         126
@@ -11372,6 +11877,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "永恒命运之界",
+      "notes": "",
       "sound": "BGM_639",
       "NPCID": [
         88
@@ -11394,6 +11900,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "古索山头",
+      "notes": "",
       "sound": "BGM_640",
       "NPCID": [
         70
@@ -11419,6 +11926,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "光宇之庭",
+      "notes": "",
       "sound": "BGM_641",
       "NPCID": [
         171
@@ -11441,6 +11949,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "未明之空",
+      "notes": "",
       "sound": "BGM_642",
       "NPCID": [
         64
@@ -11463,6 +11972,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "环柱空间",
+      "notes": "",
       "sound": "BGM_643",
       "NPCID": [
         95
@@ -11485,6 +11995,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "郊外小道",
+      "notes": "",
       "sound": "BGM_645",
       "NPCID": [
         127
@@ -11507,6 +12018,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "深渊边缘",
+      "notes": "",
       "sound": "BGM_646",
       "NPCID": [
         79
@@ -11529,6 +12041,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "岩岭古穴",
+      "notes": "",
       "sound": "BGM_647",
       "NPCID": [
         187
@@ -11551,6 +12064,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "基岩塔",
+      "notes": "",
       "sound": "BGM_648",
       "NPCID": [
         80
@@ -11573,6 +12087,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "飕飗坡",
+      "notes": "",
       "sound": "BGM_649",
       "NPCID": [
         120
@@ -11595,6 +12110,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "绝鸣顶",
+      "notes": "",
       "sound": "BGM_650",
       "NPCID": [
         172
@@ -11617,6 +12133,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "日夜星海",
+      "notes": "",
       "sound": "BGM_651",
       "NPCID": [
         185
@@ -11639,6 +12156,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "幽语洼地",
+      "notes": "",
       "sound": "BGM_652",
       "NPCID": [
         138
@@ -11661,6 +12179,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "冷烟峡谷",
+      "notes": "",
       "sound": "BGM_653",
       "NPCID": [
         188
@@ -11683,6 +12202,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "晶灵广场",
+      "notes": "",
       "sound": "BGM_654",
       "NPCID": [
         81
@@ -11705,6 +12225,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "棘土沙丘",
+      "notes": "",
       "sound": "BGM_655",
       "NPCID": [
         59
@@ -11727,6 +12248,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "剔骨崖",
+      "notes": "",
       "sound": "BGM_656",
       "NPCID": [
         74
@@ -11749,6 +12271,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "炽光圣堂",
+      "notes": "",
       "sound": "BGM_657",
       "NPCID": null,
       "NPCXYZ": null,
@@ -11766,6 +12289,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "凌风孤潮",
+      "notes": "",
       "sound": "BGM_658",
       "NPCID": [
         75
@@ -11788,6 +12312,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "棘土之牢",
+      "notes": "",
       "sound": "BGM_659",
       "NPCID": [
         60
@@ -11810,6 +12335,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "岩赫之壁",
+      "notes": "",
       "sound": "BGM_660",
       "NPCID": [
         71
@@ -11832,6 +12358,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "废弃研究所",
+      "notes": "",
       "sound": "BGM_661",
       "NPCID": [
         76
@@ -11857,6 +12384,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "逐星云迹",
+      "notes": "",
       "sound": "BGM_662",
       "NPCID": null,
       "NPCXYZ": null,
@@ -11874,6 +12402,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "龙息废墟",
+      "notes": "",
       "sound": "BGM_663",
       "NPCID": [
         91
@@ -11896,6 +12425,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "砂雾街头",
+      "notes": "",
       "sound": "BGM_664",
       "NPCID": [
         65
@@ -11918,6 +12448,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "次元之镜",
+      "notes": "",
       "sound": "BGM_665",
       "NPCID": [
         96
@@ -11940,6 +12471,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "幽谷营地",
+      "notes": "",
       "sound": "BGM_666",
       "NPCID": [
         77
@@ -11962,6 +12494,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "卡卡托斯广场",
+      "notes": "",
       "sound": "BGM_667",
       "NPCID": [
         61
@@ -11984,6 +12517,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "赤熔山泉",
+      "notes": "",
       "sound": "BGM_668",
       "NPCID": [
         173
@@ -12006,6 +12540,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "卡卡托斯之顶",
+      "notes": "",
       "sound": "BGM_669",
       "NPCID": [
         62
@@ -12028,6 +12563,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "暮光纪念塔",
+      "notes": "",
       "sound": "BGM_670",
       "NPCID": [
         66
@@ -12050,6 +12586,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "余晖小舍",
+      "notes": "",
       "sound": "BGM_671",
       "NPCID": [
         174
@@ -12072,6 +12609,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "碣尘宫",
+      "notes": "",
       "sound": "BGM_672",
       "NPCID": [
         67
@@ -12094,6 +12632,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "稻香农场",
+      "notes": "",
       "sound": "BGM_673",
       "NPCID": [
         133
@@ -12116,6 +12655,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "逆风峡口",
+      "notes": "",
       "sound": "BGM_674",
       "NPCID": [
         72
@@ -12138,6 +12678,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "虚幻之殿",
+      "notes": "",
       "sound": "BGM_675",
       "NPCID": [
         97
@@ -12160,6 +12701,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "奇迹花园",
+      "notes": "",
       "sound": "BGM_679",
       "NPCID": [
         68
@@ -12182,6 +12724,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "环底工厂",
+      "notes": "",
       "sound": "BGM_680",
       "NPCID": [
         180
@@ -12204,6 +12747,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "留风街",
+      "notes": "",
       "sound": "BGM_681",
       "NPCID": [
         128
@@ -12226,6 +12770,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "腐朽滩泽",
+      "notes": "",
       "sound": "BGM_682",
       "NPCID": [
         98
@@ -12248,6 +12793,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "四象会议室",
+      "notes": "",
       "sound": "BGM_683",
       "NPCID": [
         121
@@ -12270,6 +12816,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "春息广场",
+      "notes": "",
       "sound": "BGM_684",
       "NPCID": [
         129
@@ -12292,6 +12839,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "云涌山崖",
+      "notes": "",
       "sound": "BGM_685",
       "NPCID": [
         122
@@ -12314,6 +12862,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "枯言岛",
+      "notes": "",
       "sound": "BGM_686",
       "NPCID": [
         189
@@ -12336,6 +12885,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "圣洛之河",
+      "notes": "",
       "sound": "BGM_687",
       "NPCID": [
         164
@@ -12358,6 +12908,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "缚茧之地",
+      "notes": "",
       "sound": "BGM_688",
       "NPCID": [
         78
@@ -12380,6 +12931,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "晶能基站",
+      "notes": "",
       "sound": "BGM_689",
       "NPCID": [
         82
@@ -12402,6 +12954,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "暮色星罗",
+      "notes": "",
       "sound": "BGM_690",
       "NPCID": [
         99
@@ -12424,6 +12977,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "远坠盆地",
+      "notes": "",
       "sound": "BGM_691",
       "NPCID": [
         118
@@ -12449,6 +13003,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "流沙阱坑",
+      "notes": "",
       "sound": "BGM_692",
       "NPCID": [
         73
@@ -12471,6 +13026,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "幽契之所",
+      "notes": "",
       "sound": "BGM_693",
       "NPCID": [
         63
@@ -12493,6 +13049,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "古渊边界",
+      "notes": "",
       "sound": "BGM_694",
       "NPCID": [
         83
@@ -12515,6 +13072,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "彩云断桥",
+      "notes": "",
       "sound": "BGM_695",
       "NPCID": [
         175
@@ -12537,6 +13095,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "神之遗迹",
+      "notes": "",
       "sound": "BGM_543",
       "NPCID": null,
       "NPCXYZ": null,
@@ -12554,6 +13113,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "浮空甲板",
+      "notes": "",
       "sound": "BGM_696",
       "NPCID": [
         54
@@ -12576,6 +13136,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "狭间船廊",
+      "notes": "",
       "sound": "BGM_697",
       "NPCID": [
         55
@@ -12598,6 +13159,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "星辰观测室",
+      "notes": "",
       "sound": "BGM_698",
       "NPCID": [
         56
@@ -12620,6 +13182,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "老旧密室",
+      "notes": "",
       "sound": "BGM_699",
       "NPCID": [
         57
@@ -12642,6 +13205,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "凌星侧翼",
+      "notes": "",
       "sound": "BGM_700",
       "NPCID": [
         58
@@ -12664,6 +13228,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "斜雨塔",
+      "notes": "",
       "sound": "BGM_702",
       "NPCID": [
         42
@@ -12686,6 +13251,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "奥法领域",
+      "notes": "",
       "sound": "BGM_703",
       "NPCID": [
         92
@@ -12708,6 +13274,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "齐隆冰原",
+      "notes": "",
       "sound": "BGM_704",
       "NPCID": [
         36
@@ -12730,6 +13297,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "光灵秘境",
+      "notes": "",
       "sound": "BGM_705",
       "NPCID": [
         165
@@ -12752,6 +13320,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "诅咒花海",
+      "notes": "",
       "sound": "BGM_706",
       "NPCID": [
         93
@@ -12774,6 +13343,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "蛮荒魔障",
+      "notes": "",
       "sound": "BGM_707",
       "NPCID": [
         94
@@ -12796,6 +13366,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "摩登巷尾",
+      "notes": "",
       "sound": "BGM_708",
       "NPCID": [
         43
@@ -12818,6 +13389,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "白金大厅",
+      "notes": "",
       "sound": "BGM_709",
       "NPCID": [
         44
@@ -12840,6 +13412,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "霓虹广场",
+      "notes": "",
       "sound": "BGM_710",
       "NPCID": [
         45
@@ -12862,6 +13435,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "地下旅店",
+      "notes": "",
       "sound": "BGM_712",
       "NPCID": [
         46
@@ -12884,6 +13458,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "深雪码头",
+      "notes": "",
       "sound": "BGM_713",
       "NPCID": [
         47
@@ -12906,6 +13481,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "宇宙",
+      "notes": "",
       "sound": "",
       "NPCID": null,
       "NPCXYZ": null,
@@ -12923,6 +13499,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "修缘谷",
+      "notes": "",
       "sound": "BGM_714",
       "NPCID": [
         123
@@ -12945,6 +13522,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "残响之壁",
+      "notes": "",
       "sound": "BGM_715",
       "NPCID": [
         48
@@ -12967,6 +13545,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "煌炎山口",
+      "notes": "",
       "sound": "BGM_717",
       "NPCID": [
         124
@@ -12989,6 +13568,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "恶鬼斗技场",
+      "notes": "",
       "sound": "BGM_718",
       "NPCID": [
         49
@@ -13011,6 +13591,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "废弃大厦",
+      "notes": "",
       "sound": "BGM_719",
       "NPCID": [
         50
@@ -13033,6 +13614,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "邪能祭坛",
+      "notes": "",
       "sound": "BGM_720",
       "NPCID": [
         139
@@ -13055,6 +13637,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "桃桃包子铺",
+      "notes": "",
       "sound": "BGM_721",
       "NPCID": [
         51
@@ -13077,6 +13660,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "西侧枢纽",
+      "notes": "",
       "sound": "BGM_722",
       "NPCID": [
         52
@@ -13099,6 +13683,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "陨星浮冰",
+      "notes": "",
       "sound": "BGM_723",
       "NPCID": [
         37
@@ -13121,6 +13706,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "离原之境",
+      "notes": "",
       "sound": "BGM_724",
       "NPCID": [
         38
@@ -13143,6 +13729,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "冰封岭",
+      "notes": "",
       "sound": "BGM_725",
       "NPCID": [
         39
@@ -13165,6 +13752,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "露天花园",
+      "notes": "",
       "sound": "BGM_726",
       "NPCID": [
         53
@@ -13187,6 +13775,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "暴雪荒原",
+      "notes": "",
       "sound": "BGM_727",
       "NPCID": [
         40
@@ -13209,6 +13798,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "烛之山谷",
+      "notes": "",
       "sound": "BGM_728",
       "NPCID": [
         41
@@ -13231,6 +13821,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "奇镰村",
+      "notes": "",
       "sound": "BGM_729",
       "NPCID": [
         190
@@ -13253,6 +13844,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "枯仑墓地",
+      "notes": "",
       "sound": "BGM_730",
       "NPCID": [
         191
@@ -13275,6 +13867,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "幻星结界",
+      "notes": "",
       "sound": "BGM_731",
       "NPCID": [
         192
@@ -13297,6 +13890,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "寒天老井",
+      "notes": "",
       "sound": "BGM_732",
       "NPCID": [
         193
@@ -13319,6 +13913,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "凌天城",
+      "notes": "",
       "sound": "BGM_733",
       "NPCID": [
         194
@@ -13341,6 +13936,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "盟会大厅",
+      "notes": "",
       "sound": "BGM_734",
       "NPCID": [
         195
@@ -13363,6 +13959,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "山林狭口",
+      "notes": "",
       "sound": "BGM_735",
       "NPCID": [
         196
@@ -13385,6 +13982,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "寒光堂",
+      "notes": "",
       "sound": "BGM_736",
       "NPCID": [
         197
@@ -13407,6 +14005,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "破碎城门",
+      "notes": "",
       "sound": "BGM_737",
       "NPCID": [
         198
@@ -13432,6 +14031,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "富雪广场",
+      "notes": "",
       "sound": "BGM_738",
       "NPCID": [
         199
@@ -13457,6 +14057,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "夕阳驿站",
+      "notes": "",
       "sound": "BGM_742",
       "NPCID": [
         200
@@ -13482,6 +14083,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "永凌殿",
+      "notes": "",
       "sound": "BGM_743",
       "NPCID": [
         201
@@ -13507,6 +14109,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "极寒之窟",
+      "notes": "",
       "sound": "BGM_744",
       "NPCID": [
         202
@@ -13532,6 +14135,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "凌天图书馆",
+      "notes": "",
       "sound": "BGM_745",
       "NPCID": [
         203
@@ -13557,6 +14161,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "长河镇",
+      "notes": "",
       "sound": "BGM_746",
       "NPCID": [
         204
@@ -13582,6 +14187,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "落日崖",
+      "notes": "",
       "sound": "BGM_747",
       "NPCID": [
         205
@@ -13607,6 +14213,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "龙缘咖啡馆",
+      "notes": "",
       "sound": "BGM_751",
       "NPCID": [
         206
@@ -13632,6 +14239,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "晶凌大道",
+      "notes": "",
       "sound": "BGM_752",
       "NPCID": [
         207
@@ -13657,6 +14265,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "古玄迷阵",
+      "notes": "",
       "sound": "BGM_753",
       "NPCID": [
         208
@@ -13682,6 +14291,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "冰凌云顶",
+      "notes": "",
       "sound": "BGM_754",
       "NPCID": [
         209
@@ -13707,6 +14317,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "芳息谷",
+      "notes": "",
       "sound": "BGM_755",
       "NPCID": [
         210
@@ -13732,6 +14343,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "翡翠港",
+      "notes": "",
       "sound": "BGM_756",
       "NPCID": [
         211
@@ -13757,6 +14369,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "碧玉沙滩",
+      "notes": "",
       "sound": "BGM_757",
       "NPCID": [
         212
@@ -13782,6 +14395,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "机能实验室",
+      "notes": "",
       "sound": "BGM_758",
       "NPCID": [
         213
@@ -13807,6 +14421,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "候船大厅",
+      "notes": "",
       "sound": "BGM_759",
       "NPCID": [
         214
@@ -13832,6 +14447,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "喷泉甲板",
+      "notes": "",
       "sound": "BGM_760",
       "NPCID": [
         215
@@ -13857,6 +14473,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "砂石断桥",
+      "notes": "",
       "sound": "BGM_761",
       "NPCID": [
         216
@@ -13882,6 +14499,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "千红圣殿",
+      "notes": "",
       "sound": "BGM_763",
       "NPCID": [
         217
@@ -13907,6 +14525,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "浮尘石台",
+      "notes": "",
       "sound": "BGM_764",
       "NPCID": [
         218
@@ -13932,6 +14551,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "紫绀教堂",
+      "notes": "",
       "sound": "BGM_765",
       "NPCID": [
         219
@@ -13957,6 +14577,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "海湾小巷",
+      "notes": "",
       "sound": "BGM_766",
       "NPCID": [
         220
@@ -13982,6 +14603,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "水手之家",
+      "notes": "",
       "sound": "BGM_767",
       "NPCID": [
         221
@@ -14007,6 +14629,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "创世古迹",
+      "notes": "",
       "sound": "BGM_768",
       "NPCID": [
         222
@@ -14032,6 +14655,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "鸢尾城",
+      "notes": "",
       "sound": "BGM_770",
       "NPCID": [
         223
@@ -14057,6 +14681,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "蝶梦桥下",
+      "notes": "",
       "sound": "BGM_771",
       "NPCID": [
         224
@@ -14082,6 +14707,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "夜色幕墙",
+      "notes": "",
       "sound": "BGM_772",
       "NPCID": [
         225
@@ -14107,6 +14733,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "黯红激流",
+      "notes": "",
       "sound": "BGM_773",
       "NPCID": [
         226
@@ -14132,6 +14759,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "暴雨防线",
+      "notes": "",
       "sound": "BGM_774",
       "NPCID": [
         227
@@ -14157,6 +14785,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "紫芸之森",
+      "notes": "",
       "sound": "BGM_775",
       "NPCID": [
         228
@@ -14182,6 +14811,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "太空站精灵区",
+      "notes": "",
       "sound": "",
       "NPCID": null,
       "NPCXYZ": null,
@@ -14199,6 +14829,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "太空资源区",
+      "notes": "",
       "sound": "",
       "NPCID": null,
       "NPCXYZ": null,
@@ -14216,6 +14847,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "竞技天堂",
+      "notes": "",
       "sound": "",
       "NPCID": null,
       "NPCXYZ": null,
@@ -14233,6 +14865,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "贾斯汀太空站",
+      "notes": "",
       "sound": "",
       "NPCID": null,
       "NPCXYZ": null,
@@ -14250,6 +14883,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "新兵训练营",
+      "notes": "",
       "sound": "",
       "NPCID": null,
       "NPCXYZ": null,
@@ -14267,6 +14901,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "往期神宠",
+      "notes": "",
       "sound": "",
       "NPCID": null,
       "NPCXYZ": null,
@@ -14284,6 +14919,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "能源研究中心",
+      "notes": "",
       "sound": "",
       "NPCID": null,
       "NPCXYZ": null,
@@ -14301,6 +14937,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "骨碌沼泽",
+      "notes": "",
       "sound": "BGM_775",
       "NPCID": [
         229
@@ -14326,6 +14963,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "幻星塔顶",
+      "notes": "",
       "sound": "BGM_777",
       "NPCID": [
         230
@@ -14351,6 +14989,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "幻星大厅",
+      "notes": "",
       "sound": "BGM_778",
       "NPCID": [
         231
@@ -14376,6 +15015,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "摇滚街区",
+      "notes": "",
       "sound": "BGM_780",
       "NPCID": [
         232
@@ -14401,6 +15041,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "林中幻墟",
+      "notes": "",
       "sound": "BGM_781",
       "NPCID": [
         233
@@ -14426,6 +15067,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "夜染山丘",
+      "notes": "",
       "sound": "BGM_782",
       "NPCID": [
         234
@@ -14451,6 +15093,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "灵沉之湖",
+      "notes": "",
       "sound": "BGM_783",
       "NPCID": [
         235
@@ -14476,6 +15119,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "涤魂大地",
+      "notes": "",
       "sound": "BGM_784",
       "NPCID": [
         236
@@ -14501,6 +15145,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "通灵圣殿",
+      "notes": "",
       "sound": "BGM_785",
       "NPCID": [
         237
@@ -14526,6 +15171,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "梦境花园",
+      "notes": "",
       "sound": "BGM_789",
       "NPCID": [
         238
@@ -14551,6 +15197,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "悠久王座",
+      "notes": "",
       "sound": "BGM_790",
       "NPCID": [
         239
@@ -14576,6 +15223,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "漫尘荒岭",
+      "notes": "",
       "sound": "BGM_791",
       "NPCID": [
         240
@@ -14601,6 +15249,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "碎星之渊",
+      "notes": "",
       "sound": "BGM_792",
       "NPCID": [
         241
@@ -14626,6 +15275,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "魂乐之界",
+      "notes": "",
       "sound": "BGM_793",
       "NPCID": [
         242
@@ -14651,6 +15301,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "罗萨村村口",
+      "notes": "",
       "sound": "BGM_794",
       "NPCID": [
         243
@@ -14676,6 +15327,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "烈火山坡",
+      "notes": "",
       "sound": "BGM_795",
       "NPCID": [
         244
@@ -14701,6 +15353,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "罗萨村集会",
+      "notes": "",
       "sound": "BGM_796",
       "NPCID": [
         245
@@ -14726,6 +15379,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "地牢入口",
+      "notes": "",
       "sound": "BGM_797",
       "NPCID": [
         246
@@ -14751,6 +15405,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "残腥之地",
+      "notes": "",
       "sound": "BGM_798",
       "NPCID": [
         247
@@ -14776,6 +15431,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "竹曲遗迹",
+      "notes": "",
       "sound": "BGM_799",
       "NPCID": [
         248
@@ -14801,6 +15457,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "幽彩小径",
+      "notes": "",
       "sound": "BGM_800",
       "NPCID": [
         249
@@ -14826,6 +15483,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "棘刺高墙",
+      "notes": "",
       "sound": "BGM_801",
       "NPCID": [
         250
@@ -14851,6 +15509,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "望砂塔",
+      "notes": "",
       "sound": "BGM_802",
       "NPCID": [
         251
@@ -14876,6 +15535,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "宫殿污水道",
+      "notes": "",
       "sound": "BGM_803",
       "NPCID": [
         252
@@ -14901,6 +15561,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "浊气环路",
+      "notes": "",
       "sound": "BGM_804",
       "NPCID": [
         253
@@ -14926,6 +15587,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "枯萎之心",
+      "notes": "",
       "sound": "BGM_805",
       "NPCID": [
         254
@@ -14951,6 +15613,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "凋零书阁",
+      "notes": "",
       "sound": "BGM_809",
       "NPCID": [
         255
@@ -14976,6 +15639,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "光晶地带",
+      "notes": "",
       "sound": "BGM_810",
       "NPCID": [
         256
@@ -15001,6 +15665,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "黑风山崖",
+      "notes": "",
       "sound": "BGM_811",
       "NPCID": [
         257
@@ -15026,6 +15691,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "高能生产线",
+      "notes": "",
       "sound": "BGM_812",
       "NPCID": [
         258
@@ -15051,6 +15717,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "天阶通道",
+      "notes": "",
       "sound": "BGM_814",
       "NPCID": [
         259
@@ -15076,6 +15743,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "相位空间站",
+      "notes": "",
       "sound": "BGM_815",
       "NPCID": [
         260
@@ -15101,6 +15769,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "盟会下层平台",
+      "notes": "",
       "sound": "BGM_816",
       "NPCID": [
         261
@@ -15126,6 +15795,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "静铃茶室",
+      "notes": "",
       "sound": "BGM_817",
       "NPCID": [
         262
@@ -15151,6 +15821,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "冥河之涯",
+      "notes": "",
       "sound": "BGM_818",
       "NPCID": [
         263
@@ -15176,6 +15847,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "熔岩竞技场",
+      "notes": "",
       "sound": "BGM_820",
       "NPCID": [
         264
@@ -15201,6 +15873,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "光夜天地",
+      "notes": "",
       "sound": "BGM_821",
       "NPCID": [
         265
@@ -15226,6 +15899,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "龙息乱舞之界",
+      "notes": "",
       "sound": "BGM_822",
       "NPCID": [
         266
@@ -15251,6 +15925,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "紫烬炼狱",
+      "notes": "",
       "sound": "BGM_823",
       "NPCID": [
         267
@@ -15276,6 +15951,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "狭长密道",
+      "notes": "",
       "sound": "BGM_824",
       "NPCID": [
         268
@@ -15301,6 +15977,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "虚妄通道",
+      "notes": "",
       "sound": "BGM_825",
       "NPCID": [
         269
@@ -15326,6 +16003,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "魔盒秘境",
+      "notes": "",
       "sound": "BGM_826",
       "NPCID": [
         270
@@ -15351,6 +16029,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "失序之罅",
+      "notes": "",
       "sound": "BGM_828",
       "NPCID": [
         271
@@ -15376,6 +16055,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "海啸擂台",
+      "notes": "",
       "sound": "BGM_829",
       "NPCID": [
         272
@@ -15401,6 +16081,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "烈焰擂台",
+      "notes": "",
       "sound": "BGM_830",
       "NPCID": [
         273
@@ -15426,6 +16107,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "绿光擂台",
+      "notes": "",
       "sound": "BGM_831",
       "NPCID": [
         274
@@ -15451,6 +16133,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "藤蔓通道",
+      "notes": "",
       "sound": "BGM_833",
       "NPCID": [
         275
@@ -15476,6 +16159,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "克洛斯星地心",
+      "notes": "",
       "sound": "BGM_037",
       "NPCID": [
         276
@@ -15501,6 +16185,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "赫尔卡飞船",
+      "notes": "",
       "sound": "BGM_834",
       "NPCID": [
         277
@@ -15526,6 +16211,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "拜伦号发射中心",
+      "notes": "",
       "sound": "BGM_835",
       "NPCID": [
         278
@@ -15551,6 +16237,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "遗迹残骸内部",
+      "notes": "",
       "sound": "BGM_836",
       "NPCID": null,
       "NPCXYZ": [
@@ -15574,6 +16261,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "地下能源站",
+      "notes": "",
       "sound": "BGM_839",
       "NPCID": [
         279
@@ -15599,6 +16287,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "千年前的水银湖畔",
+      "notes": "",
       "sound": "BGM_840",
       "NPCID": [
         280
@@ -15624,6 +16313,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "奥菲利娅的房间",
+      "notes": "",
       "sound": "BGM_841",
       "NPCID": [
         281
@@ -15649,15 +16339,13 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "时光之墟",
+      "notes": "",
       "sound": "BGM_838",
       "NPCID": null,
-      "NPCXYZ": [
-        500,
-        450
-      ],
+      "NPCXYZ": null,
       "PlayerXYZ": [
-        650,
-        440
+        297,
+        557
       ],
       "WildBossID": null,
       "WildBossPoint": null,
@@ -15672,6 +16360,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "巨型机器人研发中心",
+      "notes": "",
       "sound": "BGM_842",
       "NPCID": [
         283
@@ -15697,6 +16386,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "真正的精灵圣殿",
+      "notes": "",
       "sound": "BGM_845",
       "NPCID": [
         284
@@ -15722,6 +16412,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "巨型机器人中控台",
+      "notes": "",
       "sound": "BGM_843",
       "NPCID": [
         285
@@ -15747,6 +16438,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "千年前的赫尔卡星",
+      "notes": "",
       "sound": "BGM_010B",
       "NPCID": [
         286
@@ -15772,6 +16464,7 @@
       "DeviceID": "",
       "Ename": "Space Station",
       "name": "精灵太空站",
+      "notes": "",
       "sound": "BGM_252",
       "NPCID": [
         288,
@@ -15800,6 +16493,7 @@
       "DeviceID": "",
       "Ename": "Space Station",
       "name": "太空站左翼",
+      "notes": "",
       "sound": "BGM_map102",
       "NPCID": null,
       "NPCXYZ": null,
@@ -15820,6 +16514,7 @@
       "DeviceID": "",
       "Ename": "Space Station",
       "name": "巅峰圣战",
+      "notes": "",
       "sound": "BGM_218",
       "NPCID": null,
       "NPCXYZ": null,
@@ -15840,6 +16535,7 @@
       "DeviceID": "",
       "Ename": "Space Station",
       "name": "神秘领域",
+      "notes": "",
       "sound": "BGM_018",
       "NPCID": [
         289
@@ -15865,6 +16561,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "湮灭之间",
+      "notes": "",
       "sound": "BGM_017",
       "NPCID": [
         298
@@ -15890,6 +16587,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "露希欧矿脉",
+      "notes": "",
       "sound": "BGM_040",
       "NPCID": [
         299
@@ -15940,6 +16638,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "深海底基地",
+      "notes": "",
       "sound": "BGM_849",
       "NPCID": [
         300
@@ -15965,6 +16664,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "火山星地核",
+      "notes": "",
       "sound": "BGM_487",
       "NPCID": null,
       "NPCXYZ": null,
@@ -16003,6 +16703,50 @@
       "id": 2159,
       "MapRatio": 1,
       "pic": 1343
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "苏摩保育区",
+      "notes": "",
+      "sound": "BGM_6000day",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": null,
+      "WildBossID": null,
+      "WildBossPoint": null,
+      "WildBossWeight": null,
+      "enterMap": 0,
+      "GroupID": 0,
+      "id": 2160,
+      "MapRatio": 1,
+      "pic": 2160
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Welcome back",
+      "name": "传送舱",
+      "notes": "6000天庆典版本",
+      "sound": "BGM_151A",
+      "NPCID": [
+        301
+      ],
+      "NPCXYZ": [
+        350,
+        430
+      ],
+      "PlayerXYZ": [
+        467,
+        404
+      ],
+      "WildBossID": null,
+      "WildBossPoint": null,
+      "WildBossWeight": null,
+      "enterMap": 1,
+      "GroupID": 10103,
+      "id": 2161,
+      "MapRatio": 1,
+      "pic": 2161
     }
   ]
 }

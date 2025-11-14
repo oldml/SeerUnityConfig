@@ -4886,6 +4886,23 @@
       "offsetY": 0,
       "scaleX": 0.5,
       "scaleY": 0.5
+    },
+    {
+      "name": "庆典纽斯",
+      "pic": "10001",
+      "triggerinfo": "",
+      "FuncParam": [
+        629
+      ],
+      "bit": 0,
+      "FuncParamSpecial": 0,
+      "FuncType": 3,
+      "id": 301,
+      "modelType": 4,
+      "offsetX": 0,
+      "offsetY": 0,
+      "scaleX": 0.7,
+      "scaleY": 0.7
     }
   ]
 }

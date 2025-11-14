@@ -479,6 +479,30 @@
       "id": 41,
       "moduleId": 598,
       "state": 1
+    },
+    {
+      "actionName": "6000天集合",
+      "controller": "AutoOpenLocalDaily",
+      "endTime": "2025/11/28",
+      "param1": "",
+      "param2": "",
+      "param3": "",
+      "startTime": "2025/11/14",
+      "id": 42,
+      "moduleId": 664,
+      "state": 1
+    },
+    {
+      "actionName": "循星之旅",
+      "controller": "AutoOpenLocalOnce",
+      "endTime": "2025/12/25",
+      "param1": "",
+      "param2": "",
+      "param3": "",
+      "startTime": "2025/11/14",
+      "id": 43,
+      "moduleId": 663,
+      "state": 1
     }
   ]
 }

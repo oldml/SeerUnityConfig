@@ -9359,6 +9359,62 @@
       "id": 1172,
       "rewardtype": 1,
       "Rule": 21
+    },
+    {
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "Branch": 172,
+      "id": 1173,
+      "rewardtype": 1,
+      "Rule": 2
+    },
+    {
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "Branch": 173,
+      "id": 1174,
+      "rewardtype": 1,
+      "Rule": 1
+    },
+    {
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "Branch": 173,
+      "id": 1175,
+      "rewardtype": 1,
+      "Rule": 2
+    },
+    {
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "Branch": 173,
+      "id": 1176,
+      "rewardtype": 1,
+      "Rule": 3
+    },
+    {
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "Branch": 173,
+      "id": 1177,
+      "rewardtype": 1,
+      "Rule": 4
+    },
+    {
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "Branch": 166,
+      "id": 1178,
+      "rewardtype": 1,
+      "Rule": 23
+    },
+    {
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "Branch": 166,
+      "id": 1179,
+      "rewardtype": 1,
+      "Rule": 24
     }
   ]
 }

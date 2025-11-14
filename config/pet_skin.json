@@ -12565,8 +12565,8 @@
         "Type": 18
       },
       {
-        "Go": "1095;app/PeakJihad2023MainPanel",
-        "GoType": "map|module",
+        "Go": "",
+        "GoType": "",
         "Name": "郁海繁花·铭唤",
         "SkinKind": [
           {
@@ -12582,8 +12582,8 @@
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "梦色仲夏·月华",
         "SkinKind": [
           {
@@ -12599,8 +12599,8 @@
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "璀璨音律·凡尔斯",
         "SkinKind": [
           {
@@ -12820,8 +12820,8 @@
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "第一宇航员·西塔伦",
         "SkinKind": [
           {
@@ -12837,8 +12837,8 @@
         "Type": 18
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "领衔·克雷弗德",
         "SkinKind": [
           {
@@ -12854,8 +12854,8 @@
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "朔星·蓓丽安特",
         "SkinKind": [
           {
@@ -12922,8 +12922,8 @@
         "Type": 0
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "地狱使者·伊洛特斯",
         "SkinKind": [
           {
@@ -12946,9 +12946,9 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 1,
             "Type": 2,
-            "Year": 0
+            "Year": 2025
           }
         ],
         "ID": 763,
@@ -13092,8 +13092,8 @@
         "Type": 18
       },
       {
-        "Go": "",
-        "GoType": "",
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
         "Name": "秋日印象·克洛托",
         "SkinKind": [
           {
@@ -13124,6 +13124,40 @@
         "ID": 773,
         "MonID": 3941,
         "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "世界之脉·圣灵谱尼",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 774,
+        "MonID": 5000,
+        "Type": 19
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "潮汐之主·星光鲁斯王",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 775,
+        "MonID": 4648,
+        "Type": 19
       }
     ]
   }

@@ -12704,6 +12704,30 @@
         "petId": 4833
       },
       {
+        "moveName1": "神风",
+        "moveName2": "烈冲踢",
+        "moveId": 38151,
+        "petId": 4834
+      },
+      {
+        "moveName1": "礼炮",
+        "moveName2": "大合奏",
+        "moveId": 38152,
+        "petId": 4835
+      },
+      {
+        "moveName1": "空与幻",
+        "moveName2": "之辉",
+        "moveId": 38153,
+        "petId": 4836
+      },
+      {
+        "moveName1": "派派",
+        "moveName2": "大扫除",
+        "moveId": 38154,
+        "petId": 4837
+      },
+      {
         "moveName1": "神灵",
         "moveName2": "救世光",
         "moveId": 31143,

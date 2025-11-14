@@ -1,6 +1,6 @@
-﻿**Parsing finished with 394 successes and 115 failures.**
+﻿**Parsing finished with 408 successes and 103 failures.**
 
-**Failed Files (115 files)**
+**Failed Files (103 files)**
   2025YearPetTrain.bytes
   AdAstraBoss.bytes
   AdventureChapter.bytes
@@ -21,16 +21,6 @@
   chapterbranchpoint.bytes
   CombatBossInfo.bytes
   CombatLabInfo.bytes
-  dango.bytes
-  dangoAction.bytes
-  dangoGene.bytes
-  dangoGold.bytes
-  dangoGuide.bytes
-  dangoHouse.bytes
-  dangoLv.bytes
-  dangoSlot.bytes
-  dangoStory.bytes
-  dangoTask.bytes
   diamon_box.bytes
   diamon_task.bytes
   exp_tower.bytes
@@ -66,8 +56,6 @@
   new_starmap.bytes
   new_starmaplist.bytes
   newguideStep2020.bytes
-  omniCoetus_reward.bytes
-  omniCoetus_task.bytes
   package_update.bytes
   partner0331.bytes
   partnerEffectUpgrade0331.bytes
@@ -118,4 +106,4 @@
   yizhishang_shop.bytes
 
 ---
-**Total duration: 7.44 seconds.**
+**Total duration: 7.50 seconds.**

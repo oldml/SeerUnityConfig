@@ -430,6 +430,16 @@
         "price": 30,
         "productID": 200063,
         "vip": 1
+      },
+      {
+        "name": "星钻",
+        "itemID": [
+          1727555
+        ],
+        "gold": 1,
+        "price": 0.1,
+        "productID": 200064,
+        "vip": 1
       }
     ]
   }

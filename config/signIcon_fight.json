@@ -2436,7 +2436,7 @@
         "isShowNum": 0,
         "showmonster": 0,
         "showtime": 0,
-        "sort": 1
+        "sort": 4
       },
       {
         "className": "*",
@@ -2702,6 +2702,52 @@
         "showmonster": 0,
         "showtime": 0,
         "sort": 5
+      },
+      {
+        "className": "*",
+        "dec": "金祖之龍",
+        "Des": "",
+        "frame": [
+          "0_0",
+          "1_0",
+          "2_2"
+        ],
+        "NumDes": "",
+        "spDes": [
+          "1_己方受到臣服的回合免疫受到的异常状态；乔特鲁德受到致死伤害时若伤害高于其登场可获得的护盾则自身死亡以保留其20%的体力",
+          "2_灵魂回归乔特鲁德；乔特鲁德受到臣服的回合免疫受到的异常状态；减少乔特鲁德20%的所受非真实伤害"
+        ],
+        "spicon": null,
+        "sptips": null,
+        "tips": "金祖之龍",
+        "id": 139,
+        "isShowNum": 0,
+        "showmonster": 4186,
+        "showtime": 0,
+        "sort": 4
+      },
+      {
+        "className": "*",
+        "dec": "玄源之㡣",
+        "Des": "",
+        "frame": [
+          "0_0",
+          "1_0",
+          "2_2"
+        ],
+        "NumDes": "",
+        "spDes": [
+          "1_己方受到疲惫的回合免疫受到的异常状态；乔特鲁德造成非致死伤害时若其最大体力的20%高于对手的体力则自身死亡以消耗对手全部体力",
+          "2_灵魂回归乔特鲁德；乔特鲁德受到疲惫的回合免疫受到的异常状态；增加乔特鲁德20%的体力上限"
+        ],
+        "spicon": null,
+        "sptips": null,
+        "tips": "玄源之㡣",
+        "id": 140,
+        "isShowNum": 0,
+        "showmonster": 4186,
+        "showtime": 0,
+        "sort": 4
       },
       {
         "className": "SignBuffView_1000",

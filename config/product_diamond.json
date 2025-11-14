@@ -234443,6 +234443,166 @@
         "price": 10,
         "productID": 262018,
         "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "VIP限时返场龙香",
+        "itemID": [
+          1727540
+        ],
+        "price": 198,
+        "productID": 262019,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "VIP限时返场灭世主",
+        "itemID": [
+          1727541
+        ],
+        "price": 398,
+        "productID": 262020,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "VIP限时返场洛兰夏尔",
+        "itemID": [
+          1727542
+        ],
+        "price": 198,
+        "productID": 262021,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得精灵【重装·派鲁基达】",
+        "itemID": [
+          1727543
+        ],
+        "price": 798,
+        "productID": 262022,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买每日挑战次数（重装·派鲁基达）",
+        "itemID": [
+          1727544
+        ],
+        "price": 30,
+        "productID": 262023,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡简单关卡（重装·派鲁基达）",
+        "itemID": [
+          1727545
+        ],
+        "price": 20,
+        "productID": 262024,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡困难关卡（重装·派鲁基达）",
+        "itemID": [
+          1727546
+        ],
+        "price": 30,
+        "productID": 262025,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡地狱关卡（重装·派鲁基达）",
+        "itemID": [
+          1727547
+        ],
+        "price": 40,
+        "productID": 262026,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买获得重装·派鲁基达因子",
+        "itemID": [
+          1727548
+        ],
+        "price": 2,
+        "productID": 262027,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买镇世结晶",
+        "itemID": [
+          1727550
+        ],
+        "price": 1,
+        "productID": 262028,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "一键觉醒镇世·乔特鲁德",
+        "itemID": [
+          1727551
+        ],
+        "price": 598,
+        "productID": 262029,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买10个航行纪念币",
+        "itemID": [
+          1727552
+        ],
+        "price": 15,
+        "productID": 262030,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买全民集结等级",
+        "itemID": [
+          1727554
+        ],
+        "price": 150,
+        "productID": 262031,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "优惠获得6000天纪念皮肤",
+        "itemID": [
+          1727558
+        ],
+        "price": 498,
+        "productID": 262032,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得6000天纪念皮肤",
+        "itemID": [
+          1727559
+        ],
+        "price": 598,
+        "productID": 262033,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "6000天补签次数",
+        "itemID": [
+          1727560
+        ],
+        "price": 60,
+        "productID": 262034,
+        "vip": 1
       }
     ]
   }

@@ -189,6 +189,16 @@
       "money": 600,
       "productID": 200055,
       "type": 5
+    },
+    {
+      "name": "赛尔号6000天纪念米米卡",
+      "quantity": "",
+      "give": 0,
+      "heat": 0,
+      "id": 52,
+      "money": 1000,
+      "productID": 702,
+      "type": 6
     }
   ]
 }

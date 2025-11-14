@@ -2553,6 +2553,75 @@
                 "IsSingle": 0
               }
             ]
+          },
+          {
+            "Branch": [
+              {
+                "_text": "",
+                "Desc": "循星之旅",
+                "Rule": [
+                  {
+                    "abtext": "",
+                    "achName": "起航500天纪念",
+                    "Desc": "参与循星之旅-累积航行500天获得",
+                    "Threshold": "1",
+                    "title": "",
+                    "titleColor": "",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 5,
+                    "hide": 0,
+                    "ID": 1,
+                    "proicon": 1449,
+                    "SpeNameBonus": 0
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "起航1000天纪念",
+                    "Desc": "参与循星之旅-累积航行1000天获得",
+                    "Threshold": "2",
+                    "title": "",
+                    "titleColor": "",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 2,
+                    "proicon": 1449,
+                    "SpeNameBonus": 0
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "起航2000天纪念",
+                    "Desc": "参与循星之旅-累积航行2000天获得",
+                    "Threshold": "3",
+                    "title": "",
+                    "titleColor": "",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 20,
+                    "hide": 0,
+                    "ID": 3,
+                    "proicon": 1449,
+                    "SpeNameBonus": 0
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "起航3000天纪念",
+                    "Desc": "参与循星之旅-累积航行3000天获得",
+                    "Threshold": "4",
+                    "title": "起航3000天纪念",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 30,
+                    "hide": 0,
+                    "ID": 4,
+                    "proicon": 1449,
+                    "SpeNameBonus": 560
+                  }
+                ],
+                "ID": 173,
+                "isShowPro": 0,
+                "IsSingle": 0
+              }
+            ]
           }
         ],
         "Desc": "赛尔类",
@@ -8219,6 +8288,20 @@
                     "ID": 1,
                     "proicon": 1446,
                     "SpeNameBonus": 557
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "钢铁意志",
+                    "Desc": "通关S-重装·派鲁基达【地狱难度】关卡获得",
+                    "Threshold": "2",
+                    "title": "钢铁意志",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 2,
+                    "proicon": 1448,
+                    "SpeNameBonus": 559
                   }
                 ],
                 "ID": 172,
@@ -17614,6 +17697,34 @@
                     "ID": 22,
                     "proicon": 1423,
                     "SpeNameBonus": 549
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "星海引航员",
+                    "Desc": "参与活动【星海归航】获取",
+                    "Threshold": "23",
+                    "title": "星海引航员",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 23,
+                    "proicon": 1450,
+                    "SpeNameBonus": 561
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "六千昼夜",
+                    "Desc": "参与活动【航行橱窗】获取",
+                    "Threshold": "24",
+                    "title": "六千昼夜",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 24,
+                    "proicon": 1451,
+                    "SpeNameBonus": 562
                   }
                 ],
                 "ID": 166,

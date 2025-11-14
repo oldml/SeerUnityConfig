@@ -299,6 +299,24 @@
       "jumptarget": 113057,
       "priority": 15,
       "truepos": 1
+    },
+    {
+      "controller": "",
+      "dest": "664",
+      "finishtime": "2025/12/12 10:00:00",
+      "image": "sixThousandCelebration",
+      "name": "6000天庆典",
+      "reddotid": [
+        157
+      ],
+      "dailyRed": 0,
+      "id": 21,
+      "iOSreviewshow": 0,
+      "isdeadline": 1,
+      "isshow": 1,
+      "jumptarget": 0,
+      "priority": 16,
+      "truepos": 1
     }
   ]
 }

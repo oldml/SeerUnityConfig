@@ -999,6 +999,96 @@
       "id": 100,
       "scale": 1,
       "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "保姆派派",
+      "portrait": "bmpp_fg",
+      "CharacterID": 6000,
+      "id": 101,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "观星派派",
+      "portrait": "gxpp_fg",
+      "CharacterID": 6001,
+      "id": 102,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "小豆芽",
+      "portrait": "xdy_fg",
+      "CharacterID": 6002,
+      "id": 103,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "丁格",
+      "portrait": "dg_fg",
+      "CharacterID": 6003,
+      "id": 104,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "“太阳”",
+      "portrait": "tyyl_fg",
+      "CharacterID": 6004,
+      "id": 105,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "-87.5,-113.4",
+      "name": "纽斯",
+      "portrait": "news_celebrete_fg",
+      "CharacterID": 6005,
+      "id": 106,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "“闪光皮皮”",
+      "portrait": "sgppd_fg",
+      "CharacterID": 6006,
+      "id": 107,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "“露露”",
+      "portrait": "lld_fg",
+      "CharacterID": 6007,
+      "id": 108,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "重装·派鲁基达",
+      "portrait": "zzpljd_fg",
+      "CharacterID": 6008,
+      "id": 109,
+      "scale": 1,
+      "silhouette": 0
     }
   ]
 }

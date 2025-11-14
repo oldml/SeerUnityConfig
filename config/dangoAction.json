@@ -93,11 +93,11 @@
       "describ": "不！！！！",
       "name": "彩蛋靠近",
       "dangoID": [
-        48
+        28
       ],
       "actionTeam": 2,
       "id": 11,
-      "limitDango": 28,
+      "limitDango": 48,
       "limitType": 2,
       "value": 30
     },
@@ -2247,11 +2247,9 @@
     },
     {
       "action": "",
-      "describ": "虚无……",
+      "describ": "千里，击涛！",
       "name": "特殊精灵对话",
-      "dangoID": [
-        29
-      ],
+      "dangoID": null,
       "actionTeam": 1,
       "id": 206,
       "limitDango": 0,
@@ -2260,11 +2258,9 @@
     },
     {
       "action": "",
-      "describ": "元素……",
+      "describ": "千里，击涛！",
       "name": "特殊精灵对话",
-      "dangoID": [
-        29
-      ],
+      "dangoID": null,
       "actionTeam": 1,
       "id": 207,
       "limitDango": 0,
@@ -2273,11 +2269,9 @@
     },
     {
       "action": "",
-      "describ": "能量……",
+      "describ": "千里，击涛！",
       "name": "特殊精灵对话",
-      "dangoID": [
-        29
-      ],
+      "dangoID": null,
       "actionTeam": 1,
       "id": 208,
       "limitDango": 0,
@@ -2286,11 +2280,9 @@
     },
     {
       "action": "",
-      "describ": "生命……",
+      "describ": "千里，击涛！",
       "name": "特殊精灵对话",
-      "dangoID": [
-        29
-      ],
+      "dangoID": null,
       "actionTeam": 1,
       "id": 209,
       "limitDango": 0,
@@ -2299,11 +2291,9 @@
     },
     {
       "action": "",
-      "describ": "轮回……",
+      "describ": "千里，击涛！",
       "name": "特殊精灵对话",
-      "dangoID": [
-        29
-      ],
+      "dangoID": null,
       "actionTeam": 1,
       "id": 210,
       "limitDango": 0,
@@ -2312,11 +2302,9 @@
     },
     {
       "action": "",
-      "describ": "圣洁……",
+      "describ": "千里，击涛！",
       "name": "特殊精灵对话",
-      "dangoID": [
-        29
-      ],
+      "dangoID": null,
       "actionTeam": 1,
       "id": 211,
       "limitDango": 0,
@@ -2325,11 +2313,9 @@
     },
     {
       "action": "",
-      "describ": "永恒……",
+      "describ": "千里，击涛！",
       "name": "特殊精灵对话",
-      "dangoID": [
-        29
-      ],
+      "dangoID": null,
       "actionTeam": 1,
       "id": 212,
       "limitDango": 0,
@@ -2338,11 +2324,9 @@
     },
     {
       "action": "",
-      "describ": "秩序，独一……",
+      "describ": "千里，击涛！",
       "name": "特殊精灵对话",
-      "dangoID": [
-        29
-      ],
+      "dangoID": null,
       "actionTeam": 1,
       "id": 213,
       "limitDango": 0,

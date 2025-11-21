@@ -485288,6 +485288,98 @@
           "Type": 8
         },
         {
+          "info": "开始免疫并反弹受到的异常状态了；获得了护盾，对手开始变得沉重",
+          "Name": "数据加载",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            191,
+            1160,
+            440
+          ],
+          "SideEffectArg": [
+            4,
+            300,
+            300,
+            1,
+            2,
+            6
+          ],
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "ID": 29191,
+          "MaxPP": 10,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；开始吸取对手的体力了；出手变得更快了",
+          "Name": "超频计算",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            946,
+            717,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            4,
+            3,
+            2,
+            2,
+            2
+          ],
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "ID": 29192,
+          "MaxPP": 10,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "消除了双方的回合类效果；全属性提升了并解除了双方的异常状态；将自己的能力给予了对手；恢复了体力",
+          "Name": "蜃阙余尘",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            2369,
+            2367,
+            2368,
+            2370
+          ],
+          "SideEffectArg": [
+            2,
+            1,
+            2,
+            3,
+            2,
+            9,
+            1
+          ],
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "ID": 29193,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
           "info": "",
           "Name": "千星死魂灭",
           "FriendSideEffect": null,
@@ -694527,6 +694619,88 @@
           "Power": 0,
           "Priority": 1,
           "Type": 126
+        },
+        {
+          "info": "",
+          "Name": "音频干扰",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            805,
+            1632
+          ],
+          "SideEffectArg": [
+            1,
+            300,
+            3,
+            100
+          ],
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "ID": 38155,
+          "MaxPP": 10,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Type": 38
+        },
+        {
+          "info": "",
+          "Name": "算式入侵",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            907,
+            1857,
+            1853
+          ],
+          "SideEffectArg": [
+            1,
+            60,
+            2,
+            200,
+            3
+          ],
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "ID": 38156,
+          "MaxPP": 10,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 100,
+          "Priority": 0,
+          "Type": 38
+        },
+        {
+          "info": "",
+          "Name": "全方位解析",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            889,
+            1281,
+            2261
+          ],
+          "SideEffectArg": [
+            7,
+            20
+          ],
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "ID": 38157,
+          "MaxPP": 6,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 38
         },
         {
           "info": "恢复自身一定体力",

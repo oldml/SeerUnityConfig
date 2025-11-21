@@ -7758,7 +7758,7 @@
     },
     {
       "image": "4834",
-      "isnew": "1",
+      "isnew": "",
       "isrecommend": "",
       "monsterid": "4834",
       "param": "{Design:220}",
@@ -7780,7 +7780,7 @@
     },
     {
       "image": "4837",
-      "isnew": "1",
+      "isnew": "",
       "isrecommend": "",
       "monsterid": "4837",
       "param": "",
@@ -7800,7 +7800,7 @@
     },
     {
       "image": "4836",
-      "isnew": "1",
+      "isnew": "",
       "isrecommend": "",
       "monsterid": "4836",
       "param": "",
@@ -7820,7 +7820,7 @@
     },
     {
       "image": "4835",
-      "isnew": "1",
+      "isnew": "",
       "isrecommend": "",
       "monsterid": "4835",
       "param": "",
@@ -7834,6 +7834,28 @@
       "id": 341,
       "moduleid": 707,
       "sort": 4,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "image": "4838",
+      "isnew": "1",
+      "isrecommend": "",
+      "monsterid": "4838",
+      "param": "{Design:221}",
+      "quality": "s",
+      "statlog": "H5精灵因子关卡系统功能,笛科特,点击进入关卡",
+      "tag": null,
+      "type": [
+        1
+      ],
+      "difficult": 0,
+      "fightType": 1,
+      "hide": 0,
+      "id": 342,
+      "moduleid": 151,
+      "sort": 1,
       "weekly": 0,
       "weeklyAdd": 0,
       "showTag": false

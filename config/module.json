@@ -3551,7 +3551,7 @@
       "isFullScreen": 1
     },
     {
-      "moduleName": "epicTreasurePanel",
+      "moduleName": "epicTreasure",
       "resConfig": null,
       "currAppDo": 1,
       "id": 574,
@@ -4095,6 +4095,20 @@
       "currAppDo": 1,
       "id": 714,
       "isFullScreen": 0
+    },
+    {
+      "moduleName": "anniversaryBirthdayPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 715,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "yearPet26Preview",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 716,
+      "isFullScreen": 1
     }
   ]
 }

@@ -20705,6 +20705,186 @@
       "groupId": 629,
       "id": 2008,
       "npcId": 6005
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "呀，赛尔，你来得正好，我正在准备你之前说的那个……",
+      "dir": 0,
+      "groupId": 630,
+      "id": 2009,
+      "npcId": 6009
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "那个什么来着？蛋糕胚，是这么读的吧？",
+      "dir": 0,
+      "groupId": 630,
+      "id": 2010,
+      "npcId": 6009
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "先把蛋黄和牛奶打匀，加入面粉，搅拌均匀直至起泡~",
+      "dir": 0,
+      "groupId": 630,
+      "id": 2011,
+      "npcId": 6009
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "然后再用我的火进行烘烤，一步一步，蛋糕胚就成型啦！",
+      "dir": 0,
+      "groupId": 630,
+      "id": 2012,
+      "npcId": 6009
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "来，给你，用这个胚子做个大蛋糕吧！",
+      "dir": 0,
+      "groupId": 630,
+      "id": 2013,
+      "npcId": 6009
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "赛尔委托我的任务是制作奶油，这是个简单的工作，但可不要掉以轻心！",
+      "dir": 0,
+      "groupId": 631,
+      "id": 2014,
+      "npcId": 6010
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "并且在此之上还要加入一点云霄星的专属风味，把它变成——空气奶油！",
+      "dir": 0,
+      "groupId": 631,
+      "id": 2015,
+      "npcId": 6010
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "使用高频震动的翼膜将大量空气打入冰镇过的淡奶油之中，还有冰块！细砂糖，水！",
+      "dir": 0,
+      "groupId": 631,
+      "id": 2016,
+      "npcId": 6010
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "打发打发打发！高速打发！完成了！",
+      "dir": 0,
+      "groupId": 631,
+      "id": 2017,
+      "npcId": 6010
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "拿的时候要小心哦，因为它和空气差不多重量，一不小心就会飘走，一定要注意！",
+      "dir": 0,
+      "groupId": 631,
+      "id": 2018,
+      "npcId": 6010
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "派特博士派我来帮忙了，有什么可以让派派帮上忙的吗？",
+      "dir": 0,
+      "groupId": 632,
+      "id": 2019,
+      "npcId": 6011
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "制作蛋糕装饰是吗？但是派派不太清楚需要怎样的装饰呢。",
+      "dir": 0,
+      "groupId": 632,
+      "id": 2020,
+      "npcId": 6011
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "哦，是用可食用的素材制作字牌吗？用饼干如何？",
+      "dir": 0,
+      "groupId": 632,
+      "id": 2021,
+      "npcId": 6011
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "交给我吧，之前看到派特博士在实验室里面藏了一些饼干，我这就给你拿过来~",
+      "dir": 0,
+      "groupId": 632,
+      "id": 2022,
+      "npcId": 6011
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "把饼干切成适合的形状，派派觉得非常好看，派派也派上了用场，派派非常高兴~",
+      "dir": 0,
+      "groupId": 632,
+      "id": 2023,
+      "npcId": 6011
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "赛，赛尔，你来找斯比亚了啊，前几天答应要帮你的忙，我，我准备好了。",
+      "dir": 0,
+      "groupId": 633,
+      "id": 2024,
+      "npcId": 6012
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我，我会分泌一种可以变色的墨汁，当然是可以用于食用的，我可以给你这种墨汁来装点你的……蛋糕。",
+      "dir": 0,
+      "groupId": 633,
+      "id": 2025,
+      "npcId": 6012
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你需要什么颜色？红色？黄色？蓝色？那，那我都给你挤一点，如果不够的话，再来找我要吧。",
+      "dir": 0,
+      "groupId": 633,
+      "id": 2026,
+      "npcId": 6012
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "那个，就是……还有一事相求，就是，如果……",
+      "dir": 0,
+      "groupId": 633,
+      "id": 2027,
+      "npcId": 6012
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "如果蛋糕做好了的话，能不能也给我分一块？一小块就好，一小块……",
+      "dir": 0,
+      "groupId": 633,
+      "id": 2028,
+      "npcId": 6012
     }
   ]
 }

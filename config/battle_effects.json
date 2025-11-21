@@ -192,6 +192,11 @@
             "Name": "砥砺",
             "Efftype": 2,
             "ID": 37
+          },
+          {
+            "Name": "星赎",
+            "Efftype": 2,
+            "ID": 38
           }
         ],
         "Type": 0

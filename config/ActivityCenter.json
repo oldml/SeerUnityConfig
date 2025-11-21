@@ -274,8 +274,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_11_07 10:00:00",
-      "ending": "2025_11_21 10:00:00",
+      "beginning": "2025_11_21 10:00:00",
+      "ending": "2025_12_05 10:00:00",
       "labelName": "兑钻奖励",
       "name": "ExchangeDiamond",
       "channel": 0,
@@ -2552,10 +2552,10 @@
     },
     {
       "args": "",
-      "beginning": "2025_09_05 10:00:00",
-      "ending": "2025_09_19 10:00:00",
+      "beginning": "2025_11_21 10:00:00",
+      "ending": "2025_12_05 10:00:00",
       "labelName": "史诗秘宝",
-      "name": "epicTreasurePanel",
+      "name": "epicTreasure",
       "channel": 0,
       "Go": 574,
       "helptips": 0,
@@ -3756,6 +3756,40 @@
       "signType": 0,
       "sorting": 5,
       "type": 5
+    },
+    {
+      "args": "",
+      "beginning": "2025_11_21 10:00:00",
+      "ending": "2025_11_28 10:00:00",
+      "labelName": "庆典生日会",
+      "name": "AnniversaryBirthdayPanel",
+      "channel": 0,
+      "Go": 715,
+      "helptips": 358,
+      "id": 236,
+      "iOSreviewshow": 1,
+      "isShow": 0,
+      "redbadge": 159,
+      "signType": 0,
+      "sorting": 1,
+      "type": 8
+    },
+    {
+      "args": "",
+      "beginning": "2025_11_21 10:00:00",
+      "ending": "2025_11_28 10:00:00",
+      "labelName": "遥远的荒漠星球",
+      "name": "newPlanetPreview",
+      "channel": 0,
+      "Go": 716,
+      "helptips": 0,
+      "id": 237,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 158,
+      "signType": 0,
+      "sorting": 1,
+      "type": 1
     }
   ]
 }

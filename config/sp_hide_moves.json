@@ -1682,6 +1682,16 @@
         "monster": 3586,
         "moves": 38119,
         "movetype": 2
+      },
+      {
+        "itemname": "记忆铭刻",
+        "movesname": "蜃阙余尘",
+        "id": 93,
+        "item": 1727568,
+        "itemnumber": 1,
+        "monster": 3983,
+        "moves": 29193,
+        "movetype": 2
       }
     ]
   }

@@ -1089,6 +1089,46 @@
       "id": 109,
       "scale": 1,
       "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "迪达",
+      "portrait": "dida_fg",
+      "CharacterID": 6009,
+      "id": 110,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "幽浮",
+      "portrait": "youfu_fg",
+      "CharacterID": 6010,
+      "id": 111,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "派派",
+      "portrait": "paipai_fg",
+      "CharacterID": 6011,
+      "id": 112,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "斯比亚",
+      "portrait": "sibiya_fg",
+      "CharacterID": 6012,
+      "id": 113,
+      "scale": 1,
+      "silhouette": 0
     }
   ]
 }

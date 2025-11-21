@@ -1444,6 +1444,19 @@
       "wd": 0
     },
     {
+      "Name": "6000天庆典纪念",
+      "Bean": 0,
+      "catID": 5,
+      "Hide": 0,
+      "ID": 540098,
+      "Max": 1,
+      "Price": 0,
+      "purpose": 0,
+      "Sort": 16,
+      "VipOnly": 0,
+      "wd": 1
+    },
+    {
       "Name": "深空一号纪念",
       "Bean": 0,
       "catID": 5,

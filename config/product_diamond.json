@@ -234603,6 +234603,76 @@
         "price": 60,
         "productID": 262034,
         "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得精灵【笛科特】",
+        "itemID": [
+          1727561
+        ],
+        "price": 598,
+        "productID": 262035,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买每日挑战次数（笛科特）",
+        "itemID": [
+          1727562
+        ],
+        "price": 30,
+        "productID": 262036,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡简单关卡（笛科特）",
+        "itemID": [
+          1727563
+        ],
+        "price": 20,
+        "productID": 262037,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡困难关卡（笛科特）",
+        "itemID": [
+          1727564
+        ],
+        "price": 30,
+        "productID": 262038,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡地狱关卡（笛科特）",
+        "itemID": [
+          1727565
+        ],
+        "price": 40,
+        "productID": 262039,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买获得笛科特因子",
+        "itemID": [
+          1727566
+        ],
+        "price": 2,
+        "productID": 262040,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "提前开启材料获取",
+        "itemID": [
+          1727567
+        ],
+        "price": 20,
+        "productID": 262041,
+        "vip": 1
       }
     ]
   }

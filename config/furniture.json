@@ -4301,6 +4301,15 @@
       "id": 540097,
       "type": 2,
       "vipOnly": 0
+    },
+    {
+      "funcParam": "",
+      "name": "6000天庆典纪念",
+      "func": 0,
+      "funcIdentity": 0,
+      "id": 540098,
+      "type": 2,
+      "vipOnly": 0
     }
   ]
 }

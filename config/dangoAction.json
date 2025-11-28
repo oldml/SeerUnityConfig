@@ -2436,6 +2436,741 @@
       "limitDango": 0,
       "limitType": 1,
       "value": 30
+    },
+    {
+      "action": "sad",
+      "describ": "天蛇，我很抱歉……",
+      "name": "特殊精灵对话",
+      "dangoID": [
+        27
+      ],
+      "actionTeam": 2,
+      "id": 222,
+      "limitDango": 55,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 223,
+      "limitDango": 1,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 224,
+      "limitDango": 2,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 225,
+      "limitDango": 3,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 226,
+      "limitDango": 4,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 227,
+      "limitDango": 5,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 228,
+      "limitDango": 6,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 229,
+      "limitDango": 7,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 230,
+      "limitDango": 8,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 231,
+      "limitDango": 9,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 232,
+      "limitDango": 10,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 233,
+      "limitDango": 11,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 234,
+      "limitDango": 12,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 235,
+      "limitDango": 13,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 236,
+      "limitDango": 14,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 237,
+      "limitDango": 15,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 238,
+      "limitDango": 16,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 239,
+      "limitDango": 17,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 240,
+      "limitDango": 18,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 241,
+      "limitDango": 19,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 242,
+      "limitDango": 20,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 243,
+      "limitDango": 21,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 244,
+      "limitDango": 22,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 245,
+      "limitDango": 23,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 246,
+      "limitDango": 24,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 247,
+      "limitDango": 25,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 248,
+      "limitDango": 26,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 249,
+      "limitDango": 27,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 250,
+      "limitDango": 28,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 251,
+      "limitDango": 29,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 252,
+      "limitDango": 30,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 253,
+      "limitDango": 31,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 254,
+      "limitDango": 34,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 255,
+      "limitDango": 35,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 256,
+      "limitDango": 36,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 257,
+      "limitDango": 37,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 258,
+      "limitDango": 38,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 259,
+      "limitDango": 39,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 260,
+      "limitDango": 40,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 261,
+      "limitDango": 41,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 262,
+      "limitDango": 42,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 263,
+      "limitDango": 43,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 264,
+      "limitDango": 44,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 265,
+      "limitDango": 45,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 266,
+      "limitDango": 46,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 267,
+      "limitDango": 47,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 268,
+      "limitDango": 48,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 269,
+      "limitDango": 49,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 270,
+      "limitDango": 50,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 271,
+      "limitDango": 51,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 272,
+      "limitDango": 52,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 273,
+      "limitDango": 53,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 274,
+      "limitDango": 54,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "name": "千里击涛",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 275,
+      "limitDango": 55,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sick",
+      "describ": "不许！击涛！",
+      "name": "通用精灵点击",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 276,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sick",
+      "describ": "不许！击涛！",
+      "name": "通用精灵点击",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 277,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sick",
+      "describ": "不许！击涛！",
+      "name": "通用精灵点击",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 278,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
     }
   ]
 }

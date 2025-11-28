@@ -1,0 +1,283 @@
+{
+  "data": [
+    {
+      "consume": "",
+      "describe": "解锁1级资源",
+      "effective": "",
+      "front": "",
+      "name": "技能1",
+      "id": 1,
+      "type": 1
+    },
+    {
+      "consume": "",
+      "describe": "在任意位置生成1级粮食",
+      "effective": "",
+      "front": "",
+      "name": "开垦沙土",
+      "id": 2,
+      "type": 2
+    },
+    {
+      "consume": "1_10;2_10;3_10",
+      "describe": "解锁2级资源",
+      "effective": "",
+      "front": "1",
+      "name": "技能3",
+      "id": 3,
+      "type": 1
+    },
+    {
+      "consume": "1_20",
+      "describe": "移动距离+3",
+      "effective": "0;1;2;3;6;7;8;9",
+      "front": "",
+      "name": "当地向导",
+      "id": 4,
+      "type": 2
+    },
+    {
+      "consume": "2_20",
+      "describe": "收集3*3范围内的全部粮食",
+      "effective": "1",
+      "front": "",
+      "name": "收割",
+      "id": 5,
+      "type": 2
+    },
+    {
+      "consume": "3_20",
+      "describe": "建造【兵营】（【兵营】：每回合产出3点军事值）",
+      "effective": "",
+      "front": "",
+      "name": "兵营",
+      "id": 6,
+      "type": 2
+    },
+    {
+      "consume": "1_21",
+      "describe": "消除【异端据点】",
+      "effective": "4",
+      "front": "",
+      "name": "审判",
+      "id": 7,
+      "type": 2
+    },
+    {
+      "consume": "2_21",
+      "describe": "解锁3级资源",
+      "effective": "",
+      "front": "3",
+      "name": "技能8",
+      "id": 8,
+      "type": 1
+    },
+    {
+      "consume": "3_21",
+      "describe": "建造【神殿】（【神殿】：每回合产出3点信仰值）",
+      "effective": "",
+      "front": "6",
+      "name": "神殿",
+      "id": 9,
+      "type": 2
+    },
+    {
+      "consume": "1_22",
+      "describe": "建造【学院】（【学院】：每回合产出3点文化值）",
+      "effective": "",
+      "front": "6",
+      "name": "学院",
+      "id": 10,
+      "type": 2
+    },
+    {
+      "consume": "2_22",
+      "describe": "消除【月之民据点】",
+      "effective": "5",
+      "front": "7",
+      "name": "远征",
+      "id": 11,
+      "type": 2
+    },
+    {
+      "consume": "3_22",
+      "describe": "每次合成时额外产出1点资源",
+      "effective": "",
+      "front": "2",
+      "name": "数学",
+      "id": 12,
+      "type": 1
+    },
+    {
+      "consume": "1_23",
+      "describe": "在任意位置生成2级粮食（主动）",
+      "effective": "",
+      "front": "2",
+      "name": "精耕细作",
+      "id": 13,
+      "type": 2
+    },
+    {
+      "consume": "2_23",
+      "describe": "地形由6*5扩大至6*10",
+      "effective": "",
+      "front": "8;9;10;11;12;13",
+      "name": "解锁新大陆",
+      "id": 14,
+      "type": 1
+    },
+    {
+      "consume": "3_23",
+      "describe": "解锁4级资源",
+      "effective": "",
+      "front": "8",
+      "name": "技能15",
+      "id": 15,
+      "type": 1
+    },
+    {
+      "consume": "1_24",
+      "describe": "移动距离+4",
+      "effective": "0;1;2;3;6;7;8;9",
+      "front": "14",
+      "name": "快速行进",
+      "id": 16,
+      "type": 2
+    },
+    {
+      "consume": "2_24",
+      "describe": "收集4*4范围内的全部粮食",
+      "effective": "1",
+      "front": "14",
+      "name": "大规模收割",
+      "id": 17,
+      "type": 2
+    },
+    {
+      "consume": "3_24",
+      "describe": "【兵营】每回合的产出+2",
+      "effective": "",
+      "front": "14",
+      "name": "职业军官",
+      "id": 18,
+      "type": 1
+    },
+    {
+      "consume": "1_25",
+      "describe": "消除6*5范围内的所有【异端据点】",
+      "effective": "4",
+      "front": "14",
+      "name": "大审判",
+      "id": 19,
+      "type": 2
+    },
+    {
+      "consume": "2_25",
+      "describe": "不再生成1级资源",
+      "effective": "",
+      "front": "14",
+      "name": "繁荣时代",
+      "id": 20,
+      "type": 1
+    },
+    {
+      "consume": "3_25",
+      "describe": "基础移动范围+1",
+      "effective": "",
+      "front": "16",
+      "name": "凯莫兽选育",
+      "id": 21,
+      "type": 1
+    },
+    {
+      "consume": "1_26",
+      "describe": "【神殿】每回合的产出+2",
+      "effective": "",
+      "front": "18",
+      "name": "独立祭祀权",
+      "id": 22,
+      "type": 1
+    },
+    {
+      "consume": "2_26",
+      "describe": "【学院】每回合的产出+2",
+      "effective": "",
+      "front": "18",
+      "name": "讲师制度",
+      "id": 23,
+      "type": 1
+    },
+    {
+      "consume": "3_26",
+      "describe": "消除6*5范围内的所有【月之民据点】",
+      "effective": "5",
+      "front": "19",
+      "name": "大远征",
+      "id": 24,
+      "type": 2
+    },
+    {
+      "consume": "1_27",
+      "describe": "每次合成时额外产出2点资源",
+      "effective": "",
+      "front": "20",
+      "name": "代数",
+      "id": 25,
+      "type": 1
+    },
+    {
+      "consume": "2_27",
+      "describe": "地形由6*10扩大至6*15",
+      "effective": "",
+      "front": "21;22;23;24;25",
+      "name": "解锁新大陆",
+      "id": 26,
+      "type": 1
+    },
+    {
+      "consume": "3_27",
+      "describe": "解锁5级资源",
+      "effective": "",
+      "front": "26",
+      "name": "技能27",
+      "id": 27,
+      "type": 1
+    },
+    {
+      "consume": "1_28",
+      "describe": "移动距离+5",
+      "effective": "0;1;2;3;6;7;8;9",
+      "front": "26",
+      "name": "征召令",
+      "id": 28,
+      "type": 2
+    },
+    {
+      "consume": "2_28",
+      "describe": "收集5*5范围内的全部粮食",
+      "effective": "1",
+      "front": "26",
+      "name": "王家征粮官",
+      "id": 29,
+      "type": 2
+    },
+    {
+      "consume": "3_28",
+      "describe": "每次合成时额外产出3点资源",
+      "effective": "",
+      "front": "26",
+      "name": "统计学",
+      "id": 30,
+      "type": 1
+    },
+    {
+      "consume": "1_29",
+      "describe": "不再生成2级资源",
+      "effective": "",
+      "front": "26",
+      "name": "黄金时代",
+      "id": 31,
+      "type": 1
+    }
+  ]
+}

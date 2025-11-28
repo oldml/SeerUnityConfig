@@ -1129,6 +1129,26 @@
       "id": 113,
       "scale": 1,
       "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "猩红的残像",
+      "portrait": "xinghong_fg",
+      "CharacterID": 6013,
+      "id": 114,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "幽蓝的残像",
+      "portrait": "youlan_fg",
+      "CharacterID": 6014,
+      "id": 115,
+      "scale": 1,
+      "silhouette": 0
     }
   ]
 }

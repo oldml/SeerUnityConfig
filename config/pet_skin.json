@@ -13968,6 +13968,60 @@
         "Jumptarget": 114017,
         "MonID": 3983,
         "Type": 2
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "寒焰之骸·伽玛星魂",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 778,
+        "Jumptarget": 114020,
+        "MonID": 3896,
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "游明星空·星礼",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 779,
+        "Jumptarget": 114018,
+        "MonID": 4840,
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "碧意良宵·星礼",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 780,
+        "Jumptarget": 114018,
+        "MonID": 4840,
+        "Type": 3
       }
     ]
   }

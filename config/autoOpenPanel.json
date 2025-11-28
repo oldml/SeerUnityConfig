@@ -496,12 +496,24 @@
       "actionName": "循星之旅",
       "controller": "AutoOpenLocalOnce",
       "endTime": "2025/12/25",
-      "param1": "",
+      "param1": "seerActivity",
       "param2": "",
       "param3": "",
       "startTime": "2025/11/14",
       "id": 43,
       "moduleId": 663,
+      "state": 1
+    },
+    {
+      "actionName": "探索星球",
+      "controller": "AutoOpenLocalOnce",
+      "endTime": "2025_12_05 10:00:00",
+      "param1": "Explorenewstar",
+      "param2": "",
+      "param3": "",
+      "startTime": "2025_11_28 10:00:00",
+      "id": 44,
+      "moduleId": 720,
       "state": 1
     }
   ]

@@ -655,6 +655,22 @@
       "open": 1,
       "order": 5,
       "param": 13
+    },
+    {
+      "item": "1_300405_2",
+      "chapterid": 1013,
+      "id": 83,
+      "open": 1,
+      "order": 1,
+      "param": 3
+    },
+    {
+      "item": "1_300618_2",
+      "chapterid": 1013,
+      "id": 84,
+      "open": 0,
+      "order": 2,
+      "param": 6
     }
   ]
 }

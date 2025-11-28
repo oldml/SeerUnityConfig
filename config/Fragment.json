@@ -7350,6 +7350,20 @@
         "PetLimit": 1,
         "Rarity": 2,
         "show": 1
+      },
+      {
+        "effectId": 2032,
+        "ID": 2400529,
+        "MonsterID": 4839,
+        "MoveID": 38160,
+        "MovesConsume": 100,
+        "NeedmonID": 0,
+        "NewseConsume": 200,
+        "NewSeIdx": 6333,
+        "PetConsume": 400,
+        "PetLimit": 1,
+        "Rarity": 2,
+        "show": 1
       }
     ]
   }

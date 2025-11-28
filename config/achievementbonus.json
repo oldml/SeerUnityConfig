@@ -9423,6 +9423,22 @@
       "id": 1180,
       "rewardtype": 1,
       "Rule": 6
+    },
+    {
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "Branch": 166,
+      "id": 1181,
+      "rewardtype": 1,
+      "Rule": 25
+    },
+    {
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "Branch": 166,
+      "id": 1182,
+      "rewardtype": 1,
+      "Rule": 26
     }
   ]
 }

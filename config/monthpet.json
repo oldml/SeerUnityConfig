@@ -89,12 +89,12 @@
       "showskill": 38143
     },
     {
-      "title": "十二月神宠",
+      "title": "奇异陌客",
       "id": 202512,
       "month": 12,
-      "reward": 0,
-      "showpet": 0,
-      "showskill": 0
+      "reward": 141012,
+      "showpet": 4843,
+      "showskill": 38170
     }
   ]
 }

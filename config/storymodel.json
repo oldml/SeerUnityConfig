@@ -3255,6 +3255,94 @@
       "portrait": "hyb_fg",
       "id": 296,
       "scale": 1
+    },
+    {
+      "CharacterID": "mhwt1",
+      "emoji": "mhwt1_01,mhwt1_02,mhwt1_03,mhwt1_04,mhwt1_05",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-50,45",
+      "name": "迷之少女",
+      "portrait": "mhwt1_fg",
+      "id": 297,
+      "scale": 1.05
+    },
+    {
+      "CharacterID": "mdy",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "73.6,52.13",
+      "name": "麦迪亚",
+      "portrait": "mdy_fg",
+      "id": 298,
+      "scale": 1.1
+    },
+    {
+      "CharacterID": "ndlsoldier",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-22.7,61",
+      "name": "沙漠士兵",
+      "portrait": "ndlsoldier_fg",
+      "id": 299,
+      "scale": 1.1
+    },
+    {
+      "CharacterID": "vilpriest",
+      "emoji": "vilpriest_01,vilpriest_02",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,-70",
+      "name": "乡村祭司",
+      "portrait": "vilpriest_fg",
+      "id": 300,
+      "scale": 1.25
+    },
+    {
+      "CharacterID": "nomadw",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "游牧民",
+      "portrait": "nomadw_fg",
+      "id": 301,
+      "scale": 1
+    },
+    {
+      "CharacterID": "nomadm",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "游牧民",
+      "portrait": "nomadm_fg",
+      "id": 302,
+      "scale": 1
+    },
+    {
+      "CharacterID": "aqia",
+      "emoji": "aqia_01,aqia_02,aqia_03,aqia_04",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,-100",
+      "name": "阿恰",
+      "portrait": "aqia_fg",
+      "id": 303,
+      "scale": 1
+    },
+    {
+      "CharacterID": "moonpop",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-153.6,0",
+      "name": "月之民",
+      "portrait": "moonpop_fg",
+      "id": 304,
+      "scale": 1
     }
   ]
 }

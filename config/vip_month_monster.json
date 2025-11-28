@@ -396,12 +396,12 @@
           4809,
           4817,
           4832,
-          0
+          4843
         ],
-        "CurMonth": 11,
+        "CurMonth": 12,
         "CurYear": 2025,
         "ID": 10,
-        "MonsterID": 4832
+        "MonsterID": 4843
       }
     ]
   }

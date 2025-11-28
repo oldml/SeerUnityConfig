@@ -12734,6 +12734,24 @@
         "petId": 4838
       },
       {
+        "moveName1": "咆哮",
+        "moveName2": "裂地劈",
+        "moveId": 38160,
+        "petId": 4839
+      },
+      {
+        "moveName1": "礼",
+        "moveName2": "万星垂弦",
+        "moveId": 38163,
+        "petId": 4840
+      },
+      {
+        "moveName1": "历理",
+        "moveName2": "诉剑光",
+        "moveId": 38170,
+        "petId": 4843
+      },
+      {
         "moveName1": "神灵",
         "moveName2": "救世光",
         "moveId": 31143,

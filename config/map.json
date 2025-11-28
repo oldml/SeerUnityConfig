@@ -16747,6 +16747,68 @@
       "id": 2161,
       "MapRatio": 1,
       "pic": 2161
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "纳提姆村",
+      "notes": "",
+      "sound": "Auro_BGM_01",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": [
+        467,
+        404
+      ],
+      "WildBossID": [
+        4840
+      ],
+      "WildBossPoint": [
+        574,
+        284,
+        571,
+        281,
+        305,
+        356,
+        179,
+        368,
+        393,
+        395,
+        124,
+        439,
+        249,
+        448,
+        495,
+        476,
+        755,
+        280
+      ],
+      "WildBossWeight": [
+        1
+      ],
+      "enterMap": 1,
+      "GroupID": 22001,
+      "id": 2162,
+      "MapRatio": 1,
+      "pic": 2162
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "空场景占位",
+      "notes": "",
+      "sound": "",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": null,
+      "WildBossID": null,
+      "WildBossPoint": null,
+      "WildBossWeight": null,
+      "enterMap": 0,
+      "GroupID": 0,
+      "id": 2163,
+      "MapRatio": 0,
+      "pic": 2163
     }
   ]
 }

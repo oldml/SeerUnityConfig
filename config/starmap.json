@@ -3079,6 +3079,74 @@
       "shipArea": 0,
       "showOut": 0,
       "type": 2
+    },
+    {
+      "fun": null,
+      "intro": "恒星主星序",
+      "name": "恒星",
+      "submap": null,
+      "Gotomap": 0,
+      "id": 22000,
+      "isopen": 0,
+      "shipArea": 0,
+      "showOut": 0,
+      "type": 2
+    },
+    {
+      "fun": null,
+      "intro": "由黄沙覆盖的干旱星球，当地的居民围绕着零星的绿洲与唯一一条大河建立定居点。恶劣的环境时刻考验着文明的坚韧。",
+      "name": "维茨洛奇坦星",
+      "submap": [
+        2162
+      ],
+      "Gotomap": 2162,
+      "id": 22001,
+      "isopen": 1,
+      "shipArea": 0,
+      "showOut": 0,
+      "type": 2
+    },
+    {
+      "fun": null,
+      "intro": "一颗被冰雪完全覆盖的极端星球，在雪原上几乎搜寻不到生命的踪迹。潜藏在地表之下的秘密，似乎早已被无尽的风雪掩埋。",
+      "name": "犹尔尼斯星",
+      "submap": [
+        2163
+      ],
+      "Gotomap": 2163,
+      "id": 22002,
+      "isopen": 0,
+      "shipArea": 0,
+      "showOut": 0,
+      "type": 2
+    },
+    {
+      "fun": null,
+      "intro": "如同世外桃源一般绿意盎然的森林行星，居住于此的生命们不知何为善恶，心中仅有喜乐。有人说过——天堂都是建立在无知无觉的空虚世界之上的。",
+      "name": "薇星",
+      "submap": [
+        2163
+      ],
+      "Gotomap": 2163,
+      "id": 22003,
+      "isopen": 0,
+      "shipArea": 0,
+      "showOut": 0,
+      "type": 2
+    },
+    {
+      "fun": null,
+      "intro": "远远看起来就像是一颗完全死掉的星球，很难想象这样的星球上会有生命存在。那座金碧辉煌的宫殿就是一切苦难的来源。",
+      "name": "波鲁卡星",
+      "submap": [
+        2163
+      ],
+      "Gotomap": 2163,
+      "id": 22004,
+      "isopen": 0,
+      "shipArea": 0,
+      "showOut": 0,
+      "type": 2
     }
   ]
 }

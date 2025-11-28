@@ -4109,6 +4109,62 @@
       "currAppDo": 1,
       "id": 716,
       "isFullScreen": 1
+    },
+    {
+      "moduleName": "explorenewstar",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 717,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "gamaxinghunSkinPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 718,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "sunmoonActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 719,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "explorenewstar",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 720,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "xingLiNewFormSell",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 721,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "miniCivilizationGamePlay",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 722,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "sunmoonActitvity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 723,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "ChaosShadowSpiritKing",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 724,
+      "isFullScreen": 0
     }
   ]
 }

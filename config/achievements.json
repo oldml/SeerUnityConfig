@@ -17739,6 +17739,34 @@
                     "ID": 24,
                     "proicon": 1451,
                     "SpeNameBonus": 562
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "寂夜曼陀罗",
+                    "Desc": "屡次见证于寂夜绽放的诅咒之花",
+                    "Threshold": "25",
+                    "title": "",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 5,
+                    "hide": 0,
+                    "ID": 25,
+                    "proicon": 1453,
+                    "SpeNameBonus": 0
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "破月勇者",
+                    "Desc": "成为雷漠克怪杀手",
+                    "Threshold": "26",
+                    "title": "",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 5,
+                    "hide": 0,
+                    "ID": 26,
+                    "proicon": 1454,
+                    "SpeNameBonus": 0
                   }
                 ],
                 "ID": 166,

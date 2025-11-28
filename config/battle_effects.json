@@ -197,6 +197,11 @@
             "Name": "星赎",
             "Efftype": 2,
             "ID": 38
+          },
+          {
+            "Name": "神游",
+            "Efftype": 0,
+            "ID": 39
           }
         ],
         "Type": 0

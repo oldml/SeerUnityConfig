@@ -3522,7 +3522,7 @@
     {
       "args": "",
       "beginning": "2025_11_14 10:00:00",
-      "ending": "2025_12_11 23:59:59",
+      "ending": "2025_12_12 10:00:00",
       "labelName": "繁星的孩子",
       "name": "dangoactivityentry",
       "channel": 0,
@@ -3929,8 +3929,8 @@
     },
     {
       "args": "Assets/Game/UI/chaosShadowKing/chaosshadowspiritkingCenter.prefab",
-      "beginning": "2025_11_05 10:00:00",
-      "ending": "2025_12_26 10:00:00",
+      "beginning": "",
+      "ending": "",
       "labelName": "混沌暗王霍德尔",
       "name": "chaosshadowking",
       "channel": 0,

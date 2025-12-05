@@ -2750,6 +2750,38 @@
         "sort": 4
       },
       {
+        "className": "*",
+        "dec": "墨菲斯托1",
+        "Des": "",
+        "frame": null,
+        "NumDes": "",
+        "spDes": null,
+        "spicon": null,
+        "sptips": null,
+        "tips": "墨菲斯托1",
+        "id": 141,
+        "isShowNum": 1,
+        "showmonster": 4186,
+        "showtime": 0,
+        "sort": 4
+      },
+      {
+        "className": "*",
+        "dec": "墨菲斯托2",
+        "Des": "",
+        "frame": null,
+        "NumDes": "",
+        "spDes": null,
+        "spicon": null,
+        "sptips": null,
+        "tips": "墨菲斯托2",
+        "id": 142,
+        "isShowNum": 1,
+        "showmonster": 4186,
+        "showtime": 0,
+        "sort": 4
+      },
+      {
         "className": "SignBuffView_1000",
         "dec": "折叠icon",
         "Des": "",

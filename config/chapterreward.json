@@ -668,9 +668,17 @@
       "item": "1_300618_2",
       "chapterid": 1013,
       "id": 84,
-      "open": 0,
+      "open": 1,
       "order": 2,
       "param": 6
+    },
+    {
+      "item": "1_300075_3",
+      "chapterid": 1013,
+      "id": 85,
+      "open": 1,
+      "order": 3,
+      "param": 10
     }
   ]
 }

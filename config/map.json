@@ -1620,7 +1620,7 @@
       "enterMap": 0,
       "GroupID": 20111,
       "id": 3030,
-      "MapRatio": 0,
+      "MapRatio": 1,
       "pic": 53
     },
     {
@@ -2034,7 +2034,7 @@
       "enterMap": 0,
       "GroupID": 20111,
       "id": 3040,
-      "MapRatio": 0,
+      "MapRatio": 1,
       "pic": 691
     },
     {

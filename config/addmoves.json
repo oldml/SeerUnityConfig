@@ -455,6 +455,27 @@
         "damage": 1,
         "ID": 15,
         "monster": 0
+      },
+      {
+        "anm": [
+          "sa"
+        ],
+        "reportname": [
+          "魂"
+        ],
+        "reportskill": [
+          "魂"
+        ],
+        "reporttxt": [
+          "魂"
+        ],
+        "skin": [
+          0
+        ],
+        "cover": 0,
+        "damage": 1,
+        "ID": 16,
+        "monster": 0
       }
     ]
   }

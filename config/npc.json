@@ -1149,6 +1149,46 @@
       "id": 115,
       "scale": 1,
       "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "沙漠士兵",
+      "portrait": "ndlsoldier_fg",
+      "CharacterID": 6015,
+      "id": 116,
+      "scale": 1.1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "vilpriest_01",
+      "initialposition": "",
+      "name": "乡村祭司",
+      "portrait": "vilpriest_fg",
+      "CharacterID": 6016,
+      "id": 117,
+      "scale": 1.25,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "游牧民",
+      "portrait": "nomadw_fg",
+      "CharacterID": 6017,
+      "id": 118,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "游牧民",
+      "portrait": "nomadm_fg",
+      "CharacterID": 6018,
+      "id": 119,
+      "scale": 1,
+      "silhouette": 0
     }
   ]
 }

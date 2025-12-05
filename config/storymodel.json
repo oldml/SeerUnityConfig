@@ -3343,6 +3343,61 @@
       "portrait": "moonpop_fg",
       "id": 304,
       "scale": 1
+    },
+    {
+      "CharacterID": "oppidan",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-82,0",
+      "name": "王都祭司",
+      "portrait": "oppidan_fg",
+      "id": 305,
+      "scale": 1.1
+    },
+    {
+      "CharacterID": "jila",
+      "emoji": "jila_01,jila_02",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-77.4,318",
+      "name": "吉拉",
+      "portrait": "jila_fg",
+      "id": 306,
+      "scale": 1.1
+    },
+    {
+      "CharacterID": "ttms",
+      "emoji": "ttms_01,ttms_02,ttms_03,ttms_04",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "116.7,35",
+      "name": "图特摩斯",
+      "portrait": "ttms_fg",
+      "id": 307,
+      "scale": 1
+    },
+    {
+      "CharacterID": "xtlf",
+      "emoji": "xtlf_01,xtlf_02,xtlf_03",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "53,0",
+      "name": "西忒蕾妃",
+      "portrait": "xtlf_fg",
+      "id": 308,
+      "scale": 1
+    },
+    {
+      "CharacterID": "wqr",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "53,35",
+      "name": "维齐尔",
+      "portrait": "wqr_fg",
+      "id": 309,
+      "scale": 1
     }
   ]
 }

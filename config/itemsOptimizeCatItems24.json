@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "Name": "待定",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400531,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "吉拉因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400530,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "麦迪亚因子",
       "catID": 24,
       "Hide": 0,

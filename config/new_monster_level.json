@@ -7862,7 +7862,7 @@
     },
     {
       "image": "4839",
-      "isnew": "1",
+      "isnew": "",
       "isrecommend": "",
       "monsterid": "4839",
       "param": "{Design:222}",
@@ -7884,7 +7884,7 @@
     },
     {
       "image": "4840",
-      "isnew": "1",
+      "isnew": "",
       "isrecommend": "",
       "monsterid": "4840",
       "param": "",
@@ -7904,7 +7904,7 @@
     },
     {
       "image": "4843",
-      "isnew": "1",
+      "isnew": "",
       "isrecommend": "",
       "monsterid": "4843",
       "param": "",
@@ -7918,6 +7918,50 @@
       "id": 345,
       "moduleid": -350000,
       "sort": 1069,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "image": "3941",
+      "isnew": "",
+      "isrecommend": "",
+      "monsterid": "3941",
+      "param": "",
+      "quality": "",
+      "statlog": "",
+      "tag": null,
+      "type": [
+        3
+      ],
+      "difficult": 0,
+      "fightType": 0,
+      "hide": 0,
+      "id": 346,
+      "moduleid": 723,
+      "sort": 1,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "image": "4844",
+      "isnew": "1",
+      "isrecommend": "",
+      "monsterid": "4844",
+      "param": "{Design:223}",
+      "quality": "s",
+      "statlog": "H5精灵因子关卡系统功能,沙弑·吉拉,点击进入关卡",
+      "tag": null,
+      "type": [
+        1
+      ],
+      "difficult": 0,
+      "fightType": 1,
+      "hide": 0,
+      "id": 347,
+      "moduleid": 151,
+      "sort": 1,
       "weekly": 0,
       "weeklyAdd": 0,
       "showTag": false

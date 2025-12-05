@@ -274,8 +274,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_11_21 10:00:00",
-      "ending": "2025_12_05 10:00:00",
+      "beginning": "2025_12_05 10:00:00",
+      "ending": "2025_12_19 10:00:00",
       "labelName": "兑钻奖励",
       "name": "ExchangeDiamond",
       "channel": 0,
@@ -286,7 +286,7 @@
       "isShow": 1,
       "redbadge": 7,
       "signType": 0,
-      "sorting": 3,
+      "sorting": 6,
       "type": 1
     },
     {
@@ -913,7 +913,7 @@
       "id": 58,
       "iOSreviewshow": 1,
       "isShow": 1,
-      "redbadge": 116171,
+      "redbadge": 164,
       "signType": 0,
       "sorting": 2,
       "type": 5
@@ -1022,8 +1022,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_11_07 10:00:00",
-      "ending": "2025_11_28 10:00:00",
+      "beginning": "2025_12_05 10:00:00",
+      "ending": "2025_12_26 10:00:00",
       "labelName": "叠加域激励",
       "name": "limitedAdastraActivity",
       "channel": 0,
@@ -1034,7 +1034,7 @@
       "isShow": 1,
       "redbadge": 34,
       "signType": 2,
-      "sorting": 4,
+      "sorting": 7,
       "type": 1
     },
     {
@@ -3522,7 +3522,7 @@
     {
       "args": "",
       "beginning": "2025_11_14 10:00:00",
-      "ending": "2025_12_12 10:00:00",
+      "ending": "2025_12_11 23:59:59",
       "labelName": "繁星的孩子",
       "name": "dangoactivityentry",
       "channel": 0,
@@ -3874,6 +3874,74 @@
       "redbadge": 342100,
       "signType": 0,
       "sorting": 5,
+      "type": 1
+    },
+    {
+      "args": "",
+      "beginning": "2025_12_05 10:00:00",
+      "ending": "2025_12_19 10:00:00",
+      "labelName": "太阳之旅",
+      "name": "matchgame",
+      "channel": 0,
+      "Go": 724,
+      "helptips": 362,
+      "id": 243,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 342008,
+      "signType": 0,
+      "sorting": 2,
+      "type": 1
+    },
+    {
+      "args": "",
+      "beginning": "2025_12_05 10:00:00",
+      "ending": "2025_12_12 10:00:00",
+      "labelName": "绝版装扮",
+      "name": "oopSuitSellPanel",
+      "channel": 0,
+      "Go": 725,
+      "helptips": 0,
+      "id": 244,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 165,
+      "signType": 0,
+      "sorting": 5,
+      "type": 1
+    },
+    {
+      "args": "",
+      "beginning": "2025_12_05 10:00:00",
+      "ending": "2025_12_26 10:00:00",
+      "labelName": "拂晓",
+      "name": "opheliaEpicSkinSellPanel",
+      "channel": 0,
+      "Go": 726,
+      "helptips": 0,
+      "id": 245,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 166,
+      "signType": 0,
+      "sorting": 4,
+      "type": 1
+    },
+    {
+      "args": "Assets/Game/UI/chaosShadowKing/chaosshadowspiritkingCenter.prefab",
+      "beginning": "2025_11_05 10:00:00",
+      "ending": "2025_12_26 10:00:00",
+      "labelName": "混沌暗王霍德尔",
+      "name": "chaosshadowking",
+      "channel": 0,
+      "Go": 445,
+      "helptips": 0,
+      "id": 246,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 0,
+      "signType": 0,
+      "sorting": 8,
       "type": 1
     }
   ]

@@ -1414,8 +1414,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4839,
-            "ImageID": 4839,
+            "ID": 4844,
+            "ImageID": 4844,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1425,54 +1425,10 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4840,
-            "ImageID": 4840,
+            "ID": 781,
+            "ImageID": 1400781,
             "Label": 0,
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 4841,
-            "ImageID": 4841,
-            "Label": 0,
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 4842,
-            "ImageID": 4842,
-            "Label": 0,
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 4843,
-            "ImageID": 4843,
-            "Label": 0,
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 778,
-            "ImageID": 1400778,
-            "Label": 0,
-            "monID": 3896,
+            "monID": 4542,
             "type": 1
           },
           {
@@ -1480,21 +1436,10 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 779,
-            "ImageID": 1400779,
+            "ID": 782,
+            "ImageID": 1400782,
             "Label": 0,
-            "monID": 4840,
-            "type": 1
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 780,
-            "ImageID": 1400780,
-            "Label": 0,
-            "monID": 4840,
+            "monID": 4706,
             "type": 1
           }
         ]
@@ -24952,7 +24897,7 @@
       {
         "DefName": "混沌暗王霍德尔",
         "Features": "幽夜雾霭威压阵阵，灵眸冷峻厉魂凄凄。冥凌浃行夺魄嗤嗤，离魂绝愁永夜未央。混沌霍德尔霸气登场！",
-        "Target": "",
+        "Target": "150097",
         "ID": 3941
       },
       {
@@ -25222,7 +25167,7 @@
       {
         "DefName": "启灵元神",
         "Features": "2020年年费精灵，查理星系的现任守护者，异世界的信仰之神，承载着人们最后的希望！",
-        "Target": "111500",
+        "Target": "111700",
         "ID": 3986
       },
       {
@@ -26314,7 +26259,7 @@
       {
         "DefName": "弑序神罗",
         "Features": "2021年年费精灵，莱达宇宙的黑夜之神，长夜无尽，黎明未觉，生命不朽，枷锁不灭！",
-        "Target": "111500",
+        "Target": "111700",
         "ID": 4169
       },
       {
@@ -27226,7 +27171,7 @@
       {
         "DefName": "至序圣华",
         "Features": "2022年年费精灵，莱达宇宙的光明之神，光耀涤世，斩破暗夜，圣华神临，唯序至上！",
-        "Target": "111500",
+        "Target": "111700",
         "ID": 4321
       },
       {
@@ -27988,7 +27933,7 @@
       {
         "DefName": "逐界苍星",
         "Features": "2023年年费精灵，代号索拉里斯，来自异域的苍穹，终末遨游的孤星，手中的魔盒·苍星之理承载着来自未来的记忆和力量，为阻止命定的轮回前往星之所向。",
-        "Target": "111500",
+        "Target": "111700",
         "ID": 4450
       },
       {
@@ -30342,6 +30287,12 @@
         "Features": "2025包月精灵，赫星童话之《灰姑娘与悖论》，故事讲述的是来自另一个时空的灰姑娘辛德拉缇，与时空悖论造就的恶龙王子战斗的故事。",
         "Target": "120000",
         "ID": 4843
+      },
+      {
+        "DefName": "沙弑·吉拉",
+        "Features": "来自涅达洛的神秘女刺客，能够扬起沙尘隐遁其中。她会是谁的终结者呢？",
+        "Target": "153201/347",
+        "ID": 4844
       }
     ],
     "RecMintmark": {

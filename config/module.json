@@ -4160,11 +4160,39 @@
       "isFullScreen": 1
     },
     {
-      "moduleName": "ChaosShadowSpiritKing",
+      "moduleName": "matchgame",
       "resConfig": null,
-      "currAppDo": 0,
+      "currAppDo": 1,
       "id": 724,
       "isFullScreen": 0
+    },
+    {
+      "moduleName": "oopSuitSellPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 725,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "opheliaEpicSkinSellPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 726,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "malorne",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 727,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "mldsMain",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 728,
+      "isFullScreen": 1
     }
   ]
 }

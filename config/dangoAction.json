@@ -3171,6 +3171,45 @@
       "limitDango": 0,
       "limitType": 1,
       "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "超越！变革！",
+      "name": "洛林卡",
+      "dangoID": [
+        57
+      ],
+      "actionTeam": 2,
+      "id": 279,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "群星……魔法……",
+      "name": "洛林卡",
+      "dangoID": [
+        56
+      ],
+      "actionTeam": 2,
+      "id": 280,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "胶囊，钻钻！",
+      "name": "洛林卡",
+      "dangoID": [
+        34
+      ],
+      "actionTeam": 2,
+      "id": 281,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
     }
   ]
 }

@@ -21252,6 +21252,393 @@
       "groupId": 652,
       "id": 2063,
       "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 653,
+      "id": 2064,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 654,
+      "id": 2065,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 655,
+      "id": 2066,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 656,
+      "id": 2067,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 657,
+      "id": 2068,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 658,
+      "id": 2069,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 659,
+      "id": 2070,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 660,
+      "id": 2071,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 661,
+      "id": 2072,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 662,
+      "id": 2073,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 663,
+      "id": 2074,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 664,
+      "id": 2075,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 665,
+      "id": 2076,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 666,
+      "id": 2077,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 667,
+      "id": 2078,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 668,
+      "id": 2079,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 669,
+      "id": 2080,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 670,
+      "id": 2081,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 671,
+      "id": 2082,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 672,
+      "id": 2083,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 673,
+      "id": 2084,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 674,
+      "id": 2085,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 675,
+      "id": 2086,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 676,
+      "id": 2087,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 677,
+      "id": 2088,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 678,
+      "id": 2089,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 679,
+      "id": 2090,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 680,
+      "id": 2091,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 681,
+      "id": 2092,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 682,
+      "id": 2093,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 683,
+      "id": 2094,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 684,
+      "id": 2095,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 685,
+      "id": 2096,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 686,
+      "id": 2097,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 687,
+      "id": 2098,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 688,
+      "id": 2099,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 689,
+      "id": 2100,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 690,
+      "id": 2101,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 691,
+      "id": 2102,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 692,
+      "id": 2103,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 693,
+      "id": 2104,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 694,
+      "id": 2105,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "snow占位",
+      "dir": 0,
+      "groupId": 695,
+      "id": 2106,
+      "npcId": 11
     }
   ]
 }

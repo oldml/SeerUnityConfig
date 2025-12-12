@@ -8635,6 +8635,84 @@
       "petID": 3941,
       "recommend": 0,
       "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1718248_15"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "14_106064_3"
+      ],
+      "judgeNewseByvalue": [
+        "14_106064_4"
+      ],
+      "judgePetByvalue": [
+        "14_106064_1"
+      ],
+      "petProgress": [
+        "11_106065_0_4"
+      ],
+      "seProgress": [
+        "1_1718248_15"
+      ],
+      "strategy": null,
+      "id": 326,
+      "petID": 3739,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_1715398_40"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "17_17823"
+      ],
+      "judgeNewseByvalue": [
+        "17_17824"
+      ],
+      "judgePetByvalue": [
+        "17_17821"
+      ],
+      "petProgress": [
+        "1_1715396_40"
+      ],
+      "seProgress": [
+        "1_1715398_60"
+      ],
+      "strategy": null,
+      "id": 327,
+      "petID": 3534,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400531_100"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400531_400"
+      ],
+      "seProgress": [
+        "1_2400531_200"
+      ],
+      "strategy": null,
+      "id": 328,
+      "petID": 4845,
+      "recommend": 0,
+      "stage": 0
     }
   ]
 }

@@ -3386,7 +3386,7 @@
       "name": "西忒蕾妃",
       "portrait": "xtlf_fg",
       "id": 308,
-      "scale": 1
+      "scale": 1.04
     },
     {
       "CharacterID": "wqr",
@@ -3397,7 +3397,40 @@
       "name": "维齐尔",
       "portrait": "wqr_fg",
       "id": 309,
-      "scale": 1
+      "scale": 1.1
+    },
+    {
+      "CharacterID": "btt",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,33",
+      "name": "白图泰",
+      "portrait": "btt_fg",
+      "id": 310,
+      "scale": 1.1
+    },
+    {
+      "CharacterID": "hntw",
+      "emoji": "hntw_01,hntw_02",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-66.2,0",
+      "name": "赫努塔维",
+      "portrait": "hntw_fg",
+      "id": 311,
+      "scale": 1.02
+    },
+    {
+      "CharacterID": "mhwt",
+      "emoji": "mhwt_01,mhwt_02,mhwt_03,mhwt_04,mhwt_05,mhwt_06,mhwt_07,mhwt_08",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-80.5,71",
+      "name": "梅赫维特",
+      "portrait": "mhwt_fg",
+      "id": 312,
+      "scale": 1.01
     }
   ]
 }

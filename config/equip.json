@@ -4306,6 +4306,45 @@
         "ItemID": 1301129,
         "Quality": 3,
         "SuitID": 469
+      },
+      {
+        "Desc": "体力+100（仅限赛尔与BOSS间对战）",
+        "Name": "萌萌露露头套",
+        "Rank": [
+          {
+            "Desc": "",
+            "Lv": 1
+          }
+        ],
+        "ItemID": 1301143,
+        "Quality": 3,
+        "SuitID": 473
+      },
+      {
+        "Desc": "体力+100（仅限赛尔与BOSS间对战）",
+        "Name": "萌萌露露手套",
+        "Rank": [
+          {
+            "Desc": "",
+            "Lv": 1
+          }
+        ],
+        "ItemID": 1301144,
+        "Quality": 3,
+        "SuitID": 473
+      },
+      {
+        "Desc": "体力+100（仅限赛尔与BOSS间对战）",
+        "Name": "萌萌露露护腿",
+        "Rank": [
+          {
+            "Desc": "",
+            "Lv": 1
+          }
+        ],
+        "ItemID": 1301145,
+        "Quality": 3,
+        "SuitID": 473
       }
     ]
   }

@@ -49395,6 +49395,79 @@
         "limitedType": 0,
         "target": 0,
         "to": 0
+      },
+      {
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "回合开始时，若对手不处于异常状态，则当回合受到攻击伤害后令对手失明、失神|回合结束时若自身当回合未受到攻击伤害，下回合自身攻击技能命中时吸取对手最大体力的1/3、属性技能命中时吸取对手所有技能1点pp|（boss无效）",
+        "kind": [
+          15,
+          5,
+          14
+        ],
+        "petId": [
+          4845
+        ],
+        "specificId": null,
+        "effectId": 2457,
+        "iconId": 2036,
+        "Id": 2036,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0
+      },
+      {
+        "args": "30 15 5 200 5 1",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身攻击时若对手处于冻伤状态则30%令对手冰封；自身处于冻伤时受到攻击伤害后吸取对手200点体力",
+        "kind": [
+          5,
+          14
+        ],
+        "petId": [
+          4846
+        ],
+        "specificId": null,
+        "effectId": 2458,
+        "iconId": 2037,
+        "Id": 2037,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0
+      },
+      {
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "",
+        "kind": [
+          5,
+          14
+        ],
+        "petId": [
+          4999
+        ],
+        "specificId": null,
+        "effectId": 2456,
+        "iconId": 2038,
+        "Id": 2038,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0
       }
     ]
   }

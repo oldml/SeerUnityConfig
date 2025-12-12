@@ -1414,8 +1414,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4844,
-            "ImageID": 4844,
+            "ID": 4845,
+            "ImageID": 4845,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1425,22 +1425,22 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 781,
-            "ImageID": 1400781,
+            "ID": 4846,
+            "ImageID": 4846,
             "Label": 0,
-            "monID": 4542,
-            "type": 1
+            "monID": 0,
+            "type": 0
           },
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 782,
-            "ImageID": 1400782,
+            "ID": 4847,
+            "ImageID": 4847,
             "Label": 0,
-            "monID": 4706,
-            "type": 1
+            "monID": 0,
+            "type": 0
           }
         ]
       }
@@ -12993,7 +12993,7 @@
       {
         "DefName": "玛法里奥",
         "Features": "逆界之门的创造者，玛法里奥。曾经的他差点就要击败麒麟成为第五星系的守护神，但由于心智的差别败给了麒麟，后为了追求力量，创造了逆界之门，让现在的宇宙陷入了危机之中。",
-        "Target": "",
+        "Target": "150098",
         "ID": 1931
       },
       {
@@ -22491,7 +22491,7 @@
       {
         "DefName": "玛洛恩",
         "Features": "玛法里奥的超进化形态，长久的修行中他领悟了新的力量，是苍茫之森的长者，上古时期的英雄！",
-        "Target": "",
+        "Target": "150099",
         "ID": 3534
       },
       {
@@ -23685,7 +23685,7 @@
       {
         "DefName": "玛洛迪斯",
         "Features": "玛法里奥完全体形态，心中的信念将永垂不朽，满腔的希望将永恒不息！",
-        "Target": "",
+        "Target": "150100",
         "ID": 3739
       },
       {
@@ -30293,6 +30293,24 @@
         "Features": "来自涅达洛的神秘女刺客，能够扬起沙尘隐遁其中。她会是谁的终结者呢？",
         "Target": "153201/347",
         "ID": 4844
+      },
+      {
+        "DefName": "白图泰",
+        "Features": "涅达洛王家哲学院的祭司。比起更加注重经院哲学的同僚们，他更喜欢在实践中探索真理。",
+        "Target": "153201/348",
+        "ID": 4845
+      },
+      {
+        "DefName": "米鲁妹妹",
+        "Features": "米鲁族的小不点，有一位双胞胎哥哥。父母曾被赛尔所救，而今她决定收拾行囊，跟随赛尔远行。",
+        "Target": "400016",
+        "ID": 4846
+      },
+      {
+        "DefName": "蘑蘑蜗",
+        "Features": "蘑蘑树中诞出的神奇生命，钙化的花苞外壳内，由真菌织成的身体涌动着不俗的智慧。",
+        "Target": "400016",
+        "ID": 4847
       }
     ],
     "RecMintmark": {

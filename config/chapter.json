@@ -483,7 +483,7 @@
       "tagtype": 107,
       "tobe": 0,
       "type": 1,
-      "upstory": 1,
+      "upstory": 0,
       "writing": 1003
     },
     {
@@ -588,10 +588,37 @@
       "recordid": 22,
       "redbadge": 0,
       "tagopen": 1,
-      "tagtype": 120,
+      "tagtype": 111,
       "tobe": 0,
       "type": 1,
       "upstory": 0,
+      "writing": 1003
+    },
+    {
+      "bgm": "2026year_loop_bgm",
+      "chaptername": "永恒的太阳",
+      "enddate": "",
+      "imagebg": "image1018_bg",
+      "imagelist": "image1018_list",
+      "imagestage": "image1018_stage",
+      "img": "chapter_img1018",
+      "intro": "终于来到了涅达洛的王都。这场太阳神的角色扮演游戏，我们还玩得下去吗？",
+      "logo": "image1013_logo",
+      "previouslyon": "",
+      "startdate": "",
+      "tagname": "行于沙海",
+      "writingimg": "writing1003_img",
+      "writingname": "黄金的万象",
+      "branch": 0,
+      "id": 1018,
+      "needchapter": 1013,
+      "recordid": 23,
+      "redbadge": 0,
+      "tagopen": 0,
+      "tagtype": 107,
+      "tobe": 0,
+      "type": 1,
+      "upstory": 1,
       "writing": 1003
     }
   ]

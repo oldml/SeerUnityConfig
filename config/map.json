@@ -131,7 +131,7 @@
       "WildBossID": null,
       "WildBossPoint": null,
       "WildBossWeight": null,
-      "enterMap": 0,
+      "enterMap": 1,
       "GroupID": 10103,
       "id": 2004,
       "MapRatio": 0,
@@ -1547,7 +1547,7 @@
         409
       ],
       "WildBossWeight": [
-        105,
+        20,
         1
       ],
       "enterMap": 0,
@@ -1611,8 +1611,8 @@
       "NPCID": null,
       "NPCXYZ": null,
       "PlayerXYZ": [
-        77,
-        480
+        57,
+        407
       ],
       "WildBossID": null,
       "WildBossPoint": null,
@@ -1638,7 +1638,7 @@
       ],
       "PlayerXYZ": [
         770,
-        400
+        440
       ],
       "WildBossID": [
         205,
@@ -16341,11 +16341,16 @@
       "name": "时光之墟",
       "notes": "",
       "sound": "BGM_838",
-      "NPCID": null,
-      "NPCXYZ": null,
+      "NPCID": [
+        302
+      ],
+      "NPCXYZ": [
+        380,
+        320
+      ],
       "PlayerXYZ": [
-        297,
-        557
+        650,
+        380
       ],
       "WildBossID": null,
       "WildBossPoint": null,
@@ -16353,7 +16358,7 @@
       "enterMap": 0,
       "GroupID": 20101,
       "id": 2147,
-      "MapRatio": 0,
+      "MapRatio": 1,
       "pic": 1715
     },
     {
@@ -16742,7 +16747,7 @@
       "WildBossID": null,
       "WildBossPoint": null,
       "WildBossWeight": null,
-      "enterMap": 1,
+      "enterMap": 0,
       "GroupID": 10103,
       "id": 2161,
       "MapRatio": 1,
@@ -16786,7 +16791,7 @@
       "WildBossWeight": [
         1
       ],
-      "enterMap": 1,
+      "enterMap": 0,
       "GroupID": 22001,
       "id": 2162,
       "MapRatio": 1,

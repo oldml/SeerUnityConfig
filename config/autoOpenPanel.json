@@ -515,6 +515,18 @@
       "id": 44,
       "moduleId": 720,
       "state": 1
+    },
+    {
+      "actionName": "2026年费预约-1741",
+      "controller": "AutoOpenLocalOnce",
+      "endTime": "2025_12_26 00:00:00",
+      "param1": "yearVIP2026Reserve",
+      "param2": "",
+      "param3": "1",
+      "startTime": "2025_12_12 10:00:00",
+      "id": 45,
+      "moduleId": 732,
+      "state": 1
     }
   ]
 }

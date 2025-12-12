@@ -1692,6 +1692,56 @@
         "monster": 3983,
         "moves": 29193,
         "movetype": 2
+      },
+      {
+        "itemname": "苍茫元心",
+        "movesname": "浩域森罗",
+        "id": 96,
+        "item": 1727598,
+        "itemnumber": 1,
+        "monster": 3739,
+        "moves": 29211,
+        "movetype": 2
+      },
+      {
+        "itemname": "残缺辰星",
+        "movesname": "呪誓绝途",
+        "id": 94,
+        "item": 1727599,
+        "itemnumber": 1,
+        "monster": 3999,
+        "moves": 29212,
+        "movetype": 2
+      },
+      {
+        "itemname": "白虹",
+        "movesname": "圣质持恒",
+        "id": 95,
+        "item": 1727601,
+        "itemnumber": 1,
+        "monster": 3685,
+        "moves": 29213,
+        "movetype": 2
+      },
+      {
+        "itemname": "风杀利羽",
+        "movesname": "诉与孤风",
+        "id": 97,
+        "item": 1727600,
+        "itemnumber": 1,
+        "monster": 3554,
+        "moves": 38186,
+        "movetype": 2
+      },
+      {
+        "itemname": "蝶身心",
+        "movesname": "兰烬蘧栩",
+        "id": 98,
+        "item": 1727602,
+        "itemnumber": 1,
+        "monster": 3830,
+        "moves": 38187,
+        "movetype": 2
       }
     ]
   }

@@ -485725,6 +485725,327 @@
           "Type": 8
         },
         {
+          "info": "开始免疫并反弹受到的异常状态了；开始免疫攻击技能了；开始令对手的属性技能无效了",
+          "Name": "上古岩碑",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            191,
+            1923,
+            1458
+          ],
+          "SideEffectArg": [
+            4,
+            1,
+            3,
+            50,
+            100,
+            29
+          ],
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "ID": 29205,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；开始恢复体力了；出手变得更快了",
+          "Name": "未来占卜",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1001,
+            1067,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            4,
+            3,
+            2,
+            3,
+            2,
+            2
+          ],
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "ID": 29206,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "令双方冻伤了；受到了雪色的保护",
+          "Name": "雪色保护",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            547,
+            1322,
+            522
+          ],
+          "SideEffectArg": [
+            5,
+            3,
+            2,
+            50,
+            15,
+            1,
+            2,
+            200
+          ],
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "ID": 29207,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "防御、特攻、特防提升了许多；开始随机恢复体力了；出手变得更快了",
+          "Name": "霜雪之力",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            585,
+            651,
+            843
+          ],
+          "SideEffectArg": [
+            0,
+            2,
+            2,
+            2,
+            0,
+            0,
+            3,
+            200,
+            300,
+            2,
+            1
+          ],
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "ID": 29208,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "令对手能力下降了；开始免疫异常状态了",
+          "Name": "毒株散播",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            483,
+            2104
+          ],
+          "SideEffectArg": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            3
+          ],
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "ID": 29209,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；开始恢复体力了",
+          "Name": "植物祝福",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1205,
+            57
+          ],
+          "SideEffectArg": [
+            1,
+            3,
+            3
+          ],
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "ID": 29210,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；开始恢复体力了；出手变得更快了",
+          "Name": "浩域森罗",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            2190,
+            1856,
+            2068,
+            1695,
+            2355,
+            619
+          ],
+          "SideEffectArg": [
+            11,
+            1,
+            100,
+            8,
+            4,
+            2,
+            3,
+            4,
+            10,
+            3,
+            2,
+            2
+          ],
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "ID": 29211,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；开始吸取对手体力了；出手变得更快了",
+          "Name": "呪誓绝途",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1001,
+            1284,
+            1083,
+            1647,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            2,
+            4,
+            3,
+            2,
+            300,
+            2,
+            2
+          ],
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 4,
+          "ID": 29212,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "开始免疫受到的异常状态了；开始吸取对手的体力了；开始免疫攻击技能了",
+          "Name": "圣质持恒",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            191,
+            1923,
+            971,
+            1794
+          ],
+          "SideEffectArg": [
+            4,
+            2,
+            4,
+            3,
+            2,
+            2,
+            1,
+            50
+          ],
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "ID": 29213,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "获得了1句唱词；带来了太阳的赐福",
+          "Name": "合奏·常昼大诰",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            2378,
+            1304,
+            2379,
+            2380,
+            2162
+          ],
+          "SideEffectArg": [
+            2,
+            25,
+            15,
+            2,
+            22
+          ],
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "ID": 29214,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
           "info": "",
           "Name": "千星死魂灭",
           "FriendSideEffect": null,
@@ -695412,14 +695733,26 @@
         },
         {
           "info": "",
-          "Name": "1",
+          "Name": "逐日长诗",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
-          "SideEffect": null,
-          "SideEffectArg": null,
+          "SideEffect": [
+            2034,
+            2227,
+            1355,
+            2372
+          ],
+          "SideEffectArg": [
+            100,
+            2,
+            2,
+            50,
+            1,
+            1
+          ],
           "AtkNum": 0,
           "AtkType": 0,
-          "Category": 1,
+          "Category": 2,
           "ID": 38171,
           "MaxPP": 20,
           "MonID": 0,
@@ -695427,64 +695760,101 @@
           "ordinary": 0,
           "Power": 85,
           "Priority": 3,
-          "Type": 64
+          "Type": 130
         },
         {
-          "info": "",
-          "Name": "2",
+          "info": "待添加",
+          "Name": "灼目天星",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
-          "SideEffect": null,
-          "SideEffectArg": null,
+          "SideEffect": [
+            2148,
+            1003,
+            1684,
+            2316,
+            2373
+          ],
+          "SideEffectArg": [
+            2,
+            100,
+            22,
+            1,
+            3,
+            2
+          ],
           "AtkNum": 0,
-          "AtkType": 0,
-          "Category": 1,
+          "AtkType": 3,
+          "Category": 4,
           "ID": 38172,
-          "MaxPP": 20,
+          "MaxPP": 5,
           "MonID": 0,
-          "MustHit": 0,
+          "MustHit": 1,
           "ordinary": 0,
-          "Power": 85,
-          "Priority": 3,
-          "Type": 64
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
         },
         {
-          "info": "",
-          "Name": "3",
+          "info": "待添加",
+          "Name": "七重沙海",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
-          "SideEffect": null,
-          "SideEffectArg": null,
+          "SideEffect": [
+            2376,
+            1892,
+            58,
+            843,
+            2374
+          ],
+          "SideEffectArg": [
+            4,
+            300,
+            2,
+            300,
+            2,
+            2,
+            2
+          ],
           "AtkNum": 0,
-          "AtkType": 0,
-          "Category": 1,
+          "AtkType": 3,
+          "Category": 4,
           "ID": 38173,
-          "MaxPP": 20,
+          "MaxPP": 5,
           "MonID": 0,
-          "MustHit": 0,
+          "MustHit": 1,
           "ordinary": 0,
-          "Power": 85,
-          "Priority": 3,
-          "Type": 64
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
         },
         {
           "info": "",
-          "Name": "4",
+          "Name": "长叹·天人命途",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
-          "SideEffect": null,
-          "SideEffectArg": null,
+          "SideEffect": [
+            881,
+            1392,
+            2377,
+            999,
+            2375
+          ],
+          "SideEffectArg": [
+            15,
+            1,
+            15
+          ],
           "AtkNum": 0,
           "AtkType": 0,
-          "Category": 1,
+          "Category": 2,
           "ID": 38174,
-          "MaxPP": 20,
+          "MaxPP": 5,
           "MonID": 0,
-          "MustHit": 0,
+          "MustHit": 1,
           "ordinary": 0,
-          "Power": 85,
-          "Priority": 3,
-          "Type": 64
+          "Power": 150,
+          "Priority": 0,
+          "Type": 130
         },
         {
           "info": "",
@@ -695570,6 +695940,290 @@
           "Power": 160,
           "Priority": 0,
           "Type": 50
+        },
+        {
+          "info": "",
+          "Name": "符文冲击",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            794,
+            839
+          ],
+          "SideEffectArg": [
+            1,
+            20
+          ],
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "ID": 38178,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Type": 102
+        },
+        {
+          "info": "",
+          "Name": "耀目密文",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1711,
+            1457
+          ],
+          "SideEffectArg": [
+            100,
+            20,
+            2,
+            70,
+            20,
+            1
+          ],
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "ID": 38179,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 102
+        },
+        {
+          "info": "",
+          "Name": "分智离魂决",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            781,
+            1008,
+            989
+          ],
+          "SideEffectArg": [
+            1,
+            300,
+            300,
+            300,
+            200
+          ],
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "ID": 38180,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 102
+        },
+        {
+          "info": "",
+          "Name": "冰霜流星",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            766,
+            1084
+          ],
+          "SideEffectArg": [
+            2,
+            300,
+            150
+          ],
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "ID": 38181,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Type": 9
+        },
+        {
+          "info": "",
+          "Name": "人造雪崩",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            609,
+            673
+          ],
+          "SideEffectArg": [
+            5,
+            5,
+            15
+          ],
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "ID": 38182,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 9
+        },
+        {
+          "info": "",
+          "Name": "碎冰冲击波",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1002,
+            1234,
+            594
+          ],
+          "SideEffectArg": [
+            1,
+            1,
+            300,
+            60,
+            15
+          ],
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "ID": 38183,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 9
+        },
+        {
+          "info": "",
+          "Name": "菌群侵入",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            868,
+            797
+          ],
+          "SideEffectArg": [
+            1,
+            1
+          ],
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "ID": 38184,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 0,
+          "Type": 1
+        },
+        {
+          "info": "",
+          "Name": "后发克敌",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            30,
+            147,
+            1019
+          ],
+          "SideEffectArg": [
+            80,
+            27,
+            300,
+            1
+          ],
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "ID": 38185,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 1
+        },
+        {
+          "info": "",
+          "Name": "诉与孤风",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            2190,
+            1138,
+            1398,
+            2381
+          ],
+          "SideEffectArg": [
+            10,
+            100,
+            6,
+            100,
+            8,
+            100,
+            6,
+            100,
+            8,
+            30
+          ],
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "ID": 38186,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Type": 53
+        },
+        {
+          "info": "",
+          "Name": "兰烬蘧栩",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            948,
+            188,
+            2128,
+            1832
+          ],
+          "SideEffectArg": [
+            22,
+            2,
+            100,
+            2,
+            100,
+            300,
+            2
+          ],
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "ID": 38187,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 90,
+          "Priority": 3,
+          "Type": 58
         },
         {
           "info": "恢复自身一定体力",

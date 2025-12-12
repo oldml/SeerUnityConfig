@@ -20,10 +20,9 @@
     {
       "describe1": "特权：自动领取掉落的金色奇迹",
       "describe2": "金色奇迹产出40/每小时",
-      "describe3": "可派遣星系+1",
+      "describe3": "",
       "dangoTask": [
         4,
-        5,
         6
       ],
       "benefit1": 1,
@@ -37,7 +36,7 @@
     {
       "describe1": "同时养成苏摩数量+1",
       "describe2": "金色奇迹产出60/每小时",
-      "describe3": "可派遣星系+1",
+      "describe3": "",
       "dangoTask": [
         7,
         8,
@@ -54,11 +53,10 @@
     {
       "describe1": "特权：离线后苏摩也会获得成长值",
       "describe2": "金色奇迹产出80/每小时",
-      "describe3": "可派遣星系+1",
+      "describe3": "",
       "dangoTask": [
         10,
-        11,
-        12
+        11
       ],
       "benefit1": 1,
       "benefit2": 1,
@@ -71,7 +69,7 @@
     {
       "describe1": "同时养成苏摩数量+1",
       "describe2": "金色奇迹产出100/每小时",
-      "describe3": "可派遣星系+2",
+      "describe3": "",
       "dangoTask": [
         13,
         14,
@@ -86,13 +84,13 @@
       "taskNum": 6
     },
     {
-      "describe1": "特权：每日登录领取1000赛尔豆（高仿版）",
-      "describe2": "同时养成苏摩数量+1",
-      "describe3": "可派遣星系+2",
+      "describe1": "同时养成苏摩数量+1",
+      "describe2": "金色奇迹产出120/每小时",
+      "describe3": "",
       "dangoTask": null,
       "benefit1": 1,
       "benefit2": 1,
-      "benefit3": 1,
+      "benefit3": 0,
       "id": 6,
       "minorNum": 4,
       "reward": 2000,

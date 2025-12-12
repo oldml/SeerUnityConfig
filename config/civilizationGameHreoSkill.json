@@ -91,7 +91,7 @@
     {
       "consume": "2_20;3_20",
       "describe": "将5*5范围为内的全部粮食棋子升至最高级（当前已解锁的最高级）",
-      "effective": "1",
+      "effective": "0;1;2;3;4;5;6;7;8;9",
       "herodescribe": "描述33",
       "herodescribeafter": "描述19",
       "herodescribefront": "描述5",
@@ -113,7 +113,7 @@
     {
       "consume": "2_20;3_20",
       "describe": "将5*5范围为内的全部信仰棋子升至最高级（当前已解锁的最高级）",
-      "effective": "2",
+      "effective": "0;1;2;3;4;5;6;7;8;9",
       "herodescribe": "描述34",
       "herodescribeafter": "描述20",
       "herodescribefront": "描述6",
@@ -135,7 +135,7 @@
     {
       "consume": "2_20;3_20",
       "describe": "将5*5范围为内的全部文化棋子升至最高级（当前已解锁的最高级）",
-      "effective": "3",
+      "effective": "0;1;2;3;4;5;6;7;8;9",
       "herodescribe": "描述35",
       "herodescribeafter": "描述21",
       "herodescribefront": "描述7",
@@ -245,7 +245,7 @@
     {
       "consume": "2_20;3_20",
       "describe": "将5*5范围内所有空白位置生成粮食棋子（棋子等级为当前最大等级-2）",
-      "effective": "",
+      "effective": "0;1;2;3;4;5;6;7;8;9",
       "herodescribe": "描述40",
       "herodescribeafter": "描述26",
       "herodescribefront": "描述12",
@@ -267,7 +267,7 @@
     {
       "consume": "2_20;3_20",
       "describe": "将5*5范围内所有空白位置生成信仰棋子（棋子等级为当前最大等级-2）",
-      "effective": "",
+      "effective": "0;1;2;3;4;5;6;7;8;9",
       "herodescribe": "描述41",
       "herodescribeafter": "描述27",
       "herodescribefront": "描述13",
@@ -289,7 +289,7 @@
     {
       "consume": "2_20;3_20",
       "describe": "将5*5范围内所有空白位置生成文化棋子（棋子等级为当前最大等级-2）",
-      "effective": "",
+      "effective": "0;1;2;3;4;5;6;7;8;9",
       "herodescribe": "描述42",
       "herodescribeafter": "描述28",
       "herodescribefront": "描述14",

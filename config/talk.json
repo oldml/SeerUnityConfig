@@ -21254,390 +21254,942 @@
       "npcId": 11
     },
     {
-      "answer": null,
+      "answer": [
+        "过奖过奖！",
+        "没错没错！"
+      ],
       "deal": null,
-      "msg": "snow占位",
+      "msg": "1个家人！赛尔你好有实力！",
       "dir": 0,
       "groupId": 653,
       "id": 2064,
-      "npcId": 11
+      "npcId": 6027
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "2个家人！感觉你可以参加斯诺星的冰系精灵争霸赛了！",
       "dir": 0,
       "groupId": 654,
       "id": 2065,
-      "npcId": 11
+      "npcId": 6027
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "啊？可我不是冰系精灵啊",
       "dir": 0,
-      "groupId": 655,
+      "groupId": 654,
       "id": 2066,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "没事的家人，我可以和你组队，这样你也能参赛啦！",
+      "dir": 0,
+      "groupId": 654,
+      "id": 2067,
+      "npcId": 6027
+    },
+    {
+      "answer": [
+        "低调，因为我真的会飞"
+      ],
+      "deal": null,
+      "msg": "3个！家人你简直厉害得要飞起来！",
+      "dir": 0,
+      "groupId": 655,
+      "id": 2068,
+      "npcId": 6027
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "喔……已经4个了么，还不错嘛！",
       "dir": 0,
       "groupId": 656,
-      "id": 2067,
-      "npcId": 11
-    },
-    {
-      "answer": null,
-      "deal": null,
-      "msg": "snow占位",
-      "dir": 0,
-      "groupId": 657,
-      "id": 2068,
-      "npcId": 11
-    },
-    {
-      "answer": null,
-      "deal": null,
-      "msg": "snow占位",
-      "dir": 0,
-      "groupId": 658,
       "id": 2069,
-      "npcId": 11
+      "npcId": 6028
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "咦？怎么感觉你的态度有了微妙的转变……",
       "dir": 0,
-      "groupId": 659,
+      "groupId": 656,
       "id": 2070,
       "npcId": 11
     },
     {
-      "answer": null,
+      "answer": [
+        "啧！"
+      ],
       "deal": null,
-      "msg": "snow占位",
+      "msg": "什……什么嘛！才找到4个家人而已，还要我态度怎么好啦！",
       "dir": 0,
-      "groupId": 660,
+      "groupId": 656,
       "id": 2071,
-      "npcId": 11
+      "npcId": 6028
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "5个，嗯，再接再厉喔！",
       "dir": 0,
-      "groupId": 661,
+      "groupId": 657,
       "id": 2072,
-      "npcId": 11
+      "npcId": 6028
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "这次连夸都不夸了吗？那我走？",
       "dir": 0,
-      "groupId": 662,
+      "groupId": 657,
       "id": 2073,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "你你你！不许走！你要是走了我就……我就不和你组队了！",
       "dir": 0,
-      "groupId": 663,
+      "groupId": 657,
       "id": 2074,
-      "npcId": 11
+      "npcId": 6028
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "6个了呢，不错喔。还有2个家人，咱们再加把劲！",
       "dir": 0,
-      "groupId": 664,
+      "groupId": 658,
       "id": 2075,
-      "npcId": 11
+      "npcId": 6029
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "嗯，态度好点了。不过我还是比较喜欢你之前的状态，要不你恢复一下？",
       "dir": 0,
-      "groupId": 665,
+      "groupId": 658,
       "id": 2076,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "最讨厌你了！",
       "dir": 0,
-      "groupId": 666,
+      "groupId": 658,
       "id": 2077,
-      "npcId": 11
+      "npcId": 6029
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "……",
       "dir": 0,
-      "groupId": 667,
+      "groupId": 659,
       "id": 2078,
-      "npcId": 11
+      "npcId": 6029
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "你怎么一下子安静了，我有点不习惯了",
       "dir": 0,
-      "groupId": 668,
+      "groupId": 659,
       "id": 2079,
       "npcId": 11
     },
     {
-      "answer": null,
+      "answer": [
+        "思考什么？"
+      ],
       "deal": null,
-      "msg": "snow占位",
+      "msg": "别吵，我在思考……",
       "dir": 0,
-      "groupId": 669,
+      "groupId": 659,
       "id": 2080,
-      "npcId": 11
+      "npcId": 6029
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "你大概能夺得这次的斯诺冰冠也说不定……",
       "dir": 0,
-      "groupId": 670,
+      "groupId": 659,
       "id": 2081,
-      "npcId": 11
+      "npcId": 6029
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "竟然……全部都找到了！哼哼……来广场中间找我吧，人家有话跟你说！",
       "dir": 0,
-      "groupId": 671,
+      "groupId": 660,
       "id": 2082,
-      "npcId": 11
+      "npcId": 6029
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "废弃文本",
       "dir": 0,
-      "groupId": 672,
+      "groupId": 661,
       "id": 2083,
       "npcId": 11
     },
     {
-      "answer": null,
-      "deal": null,
-      "msg": "snow占位",
+      "answer": [
+        "查看线索",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_milustory",
+        ""
+      ],
+      "msg": "1……2……3……已经有这么多家人了，赛尔赛尔你好厉害……",
       "dir": 0,
-      "groupId": 673,
+      "groupId": 662,
       "id": 2084,
-      "npcId": 11
+      "npcId": 6027
     },
     {
-      "answer": null,
-      "deal": null,
-      "msg": "snow占位",
+      "answer": [
+        "查看线索",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_milustory",
+        ""
+      ],
+      "msg": "已经……快要完成了么，哼哼，还不赖嘛！",
       "dir": 0,
-      "groupId": 674,
+      "groupId": 663,
       "id": 2085,
-      "npcId": 11
+      "npcId": 6028
     },
     {
-      "answer": null,
+      "answer": [
+        "哦？"
+      ],
       "deal": null,
-      "msg": "snow占位",
+      "msg": "7……8……家人们竟然都被你找到了？！…咳咳！你可不要骄傲喔，你的水平要和我组队还……还有待考察！这段时间我得一直——一直跟在你身边才行！再让看看你的实力！",
       "dir": 0,
-      "groupId": 675,
+      "groupId": 664,
       "id": 2086,
-      "npcId": 11
+      "npcId": 6029
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "看我干什么！那个什么，圆圆的叫什么胶囊的东西，快拿出来吧！",
       "dir": 0,
-      "groupId": 676,
+      "groupId": 664,
       "id": 2087,
-      "npcId": 11
+      "npcId": 6029
     },
     {
-      "answer": null,
-      "deal": null,
-      "msg": "snow占位",
+      "answer": [
+        "回顾旅途",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_milustory",
+        ""
+      ],
+      "msg": "要出发了吗？好突然！……我是说！你挡到人家看流星雨了！快坐下来！",
       "dir": 0,
-      "groupId": 677,
+      "groupId": 665,
       "id": 2088,
-      "npcId": 11
+      "npcId": 6029
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "有一只米鲁被困在雪堆里了，快用<font color=\"0xffd325\">头部射击</font>解救它吧！看样子要用烫烫的激光射线才行。",
       "dir": 0,
-      "groupId": 678,
+      "groupId": 666,
       "id": 2089,
       "npcId": 11
     },
     {
-      "answer": null,
+      "answer": [
+        "呃……"
+      ],
       "deal": null,
-      "msg": "snow占位",
+      "msg": "呼呼……得救了……我是说，你觉得我藏得好不好？",
       "dir": 0,
-      "groupId": 679,
+      "groupId": 667,
       "id": 2090,
-      "npcId": 11
+      "npcId": 6022
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "有一只米鲁藏在雪堆里了，快用<font color=\"0xffd325\">头部射击</font>让它现身吧！看样子要用烫烫的激光射线才行。",
       "dir": 0,
-      "groupId": 680,
+      "groupId": 668,
       "id": 2091,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "呼……得救了！……我是说……可恶！这都被你们找到了！",
       "dir": 0,
-      "groupId": 681,
+      "groupId": 669,
       "id": 2092,
-      "npcId": 11
+      "npcId": 6022
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "今天中午吃什么好呢？斯诺豌豆还是雪球能源？",
       "dir": 0,
-      "groupId": 682,
+      "groupId": 670,
       "id": 2093,
-      "npcId": 11
+      "npcId": 6022
     },
     {
-      "answer": null,
+      "answer": [
+        "似乎没什么想说的"
+      ],
       "deal": null,
-      "msg": "snow占位",
+      "msg": "……",
       "dir": 0,
-      "groupId": 683,
+      "groupId": 671,
       "id": 2094,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "找到你了！",
       "dir": 0,
-      "groupId": 684,
+      "groupId": 672,
       "id": 2095,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "呃……原来我也是你们游戏的一环么……好吧。啊，我被抓到了。",
       "dir": 0,
-      "groupId": 685,
+      "groupId": 0,
       "id": 2096,
-      "npcId": 11
+      "npcId": 6026
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "赛尔， 斯诺星永远欢迎你！",
       "dir": 0,
-      "groupId": 686,
+      "groupId": 673,
       "id": 2097,
-      "npcId": 11
+      "npcId": 6026
     },
     {
-      "answer": null,
+      "answer": [
+        "似乎只是一扇门"
+      ],
       "deal": null,
-      "msg": "snow占位",
+      "msg": "……",
       "dir": 0,
-      "groupId": 687,
+      "groupId": 674,
       "id": 2098,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "找到你了！",
       "dir": 0,
-      "groupId": 688,
+      "groupId": 675,
       "id": 2099,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "咦？是哥哥？",
       "dir": 0,
-      "groupId": 689,
+      "groupId": 675,
       "id": 2100,
-      "npcId": 11
+      "npcId": 6028
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "哈哈，胆小鬼妹妹原来也有聪明的时候！",
       "dir": 0,
-      "groupId": 690,
+      "groupId": 675,
       "id": 2101,
-      "npcId": 11
+      "npcId": 6024
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "人家只是胆子小，不是笨！",
       "dir": 0,
-      "groupId": 691,
+      "groupId": 675,
       "id": 2102,
-      "npcId": 11
+      "npcId": 6028
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "妹妹一直想去斯诺星外看看，赛尔，你能带她出去吗？",
       "dir": 0,
-      "groupId": 692,
+      "groupId": 676,
       "id": 2103,
-      "npcId": 11
+      "npcId": 6024
     },
     {
-      "answer": null,
+      "answer": [
+        "似乎只是一扇门"
+      ],
       "deal": null,
-      "msg": "snow占位",
+      "msg": "……",
       "dir": 0,
-      "groupId": 693,
+      "groupId": 677,
       "id": 2104,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "找到你了！",
       "dir": 0,
-      "groupId": 694,
+      "groupId": 678,
       "id": 2105,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "snow占位",
+      "msg": "呼……豌豆浓汤真好喝……",
+      "dir": 0,
+      "groupId": 678,
+      "id": 2106,
+      "npcId": 6021
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你根本就没有在藏对吧……",
+      "dir": 0,
+      "groupId": 678,
+      "id": 2107,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你……要来一碗么？",
+      "dir": 0,
+      "groupId": 679,
+      "id": 2108,
+      "npcId": 6021
+    },
+    {
+      "answer": [
+        "似乎没什么想说的"
+      ],
+      "deal": null,
+      "msg": "……",
+      "dir": 0,
+      "groupId": 680,
+      "id": 2109,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "找到你了！",
+      "dir": 0,
+      "groupId": 681,
+      "id": 2110,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "找……？哦你们是找阿莫莫吧，它刚和我换班，我说它刚刚把自己半个身子埋在雪里干什么……",
+      "dir": 0,
+      "groupId": 681,
+      "id": 2111,
+      "npcId": 6025
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "那它在哪呢？",
+      "dir": 0,
+      "groupId": 681,
+      "id": 2112,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "阿莫莫！你在演什么！",
+      "dir": 0,
+      "groupId": 681,
+      "id": 2113,
+      "npcId": 6028
+    },
+    {
+      "answer": [
+        "可恶！"
+      ],
+      "deal": null,
+      "msg": "噗哈哈哈你居然相信了！",
+      "dir": 0,
+      "groupId": 681,
+      "id": 2114,
+      "npcId": 6025
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "被你找到了真是没办法。公务在身，前些日子天外降落下来的神秘飞行器似乎隐藏着什么秘密，族长派我在这里驻守。",
+      "dir": 0,
+      "groupId": 681,
+      "id": 2115,
+      "npcId": 6025
+    },
+    {
+      "answer": [
+        "它们很可爱"
+      ],
+      "deal": null,
+      "msg": "其中发现的神秘生物不是被你们带回飞船了吗？怎么样？",
+      "dir": 0,
+      "groupId": 681,
+      "id": 2116,
+      "npcId": 6025
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "那就好，这里我也会好好守护，如果有需要我协助的地方请随时告诉我！",
+      "dir": 0,
+      "groupId": 681,
+      "id": 2117,
+      "npcId": 6025
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这里我会好好守护，如果有需要我协助的地方请随时告诉我！",
+      "dir": 0,
+      "groupId": 682,
+      "id": 2118,
+      "npcId": 6025
+    },
+    {
+      "answer": [
+        "似乎没什么想说的"
+      ],
+      "deal": null,
+      "msg": "……",
+      "dir": 0,
+      "groupId": 683,
+      "id": 2119,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "船舱，真好玩……",
+      "dir": 0,
+      "groupId": 684,
+      "id": 2120,
+      "npcId": 6022
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "捉到你啦！",
+      "dir": 0,
+      "groupId": 684,
+      "id": 2121,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "呼呼……睡一会……",
+      "dir": 0,
+      "groupId": 685,
+      "id": 2122,
+      "npcId": 6022
+    },
+    {
+      "answer": [
+        "似乎没什么想说的"
+      ],
+      "deal": null,
+      "msg": "……",
+      "dir": 0,
+      "groupId": 686,
+      "id": 2123,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "找到你啦！",
+      "dir": 0,
+      "groupId": 687,
+      "id": 2124,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "好吃，哼哼……好吃，哼哼……",
+      "dir": 0,
+      "groupId": 687,
+      "id": 2125,
+      "npcId": 6023
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "似乎完全没有听到啊！",
+      "dir": 0,
+      "groupId": 687,
+      "id": 2126,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "彳亍！"
+      ],
+      "deal": null,
+      "msg": "你要来点么？瘦身雪球能源，多吃就瘦！立竿见影！",
+      "dir": 0,
+      "groupId": 687,
+      "id": 2127,
+      "npcId": 6023
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "再来一块…………（嚼嚼）",
+      "dir": 0,
+      "groupId": 688,
+      "id": 2128,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "似乎只是一扇门"
+      ],
+      "deal": null,
+      "msg": "……",
+      "dir": 0,
+      "groupId": 689,
+      "id": 2129,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "找到你了！",
+      "dir": 0,
+      "groupId": 690,
+      "id": 2130,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "下次一定！"
+      ],
+      "deal": null,
+      "msg": "既然被你们找到了，要不要进来喝一杯？蘑菇豌豆泥树根特调！",
+      "dir": 0,
+      "groupId": 690,
+      "id": 2131,
+      "npcId": 6019
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "嗯……再加一点巴尔克的毛发…………",
+      "dir": 0,
+      "groupId": 691,
+      "id": 2132,
+      "npcId": 6019
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "是蜗牛！它的触须好像在用二进制试图与你建立沟通",
+      "dir": 0,
+      "groupId": 692,
+      "id": 2133,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "请告诉我宇宙大统一模型？",
+        "如何才能获得花不完的钻石？",
+        "如何才能拥有你！"
+      ],
+      "deal": [
+        "2_702",
+        "2_702",
+        "2_703"
+      ],
+      "msg": "“你好，我是神奇蜗牛，你有任何问题都可以问我，我都会慷慨解答。”",
+      "dir": 0,
+      "groupId": 692,
+      "id": 2134,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "极光，卡兰流星雨，斯诺星真是最佳观景点",
+      "dir": 0,
+      "groupId": 693,
+      "id": 2135,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "不过前些阵子从天空掉下了许多陨石，斯诺豌豆藤都被砸断了，也不知道托尼和巴尔克它们怎么样了……",
+      "dir": 0,
+      "groupId": 693,
+      "id": 2136,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "发起挑战",
+        "暂时离开"
+      ],
+      "deal": [
+        "13_114022",
+        ""
+      ],
+      "msg": "哇！是魔狮迪露！",
+      "dir": 0,
+      "groupId": 694,
+      "id": 2137,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "发起挑战",
+        "暂时离开"
+      ],
+      "deal": [
+        "13_114022",
+        ""
+      ],
+      "msg": "哇！是魔狮迪露！",
       "dir": 0,
       "groupId": 695,
-      "id": 2106,
+      "id": 2138,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "开通2025年费VIP",
+        "奥菲利娅临别赠礼",
+        "我要离开"
+      ],
+      "deal": [
+        "13_120000",
+        "13_114023",
+        ""
+      ],
+      "msg": "你好，我是奥菲利娅，最后的赫尔卡人。",
+      "dir": 0,
+      "groupId": 696,
+      "id": 2139,
+      "npcId": 5823
+    },
+    {
+      "answer": [
+        "你怎么了？"
+      ],
+      "deal": null,
+      "msg": "呜呜呜呜————我好没用……",
+      "dir": 0,
+      "groupId": 697,
+      "id": 2140,
+      "npcId": 6027
+    },
+    {
+      "answer": [
+        "你是？"
+      ],
+      "deal": null,
+      "msg": "呜……咦？头上长着圆圆的钉子……黑黑的身子，你是赛尔？",
+      "dir": 0,
+      "groupId": 697,
+      "id": 2141,
+      "npcId": 6027
+    },
+    {
+      "answer": [
+        "你认错了",
+        "哼哼！那还不快报恩！"
+      ],
+      "deal": [
+        "2_700",
+        "2_701"
+      ],
+      "msg": "诶？你不记得我啦？很久之前大脚怪抓走了人家和哥哥的爸爸妈妈，是你救出了他们！",
+      "dir": 0,
+      "groupId": 697,
+      "id": 2142,
+      "npcId": 6027
+    },
+    {
+      "answer": [
+        "查看线索",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_milustory",
+        ""
+      ],
+      "msg": "呜呜呜呜——嗝——唔！是赛尔！你需要什么线索吗？",
+      "dir": 0,
+      "groupId": 698,
+      "id": 2143,
+      "npcId": 6027
+    },
+    {
+      "answer": [
+        "加入！",
+        "暂时离开"
+      ],
+      "deal": [
+        "13_114025",
+        ""
+      ],
+      "msg": "哇！好多好大的雪球！它们看起来很开心的样子，要不要加入呢？",
+      "dir": 0,
+      "groupId": 699,
+      "id": 2144,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这样啊……但你们长得那么像，一看就是大好人！",
+      "dir": 0,
+      "groupId": 700,
+      "id": 2145,
+      "npcId": 6027
+    },
+    {
+      "answer": [
+        "藏？"
+      ],
+      "deal": null,
+      "msg": "大好人赛尔！帮帮我吧！家人们都太会藏了！我完全找不到它们！",
+      "dir": 0,
+      "groupId": 700,
+      "id": 2146,
+      "npcId": 6027
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你们在玩捉迷藏吗？",
+      "dir": 0,
+      "groupId": 700,
+      "id": 2147,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "嗯！家人们一溜烟就不见了，赛尔赛尔，帮帮我嘛！<font color=\"0xffd325\">一共有8只米鲁藏起来了，我已经搜集到了一些情报，如果没有头绪，就来找我聊聊吧！</font>\r\n如果能找到大家的话，人家就把精心制作的手作送给你！",
+      "dir": 0,
+      "groupId": 700,
+      "id": 2148,
+      "npcId": 6027
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "大好人赛尔！帮帮我吧！家人们都太会藏了！我完全找不到它们！",
+      "dir": 0,
+      "groupId": 701,
+      "id": 2149,
+      "npcId": 6027
+    },
+    {
+      "answer": [
+        "藏？"
+      ],
+      "deal": null,
+      "msg": "你们在玩捉迷藏吗？",
+      "dir": 0,
+      "groupId": 701,
+      "id": 2150,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "嗯！家人们一溜烟就不见了，赛尔赛尔，帮帮我嘛！<font color=\"0xffd325\">一共有8只米鲁藏起来了，我已经搜集到了一些情报，如果没有头绪，就来找人家聊聊吧！</font>\r\n如果能找到大家的话，人家就把精心制作的手作送给你！",
+      "dir": 0,
+      "groupId": 701,
+      "id": 2151,
+      "npcId": 6027
+    },
+    {
+      "answer": [
+        "（启用精灵翻译单元）"
+      ],
+      "deal": null,
+      "msg": "蜗牛的触须又开始有规律的摆动",
+      "dir": 0,
+      "groupId": 702,
+      "id": 2152,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "可恶，被骗了！"
+      ],
+      "deal": null,
+      "msg": "“你为什么不问问神奇的海螺呢？”",
+      "dir": 0,
+      "groupId": 702,
+      "id": 2153,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "蜗牛的触须又开始有规律的摆动",
+      "dir": 0,
+      "groupId": 703,
+      "id": 2154,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "“我的孩子们一直在我身边，但它们比较害羞，要见到它们，你需要一些小小的耐心”",
+      "dir": 0,
+      "groupId": 703,
+      "id": 2155,
       "npcId": 11
     }
   ]

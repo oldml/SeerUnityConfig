@@ -4193,6 +4193,34 @@
       "currAppDo": 1,
       "id": 728,
       "isFullScreen": 1
+    },
+    {
+      "moduleName": "snowBallJenga",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 729,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "moshidiluChallenge",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 730,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "yearvip2025Leave",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 731,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "yearVIP2026Reserve",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 732,
+      "isFullScreen": 0
     }
   ]
 }

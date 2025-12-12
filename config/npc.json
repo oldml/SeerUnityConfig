@@ -1189,6 +1189,116 @@
       "id": 119,
       "scale": 1,
       "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "粉围巾米鲁",
+      "portrait": "milu1_fg",
+      "CharacterID": 6019,
+      "id": 120,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "紫围巾米鲁",
+      "portrait": "milu2_fg",
+      "CharacterID": 6020,
+      "id": 121,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "绿围巾米鲁",
+      "portrait": "milu3_fg",
+      "CharacterID": 6021,
+      "id": 122,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "蓝围巾米鲁",
+      "portrait": "milu4_fg",
+      "CharacterID": 6022,
+      "id": 123,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "肥美的米鲁",
+      "portrait": "milu5_fg",
+      "CharacterID": 6023,
+      "id": 124,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "米鲁哥哥",
+      "portrait": "milu6_fg",
+      "CharacterID": 6024,
+      "id": 125,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "米鲁卫兵",
+      "portrait": "milu7_fg",
+      "CharacterID": 6025,
+      "id": 126,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "米鲁首领",
+      "portrait": "milu8_fg",
+      "CharacterID": 6026,
+      "id": 127,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "米鲁妹妹",
+      "portrait": "meimei1_fg",
+      "CharacterID": 6027,
+      "id": 128,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "米鲁妹妹",
+      "portrait": "meimei2_fg",
+      "CharacterID": 6028,
+      "id": 129,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "米鲁妹妹",
+      "portrait": "meimei3_fg",
+      "CharacterID": 6029,
+      "id": 130,
+      "scale": 1,
+      "silhouette": 0
     }
   ]
 }

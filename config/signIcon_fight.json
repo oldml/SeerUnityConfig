@@ -2724,7 +2724,7 @@
         "isShowNum": 0,
         "showmonster": 4186,
         "showtime": 0,
-        "sort": 4
+        "sort": 5
       },
       {
         "className": "*",
@@ -2747,39 +2747,55 @@
         "isShowNum": 0,
         "showmonster": 4186,
         "showtime": 0,
-        "sort": 4
+        "sort": 5
       },
       {
         "className": "*",
-        "dec": "墨菲斯托1",
+        "dec": "曝",
         "Des": "",
         "frame": null,
         "NumDes": "",
         "spDes": null,
         "spicon": null,
         "sptips": null,
-        "tips": "墨菲斯托1",
+        "tips": "曝",
         "id": 141,
-        "isShowNum": 1,
-        "showmonster": 4186,
+        "isShowNum": 0,
+        "showmonster": 0,
         "showtime": 0,
         "sort": 4
       },
       {
         "className": "*",
-        "dec": "墨菲斯托2",
+        "dec": "唱词",
         "Des": "",
         "frame": null,
         "NumDes": "",
         "spDes": null,
         "spicon": null,
         "sptips": null,
-        "tips": "墨菲斯托2",
+        "tips": "唱词",
         "id": 142,
         "isShowNum": 1,
-        "showmonster": 4186,
+        "showmonster": 0,
         "showtime": 0,
         "sort": 4
+      },
+      {
+        "className": "*",
+        "dec": "苍茫树海",
+        "Des": "苍茫树海的生命力等同于玛洛迪斯的临时体力上限，每回合结束后若玛洛迪斯的临时体力上限中没有体力值则苍茫树海消失；己方在场精灵每次受到真实伤害后，消除对手回合类效果与能力提升状态；对方精灵使用技能后，己方的玛洛迪斯受到等同于威力值的真实伤害且苍茫树海每有210点生命力替在场精灵触发1次苍茫之森；回合结束时，己方玛洛迪斯恢复所有技能2点PP值且苍茫树海每有210点生命力替在场精灵触发1次灵魂指引",
+        "frame": null,
+        "NumDes": "当前生命力",
+        "spDes": null,
+        "spicon": null,
+        "sptips": null,
+        "tips": "苍茫树海",
+        "id": 143,
+        "isShowNum": 1,
+        "showmonster": 0,
+        "showtime": 0,
+        "sort": 5
       },
       {
         "className": "SignBuffView_1000",

@@ -954,22 +954,8 @@
         "id": 50
       },
       {
-        "changeMapComp": {
-          "component": [
-            {
-              "targetID": 53,
-              "x": 284.55,
-              "y": 191.3
-            }
-          ]
-        },
-        "Entries": {
-          "Entry": [
-            {
-              "FromMap": 53
-            }
-          ]
-        },
+        "changeMapComp": null,
+        "Entries": null,
         "id": 51
       },
       {
@@ -977,8 +963,8 @@
           "component": [
             {
               "targetID": 51,
-              "x": 105,
-              "y": 484.95
+              "x": 57,
+              "y": 407
             },
             {
               "targetID": 691,
@@ -8809,6 +8795,11 @@
         "id": 1661
       },
       {
+        "changeMapComp": null,
+        "Entries": null,
+        "id": 1715
+      },
+      {
         "changeMapComp": {
           "component": [
             {
@@ -8833,6 +8824,11 @@
         },
         "Entries": null,
         "id": 2158
+      },
+      {
+        "changeMapComp": null,
+        "Entries": null,
+        "id": 2161
       },
       {
         "changeMapComp": {

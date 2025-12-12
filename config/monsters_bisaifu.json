@@ -438167,6 +438167,12 @@
               "Rec": 0,
               "tag": 0,
               "Tag": 0
+            },
+            {
+              "ID": 38186,
+              "Rec": 0,
+              "tag": 0,
+              "Tag": 0
             }
           ]
         },
@@ -458253,7 +458259,14 @@
               "Tag": 0
             }
           ],
-          "SpMove": null
+          "SpMove": [
+            {
+              "ID": 29213,
+              "Rec": 0,
+              "tag": 0,
+              "Tag": 0
+            }
+          ]
         },
         "Move": null,
         "ShowExtraMoves": null,
@@ -466103,7 +466116,14 @@
               "Tag": 0
             }
           ],
-          "SpMove": null
+          "SpMove": [
+            {
+              "ID": 29211,
+              "Rec": 0,
+              "tag": 0,
+              "Tag": 0
+            }
+          ]
         },
         "Move": null,
         "ShowExtraMoves": null,
@@ -480089,7 +480109,14 @@
               "Tag": 0
             }
           ],
-          "SpMove": null
+          "SpMove": [
+            {
+              "ID": 38187,
+              "Rec": 0,
+              "tag": 0,
+              "Tag": 0
+            }
+          ]
         },
         "Move": null,
         "ShowExtraMoves": null,
@@ -505632,7 +505659,14 @@
               "Tag": 0
             }
           ],
-          "SpMove": null
+          "SpMove": [
+            {
+              "ID": 29212,
+              "Rec": 0,
+              "tag": 0,
+              "Tag": 0
+            }
+          ]
         },
         "Move": null,
         "ShowExtraMoves": null,
@@ -625950,7 +625984,492 @@
         "SpDef": 110,
         "Support": 0,
         "Transform": 0,
-        "Type": 48,
+        "Type": 50,
+        "Vip": 0
+      },
+      {
+        "DefName": "白图泰",
+        "ExtraMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 38180,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 10157,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20491,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10629,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 21153,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11531,
+              "LearningLv": 17,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 38178,
+              "LearningLv": 21,
+              "Rec": 1,
+              "Tag": 1
+            },
+            {
+              "ID": 22020,
+              "LearningLv": 25,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11025,
+              "LearningLv": 29,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 22052,
+              "LearningLv": 33,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 32460,
+              "LearningLv": 37,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 26332,
+              "LearningLv": 41,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 32596,
+              "LearningLv": 45,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 29205,
+              "LearningLv": 49,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "ID": 32597,
+              "LearningLv": 53,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 29206,
+              "LearningLv": 57,
+              "Rec": 1,
+              "Tag": 3
+            },
+            {
+              "ID": 38179,
+              "LearningLv": 61,
+              "Rec": 1,
+              "Tag": 4
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 70,
+        "CharacterAttrParam": 4,
+        "Combo": 0,
+        "Def": 113,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 1,
+        "HP": 170,
+        "ID": 4845,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 3506,
+        "RealId": 0,
+        "SpAtk": 135,
+        "Spd": 134,
+        "SpDef": 113,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 102,
+        "Vip": 0
+      },
+      {
+        "DefName": "米鲁妹妹",
+        "ExtraMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 38183,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 10004,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10202,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20057,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20061,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10212,
+              "LearningLv": 17,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 38181,
+              "LearningLv": 21,
+              "Rec": 1,
+              "Tag": 1
+            },
+            {
+              "ID": 10068,
+              "LearningLv": 25,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20062,
+              "LearningLv": 29,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10213,
+              "LearningLv": 33,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10216,
+              "LearningLv": 37,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20063,
+              "LearningLv": 41,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10046,
+              "LearningLv": 45,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 29207,
+              "LearningLv": 49,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "ID": 20064,
+              "LearningLv": 53,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 29208,
+              "LearningLv": 57,
+              "Rec": 1,
+              "Tag": 3
+            },
+            {
+              "ID": 38182,
+              "LearningLv": 61,
+              "Rec": 1,
+              "Tag": 4
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 70,
+        "CharacterAttrParam": 4,
+        "Combo": 0,
+        "Def": 105,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 2,
+        "HP": 152,
+        "ID": 4846,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 3507,
+        "RealId": 0,
+        "SpAtk": 135,
+        "Spd": 130,
+        "SpDef": 108,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 9,
+        "Vip": 0
+      },
+      {
+        "DefName": "蘑蘑蜗",
+        "ExtraMoves": null,
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 10001,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20004,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10042,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20020,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10112,
+              "LearningLv": 17,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 38184,
+              "LearningLv": 21,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10114,
+              "LearningLv": 25,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20027,
+              "LearningLv": 29,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10116,
+              "LearningLv": 33,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20054,
+              "LearningLv": 37,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10014,
+              "LearningLv": 41,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10117,
+              "LearningLv": 45,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 29209,
+              "LearningLv": 49,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "ID": 10115,
+              "LearningLv": 53,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 29210,
+              "LearningLv": 57,
+              "Rec": 1,
+              "Tag": 3
+            },
+            {
+              "ID": 38185,
+              "LearningLv": 61,
+              "Rec": 1,
+              "Tag": 4
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 135,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 110,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 165,
+        "ID": 4847,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 3508,
+        "RealId": 0,
+        "SpAtk": 70,
+        "Spd": 110,
+        "SpDef": 110,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 1,
+        "Vip": 0
+      },
+      {
+        "DefName": "梅赫维特",
+        "ExtraMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 29214,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 38171,
+              "LearningLv": 1,
+              "Rec": 1,
+              "Tag": 1
+            },
+            {
+              "ID": 38172,
+              "LearningLv": 2,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "ID": 38173,
+              "LearningLv": 3,
+              "Rec": 1,
+              "Tag": 3
+            },
+            {
+              "ID": 38174,
+              "LearningLv": 4,
+              "Rec": 1,
+              "Tag": 4
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 70,
+        "CharacterAttrParam": 4,
+        "Combo": 0,
+        "Def": 130,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 2,
+        "HP": 185,
+        "ID": 4999,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 3660,
+        "RealId": 77,
+        "SpAtk": 155,
+        "Spd": 140,
+        "SpDef": 130,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 130,
         "Vip": 0
       },
       {
@@ -626150,6 +626669,1367 @@
         "Vip": 0
       },
       {
+        "DefName": "塔克林",
+        "ExtraMoves": null,
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 10759,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 120,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 100,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 0,
+        "HP": 130,
+        "ID": 15001,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 274,
+        "SpAtk": 95,
+        "Spd": 86,
+        "SpDef": 80,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 15,
+        "Vip": 0
+      },
+      {
+        "DefName": "雷伊的分身",
+        "ExtraMoves": null,
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 10006,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20006,
+              "LearningLv": 2,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10166,
+              "LearningLv": 3,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10171,
+              "LearningLv": 4,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20004,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10167,
+              "LearningLv": 6,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10172,
+              "LearningLv": 7,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20085,
+              "LearningLv": 8,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10010,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10168,
+              "LearningLv": 10,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10173,
+              "LearningLv": 11,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10175,
+              "LearningLv": 12,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10169,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10174,
+              "LearningLv": 14,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10824,
+              "LearningLv": 15,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10823,
+              "LearningLv": 16,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20363,
+              "LearningLv": 17,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10176,
+              "LearningLv": 18,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 108,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 70,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 0,
+        "HP": 71,
+        "ID": 15002,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 70,
+        "SpAtk": 101,
+        "Spd": 105,
+        "SpDef": 77,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 5,
+        "Vip": 0
+      },
+      {
+        "DefName": "机械塔克林",
+        "ExtraMoves": null,
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 20338,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10762,
+              "LearningLv": 53,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20339,
+              "LearningLv": 57,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 120,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 100,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 0,
+        "HP": 130,
+        "ID": 15003,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 95,
+        "Spd": 86,
+        "SpDef": 80,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 15,
+        "Vip": 0
+      },
+      {
+        "DefName": "阿尔达拉",
+        "ExtraMoves": null,
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 10018,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20328,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10054,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11225,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10473,
+              "LearningLv": 17,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20489,
+              "LearningLv": 21,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10630,
+              "LearningLv": 25,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11228,
+              "LearningLv": 29,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20550,
+              "LearningLv": 33,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11226,
+              "LearningLv": 37,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10633,
+              "LearningLv": 41,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20490,
+              "LearningLv": 45,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11045,
+              "LearningLv": 49,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11229,
+              "LearningLv": 53,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20355,
+              "LearningLv": 57,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11227,
+              "LearningLv": 61,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11230,
+              "LearningLv": 65,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 110,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 82,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 0,
+        "HP": 109,
+        "ID": 15004,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 111,
+        "Spd": 95,
+        "SpDef": 83,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 31,
+        "Vip": 1
+      },
+      {
+        "DefName": "雷伊的幻影",
+        "ExtraMoves": null,
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 10825,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 108,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 70,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 0,
+        "HP": 71,
+        "ID": 15005,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 101,
+        "Spd": 105,
+        "SpDef": 77,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 5,
+        "Vip": 0
+      },
+      {
+        "DefName": "咤克斯的分身",
+        "ExtraMoves": null,
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 11530,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20485,
+              "LearningLv": 4,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 51,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 41,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 55,
+        "ID": 15006,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 70,
+        "Spd": 45,
+        "SpDef": 43,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 13,
+        "Vip": 0
+      },
+      {
+        "DefName": "辛奇帕克",
+        "ExtraMoves": null,
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 10969,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 75,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 110,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 2,
+        "HP": 125,
+        "ID": 15007,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 389,
+        "SpAtk": 90,
+        "Spd": 53,
+        "SpDef": 117,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 1,
+        "Vip": 0
+      },
+      {
+        "DefName": "愤怒的化身",
+        "ExtraMoves": null,
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 11660,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11661,
+              "LearningLv": 2,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20819,
+              "LearningLv": 3,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11662,
+              "LearningLv": 4,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 120,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 100,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 2,
+        "HP": 120,
+        "ID": 15008,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 120,
+        "Spd": 100,
+        "SpDef": 100,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 62,
+        "Vip": 0
+      },
+      {
+        "DefName": "贪婪的化身",
+        "ExtraMoves": null,
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 11660,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11661,
+              "LearningLv": 2,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20819,
+              "LearningLv": 3,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11662,
+              "LearningLv": 4,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 120,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 100,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 2,
+        "HP": 120,
+        "ID": 15009,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 120,
+        "Spd": 100,
+        "SpDef": 100,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 62,
+        "Vip": 0
+      },
+      {
+        "DefName": "恐惧的化身",
+        "ExtraMoves": null,
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 11660,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11661,
+              "LearningLv": 2,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20819,
+              "LearningLv": 3,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11662,
+              "LearningLv": 4,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 120,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 100,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 2,
+        "HP": 120,
+        "ID": 15010,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 120,
+        "Spd": 100,
+        "SpDef": 100,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 62,
+        "Vip": 0
+      },
+      {
+        "DefName": "咤克斯",
+        "ExtraMoves": null,
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 11660,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11661,
+              "LearningLv": 2,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20819,
+              "LearningLv": 3,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11662,
+              "LearningLv": 4,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 120,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 100,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 2,
+        "HP": 120,
+        "ID": 15011,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 120,
+        "Spd": 100,
+        "SpDef": 100,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 62,
+        "Vip": 0
+      },
+      {
+        "DefName": "亚伦斯",
+        "ExtraMoves": null,
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 11668,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 84,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 80,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 1,
+        "HP": 130,
+        "ID": 15012,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 672,
+        "SpAtk": 116,
+        "Spd": 98,
+        "SpDef": 82,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 46,
+        "Vip": 0
+      },
+      {
+        "DefName": "泰格尔",
+        "ExtraMoves": null,
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 20475,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11711,
+              "LearningLv": 2,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20853,
+              "LearningLv": 3,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11713,
+              "LearningLv": 4,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 120,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 97,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 0,
+        "HP": 131,
+        "ID": 15013,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 503,
+        "SpAtk": 120,
+        "Spd": 94,
+        "SpDef": 93,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 5,
+        "Vip": 0
+      },
+      {
+        "DefName": "泰格尔",
+        "ExtraMoves": null,
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 11710,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20853,
+              "LearningLv": 2,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20854,
+              "LearningLv": 3,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11714,
+              "LearningLv": 4,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 120,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 97,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 0,
+        "HP": 131,
+        "ID": 15014,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 503,
+        "SpAtk": 120,
+        "Spd": 94,
+        "SpDef": 93,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 11,
+        "Vip": 0
+      },
+      {
+        "DefName": "泰格尔",
+        "ExtraMoves": null,
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 11710,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20853,
+              "LearningLv": 2,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20854,
+              "LearningLv": 3,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11714,
+              "LearningLv": 4,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 120,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 97,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 0,
+        "HP": 131,
+        "ID": 15015,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 503,
+        "SpAtk": 120,
+        "Spd": 94,
+        "SpDef": 93,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 11,
+        "Vip": 0
+      },
+      {
+        "DefName": "泰格尔",
+        "ExtraMoves": null,
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 20475,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11711,
+              "LearningLv": 2,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20853,
+              "LearningLv": 3,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11713,
+              "LearningLv": 4,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 120,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 97,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 0,
+        "HP": 131,
+        "ID": 15016,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 503,
+        "SpAtk": 120,
+        "Spd": 94,
+        "SpDef": 93,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 5,
+        "Vip": 0
+      },
+      {
+        "DefName": "雷伊",
+        "ExtraMoves": null,
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 10006,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20006,
+              "LearningLv": 4,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10166,
+              "LearningLv": 8,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10171,
+              "LearningLv": 12,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20004,
+              "LearningLv": 16,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10167,
+              "LearningLv": 20,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10172,
+              "LearningLv": 24,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20085,
+              "LearningLv": 28,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10010,
+              "LearningLv": 32,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10168,
+              "LearningLv": 36,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10173,
+              "LearningLv": 40,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20086,
+              "LearningLv": 43,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10169,
+              "LearningLv": 47,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10174,
+              "LearningLv": 51,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10170,
+              "LearningLv": 55,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20087,
+              "LearningLv": 60,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10175,
+              "LearningLv": 64,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10176,
+              "LearningLv": 70,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": [
+            {
+              "ID": 10823,
+              "Rec": 0,
+              "tag": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10824,
+              "Rec": 0,
+              "tag": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10825,
+              "Rec": 0,
+              "tag": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20363,
+              "Rec": 0,
+              "tag": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20364,
+              "Rec": 0,
+              "tag": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 13582,
+              "Rec": 0,
+              "tag": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 13583,
+              "Rec": 0,
+              "tag": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 13584,
+              "Rec": 0,
+              "tag": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 13585,
+              "Rec": 0,
+              "tag": 0,
+              "Tag": 0
+            }
+          ]
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 108,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 70,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 1,
+        "HP": 71,
+        "ID": 15017,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 70,
+        "SpAtk": 101,
+        "Spd": 105,
+        "SpDef": 77,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 5,
+        "Vip": 0
+      },
+      {
+        "DefName": "卡茨",
+        "ExtraMoves": null,
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 10001,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 108,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 70,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 1,
+        "HP": 71,
+        "ID": 15018,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 796,
+        "SpAtk": 101,
+        "Spd": 105,
+        "SpDef": 77,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 42,
+        "Vip": 0
+      },
+      {
+        "DefName": "厄尔塞拉",
+        "ExtraMoves": null,
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 10632,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11139,
+              "LearningLv": 2,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11140,
+              "LearningLv": 3,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 79,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 91,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 2,
+        "HP": 102,
+        "ID": 15019,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 421,
+        "SpAtk": 112,
+        "Spd": 103,
+        "SpDef": 94,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 12,
+        "Vip": 0
+      },
+      {
+        "DefName": "海盗杂兵",
+        "ExtraMoves": null,
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 10632,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11139,
+              "LearningLv": 2,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11140,
+              "LearningLv": 3,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 79,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 91,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 2,
+        "HP": 102,
+        "ID": 15020,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 112,
+        "Spd": 103,
+        "SpDef": 94,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 12,
+        "Vip": 0
+      },
+      {
         "DefName": "炎魔",
         "ExtraMoves": null,
         "LearnableMoves": {
@@ -626267,7 +628147,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5021,
+        "ID": 15021,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -626326,7 +628206,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5022,
+        "ID": 15022,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -626367,7 +628247,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 71,
-        "ID": 5023,
+        "ID": 15023,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -626426,7 +628306,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 115,
-        "ID": 5024,
+        "ID": 15024,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -626569,7 +628449,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 71,
-        "ID": 5025,
+        "ID": 15025,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -626628,7 +628508,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 120,
-        "ID": 5026,
+        "ID": 15026,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -626687,7 +628567,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 120,
-        "ID": 5027,
+        "ID": 15027,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -626776,7 +628656,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 74,
-        "ID": 5028,
+        "ID": 15028,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -626907,7 +628787,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5029,
+        "ID": 15029,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -627038,7 +628918,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 130,
-        "ID": 5030,
+        "ID": 15030,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -627169,7 +629049,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 130,
-        "ID": 5031,
+        "ID": 15031,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -627300,7 +629180,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 130,
-        "ID": 5032,
+        "ID": 15032,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -627431,7 +629311,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 130,
-        "ID": 5033,
+        "ID": 15033,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -627562,7 +629442,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5034,
+        "ID": 15034,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -627627,7 +629507,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 118,
-        "ID": 5035,
+        "ID": 15035,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -627698,7 +629578,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 120,
-        "ID": 5036,
+        "ID": 15036,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -627757,7 +629637,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 120,
-        "ID": 5037,
+        "ID": 15037,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -627798,7 +629678,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 120,
-        "ID": 5038,
+        "ID": 15038,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -627839,7 +629719,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 120,
-        "ID": 5039,
+        "ID": 15039,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -627880,7 +629760,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 120,
-        "ID": 5040,
+        "ID": 15040,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -627921,7 +629801,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 120,
-        "ID": 5041,
+        "ID": 15041,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -627980,7 +629860,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5042,
+        "ID": 15042,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -628021,7 +629901,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 120,
-        "ID": 5043,
+        "ID": 15043,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -628062,7 +629942,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 71,
-        "ID": 5044,
+        "ID": 15044,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -628103,7 +629983,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 105,
-        "ID": 5045,
+        "ID": 15045,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -628144,7 +630024,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 121,
-        "ID": 5046,
+        "ID": 15046,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -628185,7 +630065,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 122,
-        "ID": 5047,
+        "ID": 15047,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -628219,7 +630099,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 122,
-        "ID": 5048,
+        "ID": 15048,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -628260,7 +630140,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 130,
-        "ID": 5049,
+        "ID": 15049,
         "isFlyPet": 0,
         "isRidePet": 1,
         "PetClass": 0,
@@ -628294,7 +630174,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 122,
-        "ID": 5050,
+        "ID": 15050,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -628328,7 +630208,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 122,
-        "ID": 5051,
+        "ID": 15051,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -628369,7 +630249,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 120,
-        "ID": 5052,
+        "ID": 15052,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -628410,7 +630290,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 130,
-        "ID": 5053,
+        "ID": 15053,
         "isFlyPet": 0,
         "isRidePet": 1,
         "PetClass": 0,
@@ -628469,7 +630349,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5054,
+        "ID": 15054,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -628528,7 +630408,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 130,
-        "ID": 5055,
+        "ID": 15055,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 657,
@@ -628587,7 +630467,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 126,
-        "ID": 5056,
+        "ID": 15056,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 704,
@@ -628646,7 +630526,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 124,
-        "ID": 5057,
+        "ID": 15057,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -628705,7 +630585,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 124,
-        "ID": 5058,
+        "ID": 15058,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -628764,7 +630644,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 124,
-        "ID": 5059,
+        "ID": 15059,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -628823,7 +630703,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 124,
-        "ID": 5060,
+        "ID": 15060,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -628882,7 +630762,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 124,
-        "ID": 5061,
+        "ID": 15061,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -628941,7 +630821,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 124,
-        "ID": 5062,
+        "ID": 15062,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -629000,7 +630880,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 124,
-        "ID": 5063,
+        "ID": 15063,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -629059,7 +630939,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 124,
-        "ID": 5064,
+        "ID": 15064,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
@@ -629100,7 +630980,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 124,
-        "ID": 5065,
+        "ID": 15065,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 889,
@@ -629141,7 +631021,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5066,
+        "ID": 15066,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 890,
@@ -629182,7 +631062,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5067,
+        "ID": 15067,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 891,
@@ -629241,7 +631121,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5068,
+        "ID": 15068,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 926,
@@ -629294,7 +631174,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 105,
-        "ID": 5069,
+        "ID": 15069,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 99,
@@ -629341,7 +631221,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 124,
-        "ID": 5070,
+        "ID": 15070,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 941,
@@ -629472,7 +631352,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5071,
+        "ID": 15071,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 931,
@@ -629603,7 +631483,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5072,
+        "ID": 15072,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 931,
@@ -629662,7 +631542,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 126,
-        "ID": 5073,
+        "ID": 15073,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 945,
@@ -629721,7 +631601,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 126,
-        "ID": 5074,
+        "ID": 15074,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 945,
@@ -629780,7 +631660,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 126,
-        "ID": 5075,
+        "ID": 15075,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 945,
@@ -629875,7 +631755,7 @@
         "FreeForbidden": 0,
         "Gender": 0,
         "HP": 121,
-        "ID": 5076,
+        "ID": 15076,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1020,
@@ -629970,7 +631850,7 @@
         "FreeForbidden": 0,
         "Gender": 0,
         "HP": 121,
-        "ID": 5077,
+        "ID": 15077,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1020,
@@ -630065,7 +631945,7 @@
         "FreeForbidden": 0,
         "Gender": 0,
         "HP": 121,
-        "ID": 5078,
+        "ID": 15078,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1020,
@@ -630160,7 +632040,7 @@
         "FreeForbidden": 0,
         "Gender": 0,
         "HP": 121,
-        "ID": 5079,
+        "ID": 15079,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1020,
@@ -630255,7 +632135,7 @@
         "FreeForbidden": 0,
         "Gender": 0,
         "HP": 121,
-        "ID": 5080,
+        "ID": 15080,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1020,
@@ -630350,7 +632230,7 @@
         "FreeForbidden": 0,
         "Gender": 0,
         "HP": 121,
-        "ID": 5081,
+        "ID": 15081,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1020,
@@ -630445,7 +632325,7 @@
         "FreeForbidden": 0,
         "Gender": 0,
         "HP": 121,
-        "ID": 5082,
+        "ID": 15082,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1020,
@@ -630504,7 +632384,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 127,
-        "ID": 5083,
+        "ID": 15083,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1036,
@@ -630563,7 +632443,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 1,
-        "ID": 5084,
+        "ID": 15084,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1036,
@@ -630622,7 +632502,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 135,
-        "ID": 5085,
+        "ID": 15085,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1081,
@@ -630681,7 +632561,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5086,
+        "ID": 15086,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1102,
@@ -630740,7 +632620,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5087,
+        "ID": 15087,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1102,
@@ -630799,7 +632679,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5088,
+        "ID": 15088,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1102,
@@ -630858,7 +632738,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5089,
+        "ID": 15089,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1102,
@@ -630917,7 +632797,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5090,
+        "ID": 15090,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1110,
@@ -630976,7 +632856,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5091,
+        "ID": 15091,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1110,
@@ -631035,7 +632915,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5092,
+        "ID": 15092,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1110,
@@ -631094,7 +632974,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5093,
+        "ID": 15093,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1110,
@@ -631153,7 +633033,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5094,
+        "ID": 15094,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1110,
@@ -631224,7 +633104,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5095,
+        "ID": 15095,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1118,
@@ -631349,7 +633229,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 132,
-        "ID": 5096,
+        "ID": 15096,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1116,
@@ -631408,7 +633288,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 134,
-        "ID": 5097,
+        "ID": 15097,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1088,
@@ -631467,7 +633347,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 47,
-        "ID": 5098,
+        "ID": 15098,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 40,
@@ -631532,7 +633412,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 77,
-        "ID": 5099,
+        "ID": 15099,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 203,
@@ -631621,7 +633501,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 82,
-        "ID": 5100,
+        "ID": 15100,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 407,
@@ -631710,7 +633590,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 98,
-        "ID": 5101,
+        "ID": 15101,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 460,
@@ -631805,7 +633685,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 92,
-        "ID": 5102,
+        "ID": 15102,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 203,
@@ -631936,7 +633816,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 122,
-        "ID": 5103,
+        "ID": 15103,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 407,
@@ -632019,7 +633899,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 72,
-        "ID": 5104,
+        "ID": 15104,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 415,
@@ -632108,7 +633988,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 88,
-        "ID": 5105,
+        "ID": 15105,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 413,
@@ -632239,7 +634119,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 118,
-        "ID": 5106,
+        "ID": 15106,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 413,
@@ -632370,7 +634250,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 128,
-        "ID": 5107,
+        "ID": 15107,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 460,
@@ -632501,7 +634381,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 123,
-        "ID": 5108,
+        "ID": 15108,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 472,
@@ -632632,7 +634512,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 122,
-        "ID": 5109,
+        "ID": 15109,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 750,
@@ -632763,7 +634643,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5110,
+        "ID": 15110,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1167,
@@ -632822,7 +634702,7 @@
         "FreeForbidden": 0,
         "Gender": 0,
         "HP": 121,
-        "ID": 5111,
+        "ID": 15111,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1020,
@@ -632881,7 +634761,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 129,
-        "ID": 5112,
+        "ID": 15112,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 45,
@@ -632940,7 +634820,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 129,
-        "ID": 5113,
+        "ID": 15113,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 45,
@@ -633071,7 +634951,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5114,
+        "ID": 15114,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 618,
@@ -633213,7 +635093,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 132,
-        "ID": 5115,
+        "ID": 15115,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1182,
@@ -633344,7 +635224,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 126,
-        "ID": 5116,
+        "ID": 15116,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1087,
@@ -633486,7 +635366,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5117,
+        "ID": 15117,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1220,
@@ -633670,7 +635550,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 140,
-        "ID": 5118,
+        "ID": 15118,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1280,
@@ -633854,7 +635734,7 @@
         "FreeForbidden": 1,
         "Gender": 3,
         "HP": 140,
-        "ID": 5119,
+        "ID": 15119,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1280,
@@ -634038,7 +635918,7 @@
         "FreeForbidden": 1,
         "Gender": 3,
         "HP": 140,
-        "ID": 5120,
+        "ID": 15120,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1280,
@@ -634222,7 +636102,7 @@
         "FreeForbidden": 1,
         "Gender": 3,
         "HP": 140,
-        "ID": 5121,
+        "ID": 15121,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1280,
@@ -634395,7 +636275,7 @@
         "FreeForbidden": 1,
         "Gender": 3,
         "HP": 140,
-        "ID": 5122,
+        "ID": 15122,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1280,
@@ -634537,7 +636417,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5123,
+        "ID": 15123,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1297,
@@ -634679,7 +636559,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5124,
+        "ID": 15124,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1297,
@@ -634821,7 +636701,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5125,
+        "ID": 15125,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1297,
@@ -634963,7 +636843,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5126,
+        "ID": 15126,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1297,
@@ -635105,7 +636985,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5127,
+        "ID": 15127,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1297,
@@ -635247,7 +637127,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5128,
+        "ID": 15128,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1297,
@@ -635443,7 +637323,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5129,
+        "ID": 15129,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1296,
@@ -635585,7 +637465,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5130,
+        "ID": 15130,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1304,
@@ -635727,7 +637607,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5131,
+        "ID": 15131,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1304,
@@ -635869,7 +637749,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5132,
+        "ID": 15132,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1304,
@@ -636011,7 +637891,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5133,
+        "ID": 15133,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1304,
@@ -636153,7 +638033,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5134,
+        "ID": 15134,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1304,
@@ -636295,7 +638175,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5135,
+        "ID": 15135,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1304,
@@ -636437,7 +638317,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5136,
+        "ID": 15136,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1304,
@@ -636579,7 +638459,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5137,
+        "ID": 15137,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1304,
@@ -636721,7 +638601,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5138,
+        "ID": 15138,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1304,
@@ -636863,7 +638743,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5139,
+        "ID": 15139,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1304,
@@ -637005,7 +638885,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 132,
-        "ID": 5140,
+        "ID": 15140,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1311,
@@ -637147,7 +639027,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 132,
-        "ID": 5141,
+        "ID": 15141,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1311,
@@ -637289,7 +639169,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 132,
-        "ID": 5142,
+        "ID": 15142,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1311,
@@ -637431,7 +639311,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 132,
-        "ID": 5143,
+        "ID": 15143,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1311,
@@ -637562,7 +639442,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 125,
-        "ID": 5144,
+        "ID": 15144,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 587,
@@ -637693,7 +639573,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 126,
-        "ID": 5145,
+        "ID": 15145,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 800,
@@ -637824,7 +639704,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 125,
-        "ID": 5146,
+        "ID": 15146,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 390,
@@ -637955,7 +639835,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 118,
-        "ID": 5147,
+        "ID": 15147,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 324,
@@ -638127,7 +640007,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 139,
-        "ID": 5148,
+        "ID": 15148,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1374,
@@ -638299,7 +640179,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 139,
-        "ID": 5149,
+        "ID": 15149,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1374,
@@ -638471,7 +640351,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 139,
-        "ID": 5150,
+        "ID": 15150,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1374,
@@ -638643,7 +640523,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 139,
-        "ID": 5151,
+        "ID": 15151,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1374,
@@ -638815,7 +640695,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 139,
-        "ID": 5152,
+        "ID": 15152,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1374,
@@ -638946,7 +640826,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5153,
+        "ID": 15153,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1390,
@@ -639077,7 +640957,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5154,
+        "ID": 15154,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1390,
@@ -639208,7 +641088,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5155,
+        "ID": 15155,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1390,
@@ -639339,7 +641219,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5156,
+        "ID": 15156,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1390,
@@ -639487,7 +641367,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 145,
-        "ID": 5157,
+        "ID": 15157,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1406,
@@ -639635,7 +641515,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 145,
-        "ID": 5158,
+        "ID": 15158,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1406,
@@ -639783,7 +641663,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 145,
-        "ID": 5159,
+        "ID": 15159,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1406,
@@ -639931,7 +641811,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 145,
-        "ID": 5160,
+        "ID": 15160,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1406,
@@ -640079,7 +641959,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 145,
-        "ID": 5161,
+        "ID": 15161,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1406,
@@ -640227,7 +642107,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 145,
-        "ID": 5162,
+        "ID": 15162,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1406,
@@ -640375,7 +642255,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 145,
-        "ID": 5163,
+        "ID": 15163,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1406,
@@ -640523,7 +642403,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 145,
-        "ID": 5164,
+        "ID": 15164,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1406,
@@ -640665,7 +642545,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5165,
+        "ID": 15165,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1412,
@@ -640807,7 +642687,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5166,
+        "ID": 15166,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1412,
@@ -640949,7 +642829,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5167,
+        "ID": 15167,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1417,
@@ -641091,7 +642971,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5168,
+        "ID": 15168,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1417,
@@ -641233,7 +643113,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5169,
+        "ID": 15169,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1417,
@@ -641375,7 +643255,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5170,
+        "ID": 15170,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1167,
@@ -641517,7 +643397,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5171,
+        "ID": 15171,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1108,
@@ -641648,7 +643528,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5172,
+        "ID": 15172,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 804,
@@ -641779,7 +643659,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 130,
-        "ID": 5173,
+        "ID": 15173,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 350,
@@ -641910,7 +643790,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5174,
+        "ID": 15174,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1032,
@@ -642041,7 +643921,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 124,
-        "ID": 5175,
+        "ID": 15175,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1154,
@@ -642183,7 +644063,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 132,
-        "ID": 5176,
+        "ID": 15176,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1311,
@@ -642314,7 +644194,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5177,
+        "ID": 15177,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 299,
@@ -642456,7 +644336,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5178,
+        "ID": 15178,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1363,
@@ -642628,7 +644508,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 132,
-        "ID": 5179,
+        "ID": 15179,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1339,
@@ -642812,7 +644692,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 166,
-        "ID": 5180,
+        "ID": 15180,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1247,
@@ -642996,7 +644876,7 @@
         "FreeForbidden": 1,
         "Gender": 3,
         "HP": 140,
-        "ID": 5181,
+        "ID": 15181,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1280,
@@ -643168,7 +645048,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 139,
-        "ID": 5182,
+        "ID": 15182,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1374,
@@ -643352,7 +645232,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 166,
-        "ID": 5183,
+        "ID": 15183,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1247,
@@ -643536,7 +645416,7 @@
         "FreeForbidden": 1,
         "Gender": 3,
         "HP": 140,
-        "ID": 5184,
+        "ID": 15184,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1280,
@@ -643708,7 +645588,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 139,
-        "ID": 5185,
+        "ID": 15185,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1374,
@@ -643850,7 +645730,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5186,
+        "ID": 15186,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1412,
@@ -643992,7 +645872,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5187,
+        "ID": 15187,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1417,
@@ -644134,7 +646014,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 132,
-        "ID": 5188,
+        "ID": 15188,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1422,
@@ -644265,7 +646145,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 127,
-        "ID": 5189,
+        "ID": 15189,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 798,
@@ -644396,7 +646276,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 130,
-        "ID": 5190,
+        "ID": 15190,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 910,
@@ -644545,7 +646425,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 123,
-        "ID": 5191,
+        "ID": 15191,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1018,
@@ -644687,7 +646567,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5192,
+        "ID": 15192,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1113,
@@ -644829,7 +646709,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 126,
-        "ID": 5193,
+        "ID": 15193,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1121,
@@ -644960,7 +646840,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5194,
+        "ID": 15194,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1133,
@@ -645102,7 +646982,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5195,
+        "ID": 15195,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 902,
@@ -645233,7 +647113,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 126,
-        "ID": 5196,
+        "ID": 15196,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 934,
@@ -645394,7 +647274,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 131,
-        "ID": 5197,
+        "ID": 15197,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1129,
@@ -645567,7 +647447,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5198,
+        "ID": 15198,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1170,
@@ -645698,7 +647578,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 138,
-        "ID": 5199,
+        "ID": 15199,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 853,
@@ -645829,7 +647709,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 127,
-        "ID": 5200,
+        "ID": 15200,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 856,
@@ -645960,7 +647840,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 130,
-        "ID": 5201,
+        "ID": 15201,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1442,
@@ -646091,7 +647971,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 127,
-        "ID": 5202,
+        "ID": 15202,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1443,
@@ -646222,7 +648102,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 127,
-        "ID": 5203,
+        "ID": 15203,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1443,
@@ -646353,7 +648233,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 127,
-        "ID": 5204,
+        "ID": 15204,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1443,
@@ -646484,7 +648364,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 112,
-        "ID": 5205,
+        "ID": 15205,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 203,
@@ -646615,7 +648495,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 112,
-        "ID": 5206,
+        "ID": 15206,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 203,
@@ -646746,7 +648626,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 112,
-        "ID": 5207,
+        "ID": 15207,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 203,
@@ -646877,7 +648757,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 112,
-        "ID": 5208,
+        "ID": 15208,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 203,
@@ -647008,7 +648888,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 112,
-        "ID": 5209,
+        "ID": 15209,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 203,
@@ -647139,7 +649019,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 112,
-        "ID": 5210,
+        "ID": 15210,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 203,
@@ -647270,7 +649150,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 112,
-        "ID": 5211,
+        "ID": 15211,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 203,
@@ -647401,7 +649281,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 112,
-        "ID": 5212,
+        "ID": 15212,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 203,
@@ -647532,7 +649412,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 112,
-        "ID": 5213,
+        "ID": 15213,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 203,
@@ -647663,7 +649543,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 112,
-        "ID": 5214,
+        "ID": 15214,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 203,
@@ -647794,7 +649674,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 112,
-        "ID": 5215,
+        "ID": 15215,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 203,
@@ -647925,7 +649805,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 112,
-        "ID": 5216,
+        "ID": 15216,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 203,
@@ -648056,7 +649936,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5217,
+        "ID": 15217,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1461,
@@ -648187,7 +650067,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5218,
+        "ID": 15218,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1461,
@@ -648318,7 +650198,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5219,
+        "ID": 15219,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1461,
@@ -648449,7 +650329,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5220,
+        "ID": 15220,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1461,
@@ -648580,7 +650460,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5221,
+        "ID": 15221,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1461,
@@ -648711,7 +650591,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5222,
+        "ID": 15222,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1461,
@@ -648853,7 +650733,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5223,
+        "ID": 15223,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1468,
@@ -648995,7 +650875,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5224,
+        "ID": 15224,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1468,
@@ -649137,7 +651017,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5225,
+        "ID": 15225,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1468,
@@ -649279,7 +651159,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5226,
+        "ID": 15226,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1468,
@@ -649451,7 +651331,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 135,
-        "ID": 5227,
+        "ID": 15227,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1438,
@@ -649623,7 +651503,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 135,
-        "ID": 5228,
+        "ID": 15228,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1438,
@@ -649795,7 +651675,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 133,
-        "ID": 5229,
+        "ID": 15229,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1453,
@@ -649967,7 +651847,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 133,
-        "ID": 5230,
+        "ID": 15230,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1453,
@@ -650139,7 +652019,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 135,
-        "ID": 5231,
+        "ID": 15231,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1446,
@@ -650311,7 +652191,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 135,
-        "ID": 5232,
+        "ID": 15232,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1446,
@@ -650358,7 +652238,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 129,
-        "ID": 5233,
+        "ID": 15233,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1471,
@@ -650405,7 +652285,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 129,
-        "ID": 5234,
+        "ID": 15234,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1471,
@@ -650452,7 +652332,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 129,
-        "ID": 5235,
+        "ID": 15235,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1471,
@@ -650499,7 +652379,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 129,
-        "ID": 5236,
+        "ID": 15236,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1471,
@@ -650546,7 +652426,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 129,
-        "ID": 5237,
+        "ID": 15237,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1471,
@@ -650593,7 +652473,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 129,
-        "ID": 5238,
+        "ID": 15238,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1471,
@@ -650724,7 +652604,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 126,
-        "ID": 5239,
+        "ID": 15239,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 800,
@@ -650855,7 +652735,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 126,
-        "ID": 5240,
+        "ID": 15240,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 800,
@@ -650986,7 +652866,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 126,
-        "ID": 5241,
+        "ID": 15241,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 800,
@@ -651117,7 +652997,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 126,
-        "ID": 5242,
+        "ID": 15242,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 800,
@@ -651248,7 +653128,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 126,
-        "ID": 5243,
+        "ID": 15243,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 800,
@@ -651390,7 +653270,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5244,
+        "ID": 15244,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1484,
@@ -651532,7 +653412,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 133,
-        "ID": 5245,
+        "ID": 15245,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1490,
@@ -651704,7 +653584,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 132,
-        "ID": 5246,
+        "ID": 15246,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1486,
@@ -651846,7 +653726,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 132,
-        "ID": 5247,
+        "ID": 15247,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1493,
@@ -652048,7 +653928,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 136,
-        "ID": 5248,
+        "ID": 15248,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1485,
@@ -652190,7 +654070,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 136,
-        "ID": 5249,
+        "ID": 15249,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1473,
@@ -652362,7 +654242,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 140,
-        "ID": 5250,
+        "ID": 15250,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1480,
@@ -652493,7 +654373,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5251,
+        "ID": 15251,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1482,
@@ -652665,7 +654545,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 135,
-        "ID": 5252,
+        "ID": 15252,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1494,
@@ -652843,7 +654723,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5253,
+        "ID": 15253,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1502,
@@ -653021,7 +654901,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5254,
+        "ID": 15254,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1502,
@@ -653199,7 +655079,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5255,
+        "ID": 15255,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1502,
@@ -653377,7 +655257,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5256,
+        "ID": 15256,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1502,
@@ -653555,7 +655435,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5257,
+        "ID": 15257,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1502,
@@ -653727,7 +655607,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 140,
-        "ID": 5258,
+        "ID": 15258,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1510,
@@ -653899,7 +655779,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 140,
-        "ID": 5259,
+        "ID": 15259,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1510,
@@ -654071,7 +655951,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 140,
-        "ID": 5260,
+        "ID": 15260,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1510,
@@ -654243,7 +656123,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 140,
-        "ID": 5261,
+        "ID": 15261,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1510,
@@ -654415,7 +656295,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 140,
-        "ID": 5262,
+        "ID": 15262,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1510,
@@ -654587,7 +656467,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 140,
-        "ID": 5263,
+        "ID": 15263,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1510,
@@ -654759,7 +656639,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 140,
-        "ID": 5264,
+        "ID": 15264,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1510,
@@ -654931,7 +656811,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 140,
-        "ID": 5265,
+        "ID": 15265,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1510,
@@ -655062,7 +656942,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5266,
+        "ID": 15266,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1506,
@@ -655193,7 +657073,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5267,
+        "ID": 15267,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1506,
@@ -655324,7 +657204,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5268,
+        "ID": 15268,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1506,
@@ -655377,7 +657257,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 129,
-        "ID": 5269,
+        "ID": 15269,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 1471,
@@ -696918,64 +698798,28 @@
           "AdvMove": null,
           "Move": [
             {
-              "ID": 40003,
+              "ID": 38171,
               "LearningLv": 60,
               "Rec": 1,
               "Tag": 2
             },
             {
-              "ID": 40004,
+              "ID": 38172,
               "LearningLv": 62,
               "Rec": 1,
               "Tag": 2
             },
             {
-              "ID": 40005,
+              "ID": 38173,
               "LearningLv": 63,
               "Rec": 1,
               "Tag": 2
             },
             {
-              "ID": 40006,
+              "ID": 38174,
               "LearningLv": 64,
               "Rec": 1,
               "Tag": 2
-            },
-            {
-              "ID": 40007,
-              "LearningLv": 65,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 40008,
-              "LearningLv": 66,
-              "Rec": 1,
-              "Tag": 3
-            },
-            {
-              "ID": 40009,
-              "LearningLv": 67,
-              "Rec": 1,
-              "Tag": 4
-            },
-            {
-              "ID": 40010,
-              "LearningLv": 68,
-              "Rec": 1,
-              "Tag": 4
-            },
-            {
-              "ID": 40011,
-              "LearningLv": 69,
-              "Rec": 1,
-              "Tag": 4
-            },
-            {
-              "ID": 40012,
-              "LearningLv": 70,
-              "Rec": 1,
-              "Tag": 4
             }
           ],
           "SpMove": null
@@ -699581,1367 +701425,6 @@
         "Support": 0,
         "Transform": 0,
         "Type": 222,
-        "Vip": 0
-      },
-      {
-        "DefName": "塔克林",
-        "ExtraMoves": null,
-        "LearnableMoves": {
-          "AdvMove": null,
-          "Move": [
-            {
-              "ID": 10759,
-              "LearningLv": 1,
-              "Rec": 0,
-              "Tag": 0
-            }
-          ],
-          "SpMove": null
-        },
-        "Move": null,
-        "ShowExtraMoves": null,
-        "SpExtraMoves": null,
-        "Atk": 120,
-        "CharacterAttrParam": 0,
-        "Combo": 0,
-        "Def": 100,
-        "EvolvesTo": 0,
-        "EvolvFlag": 0,
-        "EvolvingLv": 0,
-        "FreeForbidden": 1,
-        "Gender": 0,
-        "HP": 130,
-        "ID": 15001,
-        "isFlyPet": 0,
-        "isRidePet": 0,
-        "PetClass": 0,
-        "RealId": 274,
-        "SpAtk": 95,
-        "Spd": 86,
-        "SpDef": 80,
-        "Support": 0,
-        "Transform": 0,
-        "Type": 15,
-        "Vip": 0
-      },
-      {
-        "DefName": "雷伊的分身",
-        "ExtraMoves": null,
-        "LearnableMoves": {
-          "AdvMove": null,
-          "Move": [
-            {
-              "ID": 10006,
-              "LearningLv": 1,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20006,
-              "LearningLv": 2,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10166,
-              "LearningLv": 3,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10171,
-              "LearningLv": 4,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20004,
-              "LearningLv": 5,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10167,
-              "LearningLv": 6,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10172,
-              "LearningLv": 7,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20085,
-              "LearningLv": 8,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10010,
-              "LearningLv": 9,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10168,
-              "LearningLv": 10,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10173,
-              "LearningLv": 11,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10175,
-              "LearningLv": 12,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10169,
-              "LearningLv": 13,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10174,
-              "LearningLv": 14,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10824,
-              "LearningLv": 15,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10823,
-              "LearningLv": 16,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20363,
-              "LearningLv": 17,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10176,
-              "LearningLv": 18,
-              "Rec": 0,
-              "Tag": 0
-            }
-          ],
-          "SpMove": null
-        },
-        "Move": null,
-        "ShowExtraMoves": null,
-        "SpExtraMoves": null,
-        "Atk": 108,
-        "CharacterAttrParam": 0,
-        "Combo": 0,
-        "Def": 70,
-        "EvolvesTo": 0,
-        "EvolvFlag": 0,
-        "EvolvingLv": 0,
-        "FreeForbidden": 1,
-        "Gender": 0,
-        "HP": 71,
-        "ID": 15002,
-        "isFlyPet": 0,
-        "isRidePet": 0,
-        "PetClass": 0,
-        "RealId": 70,
-        "SpAtk": 101,
-        "Spd": 105,
-        "SpDef": 77,
-        "Support": 0,
-        "Transform": 0,
-        "Type": 5,
-        "Vip": 0
-      },
-      {
-        "DefName": "机械塔克林",
-        "ExtraMoves": null,
-        "LearnableMoves": {
-          "AdvMove": null,
-          "Move": [
-            {
-              "ID": 20338,
-              "LearningLv": 1,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10762,
-              "LearningLv": 53,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20339,
-              "LearningLv": 57,
-              "Rec": 0,
-              "Tag": 0
-            }
-          ],
-          "SpMove": null
-        },
-        "Move": null,
-        "ShowExtraMoves": null,
-        "SpExtraMoves": null,
-        "Atk": 120,
-        "CharacterAttrParam": 0,
-        "Combo": 0,
-        "Def": 100,
-        "EvolvesTo": 0,
-        "EvolvFlag": 0,
-        "EvolvingLv": 0,
-        "FreeForbidden": 1,
-        "Gender": 0,
-        "HP": 130,
-        "ID": 15003,
-        "isFlyPet": 0,
-        "isRidePet": 0,
-        "PetClass": 0,
-        "RealId": 0,
-        "SpAtk": 95,
-        "Spd": 86,
-        "SpDef": 80,
-        "Support": 0,
-        "Transform": 0,
-        "Type": 15,
-        "Vip": 0
-      },
-      {
-        "DefName": "阿尔达拉",
-        "ExtraMoves": null,
-        "LearnableMoves": {
-          "AdvMove": null,
-          "Move": [
-            {
-              "ID": 10018,
-              "LearningLv": 1,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20328,
-              "LearningLv": 5,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10054,
-              "LearningLv": 9,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 11225,
-              "LearningLv": 13,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10473,
-              "LearningLv": 17,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20489,
-              "LearningLv": 21,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10630,
-              "LearningLv": 25,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 11228,
-              "LearningLv": 29,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20550,
-              "LearningLv": 33,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 11226,
-              "LearningLv": 37,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10633,
-              "LearningLv": 41,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20490,
-              "LearningLv": 45,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 11045,
-              "LearningLv": 49,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 11229,
-              "LearningLv": 53,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20355,
-              "LearningLv": 57,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 11227,
-              "LearningLv": 61,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 11230,
-              "LearningLv": 65,
-              "Rec": 0,
-              "Tag": 0
-            }
-          ],
-          "SpMove": null
-        },
-        "Move": null,
-        "ShowExtraMoves": null,
-        "SpExtraMoves": null,
-        "Atk": 110,
-        "CharacterAttrParam": 0,
-        "Combo": 0,
-        "Def": 82,
-        "EvolvesTo": 0,
-        "EvolvFlag": 0,
-        "EvolvingLv": 0,
-        "FreeForbidden": 1,
-        "Gender": 0,
-        "HP": 109,
-        "ID": 15004,
-        "isFlyPet": 0,
-        "isRidePet": 0,
-        "PetClass": 0,
-        "RealId": 0,
-        "SpAtk": 111,
-        "Spd": 95,
-        "SpDef": 83,
-        "Support": 0,
-        "Transform": 0,
-        "Type": 31,
-        "Vip": 1
-      },
-      {
-        "DefName": "雷伊的幻影",
-        "ExtraMoves": null,
-        "LearnableMoves": {
-          "AdvMove": null,
-          "Move": [
-            {
-              "ID": 10825,
-              "LearningLv": 1,
-              "Rec": 0,
-              "Tag": 0
-            }
-          ],
-          "SpMove": null
-        },
-        "Move": null,
-        "ShowExtraMoves": null,
-        "SpExtraMoves": null,
-        "Atk": 108,
-        "CharacterAttrParam": 0,
-        "Combo": 0,
-        "Def": 70,
-        "EvolvesTo": 0,
-        "EvolvFlag": 0,
-        "EvolvingLv": 0,
-        "FreeForbidden": 1,
-        "Gender": 0,
-        "HP": 71,
-        "ID": 15005,
-        "isFlyPet": 0,
-        "isRidePet": 0,
-        "PetClass": 0,
-        "RealId": 0,
-        "SpAtk": 101,
-        "Spd": 105,
-        "SpDef": 77,
-        "Support": 0,
-        "Transform": 0,
-        "Type": 5,
-        "Vip": 0
-      },
-      {
-        "DefName": "咤克斯的分身",
-        "ExtraMoves": null,
-        "LearnableMoves": {
-          "AdvMove": null,
-          "Move": [
-            {
-              "ID": 11530,
-              "LearningLv": 1,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20485,
-              "LearningLv": 4,
-              "Rec": 0,
-              "Tag": 0
-            }
-          ],
-          "SpMove": null
-        },
-        "Move": null,
-        "ShowExtraMoves": null,
-        "SpExtraMoves": null,
-        "Atk": 51,
-        "CharacterAttrParam": 0,
-        "Combo": 0,
-        "Def": 41,
-        "EvolvesTo": 0,
-        "EvolvFlag": 0,
-        "EvolvingLv": 0,
-        "FreeForbidden": 0,
-        "Gender": 0,
-        "HP": 55,
-        "ID": 15006,
-        "isFlyPet": 0,
-        "isRidePet": 0,
-        "PetClass": 0,
-        "RealId": 0,
-        "SpAtk": 70,
-        "Spd": 45,
-        "SpDef": 43,
-        "Support": 0,
-        "Transform": 0,
-        "Type": 13,
-        "Vip": 0
-      },
-      {
-        "DefName": "辛奇帕克",
-        "ExtraMoves": null,
-        "LearnableMoves": {
-          "AdvMove": null,
-          "Move": [
-            {
-              "ID": 10969,
-              "LearningLv": 1,
-              "Rec": 0,
-              "Tag": 0
-            }
-          ],
-          "SpMove": null
-        },
-        "Move": null,
-        "ShowExtraMoves": null,
-        "SpExtraMoves": null,
-        "Atk": 75,
-        "CharacterAttrParam": 0,
-        "Combo": 0,
-        "Def": 110,
-        "EvolvesTo": 0,
-        "EvolvFlag": 0,
-        "EvolvingLv": 0,
-        "FreeForbidden": 1,
-        "Gender": 2,
-        "HP": 125,
-        "ID": 15007,
-        "isFlyPet": 0,
-        "isRidePet": 0,
-        "PetClass": 0,
-        "RealId": 389,
-        "SpAtk": 90,
-        "Spd": 53,
-        "SpDef": 117,
-        "Support": 0,
-        "Transform": 0,
-        "Type": 1,
-        "Vip": 0
-      },
-      {
-        "DefName": "愤怒的化身",
-        "ExtraMoves": null,
-        "LearnableMoves": {
-          "AdvMove": null,
-          "Move": [
-            {
-              "ID": 11660,
-              "LearningLv": 1,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 11661,
-              "LearningLv": 2,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20819,
-              "LearningLv": 3,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 11662,
-              "LearningLv": 4,
-              "Rec": 0,
-              "Tag": 0
-            }
-          ],
-          "SpMove": null
-        },
-        "Move": null,
-        "ShowExtraMoves": null,
-        "SpExtraMoves": null,
-        "Atk": 120,
-        "CharacterAttrParam": 0,
-        "Combo": 0,
-        "Def": 100,
-        "EvolvesTo": 0,
-        "EvolvFlag": 0,
-        "EvolvingLv": 0,
-        "FreeForbidden": 1,
-        "Gender": 2,
-        "HP": 120,
-        "ID": 15008,
-        "isFlyPet": 0,
-        "isRidePet": 0,
-        "PetClass": 0,
-        "RealId": 0,
-        "SpAtk": 120,
-        "Spd": 100,
-        "SpDef": 100,
-        "Support": 0,
-        "Transform": 0,
-        "Type": 62,
-        "Vip": 0
-      },
-      {
-        "DefName": "贪婪的化身",
-        "ExtraMoves": null,
-        "LearnableMoves": {
-          "AdvMove": null,
-          "Move": [
-            {
-              "ID": 11660,
-              "LearningLv": 1,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 11661,
-              "LearningLv": 2,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20819,
-              "LearningLv": 3,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 11662,
-              "LearningLv": 4,
-              "Rec": 0,
-              "Tag": 0
-            }
-          ],
-          "SpMove": null
-        },
-        "Move": null,
-        "ShowExtraMoves": null,
-        "SpExtraMoves": null,
-        "Atk": 120,
-        "CharacterAttrParam": 0,
-        "Combo": 0,
-        "Def": 100,
-        "EvolvesTo": 0,
-        "EvolvFlag": 0,
-        "EvolvingLv": 0,
-        "FreeForbidden": 1,
-        "Gender": 2,
-        "HP": 120,
-        "ID": 15009,
-        "isFlyPet": 0,
-        "isRidePet": 0,
-        "PetClass": 0,
-        "RealId": 0,
-        "SpAtk": 120,
-        "Spd": 100,
-        "SpDef": 100,
-        "Support": 0,
-        "Transform": 0,
-        "Type": 62,
-        "Vip": 0
-      },
-      {
-        "DefName": "恐惧的化身",
-        "ExtraMoves": null,
-        "LearnableMoves": {
-          "AdvMove": null,
-          "Move": [
-            {
-              "ID": 11660,
-              "LearningLv": 1,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 11661,
-              "LearningLv": 2,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20819,
-              "LearningLv": 3,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 11662,
-              "LearningLv": 4,
-              "Rec": 0,
-              "Tag": 0
-            }
-          ],
-          "SpMove": null
-        },
-        "Move": null,
-        "ShowExtraMoves": null,
-        "SpExtraMoves": null,
-        "Atk": 120,
-        "CharacterAttrParam": 0,
-        "Combo": 0,
-        "Def": 100,
-        "EvolvesTo": 0,
-        "EvolvFlag": 0,
-        "EvolvingLv": 0,
-        "FreeForbidden": 1,
-        "Gender": 2,
-        "HP": 120,
-        "ID": 15010,
-        "isFlyPet": 0,
-        "isRidePet": 0,
-        "PetClass": 0,
-        "RealId": 0,
-        "SpAtk": 120,
-        "Spd": 100,
-        "SpDef": 100,
-        "Support": 0,
-        "Transform": 0,
-        "Type": 62,
-        "Vip": 0
-      },
-      {
-        "DefName": "咤克斯",
-        "ExtraMoves": null,
-        "LearnableMoves": {
-          "AdvMove": null,
-          "Move": [
-            {
-              "ID": 11660,
-              "LearningLv": 1,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 11661,
-              "LearningLv": 2,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20819,
-              "LearningLv": 3,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 11662,
-              "LearningLv": 4,
-              "Rec": 0,
-              "Tag": 0
-            }
-          ],
-          "SpMove": null
-        },
-        "Move": null,
-        "ShowExtraMoves": null,
-        "SpExtraMoves": null,
-        "Atk": 120,
-        "CharacterAttrParam": 0,
-        "Combo": 0,
-        "Def": 100,
-        "EvolvesTo": 0,
-        "EvolvFlag": 0,
-        "EvolvingLv": 0,
-        "FreeForbidden": 1,
-        "Gender": 2,
-        "HP": 120,
-        "ID": 15011,
-        "isFlyPet": 0,
-        "isRidePet": 0,
-        "PetClass": 0,
-        "RealId": 0,
-        "SpAtk": 120,
-        "Spd": 100,
-        "SpDef": 100,
-        "Support": 0,
-        "Transform": 0,
-        "Type": 62,
-        "Vip": 0
-      },
-      {
-        "DefName": "亚伦斯",
-        "ExtraMoves": null,
-        "LearnableMoves": {
-          "AdvMove": null,
-          "Move": [
-            {
-              "ID": 11668,
-              "LearningLv": 1,
-              "Rec": 0,
-              "Tag": 0
-            }
-          ],
-          "SpMove": null
-        },
-        "Move": null,
-        "ShowExtraMoves": null,
-        "SpExtraMoves": null,
-        "Atk": 84,
-        "CharacterAttrParam": 0,
-        "Combo": 0,
-        "Def": 80,
-        "EvolvesTo": 0,
-        "EvolvFlag": 0,
-        "EvolvingLv": 0,
-        "FreeForbidden": 1,
-        "Gender": 1,
-        "HP": 130,
-        "ID": 15012,
-        "isFlyPet": 0,
-        "isRidePet": 0,
-        "PetClass": 0,
-        "RealId": 672,
-        "SpAtk": 116,
-        "Spd": 98,
-        "SpDef": 82,
-        "Support": 0,
-        "Transform": 0,
-        "Type": 46,
-        "Vip": 0
-      },
-      {
-        "DefName": "泰格尔",
-        "ExtraMoves": null,
-        "LearnableMoves": {
-          "AdvMove": null,
-          "Move": [
-            {
-              "ID": 20475,
-              "LearningLv": 1,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 11711,
-              "LearningLv": 2,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20853,
-              "LearningLv": 3,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 11713,
-              "LearningLv": 4,
-              "Rec": 0,
-              "Tag": 0
-            }
-          ],
-          "SpMove": null
-        },
-        "Move": null,
-        "ShowExtraMoves": null,
-        "SpExtraMoves": null,
-        "Atk": 120,
-        "CharacterAttrParam": 0,
-        "Combo": 0,
-        "Def": 97,
-        "EvolvesTo": 0,
-        "EvolvFlag": 0,
-        "EvolvingLv": 0,
-        "FreeForbidden": 1,
-        "Gender": 0,
-        "HP": 131,
-        "ID": 15013,
-        "isFlyPet": 0,
-        "isRidePet": 0,
-        "PetClass": 0,
-        "RealId": 503,
-        "SpAtk": 120,
-        "Spd": 94,
-        "SpDef": 93,
-        "Support": 0,
-        "Transform": 0,
-        "Type": 5,
-        "Vip": 0
-      },
-      {
-        "DefName": "泰格尔",
-        "ExtraMoves": null,
-        "LearnableMoves": {
-          "AdvMove": null,
-          "Move": [
-            {
-              "ID": 11710,
-              "LearningLv": 1,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20853,
-              "LearningLv": 2,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20854,
-              "LearningLv": 3,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 11714,
-              "LearningLv": 4,
-              "Rec": 0,
-              "Tag": 0
-            }
-          ],
-          "SpMove": null
-        },
-        "Move": null,
-        "ShowExtraMoves": null,
-        "SpExtraMoves": null,
-        "Atk": 120,
-        "CharacterAttrParam": 0,
-        "Combo": 0,
-        "Def": 97,
-        "EvolvesTo": 0,
-        "EvolvFlag": 0,
-        "EvolvingLv": 0,
-        "FreeForbidden": 1,
-        "Gender": 0,
-        "HP": 131,
-        "ID": 15014,
-        "isFlyPet": 0,
-        "isRidePet": 0,
-        "PetClass": 0,
-        "RealId": 503,
-        "SpAtk": 120,
-        "Spd": 94,
-        "SpDef": 93,
-        "Support": 0,
-        "Transform": 0,
-        "Type": 11,
-        "Vip": 0
-      },
-      {
-        "DefName": "泰格尔",
-        "ExtraMoves": null,
-        "LearnableMoves": {
-          "AdvMove": null,
-          "Move": [
-            {
-              "ID": 11710,
-              "LearningLv": 1,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20853,
-              "LearningLv": 2,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20854,
-              "LearningLv": 3,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 11714,
-              "LearningLv": 4,
-              "Rec": 0,
-              "Tag": 0
-            }
-          ],
-          "SpMove": null
-        },
-        "Move": null,
-        "ShowExtraMoves": null,
-        "SpExtraMoves": null,
-        "Atk": 120,
-        "CharacterAttrParam": 0,
-        "Combo": 0,
-        "Def": 97,
-        "EvolvesTo": 0,
-        "EvolvFlag": 0,
-        "EvolvingLv": 0,
-        "FreeForbidden": 1,
-        "Gender": 0,
-        "HP": 131,
-        "ID": 15015,
-        "isFlyPet": 0,
-        "isRidePet": 0,
-        "PetClass": 0,
-        "RealId": 503,
-        "SpAtk": 120,
-        "Spd": 94,
-        "SpDef": 93,
-        "Support": 0,
-        "Transform": 0,
-        "Type": 11,
-        "Vip": 0
-      },
-      {
-        "DefName": "泰格尔",
-        "ExtraMoves": null,
-        "LearnableMoves": {
-          "AdvMove": null,
-          "Move": [
-            {
-              "ID": 20475,
-              "LearningLv": 1,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 11711,
-              "LearningLv": 2,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20853,
-              "LearningLv": 3,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 11713,
-              "LearningLv": 4,
-              "Rec": 0,
-              "Tag": 0
-            }
-          ],
-          "SpMove": null
-        },
-        "Move": null,
-        "ShowExtraMoves": null,
-        "SpExtraMoves": null,
-        "Atk": 120,
-        "CharacterAttrParam": 0,
-        "Combo": 0,
-        "Def": 97,
-        "EvolvesTo": 0,
-        "EvolvFlag": 0,
-        "EvolvingLv": 0,
-        "FreeForbidden": 1,
-        "Gender": 0,
-        "HP": 131,
-        "ID": 15016,
-        "isFlyPet": 0,
-        "isRidePet": 0,
-        "PetClass": 0,
-        "RealId": 503,
-        "SpAtk": 120,
-        "Spd": 94,
-        "SpDef": 93,
-        "Support": 0,
-        "Transform": 0,
-        "Type": 5,
-        "Vip": 0
-      },
-      {
-        "DefName": "雷伊",
-        "ExtraMoves": null,
-        "LearnableMoves": {
-          "AdvMove": null,
-          "Move": [
-            {
-              "ID": 10006,
-              "LearningLv": 1,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20006,
-              "LearningLv": 4,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10166,
-              "LearningLv": 8,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10171,
-              "LearningLv": 12,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20004,
-              "LearningLv": 16,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10167,
-              "LearningLv": 20,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10172,
-              "LearningLv": 24,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20085,
-              "LearningLv": 28,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10010,
-              "LearningLv": 32,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10168,
-              "LearningLv": 36,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10173,
-              "LearningLv": 40,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20086,
-              "LearningLv": 43,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10169,
-              "LearningLv": 47,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10174,
-              "LearningLv": 51,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10170,
-              "LearningLv": 55,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20087,
-              "LearningLv": 60,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10175,
-              "LearningLv": 64,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10176,
-              "LearningLv": 70,
-              "Rec": 0,
-              "Tag": 0
-            }
-          ],
-          "SpMove": [
-            {
-              "ID": 10823,
-              "Rec": 0,
-              "tag": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10824,
-              "Rec": 0,
-              "tag": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 10825,
-              "Rec": 0,
-              "tag": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20363,
-              "Rec": 0,
-              "tag": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 20364,
-              "Rec": 0,
-              "tag": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 13582,
-              "Rec": 0,
-              "tag": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 13583,
-              "Rec": 0,
-              "tag": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 13584,
-              "Rec": 0,
-              "tag": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 13585,
-              "Rec": 0,
-              "tag": 0,
-              "Tag": 0
-            }
-          ]
-        },
-        "Move": null,
-        "ShowExtraMoves": null,
-        "SpExtraMoves": null,
-        "Atk": 108,
-        "CharacterAttrParam": 0,
-        "Combo": 0,
-        "Def": 70,
-        "EvolvesTo": 0,
-        "EvolvFlag": 0,
-        "EvolvingLv": 0,
-        "FreeForbidden": 1,
-        "Gender": 1,
-        "HP": 71,
-        "ID": 15017,
-        "isFlyPet": 0,
-        "isRidePet": 0,
-        "PetClass": 0,
-        "RealId": 70,
-        "SpAtk": 101,
-        "Spd": 105,
-        "SpDef": 77,
-        "Support": 0,
-        "Transform": 0,
-        "Type": 5,
-        "Vip": 0
-      },
-      {
-        "DefName": "卡茨",
-        "ExtraMoves": null,
-        "LearnableMoves": {
-          "AdvMove": null,
-          "Move": [
-            {
-              "ID": 10001,
-              "LearningLv": 1,
-              "Rec": 0,
-              "Tag": 0
-            }
-          ],
-          "SpMove": null
-        },
-        "Move": null,
-        "ShowExtraMoves": null,
-        "SpExtraMoves": null,
-        "Atk": 108,
-        "CharacterAttrParam": 0,
-        "Combo": 0,
-        "Def": 70,
-        "EvolvesTo": 0,
-        "EvolvFlag": 0,
-        "EvolvingLv": 0,
-        "FreeForbidden": 1,
-        "Gender": 1,
-        "HP": 71,
-        "ID": 15018,
-        "isFlyPet": 0,
-        "isRidePet": 0,
-        "PetClass": 0,
-        "RealId": 796,
-        "SpAtk": 101,
-        "Spd": 105,
-        "SpDef": 77,
-        "Support": 0,
-        "Transform": 0,
-        "Type": 42,
-        "Vip": 0
-      },
-      {
-        "DefName": "厄尔塞拉",
-        "ExtraMoves": null,
-        "LearnableMoves": {
-          "AdvMove": null,
-          "Move": [
-            {
-              "ID": 10632,
-              "LearningLv": 1,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 11139,
-              "LearningLv": 2,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 11140,
-              "LearningLv": 3,
-              "Rec": 0,
-              "Tag": 0
-            }
-          ],
-          "SpMove": null
-        },
-        "Move": null,
-        "ShowExtraMoves": null,
-        "SpExtraMoves": null,
-        "Atk": 79,
-        "CharacterAttrParam": 0,
-        "Combo": 0,
-        "Def": 91,
-        "EvolvesTo": 0,
-        "EvolvFlag": 0,
-        "EvolvingLv": 0,
-        "FreeForbidden": 1,
-        "Gender": 2,
-        "HP": 102,
-        "ID": 15019,
-        "isFlyPet": 0,
-        "isRidePet": 0,
-        "PetClass": 0,
-        "RealId": 421,
-        "SpAtk": 112,
-        "Spd": 103,
-        "SpDef": 94,
-        "Support": 0,
-        "Transform": 0,
-        "Type": 12,
-        "Vip": 0
-      },
-      {
-        "DefName": "海盗杂兵",
-        "ExtraMoves": null,
-        "LearnableMoves": {
-          "AdvMove": null,
-          "Move": [
-            {
-              "ID": 10632,
-              "LearningLv": 1,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 11139,
-              "LearningLv": 2,
-              "Rec": 0,
-              "Tag": 0
-            },
-            {
-              "ID": 11140,
-              "LearningLv": 3,
-              "Rec": 0,
-              "Tag": 0
-            }
-          ],
-          "SpMove": null
-        },
-        "Move": null,
-        "ShowExtraMoves": null,
-        "SpExtraMoves": null,
-        "Atk": 79,
-        "CharacterAttrParam": 0,
-        "Combo": 0,
-        "Def": 91,
-        "EvolvesTo": 0,
-        "EvolvFlag": 0,
-        "EvolvingLv": 0,
-        "FreeForbidden": 1,
-        "Gender": 2,
-        "HP": 102,
-        "ID": 15020,
-        "isFlyPet": 0,
-        "isRidePet": 0,
-        "PetClass": 0,
-        "RealId": 0,
-        "SpAtk": 112,
-        "Spd": 103,
-        "SpDef": 94,
-        "Support": 0,
-        "Transform": 0,
-        "Type": 12,
         "Vip": 0
       },
       {
@@ -725205,7 +725688,7 @@
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 1400519,
         "SpAtk": 0,
         "Spd": 0,
         "SpDef": 0,
@@ -725235,7 +725718,7 @@
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 1400695,
         "SpAtk": 0,
         "Spd": 0,
         "SpDef": 0,
@@ -725299,7 +725782,7 @@
         "SpAtk": 0,
         "Spd": 0,
         "SpDef": 0,
-        "Support": 0,
+        "Support": 1900782,
         "Transform": 0,
         "Type": 0,
         "Vip": 0

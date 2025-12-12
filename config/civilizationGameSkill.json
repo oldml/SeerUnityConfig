@@ -51,7 +51,7 @@
     {
       "consume": "2_3",
       "describe": "收集3*3范围内的全部粮食",
-      "effective": "1",
+      "effective": "0;1;2;3;6;7;8;9",
       "front": "",
       "name": "收割",
       "range": "3_3",
@@ -146,7 +146,7 @@
     },
     {
       "consume": "3_3",
-      "describe": "在任意位置生成2级粮食（主动）",
+      "describe": "在任意位置生成2级粮食",
       "effective": "",
       "front": "2",
       "name": "精耕细作",
@@ -195,7 +195,7 @@
     {
       "consume": "2_5;3_5",
       "describe": "收集4*4范围内的全部粮食",
-      "effective": "1",
+      "effective": "0;1;2;3;6;7;8;9",
       "front": "14",
       "name": "大规模收割",
       "range": "4_4",
@@ -219,7 +219,7 @@
     {
       "consume": "3_10",
       "describe": "消除6*5范围内的所有【异端据点】",
-      "effective": "4",
+      "effective": "0;1;2;3;6;7;8;9",
       "front": "14",
       "name": "大审判",
       "range": "6_5",
@@ -279,7 +279,7 @@
     {
       "consume": "4_15",
       "describe": "消除6*5范围内的所有【月之民据点】",
-      "effective": "5",
+      "effective": "0;1;2;3;6;7;8;9",
       "front": "19",
       "name": "大远征",
       "range": "6_5",
@@ -339,7 +339,7 @@
     {
       "consume": "3_15",
       "describe": "收集5*5范围内的全部粮食",
-      "effective": "1",
+      "effective": "0;1;2;3;6;7;8;9",
       "front": "26",
       "name": "王家征粮官",
       "range": "5_5",

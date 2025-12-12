@@ -4011,7 +4011,7 @@
           }
         ],
         "ID": 223,
-        "Jumptarget": 0,
+        "Jumptarget": 136500,
         "MonID": 3437,
         "Type": 3
       },
@@ -5757,7 +5757,7 @@
           }
         ],
         "ID": 321,
-        "Jumptarget": 0,
+        "Jumptarget": 136500,
         "MonID": 3437,
         "Type": 3
       },
@@ -5883,7 +5883,7 @@
           }
         ],
         "ID": 328,
-        "Jumptarget": 0,
+        "Jumptarget": 136200,
         "MonID": 3963,
         "Type": 3
       },
@@ -7089,7 +7089,7 @@
           }
         ],
         "ID": 395,
-        "Jumptarget": 0,
+        "Jumptarget": 136200,
         "MonID": 3022,
         "Type": 3
       },
@@ -8007,7 +8007,7 @@
           }
         ],
         "ID": 446,
-        "Jumptarget": 0,
+        "Jumptarget": 136200,
         "MonID": 4004,
         "Type": 3
       },
@@ -8673,7 +8673,7 @@
           }
         ],
         "ID": 483,
-        "Jumptarget": 0,
+        "Jumptarget": 136200,
         "MonID": 3661,
         "Type": 3
       },
@@ -8709,7 +8709,7 @@
           }
         ],
         "ID": 485,
-        "Jumptarget": 0,
+        "Jumptarget": 136200,
         "MonID": 4387,
         "Type": 3
       },
@@ -8871,7 +8871,7 @@
           }
         ],
         "ID": 494,
-        "Jumptarget": 0,
+        "Jumptarget": 136200,
         "MonID": 4395,
         "Type": 3
       },
@@ -10365,7 +10365,7 @@
           }
         ],
         "ID": 577,
-        "Jumptarget": 0,
+        "Jumptarget": 136500,
         "MonID": 3045,
         "Type": 3
       },
@@ -11715,7 +11715,7 @@
           }
         ],
         "ID": 652,
-        "Jumptarget": 0,
+        "Jumptarget": 136200,
         "MonID": 4187,
         "Type": 3
       },
@@ -12345,7 +12345,7 @@
           }
         ],
         "ID": 687,
-        "Jumptarget": 0,
+        "Jumptarget": 136200,
         "MonID": 4714,
         "Type": 3
       },
@@ -12363,7 +12363,7 @@
           }
         ],
         "ID": 688,
-        "Jumptarget": 0,
+        "Jumptarget": 136200,
         "MonID": 3830,
         "Type": 3
       },
@@ -12705,7 +12705,7 @@
           }
         ],
         "ID": 707,
-        "Jumptarget": 0,
+        "Jumptarget": 136200,
         "MonID": 3507,
         "Type": 3
       },
@@ -12921,7 +12921,7 @@
           }
         ],
         "ID": 719,
-        "Jumptarget": 0,
+        "Jumptarget": 136500,
         "MonID": 4647,
         "Type": 3
       },
@@ -12939,7 +12939,7 @@
           }
         ],
         "ID": 720,
-        "Jumptarget": 0,
+        "Jumptarget": 136500,
         "MonID": 4648,
         "Type": 3
       },
@@ -12957,7 +12957,7 @@
           }
         ],
         "ID": 721,
-        "Jumptarget": 0,
+        "Jumptarget": 136500,
         "MonID": 4649,
         "Type": 3
       },

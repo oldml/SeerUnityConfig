@@ -4575,11 +4575,11 @@
       "FuncParamSpecial": 0,
       "FuncType": 3,
       "id": 282,
-      "modelType": 0,
+      "modelType": 1,
       "offsetX": 0,
       "offsetY": 0,
       "scaleX": 1,
-      "scaleY": 1
+      "scaleY": 0.6
     },
     {
       "name": "卡塔·武装型",
@@ -4903,6 +4903,23 @@
       "offsetY": 0,
       "scaleX": 0.7,
       "scaleY": 0.7
+    },
+    {
+      "name": "奥菲利娅",
+      "pic": "4706",
+      "triggerinfo": "",
+      "FuncParam": [
+        696
+      ],
+      "bit": 0,
+      "FuncParamSpecial": 0,
+      "FuncType": 3,
+      "id": 302,
+      "modelType": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "scaleX": 0.6,
+      "scaleY": 0.6
     }
   ]
 }

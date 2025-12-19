@@ -3009,8 +3009,8 @@
       "value": 1
     },
     {
-      "describe": "通关一次关卡1",
-      "rewardinfo": "1_2500005_1",
+      "describe": "在任意关卡中首次结算达到1000分",
+      "rewardinfo": "1_1727613_50",
       "timeend": "1768528800",
       "timelimit": "1",
       "timestart": "1766109600",
@@ -3020,13 +3020,13 @@
       "id": 300,
       "tasksubtype": 0,
       "time": 0,
-      "userbitbuf": 11028,
-      "userinfo": 140214,
-      "value": 1
+      "userbitbuf": 11037,
+      "userinfo": 140222,
+      "value": 1000
     },
     {
-      "describe": "通关一次关卡2",
-      "rewardinfo": "1_2500005_2",
+      "describe": "在任意关卡中首次结算达到2000分",
+      "rewardinfo": "1_1727613_50",
       "timeend": "1768528800",
       "timelimit": "1",
       "timestart": "1766109600",
@@ -3036,13 +3036,13 @@
       "id": 301,
       "tasksubtype": 0,
       "time": 0,
-      "userbitbuf": 11029,
-      "userinfo": 140215,
-      "value": 1
+      "userbitbuf": 11038,
+      "userinfo": 140222,
+      "value": 2000
     },
     {
-      "describe": "通关一次关卡3",
-      "rewardinfo": "1_2500005_3",
+      "describe": "在任意关卡中首次结算达到4000分",
+      "rewardinfo": "1_1727613_50",
       "timeend": "1768528800",
       "timelimit": "1",
       "timestart": "1766109600",
@@ -3052,13 +3052,13 @@
       "id": 302,
       "tasksubtype": 0,
       "time": 0,
-      "userbitbuf": 11030,
-      "userinfo": 140216,
-      "value": 1
+      "userbitbuf": 11039,
+      "userinfo": 140222,
+      "value": 4000
     },
     {
-      "describe": "累计通关任意关卡3次（不包括引导关卡）",
-      "rewardinfo": "1_2500005_4",
+      "describe": "在任意关卡中首次结算达到8000分",
+      "rewardinfo": "1_1727613_50",
       "timeend": "1768528800",
       "timelimit": "1",
       "timestart": "1766109600",
@@ -3068,13 +3068,13 @@
       "id": 303,
       "tasksubtype": 0,
       "time": 0,
-      "userbitbuf": 11031,
-      "userinfo": 140217,
-      "value": 3
+      "userbitbuf": 11040,
+      "userinfo": 140222,
+      "value": 8000
     },
     {
-      "describe": "累计通关任意关卡5次（不包括引导关卡）",
-      "rewardinfo": "1_2500005_5",
+      "describe": "在任意关卡中首次结算达到10000分",
+      "rewardinfo": "1_1727613_100",
       "timeend": "1768528800",
       "timelimit": "1",
       "timestart": "1766109600",
@@ -3084,13 +3084,13 @@
       "id": 304,
       "tasksubtype": 0,
       "time": 0,
-      "userbitbuf": 11032,
-      "userinfo": 140217,
-      "value": 5
+      "userbitbuf": 11041,
+      "userinfo": 140222,
+      "value": 10000
     },
     {
-      "describe": "累计通关任意关卡7次（不包括引导关卡）",
-      "rewardinfo": "1_2500005_6",
+      "describe": "累计通关任意关卡3次",
+      "rewardinfo": "1_1727613_50",
       "timeend": "1768528800",
       "timelimit": "1",
       "timestart": "1766109600",
@@ -3100,13 +3100,13 @@
       "id": 305,
       "tasksubtype": 0,
       "time": 0,
-      "userbitbuf": 11033,
+      "userbitbuf": 11031,
       "userinfo": 140217,
-      "value": 7
+      "value": 3
     },
     {
-      "describe": "累计游玩游戏3天",
-      "rewardinfo": "1_2500005_7",
+      "describe": "累计通关任意关卡5次",
+      "rewardinfo": "1_1727613_50",
       "timeend": "1768528800",
       "timelimit": "1",
       "timestart": "1766109600",
@@ -3116,13 +3116,13 @@
       "id": 306,
       "tasksubtype": 0,
       "time": 0,
-      "userbitbuf": 11034,
-      "userinfo": 140218,
-      "value": 3
+      "userbitbuf": 11032,
+      "userinfo": 140217,
+      "value": 5
     },
     {
-      "describe": "累计游玩游戏5天",
-      "rewardinfo": "1_2500005_8",
+      "describe": "累计通关任意关卡7次",
+      "rewardinfo": "1_1727613_100",
       "timeend": "1768528800",
       "timelimit": "1",
       "timestart": "1766109600",
@@ -3132,13 +3132,13 @@
       "id": 307,
       "tasksubtype": 0,
       "time": 0,
-      "userbitbuf": 11035,
-      "userinfo": 140218,
-      "value": 5
+      "userbitbuf": 11033,
+      "userinfo": 140217,
+      "value": 7
     },
     {
-      "describe": "累计游玩游戏7天",
-      "rewardinfo": "1_2500005_9",
+      "describe": "累计游玩游戏3天",
+      "rewardinfo": "1_1727613_50",
       "timeend": "1768528800",
       "timelimit": "1",
       "timestart": "1766109600",
@@ -3148,9 +3148,89 @@
       "id": 308,
       "tasksubtype": 0,
       "time": 0,
+      "userbitbuf": 11034,
+      "userinfo": 140218,
+      "value": 3
+    },
+    {
+      "describe": "累计游玩游戏5天",
+      "rewardinfo": "1_1727613_100",
+      "timeend": "1768528800",
+      "timelimit": "1",
+      "timestart": "1766109600",
+      "title": "",
+      "userbitbuf2": "",
+      "activityid": 16,
+      "id": 309,
+      "tasksubtype": 0,
+      "time": 0,
+      "userbitbuf": 11035,
+      "userinfo": 140218,
+      "value": 5
+    },
+    {
+      "describe": "累计游玩游戏7天",
+      "rewardinfo": "1_1727613_100",
+      "timeend": "1768528800",
+      "timelimit": "1",
+      "timestart": "1766109600",
+      "title": "",
+      "userbitbuf2": "",
+      "activityid": 16,
+      "id": 310,
+      "tasksubtype": 0,
+      "time": 0,
       "userbitbuf": 11036,
       "userinfo": 140218,
       "value": 7
+    },
+    {
+      "describe": "通关关卡【月灾降临】",
+      "rewardinfo": "1_1727613_100",
+      "timeend": "1768528800",
+      "timelimit": "1",
+      "timestart": "1766109600",
+      "title": "",
+      "userbitbuf2": "",
+      "activityid": 16,
+      "id": 311,
+      "tasksubtype": 0,
+      "time": 0,
+      "userbitbuf": 11028,
+      "userinfo": 140214,
+      "value": 1
+    },
+    {
+      "describe": "通关关卡【神明再现】",
+      "rewardinfo": "1_1727613_100",
+      "timeend": "1768528800",
+      "timelimit": "1",
+      "timestart": "1766109600",
+      "title": "",
+      "userbitbuf2": "",
+      "activityid": 16,
+      "id": 312,
+      "tasksubtype": 0,
+      "time": 0,
+      "userbitbuf": 11029,
+      "userinfo": 140215,
+      "value": 1
+    },
+    {
+      "describe": "通关关卡【重建家园】",
+      "rewardinfo": "1_1727613_50",
+      "timeend": "1768528800",
+      "timelimit": "1",
+      "timestart": "1766109600",
+      "title": "",
+      "userbitbuf2": "",
+      "activityid": 16,
+      "id": 313,
+      "tasksubtype": 0,
+      "time": 0,
+      "userbitbuf": 11030,
+      "userinfo": 140216,
+      "value": 1
     }
   ]
 }

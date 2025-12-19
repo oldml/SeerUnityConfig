@@ -486021,22 +486021,143 @@
           "FriendSideEffectArg": null,
           "SideEffect": [
             2378,
+            2383,
             1304,
             2379,
-            2380,
             2162
           ],
           "SideEffectArg": [
+            50,
+            25,
             2,
             25,
             15,
-            2,
             22
           ],
           "AtkNum": 0,
           "AtkType": 3,
-          "Category": 4,
+          "Category": 2,
           "ID": 29214,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 130
+        },
+        {
+          "info": "开始免疫并反弹受到的异常状态了；开始附加百分比伤害了；开始闪避对手的攻击了",
+          "Name": "巡形迅步",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            191,
+            725,
+            426
+          ],
+          "SideEffectArg": [
+            4,
+            3,
+            100,
+            3,
+            2,
+            70
+          ],
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "ID": 29217,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；开始恢复体力并附加百分比伤害了；出手变得更快了",
+          "Name": "光雨汇集",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            893,
+            1065,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            4,
+            3,
+            3,
+            2,
+            2
+          ],
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "ID": 29218,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "开始免疫受到的异常状态了；开始附加限制类异常状态了；开始附加固定伤害了",
+          "Name": "人人有礼",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            48,
+            2160,
+            1731
+          ],
+          "SideEffectArg": [
+            3,
+            3,
+            1,
+            2,
+            200,
+            1
+          ],
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "ID": 29219,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；开始恢复体力了；出手变得更快了",
+          "Name": "开盒遇礼",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1001,
+            651,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            3,
+            200,
+            400,
+            2,
+            1
+          ],
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "ID": 29220,
           "MaxPP": 5,
           "MonID": 0,
           "MustHit": 1,
@@ -695737,9 +695858,9 @@
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
+            2382,
             2034,
-            2227,
-            1355,
+            1347,
             2372
           ],
           "SideEffectArg": [
@@ -695747,7 +695868,7 @@
             2,
             2,
             50,
-            1,
+            2,
             1
           ],
           "AtkNum": 0,
@@ -695768,7 +695889,7 @@
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
-            2148,
+            1440,
             1003,
             1684,
             2316,
@@ -695802,7 +695923,7 @@
           "SideEffect": [
             2376,
             1892,
-            58,
+            1683,
             843,
             2374
           ],
@@ -695811,7 +695932,7 @@
             300,
             2,
             300,
-            2,
+            3,
             2,
             2
           ],
@@ -695834,12 +695955,13 @@
           "FriendSideEffectArg": null,
           "SideEffect": [
             881,
-            1392,
+            955,
             2377,
             999,
             2375
           ],
           "SideEffectArg": [
+            300,
             15,
             1,
             15
@@ -696224,6 +696346,176 @@
           "Power": 90,
           "Priority": 3,
           "Type": 58
+        },
+        {
+          "info": "",
+          "Name": "克乱",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            624,
+            447,
+            450
+          ],
+          "SideEffectArg": [
+            3,
+            300,
+            450,
+            240,
+            360
+          ],
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "ID": 38188,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Type": 49
+        },
+        {
+          "info": "",
+          "Name": "失落史诗",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1304,
+            980,
+            863
+          ],
+          "SideEffectArg": [
+            1,
+            25,
+            1
+          ],
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "ID": 38189,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 49
+        },
+        {
+          "info": "",
+          "Name": "寄予无名之枪",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            781,
+            2010,
+            1578,
+            1579,
+            422
+          ],
+          "SideEffectArg": [
+            2,
+            250,
+            1,
+            250,
+            1,
+            250,
+            1,
+            75
+          ],
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "ID": 38190,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 49
+        },
+        {
+          "info": "",
+          "Name": "暖冬送礼",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1052,
+            2074
+          ],
+          "SideEffectArg": [
+            1,
+            2
+          ],
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "ID": 38191,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 2,
+          "Type": 87
+        },
+        {
+          "info": "",
+          "Name": "连击好礼",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1685,
+            1048
+          ],
+          "SideEffectArg": [
+            10,
+            13,
+            15,
+            50
+          ],
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "ID": 38192,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 12,
+          "Priority": 0,
+          "Type": 87
+        },
+        {
+          "info": "",
+          "Name": "终极大礼",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1124,
+            710,
+            826
+          ],
+          "SideEffectArg": [
+            2,
+            30,
+            2,
+            1
+          ],
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "ID": 38193,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 87
         },
         {
           "info": "恢复自身一定体力",

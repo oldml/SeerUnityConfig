@@ -186,6 +186,28 @@
       "monsterid": 3886,
       "order": 0,
       "type": 1
+    },
+    {
+      "Arg2": "40",
+      "LevelLock": "",
+      "name": "玛洛恩",
+      "Arg1": 1715396,
+      "dataKey": 15,
+      "id": 18,
+      "monsterid": 3534,
+      "order": 0,
+      "type": 2
+    },
+    {
+      "Arg2": "3",
+      "LevelLock": "",
+      "name": "风殇影翼·飞镰",
+      "Arg1": 3,
+      "dataKey": 16,
+      "id": 19,
+      "monsterid": 3554,
+      "order": 0,
+      "type": 1
     }
   ]
 }

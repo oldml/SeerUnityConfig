@@ -49468,6 +49468,30 @@
         "limitedType": 0,
         "target": 0,
         "to": 0
+      },
+      {
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "登场时，自身获得数值等同于对手的护盾、护罩之和的护盾、护罩，最高各1000点，若获得的点数合计高于600，则2回合内对手属性技能无效；对手的属性技能处于无效状态时，自身造成的攻击伤害提升100%|（boss无效）",
+        "kind": [
+          2,
+          1
+        ],
+        "petId": [
+          4848
+        ],
+        "specificId": null,
+        "effectId": 2459,
+        "iconId": 2039,
+        "Id": 2039,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0
       }
     ]
   }

@@ -12705,7 +12705,7 @@
       },
       {
         "moveName1": "神风",
-        "moveName2": "烈冲踢",
+        "moveName2": "烈冲击",
         "moveId": 38151,
         "petId": 4834
       },
@@ -12774,6 +12774,18 @@
         "moveName2": "常昼大诰",
         "moveId": 29214,
         "petId": 4999
+      },
+      {
+        "moveName1": "寄予无名",
+        "moveName2": "之枪",
+        "moveId": 38190,
+        "petId": 4848
+      },
+      {
+        "moveName1": "终极",
+        "moveName2": "大礼",
+        "moveId": 38193,
+        "petId": 4849
       },
       {
         "moveName1": "神灵",

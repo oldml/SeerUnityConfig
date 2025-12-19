@@ -3431,6 +3431,28 @@
       "portrait": "mhwt_fg",
       "id": 312,
       "scale": 1.01
+    },
+    {
+      "CharacterID": "hero",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "169,195",
+      "name": "太阳神",
+      "portrait": "hero_fg",
+      "id": 313,
+      "scale": 1.1
+    },
+    {
+      "CharacterID": "nrm",
+      "emoji": "nrm_01,nrm_02,nrm_03",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "46,386",
+      "name": "纳尔迈",
+      "portrait": "nrm_fg",
+      "id": 314,
+      "scale": 1.1
     }
   ]
 }

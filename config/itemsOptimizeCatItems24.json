@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "Name": "谜之英雄因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400532,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "白图泰因子",
       "catID": 24,
       "Hide": 0,

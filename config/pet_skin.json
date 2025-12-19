@@ -13988,8 +13988,8 @@
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "游明星空·星礼",
         "SkinKind": [
           {
@@ -14001,13 +14001,13 @@
           }
         ],
         "ID": 779,
-        "Jumptarget": 114018,
+        "Jumptarget": 0,
         "MonID": 4840,
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "碧意良宵·星礼",
         "SkinKind": [
           {
@@ -14019,13 +14019,13 @@
           }
         ],
         "ID": 780,
-        "Jumptarget": 114018,
+        "Jumptarget": 0,
         "MonID": 4840,
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "星空解析·明德里奇",
         "SkinKind": [
           {
@@ -14037,7 +14037,7 @@
           }
         ],
         "ID": 781,
-        "Jumptarget": 2,
+        "Jumptarget": 0,
         "MonID": 4542,
         "Type": 3
       },
@@ -14058,6 +14058,60 @@
         "Jumptarget": 114021,
         "MonID": 4706,
         "Type": 2
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "冬日礼颂·枫眠",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 783,
+        "Jumptarget": 114026,
+        "MonID": 3954,
+        "Type": 8
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "雪境牧礼使·玛洛迪斯",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 784,
+        "Jumptarget": 114026,
+        "MonID": 3739,
+        "Type": 8
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "萨瑞卡",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 785,
+        "Jumptarget": 2,
+        "MonID": 3637,
+        "Type": 0
       }
     ]
   }

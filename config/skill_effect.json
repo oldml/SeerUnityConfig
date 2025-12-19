@@ -32429,6 +32429,36 @@
       "tagAboss": 1,
       "tagBboss": 1,
       "tagCboss": 1
+    },
+    {
+      "formattingAdjustment": "",
+      "ifTextItalic": "对手拥有曝时",
+      "info": "对手拥有曝时先制+1且必定命中",
+      "tagA": "先制",
+      "tagB": "",
+      "tagC": "",
+      "argsNum": 0,
+      "Bosseffective": 1,
+      "id": 2382,
+      "isif": 1,
+      "tagAboss": 1,
+      "tagBboss": 1,
+      "tagCboss": 1
+    },
+    {
+      "formattingAdjustment": "无视对手护盾承伤效果\r\n-->每无视{0}点自身下1次攻击造成的伤害提升{1}%",
+      "ifTextItalic": "",
+      "info": "无视对手护盾承伤效果，每无视{0}点自身下1次攻击造成的伤害提升{1}%",
+      "tagA": "增伤",
+      "tagB": "",
+      "tagC": "",
+      "argsNum": 2,
+      "Bosseffective": 1,
+      "id": 2383,
+      "isif": 0,
+      "tagAboss": 1,
+      "tagBboss": 1,
+      "tagCboss": 1
     }
   ]
 }

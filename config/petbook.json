@@ -1414,8 +1414,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4845,
-            "ImageID": 4845,
+            "ID": 4848,
+            "ImageID": 4848,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1425,8 +1425,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4846,
-            "ImageID": 4846,
+            "ID": 4849,
+            "ImageID": 4849,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1436,11 +1436,33 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4847,
-            "ImageID": 4847,
+            "ID": 783,
+            "ImageID": 1400783,
             "Label": 0,
-            "monID": 0,
-            "type": 0
+            "monID": 3954,
+            "type": 1
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "Redirect": "module",
+            "Mintmark": null,
+            "ID": 784,
+            "ImageID": 1400784,
+            "Label": 0,
+            "monID": 3739,
+            "type": 1
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "Redirect": "module",
+            "Mintmark": null,
+            "ID": 785,
+            "ImageID": 1400785,
+            "Label": 0,
+            "monID": 3637,
+            "type": 1
           }
         ]
       }
@@ -20697,7 +20719,7 @@
       {
         "DefName": "风翼飞镰",
         "Features": "飞镰的超进化形态，为了向泰坦复仇加入大暗黑天的飞镰被天邪龙皇赐予了极为强大的力量！",
-        "Target": "",
+        "Target": "150101",
         "ID": 3234
       },
       {
@@ -22611,7 +22633,7 @@
       {
         "DefName": "风殇影翼·飞镰",
         "Features": "风翼飞镰的完全体形态，曾经风之一族的天之骄子，如今已沦为大暗黑天的成员之一！但是我们依然记得，那缕孤独的风，那个风中的少年...",
-        "Target": "",
+        "Target": "150101",
         "ID": 3554
       },
       {
@@ -30311,6 +30333,18 @@
         "Features": "蘑蘑树中诞出的神奇生命，钙化的花苞外壳内，由真菌织成的身体涌动着不俗的智慧。",
         "Target": "400016",
         "ID": 4847
+      },
+      {
+        "DefName": "谜之英雄",
+        "Features": "突然降世并自称【太阳神】的谜之英雄。她能战胜月王·纳尔迈，带领我们渡过难关吗？",
+        "Target": "153201/354",
+        "ID": 4848
+      },
+      {
+        "DefName": "暖冬小貂",
+        "Features": "要留意出现在你身边的白色身影哦，说不定下一份礼物就是小貂为你准备的！",
+        "Target": "114027",
+        "ID": 4849
       }
     ],
     "RecMintmark": {

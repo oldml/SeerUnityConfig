@@ -16814,6 +16814,63 @@
       "id": 2163,
       "MapRatio": 0,
       "pic": 2163
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "犹尔尼斯星",
+      "notes": "",
+      "sound": "",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": null,
+      "WildBossID": null,
+      "WildBossPoint": null,
+      "WildBossWeight": null,
+      "enterMap": 0,
+      "GroupID": 0,
+      "id": 2164,
+      "MapRatio": 0,
+      "pic": 2164
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "传送舱",
+      "notes": "新春版本",
+      "sound": "",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": null,
+      "WildBossID": null,
+      "WildBossPoint": null,
+      "WildBossWeight": null,
+      "enterMap": 0,
+      "GroupID": 0,
+      "id": 2165,
+      "MapRatio": 0,
+      "pic": 2165
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "太阳神殿",
+      "notes": "",
+      "sound": "Auro_BGM_02",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": [
+        467,
+        404
+      ],
+      "WildBossID": null,
+      "WildBossPoint": null,
+      "WildBossWeight": null,
+      "enterMap": 0,
+      "GroupID": 22001,
+      "id": 2166,
+      "MapRatio": 1,
+      "pic": 2166
     }
   ]
 }

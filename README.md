@@ -1,6 +1,6 @@
-﻿**Parsing finished with 412 successes and 108 failures.**
+﻿**Parsing finished with 415 successes and 105 failures.**
 
-**Failed Files (108 files)**
+**Failed Files (105 files)**
   2025YearPetTrain.bytes
   AdAstraBoss.bytes
   AdventureChapter.bytes
@@ -19,13 +19,10 @@
   brave_tower.bytes
   BuyPopup.bytes
   chapterbranchpoint.bytes
-  civilizationGameHreoSkill.bytes
-  civilizationGameSkill.bytes
   CombatBossInfo.bytes
   CombatLabInfo.bytes
   diamon_box.bytes
   diamon_task.bytes
-  effectInfo.bytes
   exp_tower.bytes
   festival_version_controller.bytes
   fightLabBossConfig.bytes
@@ -111,4 +108,4 @@
   yizhishang_shop.bytes
 
 ---
-**Total duration: 8.90 seconds.**
+**Total duration: 7.03 seconds.**

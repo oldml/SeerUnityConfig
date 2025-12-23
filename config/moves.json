@@ -695894,18 +695894,20 @@
           "FriendSideEffectArg": null,
           "SideEffect": [
             1440,
-            1003,
+            2096,
             1684,
-            2316,
+            1311,
             2373
           ],
           "SideEffectArg": [
             2,
             100,
             22,
-            1,
+            2,
+            2,
             3,
-            2
+            3,
+            1
           ],
           "AtkNum": 0,
           "AtkType": 3,

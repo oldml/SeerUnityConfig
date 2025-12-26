@@ -16769,7 +16769,7 @@
     },
     {
       "hide": "2026_01_02 00:00:00",
-      "image": "3540",
+      "image": "3562",
       "isnew": "",
       "param": "",
       "quality": "",
@@ -16790,7 +16790,7 @@
       "fightType": 0,
       "id": 583,
       "moduleid": -190103,
-      "monsterid": 3540,
+      "monsterid": 3562,
       "sort": 0,
       "upgradeSort": 30,
       "upgradeSource": 2,

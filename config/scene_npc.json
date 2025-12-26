@@ -4920,6 +4920,23 @@
       "offsetY": 0,
       "scaleX": 0.6,
       "scaleY": 0.6
+    },
+    {
+      "name": "梅赫维特",
+      "pic": "4853",
+      "triggerinfo": "npc_4853",
+      "FuncParam": [
+        704
+      ],
+      "bit": 0,
+      "FuncParamSpecial": 0,
+      "FuncType": 3,
+      "id": 303,
+      "modelType": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "scaleX": 0.58,
+      "scaleY": 0.58
     }
   ]
 }

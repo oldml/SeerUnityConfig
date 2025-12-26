@@ -1299,6 +1299,16 @@
       "id": 130,
       "scale": 1,
       "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "梅赫维特",
+      "portrait": "mhwt3_fg",
+      "CharacterID": 4853,
+      "id": 131,
+      "scale": 1,
+      "silhouette": 0
     }
   ]
 }

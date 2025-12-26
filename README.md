@@ -1,6 +1,6 @@
-﻿**Parsing finished with 415 successes and 105 failures.**
+﻿**Parsing finished with 423 successes and 103 failures.**
 
-**Failed Files (105 files)**
+**Failed Files (103 files)**
   2025YearPetTrain.bytes
   AdAstraBoss.bytes
   AdventureChapter.bytes
@@ -9,7 +9,6 @@
   anjian_items.bytes
   anjian_person.bytes
   announcement.bytes
-  archivesStory_temp.bytes
   awakenlevel.bytes
   awakentask.bytes
   BackFlowTask.bytes
@@ -60,7 +59,6 @@
   partner0331.bytes
   partnerEffectUpgrade0331.bytes
   pass_task.bytes
-  petbookOptimizeMonster.bytes
   PreferentialBest.bytes
   PremiumPetInfo.bytes
   product_coins.bytes
@@ -108,4 +106,4 @@
   yizhishang_shop.bytes
 
 ---
-**Total duration: 7.17 seconds.**
+**Total duration: 29.79 seconds.**

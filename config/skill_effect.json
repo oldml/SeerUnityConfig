@@ -16951,9 +16951,9 @@
       "tagCboss": 0
     },
     {
-      "formattingAdjustment": "消除对手回合类效果\r\n-->消除成功则下{0}次受到的伤害转化为自身体力",
+      "formattingAdjustment": "消除对手回合类效果\r\n-->消除成功则下{0}次受到的伤害转化为体力恢复",
       "ifTextItalic": "消除成功",
-      "info": "消除对手回合类效果，消除成功则下{0}次受到的伤害转化为自身体力",
+      "info": "消除对手回合类效果，消除成功则下{0}次受到的伤害转化为体力恢复",
       "tagA": "消除回合",
       "tagB": "免伤",
       "tagC": "恢复",
@@ -32456,6 +32456,21 @@
       "Bosseffective": 1,
       "id": 2383,
       "isif": 0,
+      "tagAboss": 1,
+      "tagBboss": 1,
+      "tagCboss": 1
+    },
+    {
+      "formattingAdjustment": "",
+      "ifTextItalic": "对手拥有曝时",
+      "info": "对手拥有曝时将对手的烧伤转化为焚烬",
+      "tagA": "",
+      "tagB": "",
+      "tagC": "",
+      "argsNum": 0,
+      "Bosseffective": 1,
+      "id": 2384,
+      "isif": 1,
       "tagAboss": 1,
       "tagBboss": 1,
       "tagCboss": 1

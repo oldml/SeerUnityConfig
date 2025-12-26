@@ -79,6 +79,30 @@
       "sort": 9,
       "subtype": 0,
       "type": 10
+    },
+    {
+      "name": "圣诞礼遇",
+      "subtypename": "",
+      "id": 11,
+      "sort": 10,
+      "subtype": 0,
+      "type": 11
+    },
+    {
+      "name": "魔界之刻",
+      "subtypename": "",
+      "id": 12,
+      "sort": 11,
+      "subtype": 0,
+      "type": 12
+    },
+    {
+      "name": "航纪珍藏",
+      "subtypename": "",
+      "id": 13,
+      "sort": 12,
+      "subtype": 0,
+      "type": 13
     }
   ]
 }

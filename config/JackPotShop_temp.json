@@ -165,7 +165,7 @@
             41817
           ],
           "batch": 1,
-          "Endtime": 20260101,
+          "Endtime": 20260102,
           "exchangeId": 13970,
           "forever": 125053,
           "ID": 10001,
@@ -182,7 +182,7 @@
             41817
           ],
           "batch": 1,
-          "Endtime": 20260101,
+          "Endtime": 20260102,
           "exchangeId": 13971,
           "forever": 125054,
           "ID": 10002,
@@ -199,7 +199,7 @@
             41817
           ],
           "batch": 1,
-          "Endtime": 20260101,
+          "Endtime": 20260102,
           "exchangeId": 14020,
           "forever": 140035,
           "ID": 10003,
@@ -812,9 +812,9 @@
           "shopkind": 5
         }
       ],
-      "Endday": "2/6",
-      "Endtime": "2026/2/6",
-      "Openday": "1/2"
+      "Endday": "1/2",
+      "Endtime": "2026/1/2",
+      "Openday": "11/28"
     }
   }
 }

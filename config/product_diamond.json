@@ -235083,6 +235083,146 @@
         "price": 198,
         "productID": 262088,
         "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买皮肤【永恒之日·梅赫维特】",
+        "itemID": [
+          1727627
+        ],
+        "price": 598,
+        "productID": 262089,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "一键获得迎敌次数",
+        "itemID": [
+          1727628
+        ],
+        "price": 15,
+        "productID": 262090,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得精灵【图特摩斯】",
+        "itemID": [
+          1727629
+        ],
+        "price": 798,
+        "productID": 262091,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买每日挑战次数（图特摩斯）",
+        "itemID": [
+          1727630
+        ],
+        "price": 30,
+        "productID": 262092,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡简单关卡（图特摩斯）",
+        "itemID": [
+          1727631
+        ],
+        "price": 20,
+        "productID": 262093,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡困难关卡（图特摩斯）",
+        "itemID": [
+          1727632
+        ],
+        "price": 30,
+        "productID": 262094,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡地狱关卡（图特摩斯）",
+        "itemID": [
+          1727633
+        ],
+        "price": 40,
+        "productID": 262095,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买获得图特摩斯因子",
+        "itemID": [
+          1727634
+        ],
+        "price": 2,
+        "productID": 262096,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得精灵【西忒蕾妃】",
+        "itemID": [
+          1727636
+        ],
+        "price": 598,
+        "productID": 262097,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买每日挑战次数（西忒蕾妃）",
+        "itemID": [
+          1727637
+        ],
+        "price": 30,
+        "productID": 262098,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡简单关卡（西忒蕾妃）",
+        "itemID": [
+          1727638
+        ],
+        "price": 20,
+        "productID": 262099,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡困难关卡（西忒蕾妃）",
+        "itemID": [
+          1727639
+        ],
+        "price": 30,
+        "productID": 262100,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡地狱关卡（西忒蕾妃）",
+        "itemID": [
+          1727640
+        ],
+        "price": 40,
+        "productID": 262101,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买获得西忒蕾妃因子",
+        "itemID": [
+          1727641
+        ],
+        "price": 2,
+        "productID": 262102,
+        "vip": 1
       }
     ]
   }

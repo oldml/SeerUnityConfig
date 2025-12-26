@@ -131,7 +131,7 @@
       "WildBossID": null,
       "WildBossPoint": null,
       "WildBossWeight": null,
-      "enterMap": 1,
+      "enterMap": 0,
       "GroupID": 10103,
       "id": 2004,
       "MapRatio": 0,
@@ -16341,8 +16341,13 @@
       "name": "时光之墟",
       "notes": "",
       "sound": "BGM_838",
-      "NPCID": null,
-      "NPCXYZ": null,
+      "NPCID": [
+        302
+      ],
+      "NPCXYZ": [
+        380,
+        320
+      ],
       "PlayerXYZ": [
         650,
         380
@@ -16866,7 +16871,7 @@
       "WildBossID": null,
       "WildBossPoint": null,
       "WildBossWeight": null,
-      "enterMap": 0,
+      "enterMap": 1,
       "GroupID": 22001,
       "id": 2166,
       "MapRatio": 1,

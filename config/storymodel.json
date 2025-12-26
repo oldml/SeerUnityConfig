@@ -3453,6 +3453,17 @@
       "portrait": "nrm_fg",
       "id": 314,
       "scale": 1.1
+    },
+    {
+      "CharacterID": "mhwt2",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-155,688",
+      "name": "梅赫维特",
+      "portrait": "mhwt2_fg",
+      "id": 315,
+      "scale": 0.9
     }
   ]
 }

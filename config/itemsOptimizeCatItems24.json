@@ -1,6 +1,126 @@
 {
   "items": [
     {
+      "Name": "萌芽之薇因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400544,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "灵宫圣威·萨尔蒙因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400543,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "灵兽·萨尔蒙因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400542,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "清·炫羽因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400541,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "冰·寒凌因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400540,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "焰·绯云因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400539,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "魅·夜翼因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400538,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "邪冥兽因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400537,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "恶灵兽因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400536,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "鬼蚀豹尊因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400535,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "西忒蕾妃因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400534,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "图特摩斯因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400533,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "谜之英雄因子",
       "catID": 24,
       "Hide": 0,

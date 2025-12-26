@@ -4256,6 +4256,76 @@
       "currAppDo": 1,
       "id": 737,
       "isFullScreen": 1
+    },
+    {
+      "moduleName": "goldeneggSmashingGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 738,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "newyearsign2026",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 739,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "yearvip2026",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 740,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "yearvip2026PV",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 741,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "yearvip2026Alert",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 742,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "goldeneggSmashingEntry",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 743,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "Protectstatepanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 744,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "christmasskinback",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 745,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "mehwiitLegendSkinSell",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 746,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "connectLinesGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 747,
+      "isFullScreen": 1
     }
   ]
 }

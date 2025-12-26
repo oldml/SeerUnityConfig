@@ -12772,8 +12772,8 @@
       {
         "moveName1": "合奏",
         "moveName2": "常昼大诰",
-        "moveId": 29214,
-        "petId": 4999
+        "moveId": 38173,
+        "petId": 4853
       },
       {
         "moveName1": "寄予无名",
@@ -12786,6 +12786,30 @@
         "moveName2": "大礼",
         "moveId": 38193,
         "petId": 4849
+      },
+      {
+        "moveName1": "破军",
+        "moveName2": "灭魂袭",
+        "moveId": 38196,
+        "petId": 4850
+      },
+      {
+        "moveName1": "白翼",
+        "moveName2": "害灭",
+        "moveId": 38199,
+        "petId": 4851
+      },
+      {
+        "moveName1": "梦续",
+        "moveName2": "涟光",
+        "moveId": 38202,
+        "petId": 4852
+      },
+      {
+        "moveName1": "草绿",
+        "moveName2": "唤春来",
+        "moveId": 38205,
+        "petId": 4854
       },
       {
         "moveName1": "神灵",

@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "Name": "沙海明珠",
+      "Bean": 0,
+      "catID": 7,
+      "Hide": 0,
+      "hideNum": 0,
+      "ID": 700844,
+      "Max": 1,
+      "purpose": 0,
+      "Sort": 19,
+      "wd": 1
+    },
+    {
       "Name": "群星相伴NONO",
       "Bean": 0,
       "catID": 7,

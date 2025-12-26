@@ -31,7 +31,7 @@
       "isdeadline": 0,
       "isshow": 0,
       "jumptarget": 0,
-      "priority": 3,
+      "priority": 8,
       "truepos": 0
     },
     {
@@ -49,7 +49,7 @@
       "isdeadline": 0,
       "isshow": 1,
       "jumptarget": 0,
-      "priority": 4,
+      "priority": 9,
       "truepos": 1
     },
     {
@@ -86,9 +86,9 @@
     },
     {
       "controller": "",
-      "dest": "199",
+      "dest": "740",
       "finishtime": "",
-      "image": "years2025",
+      "image": "years2026",
       "name": "至尊年费",
       "reddotid": [
         117000
@@ -135,7 +135,7 @@
       "isdeadline": 0,
       "isshow": 1,
       "jumptarget": 0,
-      "priority": 5,
+      "priority": 4,
       "truepos": 1
     },
     {
@@ -171,7 +171,7 @@
       "isdeadline": 0,
       "isshow": 1,
       "jumptarget": 360000,
-      "priority": 7,
+      "priority": 5,
       "truepos": 1
     },
     {
@@ -189,7 +189,7 @@
       "isdeadline": 0,
       "isshow": 1,
       "jumptarget": 370000,
-      "priority": 8,
+      "priority": 7,
       "truepos": 1
     },
     {
@@ -207,7 +207,7 @@
       "isdeadline": 0,
       "isshow": 1,
       "jumptarget": 380000,
-      "priority": 9,
+      "priority": 10,
       "truepos": 1
     },
     {
@@ -316,6 +316,40 @@
       "isshow": 1,
       "jumptarget": 0,
       "priority": 16,
+      "truepos": 1
+    },
+    {
+      "controller": "",
+      "dest": "415",
+      "finishtime": "0",
+      "image": "yearsback",
+      "name": "往期年费",
+      "reddotid": [
+        117900
+      ],
+      "dailyRed": 0,
+      "id": 22,
+      "iOSreviewshow": 0,
+      "isdeadline": 0,
+      "isshow": 1,
+      "jumptarget": 0,
+      "priority": 98,
+      "truepos": 1
+    },
+    {
+      "controller": "",
+      "dest": "",
+      "finishtime": "",
+      "image": "petLevel",
+      "name": "精灵获得",
+      "reddotid": null,
+      "dailyRed": 0,
+      "id": 23,
+      "iOSreviewshow": 0,
+      "isdeadline": 0,
+      "isshow": 1,
+      "jumptarget": 150000,
+      "priority": 3,
       "truepos": 1
     }
   ]

@@ -4,7 +4,7 @@
       "endTime": "2026/1/2 00:00:00",
       "startTime": "2025/12/26 00:00:00",
       "suffix": "_temp",
-      "tables": "petbook,new_monster_level,chapterpoint,chapterreward,light_book,map,JackPotShop,pvp_vote,archivesStory",
+      "tables": "petbook,new_monster_level,light_book,map,JackPotShop,pvp_vote,archivesStory",
       "id": 1
     }
   ]

@@ -2235,8 +2235,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]附加已损[color=#f35555]失体[/color]力值{0}%的[color=#52a5f2]百分比伤害[/color]",
-        "info": "附加已损失体力值{0}%的百分比伤害",
+        "analyze": "[sprite name=iconHit]附加[color=#52a5f2]已损失体力[/color]值{0}%的[color=#52a5f2]百分比伤害[/color]",
+        "info": "附加[color=#52a5f2]已损失体力[/color]值{0}%的百分比伤害",
         "key": "",
         "param": null,
         "argsNum": 1,
@@ -2798,7 +2798,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合内对方使用属性技能，则自身立[color=#f35555]刻[/color]恢复1/{1}生命值且{2}+{3}，{4}+{5}",
+        "analyze": "[sprite name=iconHit]{0}回合内对方使用属性技能，则自身立刻恢复1/{1}生命值且{2}+{3}，{4}+{5}",
         "info": "{0}回合内对方使用属性技能，则自身立刻恢复1/{1}生命值且{2}+{3}，{4}+{5}",
         "key": "",
         "param": [
@@ -2970,8 +2970,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]恢复自身已损[color=#f35555]失体[/color]力值的1/{0}",
-        "info": "恢复自身已损失体力值的1/{0}",
+        "analyze": "[sprite name=iconHit]恢复自身[color=#52a5f2]已损失体力[/color]值的1/{0}",
+        "info": "恢复自身[color=#52a5f2]已损失体力[/color]值的1/{0}",
         "key": "",
         "param": null,
         "argsNum": 1,
@@ -4751,8 +4751,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]对手不处于[color=#57c975]{0}[/color]状态时附加对手已损[color=#f35555]失体[/color]力{1}%的[color=#52a5f2]百分比伤害[/color]",
-        "info": "对手不处于{0}状态时附加对手已损失体力{1}%的百分比伤害",
+        "analyze": "[sprite name=iconHit]对手不处于[color=#57c975]{0}[/color]状态时附加对手[color=#52a5f2]已损失体力[/color]{1}%的[color=#52a5f2]百分比伤害[/color]",
+        "info": "对手不处于{0}状态时附加对手[color=#52a5f2]已损失体力[/color]{1}%的百分比伤害",
         "key": "",
         "param": [
           1,
@@ -5646,8 +5646,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合内每回合恢复自身已损[color=#f35555]失体[/color]力的{1}%",
-        "info": "{0}回合内每回合恢复自身已损失体力的{1}%",
+        "analyze": "[sprite name=iconHit]{0}回合内每回合恢复自身[color=#52a5f2]已损失体力[/color]的{1}%",
+        "info": "{0}回合内每回合恢复自身[color=#52a5f2]已损失体力[/color]的{1}%",
         "key": "",
         "param": null,
         "argsNum": 2,
@@ -6539,7 +6539,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]获得{0}层神耀能量",
+        "analyze": "[sprite name=iconHit]获得{0}层[color=#f35555]神耀能量[/color]",
         "info": "获得{0}层神耀能量",
         "key": "",
         "param": null,
@@ -6557,7 +6557,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]消耗自身所有神耀能量，每消耗1层此技能[color=#52a5f2]威力[/color]提升{0}",
+        "analyze": "[sprite name=iconHit]消耗自身所有[color=#f35555]神耀能量[/color]，每消耗1层此技能[color=#52a5f2]威力[/color]提升{0}",
         "info": "消耗自身所有神耀能量，每消耗1层此技能威力提升{0}",
         "key": "",
         "param": null,
@@ -6584,7 +6584,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#57c975]击败[/color]对手则获得{0}层神耀能量",
+        "analyze": "[sprite name=iconHit][color=#57c975]击败[/color]对手则获得{0}层[color=#f35555]神耀能量[/color]",
         "info": "击败对手则获得{0}层神耀能量",
         "key": "",
         "param": null,
@@ -6593,7 +6593,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]若打出[color=#57c975]致命一击[/color]则获得{0}层神耀能量, 否则获得{1}层",
+        "analyze": "[sprite name=iconHit]若打出[color=#57c975]致命一击[/color]则获得{0}层[color=#f35555]神耀能量[/color], 否则获得{1}层",
         "info": "若打出致命一击则获得{0}层神耀能量, 否则获得{1}层",
         "key": "",
         "param": null,
@@ -12161,7 +12161,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]损失“[color=#f35555]辛[/color]”所有体力，同时使对手受到损[color=#f35555]失体[/color]力值1/2的[color=#52a5f2]固定伤害[/color]",
+        "analyze": "[sprite name=iconHit]损失“[color=#f35555]辛[/color]”所有体力，同时使对手受到[color=#52a5f2]已损失体力[/color]值1/2的[color=#52a5f2]固定伤害[/color]",
         "info": "损失“辛”所有体力，同时使对手受到损失体力值1/2的固定伤害",
         "key": "",
         "param": null,
@@ -12617,7 +12617,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]牺牲自己，消除对手能力提升状态、[color=#52a5f2]回合类效果[/color]、[color=#57c975]护盾[/color]效果、[color=#57c975]护罩[/color]效果、神耀能量、[color=#f35555]自然祝福[/color]，同时令对手{0}回合内属性技能无效",
+        "analyze": "[sprite name=iconHit]牺牲自己，消除对手能力提升状态、[color=#52a5f2]回合类效果[/color]、[color=#57c975]护盾[/color]、[color=#57c975]护罩[/color]、[color=#f35555]神耀能量[/color]、[color=#f35555]自然祝福[/color]，同时令对手{0}回合内属性技能无效",
         "info": "牺牲自己，消除对手能力提升状态、回合类效果、护盾效果、护罩效果、神耀能量、自然祝福，同时令对手{0}回合内属性技能无效",
         "key": "",
         "param": null,
@@ -14144,7 +14144,7 @@
         "type": 1
       },
       {
-        "analyze": "[sprite name=iconHit]立[color=#f35555]刻[/color]恢复自身{0}点体力，{1}回合后恢复自身全部体力",
+        "analyze": "[sprite name=iconHit]立刻恢复自身{0}点体力，{1}回合后恢复自身全部体力",
         "info": "立刻恢复自身{0}点体力，{1}回合后恢复自身全部体力",
         "key": "",
         "param": null,
@@ -14216,7 +14216,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]对手每存在1层致命裂[color=#f35555]痕[/color]则附加{0}点[color=#52a5f2]真实伤害[/color]",
+        "analyze": "[sprite name=iconHit]对手每存在1层[color=#f35555]致命裂痕[/color]则附加{0}点[color=#52a5f2]真实伤害[/color]",
         "info": "对手每存在1层致命裂痕则附加{0}点真实伤害",
         "key": "",
         "param": null,
@@ -14243,7 +14243,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#52a5f2]全属性[/color]+{0}，对手存在致命裂[color=#f35555]痕[/color]时强化效果翻倍",
+        "analyze": "[sprite name=iconHit][color=#52a5f2]全属性[/color]+{0}，对手存在[color=#f35555]致命裂痕[/color]时强化效果翻倍",
         "info": "全属性+{0}，对手存在致命裂痕时强化效果翻倍",
         "key": "",
         "param": null,
@@ -14261,7 +14261,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]附加自身最大体力{0}%的[color=#52a5f2]百分比伤害[/color]并恢复等量体力值，对手存在致命裂[color=#f35555]痕[/color]时转变为等量的[color=#52a5f2]真实伤害[/color]",
+        "analyze": "[sprite name=iconHit]附加自身最大体力{0}%的[color=#52a5f2]百分比伤害[/color]并恢复等量体力值，对手存在[color=#f35555]致命裂痕[/color]时转变为等量的[color=#52a5f2]真实伤害[/color]",
         "info": "附加自身最大体力{0}%的百分比伤害并恢复等量体力值，对手存在致命裂痕时转变为等量的真实伤害",
         "key": "",
         "param": null,
@@ -14270,7 +14270,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}%概率造成的攻击伤害为{1}倍，对手每存在1层致命裂[color=#f35555]痕[/color]则概率提升{2}%，[color=#52a5f2]未触发[/color]则{3}回合内令对手使用的属性技能无效",
+        "analyze": "[sprite name=iconHit]{0}%概率造成的攻击伤害为{1}倍，对手每存在1层[color=#f35555]致命裂痕[/color]则概率提升{2}%，[color=#52a5f2]未触发[/color]则{3}回合内令对手使用的属性技能无效",
         "info": "{0}%概率造成的攻击伤害为{1}倍，对手每存在1层致命裂痕则概率提升{2}%，未触发则{3}回合内令对手使用的属性技能无效",
         "key": "",
         "param": null,
@@ -14279,7 +14279,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]命中后{0}%随机为对手任意技能散布{1}枚[color=#f35555]致命印记[/color]，若对手当前精灵致命裂[color=#f35555]痕[/color]≥{2}层则额外散布{3}枚[color=#f35555]致命印记[/color]",
+        "analyze": "[sprite name=iconHit]命中后{0}%随机为对手任意技能散布{1}枚[color=#f35555]致命印记[/color]，若对手当前精灵[color=#f35555]致命裂痕[/color]≥{2}层则额外散布{3}枚[color=#f35555]致命印记[/color]",
         "info": "命中后{0}%随机为对手任意技能散布{1}枚致命印记，若对手当前精灵致命裂痕≥{2}层则额外散布{3}枚致命印记",
         "key": "",
         "param": null,
@@ -14721,7 +14721,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]对手不存在致命裂[color=#f35555]痕[/color]则令对手随机{0}个技能PP值归零",
+        "analyze": "[sprite name=iconHit]对手不存在[color=#f35555]致命裂痕[/color]则令对手随机{0}个技能PP值归零",
         "info": "对手不存在致命裂痕则令对手随机{0}个技能PP值归零",
         "key": "",
         "param": null,
@@ -15344,7 +15344,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#52a5f2]全属性[/color]+{0}，对手存在[color=#f35555][color=#f35555]处决[/color]印记[/color]则强化效果翻倍",
+        "analyze": "[sprite name=iconHit][color=#52a5f2]全属性[/color]+{0}，对手存在[color=#f35555]处决印记[/color]则强化效果翻倍",
         "info": "全属性+{0}，对手存在处决印记则强化效果翻倍",
         "key": "",
         "param": null,
@@ -15353,7 +15353,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]出手时若自身体力高于对手则造成的伤害提升{0}%，对手每存在1层[color=#f35555][color=#f35555]处决[/color]印记[/color]则[color=#52a5f2]伤害额外提升[/color]{1}%",
+        "analyze": "[sprite name=iconHit]出手时若自身体力高于对手则造成的伤害提升{0}%，对手每存在1层[color=#f35555]处决印记[/color]则[color=#52a5f2]伤害额外提升[/color]{1}%",
         "info": "出手时若自身体力高于对手则造成的伤害提升{0}%，对手每存在1层处决印记则伤害额外提升{1}%",
         "key": "",
         "param": null,
@@ -15393,7 +15393,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]附加自身最大体力{0}%的[color=#52a5f2]百分比伤害[/color]并恢复等量体力值，若对手存在[color=#f35555][color=#f35555]处决[/color]印记[/color]则转变为等量的[color=#52a5f2]真实伤害[/color]",
+        "analyze": "[sprite name=iconHit]附加自身最大体力{0}%的[color=#52a5f2]百分比伤害[/color]并恢复等量体力值，若对手存在[color=#f35555]处决印记[/color]则转变为等量的[color=#52a5f2]真实伤害[/color]",
         "info": "附加自身最大体力{0}%的百分比伤害并恢复等量体力值，若对手存在处决印记则转变为等量的真实伤害",
         "key": "",
         "param": null,
@@ -15973,7 +15973,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}%令对手[color=#57c975]{1}[/color]，[color=#52a5f2]未触发[/color]则对手每存在1层[color=#f35555][color=#f35555]处决[/color]印记[/color]自身免疫{2}次受到的异常状态",
+        "analyze": "[sprite name=iconHit]{0}%令对手[color=#57c975]{1}[/color]，[color=#52a5f2]未触发[/color]则对手每存在1层[color=#f35555]处决印记[/color]自身免疫{2}次受到的异常状态",
         "info": "{0}%令对手{1}，未触发则对手每存在1层处决印记自身免疫{2}次受到的异常状态",
         "key": "",
         "param": [
@@ -16022,7 +16022,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]对手每存在1层[color=#f35555][color=#f35555]处决[/color]印记[/color]则先出手时技能[color=#52a5f2]威力[/color]提升{0}%",
+        "analyze": "[sprite name=iconHit]对手每存在1层[color=#f35555]处决印记[/color]则先出手时技能[color=#52a5f2]威力[/color]提升{0}%",
         "info": "对手每存在1层处决印记则先出手时技能威力提升{0}%",
         "key": "",
         "param": null,
@@ -16165,8 +16165,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]附加对手已损[color=#f35555]失体[/color]力值{0}%的[color=#52a5f2]百分比伤害[/color]",
-        "info": "附加对手已损失体力值{0}%的百分比伤害",
+        "analyze": "[sprite name=iconHit]附加对手[color=#52a5f2]已损失体力[/color]值{0}%的[color=#52a5f2]百分比伤害[/color]",
+        "info": "附加对手[color=#52a5f2]已损失体力[/color]值{0}%的百分比伤害",
         "key": "",
         "param": null,
         "argsNum": 1,
@@ -17337,8 +17337,8 @@
         "type": 1
       },
       {
-        "analyze": "[sprite name=iconHit]附加[color=#52a5f2]己方[/color]存活精灵共计已损[color=#f35555]失体[/color]力{0}%的[color=#52a5f2]百分比伤害[/color]，自身持有[color=#f35555]凯旋预言[/color]时[color=#52a5f2]转化[/color]为[color=#52a5f2]真实伤害[/color]，且[color=#52a5f2]当回合[/color][color=#57c975]击败[/color]对手后恢复[color=#52a5f2]己方[/color]场下体力最低的首位精灵全部体力和所有技能PP值",
-        "info": "附加己方存活精灵共计已损失体力{0}%的百分比伤害，自身持有凯旋预言时转化为真实伤害，且当回合击败对手后恢复己方场下体力最低的首位精灵全部体力和所有技能PP值",
+        "analyze": "[sprite name=iconHit]附加[color=#52a5f2]己方[/color]存活精灵共计[color=#52a5f2]已损失体力[/color]{0}%的[color=#52a5f2]百分比伤害[/color]，自身持有[color=#f35555]凯旋预言[/color]时[color=#52a5f2]转化[/color]为[color=#52a5f2]真实伤害[/color]，且[color=#52a5f2]当回合[/color][color=#57c975]击败[/color]对手后恢复[color=#52a5f2]己方[/color]场下体力最低的首位精灵全部体力和所有技能PP值",
+        "info": "附加己方存活精灵共计[color=#52a5f2]已损失体力[/color]{0}%的百分比伤害，自身持有凯旋预言时转化为真实伤害，且当回合击败对手后恢复己方场下体力最低的首位精灵全部体力和所有技能PP值",
         "key": "",
         "param": null,
         "argsNum": 1,
@@ -19561,7 +19561,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#57c975]击败[/color]对手时对方下只出战精灵附加1层致命裂[color=#f35555]痕[/color]",
+        "analyze": "[sprite name=iconHit][color=#57c975]击败[/color]对手时对方下只出战精灵附加1层[color=#f35555]致命裂痕[/color]",
         "info": "击败对手时对方下只出战精灵附加1层致命裂痕",
         "key": "",
         "param": null,
@@ -19706,7 +19706,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]自身星盘每转动1[color=#f35555]刻[/color]技能提升{0}点[color=#52a5f2]威力[/color]，回返期间提升效果翻倍",
+        "analyze": "[sprite name=iconHit]自身星盘每转动1刻技能提升{0}点[color=#52a5f2]威力[/color]，回返期间提升效果翻倍",
         "info": "自身星盘每转动1刻技能提升{0}点威力，回返期间提升效果翻倍",
         "key": "",
         "param": null,
@@ -19715,7 +19715,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]自身星盘每转动1[color=#f35555]刻[/color][color=#52a5f2]吸取[/color]对手{0}点体力，回返期间改为汲取体力",
+        "analyze": "[sprite name=iconHit]自身星盘每转动1刻[color=#52a5f2]吸取[/color]对手{0}点体力，回返期间改为汲取体力",
         "info": "自身星盘每转动1刻吸取对手{0}点体力，回返期间改为汲取体力",
         "key": "",
         "param": null,
@@ -20903,8 +20903,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#57c975]击败[/color]对手时对手每有1层荒古之慑增加{0}点体力上限并恢复全部体力，未[color=#57c975]击败[/color]对手则恢复自身已损[color=#f35555]失体[/color]力值的{1}%",
-        "info": "击败对手时对手每有1层荒古之慑增加{0}点体力上限并恢复全部体力，未击败对手则恢复自身已损失体力值的{1}%",
+        "analyze": "[sprite name=iconHit][color=#57c975]击败[/color]对手时对手每有1层荒古之慑增加{0}点体力上限并恢复全部体力，未[color=#57c975]击败[/color]对手则恢复自身[color=#52a5f2]已损失体力[/color]值的{1}%",
+        "info": "击败对手时对手每有1层荒古之慑增加{0}点体力上限并恢复全部体力，未击败对手则恢复自身[color=#52a5f2]已损失体力[/color]值的{1}%",
         "key": "",
         "param": null,
         "argsNum": 2,
@@ -21056,8 +21056,8 @@
         "type": 1
       },
       {
-        "analyze": "[sprite name=iconHit]造成的攻击伤害不低于已损[color=#f35555]失体[/color]力值的{0}%，若对手不处于能力下降则效果翻倍且造成的攻击伤害额外恢复至体力",
-        "info": "造成的攻击伤害不低于已损失体力值的{0}%，若对手不处于能力下降则效果翻倍且造成的攻击伤害额外恢复至体力",
+        "analyze": "[sprite name=iconHit]造成的攻击伤害不低于[color=#52a5f2]已损失体力[/color]值的{0}%，若对手不处于能力下降则效果翻倍且造成的攻击伤害额外恢复至体力",
+        "info": "造成的攻击伤害不低于[color=#52a5f2]已损失体力[/color]值的{0}%，若对手不处于能力下降则效果翻倍且造成的攻击伤害额外恢复至体力",
         "key": "",
         "param": null,
         "argsNum": 1,
@@ -21493,7 +21493,7 @@
         "id": 7
       },
       {
-        "params": "已损失体力|最大血量|当前血量",
+        "params": "[color=#52a5f2]已损失体力[/color]|最大血量|当前血量",
         "id": 8
       },
       {

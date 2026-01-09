@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "attack": 3,
+      "exp": 2,
+      "id": 1,
+      "recover": 0,
+      "type": 1
+    },
+    {
+      "attack": 1,
+      "exp": 2,
+      "id": 2,
+      "recover": 0,
+      "type": 2
+    },
+    {
+      "attack": 4,
+      "exp": 3,
+      "id": 3,
+      "recover": 0,
+      "type": 1
+    },
+    {
+      "attack": 2,
+      "exp": 3,
+      "id": 4,
+      "recover": 0,
+      "type": 2
+    },
+    {
+      "attack": 5,
+      "exp": 4,
+      "id": 5,
+      "recover": 0,
+      "type": 1
+    },
+    {
+      "attack": 3,
+      "exp": 4,
+      "id": 6,
+      "recover": 0,
+      "type": 2
+    },
+    {
+      "attack": 8,
+      "exp": 0,
+      "id": 7,
+      "recover": 0,
+      "type": 3
+    },
+    {
+      "attack": 1,
+      "exp": 0,
+      "id": 8,
+      "recover": 0,
+      "type": 4
+    },
+    {
+      "attack": 0,
+      "exp": 5,
+      "id": 9,
+      "recover": 0,
+      "type": 5
+    },
+    {
+      "attack": 0,
+      "exp": 0,
+      "id": 10,
+      "recover": 1,
+      "type": 6
+    }
+  ]
+}

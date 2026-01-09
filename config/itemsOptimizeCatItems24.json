@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "Name": "银月狼王因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400547,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "鬼面幽蝶因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400546,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "戟决先锋因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400545,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "萌芽之薇因子",
       "catID": 24,
       "Hide": 0,

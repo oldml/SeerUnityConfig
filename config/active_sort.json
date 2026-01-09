@@ -16,7 +16,8 @@
       "isshow": 1,
       "jumptarget": 0,
       "priority": 1,
-      "truepos": 1
+      "truepos": 1,
+      "type": 1
     },
     {
       "controller": "",
@@ -32,7 +33,8 @@
       "isshow": 0,
       "jumptarget": 0,
       "priority": 8,
-      "truepos": 0
+      "truepos": 0,
+      "type": 2
     },
     {
       "controller": "",
@@ -50,7 +52,8 @@
       "isshow": 1,
       "jumptarget": 0,
       "priority": 9,
-      "truepos": 1
+      "truepos": 1,
+      "type": 2
     },
     {
       "controller": "PeakJihadOrderRedDotController",
@@ -66,7 +69,8 @@
       "isshow": 0,
       "jumptarget": 0,
       "priority": 10,
-      "truepos": 0
+      "truepos": 0,
+      "type": 2
     },
     {
       "controller": "",
@@ -82,7 +86,8 @@
       "isshow": 0,
       "jumptarget": 0,
       "priority": 99,
-      "truepos": 1
+      "truepos": 0,
+      "type": 2
     },
     {
       "controller": "",
@@ -97,10 +102,11 @@
       "id": 7,
       "iOSreviewshow": 0,
       "isdeadline": 0,
-      "isshow": 1,
+      "isshow": 0,
       "jumptarget": 0,
       "priority": 99,
-      "truepos": 1
+      "truepos": 0,
+      "type": 2
     },
     {
       "controller": "",
@@ -118,7 +124,8 @@
       "isshow": 1,
       "jumptarget": 0,
       "priority": 2,
-      "truepos": 1
+      "truepos": 1,
+      "type": 1
     },
     {
       "controller": "",
@@ -133,10 +140,11 @@
       "id": 9,
       "iOSreviewshow": 0,
       "isdeadline": 0,
-      "isshow": 1,
+      "isshow": 0,
       "jumptarget": 0,
       "priority": 4,
-      "truepos": 1
+      "truepos": 0,
+      "type": 2
     },
     {
       "controller": "",
@@ -154,7 +162,8 @@
       "isshow": 1,
       "jumptarget": 111600,
       "priority": 6,
-      "truepos": 1
+      "truepos": 1,
+      "type": 2
     },
     {
       "controller": "",
@@ -172,7 +181,8 @@
       "isshow": 1,
       "jumptarget": 360000,
       "priority": 5,
-      "truepos": 1
+      "truepos": 1,
+      "type": 1
     },
     {
       "controller": "",
@@ -190,7 +200,8 @@
       "isshow": 1,
       "jumptarget": 370000,
       "priority": 7,
-      "truepos": 1
+      "truepos": 1,
+      "type": 2
     },
     {
       "controller": "",
@@ -208,7 +219,8 @@
       "isshow": 1,
       "jumptarget": 380000,
       "priority": 10,
-      "truepos": 1
+      "truepos": 1,
+      "type": 2
     },
     {
       "controller": "",
@@ -226,7 +238,8 @@
       "isshow": 0,
       "jumptarget": 180000,
       "priority": 11,
-      "truepos": 0
+      "truepos": 0,
+      "type": 2
     },
     {
       "controller": "",
@@ -241,10 +254,11 @@
       "id": 17,
       "iOSreviewshow": 0,
       "isdeadline": 1,
-      "isshow": 1,
+      "isshow": 0,
       "jumptarget": 0,
       "priority": 12,
-      "truepos": 1
+      "truepos": 0,
+      "type": 2
     },
     {
       "controller": "",
@@ -259,10 +273,11 @@
       "id": 18,
       "iOSreviewshow": 0,
       "isdeadline": 1,
-      "isshow": 1,
+      "isshow": 0,
       "jumptarget": 0,
       "priority": 13,
-      "truepos": 1
+      "truepos": 0,
+      "type": 2
     },
     {
       "controller": "",
@@ -277,10 +292,11 @@
       "id": 19,
       "iOSreviewshow": 0,
       "isdeadline": 1,
-      "isshow": 1,
+      "isshow": 0,
       "jumptarget": 113044,
       "priority": 14,
-      "truepos": 1
+      "truepos": 0,
+      "type": 2
     },
     {
       "controller": "",
@@ -295,10 +311,11 @@
       "id": 20,
       "iOSreviewshow": 0,
       "isdeadline": 1,
-      "isshow": 1,
+      "isshow": 0,
       "jumptarget": 113057,
       "priority": 15,
-      "truepos": 1
+      "truepos": 0,
+      "type": 2
     },
     {
       "controller": "",
@@ -316,7 +333,8 @@
       "isshow": 1,
       "jumptarget": 0,
       "priority": 16,
-      "truepos": 1
+      "truepos": 1,
+      "type": 2
     },
     {
       "controller": "",
@@ -331,10 +349,11 @@
       "id": 22,
       "iOSreviewshow": 0,
       "isdeadline": 0,
-      "isshow": 1,
+      "isshow": 0,
       "jumptarget": 0,
       "priority": 98,
-      "truepos": 1
+      "truepos": 0,
+      "type": 2
     },
     {
       "controller": "",
@@ -350,7 +369,8 @@
       "isshow": 1,
       "jumptarget": 150000,
       "priority": 3,
-      "truepos": 1
+      "truepos": 1,
+      "type": 1
     }
   ]
 }

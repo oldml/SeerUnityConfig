@@ -163,6 +163,14 @@
     {
       "id": 41,
       "monsterId": 4182
+    },
+    {
+      "id": 42,
+      "monsterId": 3001
+    },
+    {
+      "id": 43,
+      "monsterId": 3665
     }
   ]
 }

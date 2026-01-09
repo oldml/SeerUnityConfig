@@ -1309,6 +1309,26 @@
       "id": 131,
       "scale": 1,
       "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "朴叶蛾",
+      "portrait": "pye_fg",
+      "CharacterID": 97,
+      "id": 132,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "xiersela_01",
+      "initialposition": "",
+      "name": "希尔瑟拉",
+      "portrait": "xiersela_fg",
+      "CharacterID": 98,
+      "id": 133,
+      "scale": 1,
+      "silhouette": 0
     }
   ]
 }

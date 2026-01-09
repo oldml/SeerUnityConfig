@@ -2,7 +2,10 @@
   "data": [
     {
       "channel": "",
-      "subset": "2;3",
+      "subset": [
+        2,
+        3
+      ],
       "endtime": 0,
       "id": 1,
       "isshow": 0,
@@ -12,7 +15,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 2,
       "isshow": 1,
@@ -22,7 +25,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 3,
       "isshow": 1,
@@ -32,7 +35,9 @@
     },
     {
       "channel": "",
-      "subset": "5",
+      "subset": [
+        5
+      ],
       "endtime": 0,
       "id": 4,
       "isshow": 1,
@@ -42,7 +47,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 5,
       "isshow": 1,
@@ -52,7 +57,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 6,
       "isshow": 1,
@@ -62,7 +67,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 7,
       "isshow": 1,
@@ -72,7 +77,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 8,
       "isshow": 1,
@@ -82,7 +87,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 9,
       "isshow": 1,
@@ -92,7 +97,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 10,
       "isshow": 1,
@@ -102,7 +107,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 11,
       "isshow": 1,
@@ -112,7 +117,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1760061600,
       "id": 12,
       "isshow": 1,
@@ -122,7 +127,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 13,
       "isshow": 1,
@@ -132,7 +137,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 14,
       "isshow": 1,
@@ -142,7 +147,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 15,
       "isshow": 1,
@@ -152,7 +157,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 16,
       "isshow": 1,
@@ -162,7 +167,11 @@
     },
     {
       "channel": "",
-      "subset": "150111;150112;150113",
+      "subset": [
+        150111,
+        150112,
+        150113
+      ],
       "endtime": 0,
       "id": 17,
       "isshow": 1,
@@ -172,7 +181,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 18,
       "isshow": 1,
@@ -182,7 +191,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1761876000,
       "id": 19,
       "isshow": 1,
@@ -192,7 +201,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 20,
       "isshow": 1,
@@ -202,7 +211,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 21,
       "isshow": 1,
@@ -212,7 +221,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 22,
       "isshow": 1,
@@ -222,7 +231,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 23,
       "isshow": 1,
@@ -232,7 +241,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 24,
       "isshow": 1,
@@ -242,7 +251,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 25,
       "isshow": 1,
@@ -252,7 +261,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 26,
       "isshow": 1,
@@ -262,7 +271,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 27,
       "isshow": 1,
@@ -272,7 +281,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1747360800,
       "id": 28,
       "isshow": 1,
@@ -282,7 +291,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 29,
       "isshow": 1,
@@ -292,7 +301,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 30,
       "isshow": 1,
@@ -302,7 +311,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1747965600,
       "id": 31,
       "isshow": 1,
@@ -312,7 +321,9 @@
     },
     {
       "channel": "",
-      "subset": "150141",
+      "subset": [
+        150141
+      ],
       "endtime": 1747965600,
       "id": 32,
       "isshow": 1,
@@ -322,7 +333,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1747965600,
       "id": 33,
       "isshow": 1,
@@ -332,7 +343,11 @@
     },
     {
       "channel": "",
-      "subset": "150131;150132;150133",
+      "subset": [
+        150131,
+        150132,
+        150133
+      ],
       "endtime": 0,
       "id": 34,
       "isshow": 1,
@@ -342,7 +357,11 @@
     },
     {
       "channel": "",
-      "subset": "150150;150152;150153",
+      "subset": [
+        150150,
+        150152,
+        150153
+      ],
       "endtime": 1751853600,
       "id": 35,
       "isshow": 1,
@@ -352,7 +371,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1751594400,
       "id": 36,
       "isshow": 1,
@@ -362,7 +381,11 @@
     },
     {
       "channel": "",
-      "subset": "150170;150171;150172",
+      "subset": [
+        150170,
+        150171,
+        150172
+      ],
       "endtime": 1751594400,
       "id": 37,
       "isshow": 1,
@@ -372,7 +395,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1751594400,
       "id": 38,
       "isshow": 1,
@@ -382,7 +405,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 39,
       "isshow": 1,
@@ -392,7 +415,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 40,
       "isshow": 1,
@@ -402,7 +425,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 41,
       "isshow": 1,
@@ -412,7 +435,10 @@
     },
     {
       "channel": "",
-      "subset": "39;40",
+      "subset": [
+        39,
+        40
+      ],
       "endtime": 0,
       "id": 42,
       "isshow": 1,
@@ -422,7 +448,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 43,
       "isshow": 1,
@@ -432,7 +458,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 44,
       "isshow": 1,
@@ -442,7 +468,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 45,
       "isshow": 1,
@@ -452,7 +478,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 46,
       "isshow": 1,
@@ -462,7 +488,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 47,
       "isshow": 1,
@@ -472,7 +498,12 @@
     },
     {
       "channel": "",
-      "subset": "44;45;46;47",
+      "subset": [
+        44,
+        45,
+        46,
+        47
+      ],
       "endtime": 0,
       "id": 48,
       "isshow": 1,
@@ -482,7 +513,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 49,
       "isshow": 1,
@@ -492,7 +523,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1751594400,
       "id": 50,
       "isshow": 1,
@@ -502,7 +533,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1750953600,
       "id": 51,
       "isshow": 1,
@@ -512,7 +543,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1751594400,
       "id": 52,
       "isshow": 1,
@@ -522,7 +553,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1751594400,
       "id": 53,
       "isshow": 1,
@@ -532,7 +563,9 @@
     },
     {
       "channel": "",
-      "subset": "150190",
+      "subset": [
+        150190
+      ],
       "endtime": 1751594400,
       "id": 54,
       "isshow": 1,
@@ -542,7 +575,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 55,
       "isshow": 1,
@@ -552,7 +585,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 56,
       "isshow": 1,
@@ -562,7 +595,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1751594400,
       "id": 57,
       "isshow": 1,
@@ -572,7 +605,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 58,
       "isshow": 1,
@@ -582,7 +615,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 59,
       "isshow": 1,
@@ -592,7 +625,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 60,
       "isshow": 1,
@@ -602,7 +635,10 @@
     },
     {
       "channel": "",
-      "subset": "150200;150201",
+      "subset": [
+        150200,
+        150201
+      ],
       "endtime": 1757088000,
       "id": 61,
       "isshow": 1,
@@ -612,7 +648,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1751594400,
       "id": 62,
       "isshow": 1,
@@ -622,7 +658,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1751594400,
       "id": 63,
       "isshow": 1,
@@ -632,7 +668,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1752804000,
       "id": 64,
       "isshow": 1,
@@ -642,7 +678,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1760666400,
       "id": 65,
       "isshow": 0,
@@ -652,7 +688,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1761271200,
       "id": 66,
       "isshow": 1,
@@ -662,7 +698,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1752804000,
       "id": 67,
       "isshow": 1,
@@ -672,7 +708,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 68,
       "isshow": 1,
@@ -682,7 +718,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1752804000,
       "id": 69,
       "isshow": 1,
@@ -692,7 +728,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1752804000,
       "id": 70,
       "isshow": 1,
@@ -702,7 +738,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 71,
       "isshow": 1,
@@ -712,7 +748,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1753408800,
       "id": 72,
       "isshow": 1,
@@ -722,7 +758,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1754618400,
       "id": 73,
       "isshow": 1,
@@ -732,7 +768,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1755828000,
       "id": 74,
       "isshow": 1,
@@ -742,7 +778,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1754618400,
       "id": 75,
       "isshow": 1,
@@ -752,7 +788,9 @@
     },
     {
       "channel": "",
-      "subset": "150210",
+      "subset": [
+        150210
+      ],
       "endtime": 1754013600,
       "id": 76,
       "isshow": 1,
@@ -762,7 +800,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1754618400,
       "id": 77,
       "isshow": 1,
@@ -772,7 +810,9 @@
     },
     {
       "channel": "",
-      "subset": "150213",
+      "subset": [
+        150213
+      ],
       "endtime": 1754618400,
       "id": 78,
       "isshow": 1,
@@ -782,7 +822,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1754618400,
       "id": 79,
       "isshow": 1,
@@ -792,7 +832,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1755223200,
       "id": 80,
       "isshow": 1,
@@ -802,7 +842,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1757037600,
       "id": 81,
       "isshow": 1,
@@ -812,7 +852,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1757037600,
       "id": 82,
       "isshow": 1,
@@ -822,7 +862,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1757037600,
       "id": 83,
       "isshow": 1,
@@ -832,7 +872,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1757037600,
       "id": 84,
       "isshow": 1,
@@ -842,7 +882,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1757037600,
       "id": 85,
       "isshow": 1,
@@ -852,7 +892,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1757037600,
       "id": 86,
       "isshow": 1,
@@ -862,7 +902,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1757037600,
       "id": 87,
       "isshow": 1,
@@ -872,7 +912,9 @@
     },
     {
       "channel": "",
-      "subset": "150215",
+      "subset": [
+        150215
+      ],
       "endtime": 1757037600,
       "id": 88,
       "isshow": 1,
@@ -882,7 +924,9 @@
     },
     {
       "channel": "",
-      "subset": "150216",
+      "subset": [
+        150216
+      ],
       "endtime": 1757037600,
       "id": 89,
       "isshow": 1,
@@ -892,7 +936,10 @@
     },
     {
       "channel": "",
-      "subset": "150217;150219",
+      "subset": [
+        150217,
+        150219
+      ],
       "endtime": 1757037600,
       "id": 90,
       "isshow": 1,
@@ -902,7 +949,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1757037600,
       "id": 91,
       "isshow": 1,
@@ -912,7 +959,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1757037600,
       "id": 92,
       "isshow": 1,
@@ -922,7 +969,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1757037600,
       "id": 93,
       "isshow": 1,
@@ -932,7 +979,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1757642400,
       "id": 94,
       "isshow": 1,
@@ -942,7 +989,10 @@
     },
     {
       "channel": "",
-      "subset": "150220;150221",
+      "subset": [
+        150220,
+        150221
+      ],
       "endtime": 1759420799,
       "id": 95,
       "isshow": 1,
@@ -952,7 +1002,9 @@
     },
     {
       "channel": "",
-      "subset": "150222",
+      "subset": [
+        150222
+      ],
       "endtime": 1757037600,
       "id": 96,
       "isshow": 1,
@@ -962,7 +1014,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1757037600,
       "id": 97,
       "isshow": 1,
@@ -972,7 +1024,9 @@
     },
     {
       "channel": "",
-      "subset": "150226",
+      "subset": [
+        150226
+      ],
       "endtime": 1757642400,
       "id": 98,
       "isshow": 1,
@@ -982,7 +1036,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1757642400,
       "id": 99,
       "isshow": 1,
@@ -992,7 +1046,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1764900000,
       "id": 100,
       "isshow": 1,
@@ -1002,7 +1056,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1757642400,
       "id": 101,
       "isshow": 1,
@@ -1012,7 +1066,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1758247200,
       "id": 102,
       "isshow": 1,
@@ -1022,7 +1076,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1758247200,
       "id": 103,
       "isshow": 1,
@@ -1032,7 +1086,9 @@
     },
     {
       "channel": "",
-      "subset": "150229",
+      "subset": [
+        150229
+      ],
       "endtime": 1758852000,
       "id": 104,
       "isshow": 1,
@@ -1042,7 +1098,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1758852000,
       "id": 105,
       "isshow": 1,
@@ -1052,7 +1108,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1758852000,
       "id": 106,
       "isshow": 1,
@@ -1062,7 +1118,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1758852000,
       "id": 107,
       "isshow": 1,
@@ -1072,7 +1128,9 @@
     },
     {
       "channel": "",
-      "subset": "150230",
+      "subset": [
+        150230
+      ],
       "endtime": 1759420799,
       "id": 108,
       "isshow": 1,
@@ -1082,7 +1140,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1760666400,
       "id": 109,
       "isshow": 1,
@@ -1092,7 +1150,10 @@
     },
     {
       "channel": "",
-      "subset": "150231;150232",
+      "subset": [
+        150231,
+        150232
+      ],
       "endtime": 1760061600,
       "id": 110,
       "isshow": 1,
@@ -1102,7 +1163,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1760061600,
       "id": 111,
       "isshow": 1,
@@ -1112,7 +1173,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1760061600,
       "id": 112,
       "isshow": 1,
@@ -1122,7 +1183,10 @@
     },
     {
       "channel": "",
-      "subset": "150233;150234",
+      "subset": [
+        150233,
+        150234
+      ],
       "endtime": 1760666400,
       "id": 113,
       "isshow": 1,
@@ -1132,7 +1196,10 @@
     },
     {
       "channel": "",
-      "subset": "150235;150236",
+      "subset": [
+        150235,
+        150236
+      ],
       "endtime": 1760061600,
       "id": 114,
       "isshow": 1,
@@ -1142,7 +1209,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1760666400,
       "id": 115,
       "isshow": 1,
@@ -1152,7 +1219,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1760061600,
       "id": 116,
       "isshow": 1,
@@ -1162,7 +1229,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1760666400,
       "id": 117,
       "isshow": 1,
@@ -1172,7 +1239,9 @@
     },
     {
       "channel": "",
-      "subset": "150237",
+      "subset": [
+        150237
+      ],
       "endtime": 1760666400,
       "id": 118,
       "isshow": 1,
@@ -1182,7 +1251,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1760666400,
       "id": 119,
       "isshow": 1,
@@ -1192,7 +1261,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1760666400,
       "id": 120,
       "isshow": 1,
@@ -1202,7 +1271,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1760666400,
       "id": 121,
       "isshow": 1,
@@ -1212,7 +1281,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1760666400,
       "id": 122,
       "isshow": 1,
@@ -1222,7 +1291,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1760666400,
       "id": 123,
       "isshow": 1,
@@ -1232,7 +1301,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1760666400,
       "id": 124,
       "isshow": 1,
@@ -1242,7 +1311,9 @@
     },
     {
       "channel": "",
-      "subset": "150242",
+      "subset": [
+        150242
+      ],
       "endtime": 1761271200,
       "id": 125,
       "isshow": 1,
@@ -1252,7 +1323,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 126,
       "isshow": 1,
@@ -1262,7 +1333,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1760666400,
       "id": 127,
       "isshow": 1,
@@ -1272,7 +1343,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1760630400,
       "id": 128,
       "isshow": 1,
@@ -1282,7 +1353,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1761271200,
       "id": 129,
       "isshow": 1,
@@ -1292,7 +1363,9 @@
     },
     {
       "channel": "",
-      "subset": "150243",
+      "subset": [
+        150243
+      ],
       "endtime": 1761271200,
       "id": 130,
       "isshow": 1,
@@ -1302,7 +1375,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1769738400,
       "id": 131,
       "isshow": 1,
@@ -1312,7 +1385,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1761876000,
       "id": 132,
       "isshow": 1,
@@ -1322,7 +1395,7 @@
     },
     {
       "channel": "1;6",
-      "subset": "",
+      "subset": null,
       "endtime": 1761271200,
       "id": 133,
       "isshow": 1,
@@ -1332,7 +1405,7 @@
     },
     {
       "channel": "1;6",
-      "subset": "",
+      "subset": null,
       "endtime": 1761271200,
       "id": 134,
       "isshow": 1,
@@ -1342,7 +1415,9 @@
     },
     {
       "channel": "",
-      "subset": "150250",
+      "subset": [
+        150250
+      ],
       "endtime": 1763690400,
       "id": 135,
       "isshow": 1,
@@ -1352,7 +1427,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1763690400,
       "id": 136,
       "isshow": 1,
@@ -1362,7 +1437,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1763690400,
       "id": 137,
       "isshow": 1,
@@ -1372,7 +1447,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1763690400,
       "id": 138,
       "isshow": 1,
@@ -1382,7 +1457,11 @@
     },
     {
       "channel": "",
-      "subset": "150247;150248;150249",
+      "subset": [
+        150247,
+        150248,
+        150249
+      ],
       "endtime": 1763690400,
       "id": 139,
       "isshow": 1,
@@ -1392,7 +1471,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1763690400,
       "id": 140,
       "isshow": 1,
@@ -1402,7 +1481,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1761840000,
       "id": 141,
       "isshow": 1,
@@ -1412,7 +1491,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1763690400,
       "id": 142,
       "isshow": 1,
@@ -1422,7 +1501,9 @@
     },
     {
       "channel": "",
-      "subset": "150253",
+      "subset": [
+        150253
+      ],
       "endtime": 1763690400,
       "id": 143,
       "isshow": 1,
@@ -1432,7 +1513,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1763690400,
       "id": 144,
       "isshow": 1,
@@ -1442,7 +1523,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1763690400,
       "id": 145,
       "isshow": 1,
@@ -1452,7 +1533,10 @@
     },
     {
       "channel": "",
-      "subset": "137;147",
+      "subset": [
+        137,
+        147
+      ],
       "endtime": 1763690400,
       "id": 146,
       "isshow": 1,
@@ -1462,7 +1546,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1763690400,
       "id": 147,
       "isshow": 1,
@@ -1472,7 +1556,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1763085600,
       "id": 148,
       "isshow": 1,
@@ -1482,7 +1566,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1763085600,
       "id": 149,
       "isshow": 1,
@@ -1492,7 +1576,11 @@
     },
     {
       "channel": "",
-      "subset": "150257;150258;150259",
+      "subset": [
+        150257,
+        150258,
+        150259
+      ],
       "endtime": 1763690400,
       "id": 150,
       "isshow": 1,
@@ -1502,7 +1590,9 @@
     },
     {
       "channel": "",
-      "subset": "150260",
+      "subset": [
+        150260
+      ],
       "endtime": 1765504800,
       "id": 151,
       "isshow": 1,
@@ -1512,7 +1602,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1765504800,
       "id": 152,
       "isshow": 1,
@@ -1522,7 +1612,10 @@
     },
     {
       "channel": "",
-      "subset": "150267;150268",
+      "subset": [
+        150267,
+        150268
+      ],
       "endtime": 1765504800,
       "id": 153,
       "isshow": 1,
@@ -1532,7 +1625,10 @@
     },
     {
       "channel": "",
-      "subset": "150269;150271",
+      "subset": [
+        150269,
+        150271
+      ],
       "endtime": 1765504800,
       "id": 154,
       "isshow": 1,
@@ -1542,7 +1638,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1765504800,
       "id": 155,
       "isshow": 1,
@@ -1552,7 +1648,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1764777600,
       "id": 156,
       "isshow": 1,
@@ -1562,7 +1658,19 @@
     },
     {
       "channel": "",
-      "subset": "150261;151;152;153;154;155;156;341100;342002;342003;342004",
+      "subset": [
+        150261,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        341100,
+        342002,
+        342003,
+        342004
+      ],
       "endtime": 1765504800,
       "id": 157,
       "isshow": 1,
@@ -1572,7 +1680,10 @@
     },
     {
       "channel": "",
-      "subset": "150277;150278",
+      "subset": [
+        150277,
+        150278
+      ],
       "endtime": 1764295200,
       "id": 158,
       "isshow": 1,
@@ -1582,7 +1693,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1764295200,
       "id": 159,
       "isshow": 1,
@@ -1592,7 +1703,9 @@
     },
     {
       "channel": "",
-      "subset": "150283",
+      "subset": [
+        150283
+      ],
       "endtime": 1765504800,
       "id": 160,
       "isshow": 1,
@@ -1602,7 +1715,9 @@
     },
     {
       "channel": "",
-      "subset": "150282",
+      "subset": [
+        150282
+      ],
       "endtime": 1765504800,
       "id": 161,
       "isshow": 1,
@@ -1612,7 +1727,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1764900000,
       "id": 162,
       "isshow": 1,
@@ -1622,7 +1737,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1764900000,
       "id": 163,
       "isshow": 1,
@@ -1632,7 +1747,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1763690400,
       "id": 164,
       "isshow": 1,
@@ -1642,7 +1757,9 @@
     },
     {
       "channel": "",
-      "subset": "150284",
+      "subset": [
+        150284
+      ],
       "endtime": 1765504800,
       "id": 165,
       "isshow": 1,
@@ -1652,7 +1769,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1766714400,
       "id": 166,
       "isshow": 1,
@@ -1662,7 +1779,11 @@
     },
     {
       "channel": "",
-      "subset": "150285;150286;150287",
+      "subset": [
+        150285,
+        150286,
+        150287
+      ],
       "endtime": 1766109600,
       "id": 167,
       "isshow": 1,
@@ -1672,7 +1793,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1766714400,
       "id": 168,
       "isshow": 1,
@@ -1682,7 +1803,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1766714400,
       "id": 169,
       "isshow": 1,
@@ -1692,7 +1813,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1766109600,
       "id": 170,
       "isshow": 1,
@@ -1702,7 +1823,10 @@
     },
     {
       "channel": "",
-      "subset": "150288;150289",
+      "subset": [
+        150288,
+        150289
+      ],
       "endtime": 1766714400,
       "id": 171,
       "isshow": 1,
@@ -1712,7 +1836,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1767319200,
       "id": 172,
       "isshow": 1,
@@ -1722,7 +1846,9 @@
     },
     {
       "channel": "",
-      "subset": "150290",
+      "subset": [
+        150290
+      ],
       "endtime": 1768528800,
       "id": 173,
       "isshow": 1,
@@ -1732,7 +1858,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1768528800,
       "id": 174,
       "isshow": 1,
@@ -1742,17 +1868,24 @@
     },
     {
       "channel": "",
-      "subset": "150293;150294",
+      "subset": [
+        150293,
+        150294
+      ],
       "endtime": 1767924000,
       "id": 175,
       "isshow": 1,
-      "starttime": 1767283200,
+      "starttime": 0,
       "subtype": 0,
       "type": 2
     },
     {
       "channel": "",
-      "subset": "150295;150296;150297",
+      "subset": [
+        150295,
+        150296,
+        150297
+      ],
       "endtime": 1769133600,
       "id": 176,
       "isshow": 1,
@@ -1762,8 +1895,8 @@
     },
     {
       "channel": "",
-      "subset": "",
-      "endtime": 0,
+      "subset": null,
+      "endtime": 1767924000,
       "id": 177,
       "isshow": 1,
       "starttime": 0,
@@ -1772,7 +1905,65 @@
     },
     {
       "channel": "",
-      "subset": "110200;110400",
+      "subset": null,
+      "endtime": 1769133600,
+      "id": 178,
+      "isshow": 1,
+      "starttime": 0,
+      "subtype": 2,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "subset": [
+        150300
+      ],
+      "endtime": 1768528800,
+      "id": 179,
+      "isshow": 1,
+      "starttime": 0,
+      "subtype": 0,
+      "type": 2
+    },
+    {
+      "channel": "",
+      "subset": [
+        150303,
+        150304
+      ],
+      "endtime": 1768528800,
+      "id": 180,
+      "isshow": 1,
+      "starttime": 0,
+      "subtype": 0,
+      "type": 2
+    },
+    {
+      "channel": "",
+      "subset": null,
+      "endtime": 1768528800,
+      "id": 181,
+      "isshow": 1,
+      "starttime": 0,
+      "subtype": 4,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "subset": null,
+      "endtime": 1768528800,
+      "id": 182,
+      "isshow": 1,
+      "starttime": 0,
+      "subtype": 4,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "subset": [
+        110200,
+        110400
+      ],
       "endtime": 0,
       "id": 110000,
       "isshow": 1,
@@ -1782,7 +1973,10 @@
     },
     {
       "channel": "",
-      "subset": "111200;111300;111400",
+      "subset": [
+        111200,
+        111300
+      ],
       "endtime": 0,
       "id": 110200,
       "isshow": 1,
@@ -1792,7 +1986,15 @@
     },
     {
       "channel": "",
-      "subset": "110410;110420;110430;110440;110450;110460;110470",
+      "subset": [
+        110410,
+        110420,
+        110430,
+        110440,
+        110450,
+        110460,
+        110470
+      ],
       "endtime": 0,
       "id": 110400,
       "isshow": 1,
@@ -1802,7 +2004,10 @@
     },
     {
       "channel": "",
-      "subset": "110411;110412",
+      "subset": [
+        110411,
+        110412
+      ],
       "endtime": 0,
       "id": 110410,
       "isshow": 1,
@@ -1812,7 +2017,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 110411,
       "isshow": 1,
@@ -1822,7 +2027,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 110412,
       "isshow": 1,
@@ -1832,7 +2037,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 110420,
       "isshow": 1,
@@ -1842,7 +2047,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 110430,
       "isshow": 1,
@@ -1852,7 +2057,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 110440,
       "isshow": 1,
@@ -1862,7 +2067,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 110450,
       "isshow": 1,
@@ -1872,7 +2077,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 110460,
       "isshow": 1,
@@ -1882,7 +2087,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 110470,
       "isshow": 1,
@@ -1892,7 +2097,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 110600,
       "isshow": 1,
@@ -1902,7 +2107,11 @@
     },
     {
       "channel": "",
-      "subset": "111210;111220;111230",
+      "subset": [
+        111210,
+        111220,
+        111230
+      ],
       "endtime": 0,
       "id": 111200,
       "isshow": 1,
@@ -1912,7 +2121,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 111210,
       "isshow": 1,
@@ -1922,7 +2131,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 111220,
       "isshow": 1,
@@ -1932,7 +2141,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 111230,
       "isshow": 1,
@@ -1942,7 +2151,14 @@
     },
     {
       "channel": "",
-      "subset": "111310;111320;111330;111340;111350;111360",
+      "subset": [
+        111310,
+        111320,
+        111330,
+        111340,
+        111350,
+        111360
+      ],
       "endtime": 0,
       "id": 111300,
       "isshow": 1,
@@ -1952,7 +2168,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 111310,
       "isshow": 1,
@@ -1962,7 +2178,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 111320,
       "isshow": 1,
@@ -1972,7 +2188,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 111330,
       "isshow": 1,
@@ -1982,7 +2198,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 111340,
       "isshow": 1,
@@ -1992,7 +2208,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 111350,
       "isshow": 1,
@@ -2002,7 +2218,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 111360,
       "isshow": 1,
@@ -2012,7 +2228,10 @@
     },
     {
       "channel": "",
-      "subset": "111410;111420",
+      "subset": [
+        111410,
+        111420
+      ],
       "endtime": 0,
       "id": 111400,
       "isshow": 1,
@@ -2022,7 +2241,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 111410,
       "isshow": 1,
@@ -2032,7 +2251,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 111420,
       "isshow": 1,
@@ -2042,7 +2261,21 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": [
+        119000,
+        110200,
+        341100
+      ],
+      "endtime": 0,
+      "id": 112000,
+      "isshow": 1,
+      "starttime": 0,
+      "subtype": 0,
+      "type": 2
+    },
+    {
+      "channel": "",
+      "subset": null,
       "endtime": 0,
       "id": 113000,
       "isshow": 1,
@@ -2052,7 +2285,9 @@
     },
     {
       "channel": "",
-      "subset": "114300",
+      "subset": [
+        114300
+      ],
       "endtime": 0,
       "id": 114000,
       "isshow": 1,
@@ -2062,7 +2297,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 114300,
       "isshow": 1,
@@ -2072,7 +2307,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 114500,
       "isshow": 1,
@@ -2082,7 +2317,12 @@
     },
     {
       "channel": "",
-      "subset": "115100;115200;115300;115400",
+      "subset": [
+        115100,
+        115200,
+        115300,
+        115400
+      ],
       "endtime": 0,
       "id": 115000,
       "isshow": 1,
@@ -2092,7 +2332,10 @@
     },
     {
       "channel": "",
-      "subset": "115110;115120",
+      "subset": [
+        115110,
+        115120
+      ],
       "endtime": 0,
       "id": 115100,
       "isshow": 1,
@@ -2102,7 +2345,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 115110,
       "isshow": 1,
@@ -2112,7 +2355,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 115120,
       "isshow": 1,
@@ -2122,7 +2365,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 115200,
       "isshow": 1,
@@ -2132,7 +2375,12 @@
     },
     {
       "channel": "",
-      "subset": "115310;115380;115370;115390",
+      "subset": [
+        115310,
+        115380,
+        115370,
+        115390
+      ],
       "endtime": 0,
       "id": 115300,
       "isshow": 1,
@@ -2142,7 +2390,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 115310,
       "isshow": 1,
@@ -2152,7 +2400,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 115320,
       "isshow": 1,
@@ -2162,7 +2410,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 115330,
       "isshow": 1,
@@ -2172,7 +2420,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 115340,
       "isshow": 1,
@@ -2182,7 +2430,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 115370,
       "isshow": 1,
@@ -2192,7 +2440,11 @@
     },
     {
       "channel": "",
-      "subset": "115320;115330;115340",
+      "subset": [
+        115320,
+        115330,
+        115340
+      ],
       "endtime": 0,
       "id": 115380,
       "isshow": 1,
@@ -2202,7 +2454,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 115390,
       "isshow": 1,
@@ -2212,7 +2464,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 115400,
       "isshow": 1,
@@ -2222,7 +2474,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 115410,
       "isshow": 1,
@@ -2232,7 +2484,13 @@
     },
     {
       "channel": "",
-      "subset": "116100;116200;116300;116400;116500",
+      "subset": [
+        116100,
+        116200,
+        116300,
+        116400,
+        116500
+      ],
       "endtime": 0,
       "id": 116000,
       "isshow": 1,
@@ -2242,7 +2500,68 @@
     },
     {
       "channel": "",
-      "subset": "1;7;8;12;28;31;116170;32;33;34;37;41;62;63;64;66;19;72;74;80;79;88;89;92;93;94;95;96;97;99;105;111;112;123;124;125;127;129;130;148;149;158;100;160;162;165;166;167;168;169;170;171;173;172;175;176",
+      "subset": [
+        1,
+        7,
+        8,
+        12,
+        28,
+        31,
+        116170,
+        32,
+        33,
+        34,
+        37,
+        41,
+        62,
+        63,
+        64,
+        66,
+        19,
+        72,
+        74,
+        80,
+        79,
+        88,
+        89,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        99,
+        105,
+        111,
+        112,
+        123,
+        124,
+        125,
+        127,
+        129,
+        130,
+        148,
+        149,
+        158,
+        100,
+        160,
+        162,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        173,
+        172,
+        175,
+        176,
+        178,
+        179,
+        180,
+        182
+      ],
       "endtime": 0,
       "id": 116200,
       "isshow": 1,
@@ -2252,7 +2571,12 @@
     },
     {
       "channel": "",
-      "subset": "116130;116140;116330;116350",
+      "subset": [
+        116130,
+        116140,
+        116330,
+        116350
+      ],
       "endtime": 0,
       "id": 116300,
       "isshow": 1,
@@ -2262,7 +2586,14 @@
     },
     {
       "channel": "",
-      "subset": "4;116110;116120;116320;131;116341",
+      "subset": [
+        4,
+        116110,
+        116120,
+        116320,
+        131,
+        116341
+      ],
       "endtime": 0,
       "id": 116100,
       "isshow": 1,
@@ -2272,7 +2603,41 @@
     },
     {
       "channel": "",
-      "subset": "76;78;81;82;84;85;86;90;98;101;102;103;104;106;107;108;109;113;115;117;118;119;120;121;122;135;136;138;142;139;140;143;146",
+      "subset": [
+        76,
+        78,
+        81,
+        82,
+        84,
+        85,
+        86,
+        90,
+        98,
+        101,
+        102,
+        103,
+        104,
+        106,
+        107,
+        108,
+        109,
+        113,
+        115,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        135,
+        136,
+        138,
+        142,
+        139,
+        140,
+        143,
+        146
+      ],
       "endtime": 0,
       "id": 116400,
       "isshow": 1,
@@ -2282,7 +2647,15 @@
     },
     {
       "channel": "",
-      "subset": "51;128;133;134;164;174;341200",
+      "subset": [
+        51,
+        128,
+        133,
+        134,
+        164,
+        174,
+        341200
+      ],
       "endtime": 0,
       "id": 116500,
       "isshow": 1,
@@ -2292,7 +2665,15 @@
     },
     {
       "channel": "",
-      "subset": "151;152;153;154;155;150261;159",
+      "subset": [
+        151,
+        152,
+        153,
+        154,
+        155,
+        150261,
+        159
+      ],
       "endtime": 0,
       "id": 116600,
       "isshow": 1,
@@ -2302,7 +2683,10 @@
     },
     {
       "channel": "",
-      "subset": "116111;116112",
+      "subset": [
+        116111,
+        116112
+      ],
       "endtime": 0,
       "id": 116110,
       "isshow": 1,
@@ -2312,7 +2696,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 116111,
       "isshow": 1,
@@ -2322,7 +2706,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 116112,
       "isshow": 1,
@@ -2332,7 +2716,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 116120,
       "isshow": 1,
@@ -2342,7 +2726,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 116130,
       "isshow": 1,
@@ -2352,7 +2736,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 116140,
       "isshow": 1,
@@ -2362,7 +2746,9 @@
     },
     {
       "channel": "",
-      "subset": "116333",
+      "subset": [
+        116333
+      ],
       "endtime": 0,
       "id": 116330,
       "isshow": 1,
@@ -2372,7 +2758,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 116331,
       "isshow": 0,
@@ -2382,7 +2768,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 116332,
       "isshow": 0,
@@ -2392,7 +2778,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 116333,
       "isshow": 1,
@@ -2402,7 +2788,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 116350,
       "isshow": 1,
@@ -2412,7 +2798,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 116320,
       "isshow": 1,
@@ -2422,7 +2808,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 116340,
       "isshow": 1,
@@ -2432,7 +2818,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 116341,
       "isshow": 1,
@@ -2442,7 +2828,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 116150,
       "isshow": 1,
@@ -2452,7 +2838,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 116160,
       "isshow": 1,
@@ -2462,7 +2848,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1747965600,
       "id": 116170,
       "isshow": 1,
@@ -2472,7 +2858,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 116171,
       "isshow": 0,
@@ -2482,7 +2868,16 @@
     },
     {
       "channel": "",
-      "subset": "117200;117300;117400;117500;117600;117700;117900;150298",
+      "subset": [
+        117200,
+        117300,
+        117400,
+        117500,
+        117600,
+        117700,
+        117900,
+        150298
+      ],
       "endtime": 0,
       "id": 117000,
       "isshow": 1,
@@ -2492,7 +2887,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 117200,
       "isshow": 1,
@@ -2502,7 +2897,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 117300,
       "isshow": 1,
@@ -2512,7 +2907,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 117400,
       "isshow": 1,
@@ -2522,7 +2917,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 117500,
       "isshow": 1,
@@ -2532,7 +2927,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 117600,
       "isshow": 1,
@@ -2542,7 +2937,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 117700,
       "isshow": 1,
@@ -2552,7 +2947,10 @@
     },
     {
       "channel": "",
-      "subset": "116150;116160",
+      "subset": [
+        116150,
+        116160
+      ],
       "endtime": 0,
       "id": 117900,
       "isshow": 1,
@@ -2562,7 +2960,12 @@
     },
     {
       "channel": "",
-      "subset": "118100;118200;118400;118500",
+      "subset": [
+        118100,
+        118200,
+        118400,
+        118500
+      ],
       "endtime": 0,
       "id": 118000,
       "isshow": 1,
@@ -2572,7 +2975,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 118100,
       "isshow": 1,
@@ -2582,7 +2985,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 118200,
       "isshow": 1,
@@ -2592,7 +2995,10 @@
     },
     {
       "channel": "",
-      "subset": "118100;118200",
+      "subset": [
+        118100,
+        118200
+      ],
       "endtime": 0,
       "id": 118210,
       "isshow": 1,
@@ -2602,7 +3008,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 118300,
       "isshow": 1,
@@ -2612,7 +3018,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 118400,
       "isshow": 1,
@@ -2622,7 +3028,10 @@
     },
     {
       "channel": "",
-      "subset": "118400;118411",
+      "subset": [
+        118400,
+        118411
+      ],
       "endtime": 0,
       "id": 118401,
       "isshow": 1,
@@ -2632,7 +3041,10 @@
     },
     {
       "channel": "",
-      "subset": "118400;118412",
+      "subset": [
+        118400,
+        118412
+      ],
       "endtime": 0,
       "id": 118402,
       "isshow": 1,
@@ -2642,7 +3054,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 118411,
       "isshow": 1,
@@ -2652,7 +3064,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 118412,
       "isshow": 1,
@@ -2662,7 +3074,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 118500,
       "isshow": 1,
@@ -2672,7 +3084,10 @@
     },
     {
       "channel": "",
-      "subset": "118611;118621",
+      "subset": [
+        118611,
+        118621
+      ],
       "endtime": 0,
       "id": 118600,
       "isshow": 1,
@@ -2682,7 +3097,10 @@
     },
     {
       "channel": "",
-      "subset": "118612;118622",
+      "subset": [
+        118612,
+        118622
+      ],
       "endtime": 0,
       "id": 118601,
       "isshow": 1,
@@ -2692,7 +3110,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 118611,
       "isshow": 1,
@@ -2702,7 +3120,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 118612,
       "isshow": 1,
@@ -2712,7 +3130,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 118621,
       "isshow": 1,
@@ -2722,7 +3140,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 118622,
       "isshow": 1,
@@ -2732,7 +3150,9 @@
     },
     {
       "channel": "",
-      "subset": "118710",
+      "subset": [
+        118710
+      ],
       "endtime": 0,
       "id": 118700,
       "isshow": 1,
@@ -2742,7 +3162,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 118710,
       "isshow": 1,
@@ -2752,7 +3172,10 @@
     },
     {
       "channel": "",
-      "subset": "119100;119200",
+      "subset": [
+        119100,
+        119200
+      ],
       "endtime": 0,
       "id": 119000,
       "isshow": 1,
@@ -2762,7 +3185,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 119100,
       "isshow": 1,
@@ -2772,7 +3195,11 @@
     },
     {
       "channel": "",
-      "subset": "119201;119202;119203",
+      "subset": [
+        119201,
+        119202,
+        119203
+      ],
       "endtime": 0,
       "id": 119200,
       "isshow": 1,
@@ -2782,7 +3209,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 119201,
       "isshow": 1,
@@ -2792,7 +3219,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 119202,
       "isshow": 1,
@@ -2802,7 +3229,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 119203,
       "isshow": 1,
@@ -2812,7 +3239,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 120000,
       "isshow": 1,
@@ -2822,7 +3249,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 121000,
       "isshow": 1,
@@ -2832,7 +3259,9 @@
     },
     {
       "channel": "",
-      "subset": "122100",
+      "subset": [
+        122100
+      ],
       "endtime": 0,
       "id": 122000,
       "isshow": 1,
@@ -2842,7 +3271,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 122001,
       "isshow": 1,
@@ -2852,7 +3281,9 @@
     },
     {
       "channel": "",
-      "subset": "122120",
+      "subset": [
+        122120
+      ],
       "endtime": 0,
       "id": 122100,
       "isshow": 1,
@@ -2862,7 +3293,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 122120,
       "isshow": 1,
@@ -2872,7 +3303,10 @@
     },
     {
       "channel": "",
-      "subset": "124100;124200",
+      "subset": [
+        124100,
+        124200
+      ],
       "endtime": 0,
       "id": 124000,
       "isshow": 1,
@@ -2882,7 +3316,11 @@
     },
     {
       "channel": "",
-      "subset": "124110;124120;124130",
+      "subset": [
+        124110,
+        124120,
+        124130
+      ],
       "endtime": 0,
       "id": 124100,
       "isshow": 1,
@@ -2892,7 +3330,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 124110,
       "isshow": 0,
@@ -2902,7 +3340,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 124120,
       "isshow": 0,
@@ -2912,7 +3350,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 124130,
       "isshow": 0,
@@ -2922,7 +3360,10 @@
     },
     {
       "channel": "",
-      "subset": "124210;124220",
+      "subset": [
+        124210,
+        124220
+      ],
       "endtime": 0,
       "id": 124200,
       "isshow": 1,
@@ -2932,7 +3373,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 124210,
       "isshow": 1,
@@ -2942,7 +3383,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 124220,
       "isshow": 1,
@@ -2952,7 +3393,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 125000,
       "isshow": 1,
@@ -2962,7 +3403,9 @@
     },
     {
       "channel": "",
-      "subset": "125110",
+      "subset": [
+        125110
+      ],
       "endtime": 0,
       "id": 125100,
       "isshow": 1,
@@ -2972,7 +3415,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 125110,
       "isshow": 1,
@@ -2982,7 +3425,9 @@
     },
     {
       "channel": "",
-      "subset": "125210",
+      "subset": [
+        125210
+      ],
       "endtime": 0,
       "id": 125200,
       "isshow": 1,
@@ -2992,7 +3437,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 125210,
       "isshow": 1,
@@ -3002,7 +3447,9 @@
     },
     {
       "channel": "",
-      "subset": "125310",
+      "subset": [
+        125310
+      ],
       "endtime": 0,
       "id": 125300,
       "isshow": 1,
@@ -3012,7 +3459,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 125310,
       "isshow": 1,
@@ -3022,7 +3469,9 @@
     },
     {
       "channel": "",
-      "subset": "126300",
+      "subset": [
+        126300
+      ],
       "endtime": 0,
       "id": 126000,
       "isshow": 1,
@@ -3032,7 +3481,9 @@
     },
     {
       "channel": "",
-      "subset": "126110",
+      "subset": [
+        126110
+      ],
       "endtime": 0,
       "id": 126100,
       "isshow": 0,
@@ -3042,7 +3493,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 126110,
       "isshow": 0,
@@ -3052,7 +3503,9 @@
     },
     {
       "channel": "",
-      "subset": "126210",
+      "subset": [
+        126210
+      ],
       "endtime": 0,
       "id": 126200,
       "isshow": 0,
@@ -3062,7 +3515,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 126210,
       "isshow": 0,
@@ -3072,7 +3525,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 126300,
       "isshow": 1,
@@ -3082,7 +3535,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 126400,
       "isshow": 0,
@@ -3092,7 +3545,9 @@
     },
     {
       "channel": "",
-      "subset": "127100",
+      "subset": [
+        127100
+      ],
       "endtime": 0,
       "id": 127000,
       "isshow": 1,
@@ -3102,7 +3557,10 @@
     },
     {
       "channel": "",
-      "subset": "127110;127120",
+      "subset": [
+        127110,
+        127120
+      ],
       "endtime": 0,
       "id": 127100,
       "isshow": 1,
@@ -3112,7 +3570,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 127110,
       "isshow": 1,
@@ -3122,7 +3580,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 127120,
       "isshow": 0,
@@ -3132,7 +3590,10 @@
     },
     {
       "channel": "",
-      "subset": "128600;128700",
+      "subset": [
+        128600,
+        128700
+      ],
       "endtime": 0,
       "id": 128000,
       "isshow": 0,
@@ -3142,7 +3603,9 @@
     },
     {
       "channel": "",
-      "subset": "128610",
+      "subset": [
+        128610
+      ],
       "endtime": 0,
       "id": 128600,
       "isshow": 0,
@@ -3152,7 +3615,12 @@
     },
     {
       "channel": "",
-      "subset": "128720;128730;128740;128750",
+      "subset": [
+        128720,
+        128730,
+        128740,
+        128750
+      ],
       "endtime": 0,
       "id": 128610,
       "isshow": 0,
@@ -3162,7 +3630,12 @@
     },
     {
       "channel": "",
-      "subset": "128720;128730;128740;128750",
+      "subset": [
+        128720,
+        128730,
+        128740,
+        128750
+      ],
       "endtime": 0,
       "id": 128700,
       "isshow": 0,
@@ -3172,7 +3645,9 @@
     },
     {
       "channel": "",
-      "subset": "128721",
+      "subset": [
+        128721
+      ],
       "endtime": 0,
       "id": 128720,
       "isshow": 1,
@@ -3182,7 +3657,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 128721,
       "isshow": 1,
@@ -3192,7 +3667,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 128730,
       "isshow": 1,
@@ -3202,7 +3677,11 @@
     },
     {
       "channel": "",
-      "subset": "129210;129220;129230",
+      "subset": [
+        129210,
+        129220,
+        129230
+      ],
       "endtime": 0,
       "id": 128740,
       "isshow": 0,
@@ -3212,7 +3691,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 128750,
       "isshow": 0,
@@ -3222,7 +3701,11 @@
     },
     {
       "channel": "",
-      "subset": "129100;129200;129300",
+      "subset": [
+        129100,
+        129200,
+        129300
+      ],
       "endtime": 0,
       "id": 129000,
       "isshow": 0,
@@ -3232,7 +3715,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 129100,
       "isshow": 1,
@@ -3242,7 +3725,11 @@
     },
     {
       "channel": "",
-      "subset": "129210;129220;129230",
+      "subset": [
+        129210,
+        129220,
+        129230
+      ],
       "endtime": 0,
       "id": 129200,
       "isshow": 1,
@@ -3252,7 +3739,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 129210,
       "isshow": 1,
@@ -3262,7 +3749,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 129220,
       "isshow": 1,
@@ -3272,7 +3759,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 129230,
       "isshow": 1,
@@ -3282,7 +3769,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 129300,
       "isshow": 1,
@@ -3292,7 +3779,10 @@
     },
     {
       "channel": "",
-      "subset": "131100;131150",
+      "subset": [
+        131100,
+        131150
+      ],
       "endtime": 0,
       "id": 131000,
       "isshow": 1,
@@ -3302,7 +3792,9 @@
     },
     {
       "channel": "",
-      "subset": "131120",
+      "subset": [
+        131120
+      ],
       "endtime": 0,
       "id": 131100,
       "isshow": 1,
@@ -3312,7 +3804,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 131120,
       "isshow": 1,
@@ -3322,7 +3814,21 @@
     },
     {
       "channel": "",
-      "subset": "131151;131172;131174;131176;131178;131180;131182;131184;131186;131188;131190;131192;131194",
+      "subset": [
+        131151,
+        131172,
+        131174,
+        131176,
+        131178,
+        131180,
+        131182,
+        131184,
+        131186,
+        131188,
+        131190,
+        131192,
+        131194
+      ],
       "endtime": 0,
       "id": 131150,
       "isshow": 1,
@@ -3332,7 +3838,18 @@
     },
     {
       "channel": "",
-      "subset": "131152;131154;131156;131158;131160;131162;131164;131166;131168;131170",
+      "subset": [
+        131152,
+        131154,
+        131156,
+        131158,
+        131160,
+        131162,
+        131164,
+        131166,
+        131168,
+        131170
+      ],
       "endtime": 0,
       "id": 131151,
       "isshow": 1,
@@ -3342,7 +3859,9 @@
     },
     {
       "channel": "",
-      "subset": "131153",
+      "subset": [
+        131153
+      ],
       "endtime": 0,
       "id": 131152,
       "isshow": 1,
@@ -3352,7 +3871,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 131153,
       "isshow": 1,
@@ -3362,7 +3881,9 @@
     },
     {
       "channel": "",
-      "subset": "131155",
+      "subset": [
+        131155
+      ],
       "endtime": 0,
       "id": 131154,
       "isshow": 1,
@@ -3372,7 +3893,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 131155,
       "isshow": 1,
@@ -3382,7 +3903,9 @@
     },
     {
       "channel": "",
-      "subset": "131157",
+      "subset": [
+        131157
+      ],
       "endtime": 0,
       "id": 131156,
       "isshow": 1,
@@ -3392,7 +3915,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 131157,
       "isshow": 1,
@@ -3402,7 +3925,9 @@
     },
     {
       "channel": "",
-      "subset": "131159",
+      "subset": [
+        131159
+      ],
       "endtime": 0,
       "id": 131158,
       "isshow": 1,
@@ -3412,7 +3937,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 131159,
       "isshow": 1,
@@ -3422,7 +3947,9 @@
     },
     {
       "channel": "",
-      "subset": "131161",
+      "subset": [
+        131161
+      ],
       "endtime": 0,
       "id": 131160,
       "isshow": 1,
@@ -3432,7 +3959,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 131161,
       "isshow": 1,
@@ -3442,7 +3969,9 @@
     },
     {
       "channel": "",
-      "subset": "131163",
+      "subset": [
+        131163
+      ],
       "endtime": 0,
       "id": 131162,
       "isshow": 1,
@@ -3452,7 +3981,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 131163,
       "isshow": 1,
@@ -3462,7 +3991,9 @@
     },
     {
       "channel": "",
-      "subset": "131165",
+      "subset": [
+        131165
+      ],
       "endtime": 0,
       "id": 131164,
       "isshow": 1,
@@ -3472,7 +4003,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 131165,
       "isshow": 1,
@@ -3482,7 +4013,9 @@
     },
     {
       "channel": "",
-      "subset": "131167",
+      "subset": [
+        131167
+      ],
       "endtime": 0,
       "id": 131166,
       "isshow": 1,
@@ -3492,7 +4025,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 131167,
       "isshow": 1,
@@ -3502,7 +4035,9 @@
     },
     {
       "channel": "",
-      "subset": "131169",
+      "subset": [
+        131169
+      ],
       "endtime": 0,
       "id": 131168,
       "isshow": 1,
@@ -3512,7 +4047,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 131169,
       "isshow": 1,
@@ -3522,7 +4057,9 @@
     },
     {
       "channel": "",
-      "subset": "131171",
+      "subset": [
+        131171
+      ],
       "endtime": 0,
       "id": 131170,
       "isshow": 1,
@@ -3532,7 +4069,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 131171,
       "isshow": 1,
@@ -3542,7 +4079,9 @@
     },
     {
       "channel": "",
-      "subset": "131173",
+      "subset": [
+        131173
+      ],
       "endtime": 0,
       "id": 131172,
       "isshow": 1,
@@ -3552,7 +4091,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 131173,
       "isshow": 1,
@@ -3562,7 +4101,9 @@
     },
     {
       "channel": "",
-      "subset": "131175",
+      "subset": [
+        131175
+      ],
       "endtime": 0,
       "id": 131174,
       "isshow": 1,
@@ -3572,7 +4113,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 131175,
       "isshow": 1,
@@ -3582,7 +4123,9 @@
     },
     {
       "channel": "",
-      "subset": "131177",
+      "subset": [
+        131177
+      ],
       "endtime": 0,
       "id": 131176,
       "isshow": 1,
@@ -3592,7 +4135,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 131177,
       "isshow": 1,
@@ -3602,7 +4145,9 @@
     },
     {
       "channel": "",
-      "subset": "131179",
+      "subset": [
+        131179
+      ],
       "endtime": 0,
       "id": 131178,
       "isshow": 1,
@@ -3612,7 +4157,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 131179,
       "isshow": 1,
@@ -3622,7 +4167,9 @@
     },
     {
       "channel": "",
-      "subset": "131181",
+      "subset": [
+        131181
+      ],
       "endtime": 0,
       "id": 131180,
       "isshow": 1,
@@ -3632,7 +4179,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 131181,
       "isshow": 1,
@@ -3642,7 +4189,9 @@
     },
     {
       "channel": "",
-      "subset": "131183",
+      "subset": [
+        131183
+      ],
       "endtime": 0,
       "id": 131182,
       "isshow": 1,
@@ -3652,7 +4201,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 131183,
       "isshow": 1,
@@ -3662,7 +4211,9 @@
     },
     {
       "channel": "",
-      "subset": "131185",
+      "subset": [
+        131185
+      ],
       "endtime": 0,
       "id": 131184,
       "isshow": 1,
@@ -3672,7 +4223,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 131185,
       "isshow": 1,
@@ -3682,7 +4233,9 @@
     },
     {
       "channel": "",
-      "subset": "131187",
+      "subset": [
+        131187
+      ],
       "endtime": 0,
       "id": 131186,
       "isshow": 1,
@@ -3692,7 +4245,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 131187,
       "isshow": 1,
@@ -3702,7 +4255,9 @@
     },
     {
       "channel": "",
-      "subset": "131189",
+      "subset": [
+        131189
+      ],
       "endtime": 0,
       "id": 131188,
       "isshow": 1,
@@ -3712,7 +4267,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 131189,
       "isshow": 1,
@@ -3722,7 +4277,9 @@
     },
     {
       "channel": "",
-      "subset": "131191",
+      "subset": [
+        131191
+      ],
       "endtime": 0,
       "id": 131190,
       "isshow": 1,
@@ -3732,7 +4289,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 131191,
       "isshow": 1,
@@ -3742,7 +4299,9 @@
     },
     {
       "channel": "",
-      "subset": "131193",
+      "subset": [
+        131193
+      ],
       "endtime": 0,
       "id": 131192,
       "isshow": 1,
@@ -3752,7 +4311,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 131193,
       "isshow": 1,
@@ -3762,7 +4321,9 @@
     },
     {
       "channel": "",
-      "subset": "131195",
+      "subset": [
+        131195
+      ],
       "endtime": 0,
       "id": 131194,
       "isshow": 1,
@@ -3772,7 +4333,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 131195,
       "isshow": 1,
@@ -3782,7 +4343,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 132000,
       "isshow": 1,
@@ -3792,7 +4353,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 132500,
       "isshow": 1,
@@ -3802,7 +4363,11 @@
     },
     {
       "channel": "",
-      "subset": "133100;133200;133500",
+      "subset": [
+        133100,
+        133200,
+        133500
+      ],
       "endtime": 0,
       "id": 133000,
       "isshow": 1,
@@ -3812,7 +4377,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 133100,
       "isshow": 1,
@@ -3822,7 +4387,11 @@
     },
     {
       "channel": "",
-      "subset": "133210;133220;133230",
+      "subset": [
+        133210,
+        133220,
+        133230
+      ],
       "endtime": 0,
       "id": 133200,
       "isshow": 1,
@@ -3832,7 +4401,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 133210,
       "isshow": 1,
@@ -3842,7 +4411,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 133220,
       "isshow": 1,
@@ -3852,7 +4421,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 133230,
       "isshow": 1,
@@ -3862,7 +4431,11 @@
     },
     {
       "channel": "",
-      "subset": "133310;133320;133330",
+      "subset": [
+        133310,
+        133320,
+        133330
+      ],
       "endtime": 0,
       "id": 133300,
       "isshow": 1,
@@ -3872,7 +4445,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 133310,
       "isshow": 1,
@@ -3882,7 +4455,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 133320,
       "isshow": 1,
@@ -3892,7 +4465,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 133330,
       "isshow": 1,
@@ -3902,7 +4475,11 @@
     },
     {
       "channel": "",
-      "subset": "133511;133512;133520",
+      "subset": [
+        133511,
+        133512,
+        133520
+      ],
       "endtime": 0,
       "id": 133500,
       "isshow": 1,
@@ -3912,7 +4489,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 133510,
       "isshow": 0,
@@ -3922,7 +4499,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 133511,
       "isshow": 1,
@@ -3932,7 +4509,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 133512,
       "isshow": 1,
@@ -3942,7 +4519,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1757037600,
       "id": 133520,
       "isshow": 1,
@@ -3952,7 +4529,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 133530,
       "isshow": 0,
@@ -3962,7 +4539,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 150110,
       "isshow": 1,
@@ -3972,7 +4549,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 150111,
       "isshow": 1,
@@ -3982,7 +4559,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 150112,
       "isshow": 0,
@@ -3992,7 +4569,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 150113,
       "isshow": 0,
@@ -4002,7 +4579,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 150121,
       "isshow": 1,
@@ -4012,7 +4589,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 150122,
       "isshow": 0,
@@ -4022,7 +4599,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 150131,
       "isshow": 1,
@@ -4032,7 +4609,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 150132,
       "isshow": 1,
@@ -4042,7 +4619,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 150133,
       "isshow": 1,
@@ -4052,7 +4629,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1747965600,
       "id": 150141,
       "isshow": 1,
@@ -4062,7 +4639,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1751853600,
       "id": 150150,
       "isshow": 1,
@@ -4072,7 +4649,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1751853600,
       "id": 150151,
       "isshow": 1,
@@ -4082,7 +4659,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1751853600,
       "id": 150152,
       "isshow": 1,
@@ -4092,7 +4669,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1751853600,
       "id": 150153,
       "isshow": 1,
@@ -4102,7 +4679,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1751594400,
       "id": 150170,
       "isshow": 1,
@@ -4112,7 +4689,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1751594400,
       "id": 150171,
       "isshow": 1,
@@ -4122,7 +4699,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1751594400,
       "id": 150172,
       "isshow": 1,
@@ -4132,7 +4709,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1751594400,
       "id": 150181,
       "isshow": 1,
@@ -4142,7 +4719,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1751594400,
       "id": 150182,
       "isshow": 1,
@@ -4152,7 +4729,10 @@
     },
     {
       "channel": "",
-      "subset": "150191;150192",
+      "subset": [
+        150191,
+        150192
+      ],
       "endtime": 1751594400,
       "id": 150190,
       "isshow": 1,
@@ -4162,7 +4742,10 @@
     },
     {
       "channel": "",
-      "subset": "150193;150194",
+      "subset": [
+        150193,
+        150194
+      ],
       "endtime": 1751594400,
       "id": 150191,
       "isshow": 1,
@@ -4172,7 +4755,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1751594400,
       "id": 150192,
       "isshow": 1,
@@ -4182,7 +4765,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1751594400,
       "id": 150193,
       "isshow": 1,
@@ -4192,7 +4775,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1751594400,
       "id": 150194,
       "isshow": 1,
@@ -4202,7 +4785,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1757088000,
       "id": 150200,
       "isshow": 1,
@@ -4212,7 +4795,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1757088000,
       "id": 150201,
       "isshow": 1,
@@ -4222,7 +4805,10 @@
     },
     {
       "channel": "",
-      "subset": "150211;150212",
+      "subset": [
+        150211,
+        150212
+      ],
       "endtime": 1754013600,
       "id": 150210,
       "isshow": 1,
@@ -4232,7 +4818,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1754013600,
       "id": 150211,
       "isshow": 1,
@@ -4242,7 +4828,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1754013600,
       "id": 150212,
       "isshow": 1,
@@ -4252,7 +4838,9 @@
     },
     {
       "channel": "",
-      "subset": "150214",
+      "subset": [
+        150214
+      ],
       "endtime": 1754618400,
       "id": 150213,
       "isshow": 1,
@@ -4262,7 +4850,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1754618400,
       "id": 150214,
       "isshow": 1,
@@ -4272,7 +4860,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1757037600,
       "id": 150215,
       "isshow": 1,
@@ -4282,7 +4870,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1757037600,
       "id": 150216,
       "isshow": 1,
@@ -4292,7 +4880,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1757037600,
       "id": 150217,
       "isshow": 1,
@@ -4302,7 +4890,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1757037600,
       "id": 150218,
       "isshow": 1,
@@ -4312,7 +4900,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1757037600,
       "id": 150219,
       "isshow": 1,
@@ -4322,7 +4910,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1759420799,
       "id": 150220,
       "isshow": 1,
@@ -4332,7 +4920,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1759420799,
       "id": 150221,
       "isshow": 1,
@@ -4342,7 +4930,10 @@
     },
     {
       "channel": "",
-      "subset": "150224;150225",
+      "subset": [
+        150224,
+        150225
+      ],
       "endtime": 1757037600,
       "id": 150222,
       "isshow": 1,
@@ -4352,7 +4943,10 @@
     },
     {
       "channel": "",
-      "subset": "150224;150225",
+      "subset": [
+        150224,
+        150225
+      ],
       "endtime": 1757037600,
       "id": 150223,
       "isshow": 1,
@@ -4362,7 +4956,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1757037600,
       "id": 150224,
       "isshow": 1,
@@ -4372,7 +4966,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1757037600,
       "id": 150225,
       "isshow": 1,
@@ -4382,7 +4976,9 @@
     },
     {
       "channel": "",
-      "subset": "150227",
+      "subset": [
+        150227
+      ],
       "endtime": 1757642400,
       "id": 150226,
       "isshow": 1,
@@ -4392,7 +4988,9 @@
     },
     {
       "channel": "",
-      "subset": "150228",
+      "subset": [
+        150228
+      ],
       "endtime": 1757642400,
       "id": 150227,
       "isshow": 1,
@@ -4402,7 +5000,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1757642400,
       "id": 150228,
       "isshow": 1,
@@ -4412,7 +5010,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1758852000,
       "id": 150229,
       "isshow": 1,
@@ -4422,7 +5020,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1759420799,
       "id": 150230,
       "isshow": 1,
@@ -4432,7 +5030,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1760061600,
       "id": 150231,
       "isshow": 1,
@@ -4442,7 +5040,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1760061600,
       "id": 150232,
       "isshow": 1,
@@ -4452,7 +5050,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1760666400,
       "id": 150233,
       "isshow": 1,
@@ -4462,7 +5060,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1760666400,
       "id": 150234,
       "isshow": 1,
@@ -4472,7 +5070,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1760061600,
       "id": 150235,
       "isshow": 1,
@@ -4482,7 +5080,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1760061600,
       "id": 150236,
       "isshow": 1,
@@ -4492,7 +5090,10 @@
     },
     {
       "channel": "",
-      "subset": "150238;150241",
+      "subset": [
+        150238,
+        150241
+      ],
       "endtime": 1760666400,
       "id": 150237,
       "isshow": 1,
@@ -4502,7 +5103,9 @@
     },
     {
       "channel": "",
-      "subset": "150239",
+      "subset": [
+        150239
+      ],
       "endtime": 1760666400,
       "id": 150238,
       "isshow": 1,
@@ -4512,7 +5115,9 @@
     },
     {
       "channel": "",
-      "subset": "150240",
+      "subset": [
+        150240
+      ],
       "endtime": 1760666400,
       "id": 150239,
       "isshow": 1,
@@ -4522,7 +5127,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1760666400,
       "id": 150240,
       "isshow": 1,
@@ -4532,7 +5137,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1760061600,
       "id": 150241,
       "isshow": 1,
@@ -4542,7 +5147,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1761271200,
       "id": 150242,
       "isshow": 1,
@@ -4552,7 +5157,9 @@
     },
     {
       "channel": "",
-      "subset": "150245",
+      "subset": [
+        150245
+      ],
       "endtime": 1761271200,
       "id": 150243,
       "isshow": 1,
@@ -4562,7 +5169,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1761271200,
       "id": 150245,
       "isshow": 1,
@@ -4572,7 +5179,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1763690400,
       "id": 150246,
       "isshow": 1,
@@ -4582,7 +5189,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1763690400,
       "id": 150247,
       "isshow": 1,
@@ -4592,7 +5199,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1763690400,
       "id": 150248,
       "isshow": 1,
@@ -4602,7 +5209,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1763690400,
       "id": 150249,
       "isshow": 1,
@@ -4612,7 +5219,10 @@
     },
     {
       "channel": "",
-      "subset": "150251;150246",
+      "subset": [
+        150251,
+        150246
+      ],
       "endtime": 1763690400,
       "id": 150250,
       "isshow": 1,
@@ -4622,7 +5232,9 @@
     },
     {
       "channel": "",
-      "subset": "150252",
+      "subset": [
+        150252
+      ],
       "endtime": 1763690400,
       "id": 150251,
       "isshow": 1,
@@ -4632,7 +5244,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1763690400,
       "id": 150252,
       "isshow": 1,
@@ -4642,7 +5254,11 @@
     },
     {
       "channel": "",
-      "subset": "150254;150255;150256",
+      "subset": [
+        150254,
+        150255,
+        150256
+      ],
       "endtime": 1763690400,
       "id": 150253,
       "isshow": 1,
@@ -4652,7 +5268,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1763690400,
       "id": 150254,
       "isshow": 1,
@@ -4662,7 +5278,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1763690400,
       "id": 150255,
       "isshow": 1,
@@ -4672,7 +5288,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1763690400,
       "id": 150256,
       "isshow": 1,
@@ -4682,7 +5298,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1763690400,
       "id": 150257,
       "isshow": 1,
@@ -4692,7 +5308,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1763690400,
       "id": 150258,
       "isshow": 1,
@@ -4702,7 +5318,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1763690400,
       "id": 150259,
       "isshow": 1,
@@ -4712,7 +5328,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1765504800,
       "id": 150260,
       "isshow": 1,
@@ -4722,7 +5338,14 @@
     },
     {
       "channel": "",
-      "subset": "150262;150263;150264;150265;150266;150272",
+      "subset": [
+        150262,
+        150263,
+        150264,
+        150265,
+        150266,
+        150272
+      ],
       "endtime": 1765504800,
       "id": 150261,
       "isshow": 1,
@@ -4732,7 +5355,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1765504800,
       "id": 150262,
       "isshow": 1,
@@ -4742,7 +5365,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1765504800,
       "id": 150263,
       "isshow": 1,
@@ -4752,7 +5375,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1765504800,
       "id": 150264,
       "isshow": 1,
@@ -4762,7 +5385,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1765504800,
       "id": 150265,
       "isshow": 1,
@@ -4772,7 +5395,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1765504800,
       "id": 150266,
       "isshow": 1,
@@ -4782,7 +5405,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1765504800,
       "id": 150267,
       "isshow": 1,
@@ -4792,7 +5415,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1765504800,
       "id": 150268,
       "isshow": 1,
@@ -4802,7 +5425,9 @@
     },
     {
       "channel": "",
-      "subset": "150270",
+      "subset": [
+        150270
+      ],
       "endtime": 1765504800,
       "id": 150269,
       "isshow": 1,
@@ -4812,7 +5437,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1765504800,
       "id": 150270,
       "isshow": 1,
@@ -4822,7 +5447,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1765504800,
       "id": 150271,
       "isshow": 1,
@@ -4832,7 +5457,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1765504800,
       "id": 150272,
       "isshow": 1,
@@ -4842,7 +5467,9 @@
     },
     {
       "channel": "",
-      "subset": "150263",
+      "subset": [
+        150263
+      ],
       "endtime": 1765504800,
       "id": 150273,
       "isshow": 1,
@@ -4852,7 +5479,11 @@
     },
     {
       "channel": "",
-      "subset": "150264;150265;150272",
+      "subset": [
+        150264,
+        150265,
+        150272
+      ],
       "endtime": 1765504800,
       "id": 150274,
       "isshow": 1,
@@ -4862,7 +5493,9 @@
     },
     {
       "channel": "",
-      "subset": "150266",
+      "subset": [
+        150266
+      ],
       "endtime": 1765504800,
       "id": 150275,
       "isshow": 1,
@@ -4872,7 +5505,13 @@
     },
     {
       "channel": "",
-      "subset": "150263;150264;150265;150266;150272",
+      "subset": [
+        150263,
+        150264,
+        150265,
+        150266,
+        150272
+      ],
       "endtime": 1765504800,
       "id": 150276,
       "isshow": 1,
@@ -4882,7 +5521,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 150277,
       "isshow": 1,
@@ -4892,7 +5531,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 150278,
       "isshow": 1,
@@ -4902,7 +5541,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1765504800,
       "id": 150279,
       "isshow": 1,
@@ -4912,7 +5551,9 @@
     },
     {
       "channel": "",
-      "subset": "150281",
+      "subset": [
+        150281
+      ],
       "endtime": 1765504800,
       "id": 150280,
       "isshow": 1,
@@ -4922,7 +5563,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1765504800,
       "id": 150281,
       "isshow": 1,
@@ -4932,7 +5573,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1765504800,
       "id": 150282,
       "isshow": 1,
@@ -4942,7 +5583,10 @@
     },
     {
       "channel": "",
-      "subset": "150279;150280",
+      "subset": [
+        150279,
+        150280
+      ],
       "endtime": 1765504800,
       "id": 150283,
       "isshow": 1,
@@ -4952,7 +5596,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1765504800,
       "id": 150284,
       "isshow": 1,
@@ -4962,7 +5606,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1766109600,
       "id": 150285,
       "isshow": 1,
@@ -4972,7 +5616,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 150286,
       "isshow": 1,
@@ -4982,7 +5626,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1766109600,
       "id": 150287,
       "isshow": 1,
@@ -4992,7 +5636,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1766714400,
       "id": 150288,
       "isshow": 1,
@@ -5002,7 +5646,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1766714400,
       "id": 150289,
       "isshow": 1,
@@ -5012,7 +5656,10 @@
     },
     {
       "channel": "",
-      "subset": "150291;150292",
+      "subset": [
+        150291,
+        150292
+      ],
       "endtime": 1768528800,
       "id": 150290,
       "isshow": 1,
@@ -5022,7 +5669,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1768528800,
       "id": 150291,
       "isshow": 1,
@@ -5032,7 +5679,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1767924000,
       "id": 150292,
       "isshow": 1,
@@ -5042,27 +5689,27 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1767924000,
       "id": 150293,
       "isshow": 1,
-      "starttime": 1767283200,
+      "starttime": 0,
       "subtype": 1,
       "type": 1
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1767801600,
       "id": 150294,
       "isshow": 1,
-      "starttime": 1767283200,
+      "starttime": 0,
       "subtype": 4,
       "type": 1
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1798682400,
       "id": 150295,
       "isshow": 1,
@@ -5072,7 +5719,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1798682400,
       "id": 150296,
       "isshow": 1,
@@ -5082,7 +5729,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1798682400,
       "id": 150297,
       "isshow": 1,
@@ -5092,7 +5739,11 @@
     },
     {
       "channel": "",
-      "subset": "150295;150296;150297",
+      "subset": [
+        150295,
+        150296,
+        150297
+      ],
       "endtime": 1798682400,
       "id": 150298,
       "isshow": 1,
@@ -5102,7 +5753,10 @@
     },
     {
       "channel": "",
-      "subset": "150277;150278",
+      "subset": [
+        150277,
+        150278
+      ],
       "endtime": 0,
       "id": 150299,
       "isshow": 1,
@@ -5112,7 +5766,64 @@
     },
     {
       "channel": "",
-      "subset": "115100;115200;115300",
+      "subset": [
+        150301,
+        150302
+      ],
+      "endtime": 1768528800,
+      "id": 150300,
+      "isshow": 1,
+      "starttime": 0,
+      "subtype": 0,
+      "type": 2
+    },
+    {
+      "channel": "",
+      "subset": null,
+      "endtime": 1768492800,
+      "id": 150301,
+      "isshow": 1,
+      "starttime": 0,
+      "subtype": 4,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "subset": null,
+      "endtime": 1768528800,
+      "id": 150302,
+      "isshow": 1,
+      "starttime": 0,
+      "subtype": 1,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "subset": null,
+      "endtime": 1768528800,
+      "id": 150303,
+      "isshow": 1,
+      "starttime": 0,
+      "subtype": 4,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "subset": null,
+      "endtime": 1768528800,
+      "id": 150304,
+      "isshow": 1,
+      "starttime": 0,
+      "subtype": 1,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "subset": [
+        115100,
+        115200,
+        115300
+      ],
       "endtime": 0,
       "id": 211000,
       "isshow": 1,
@@ -5122,7 +5833,13 @@
     },
     {
       "channel": "",
-      "subset": "116100;116200;116300;116400;116500",
+      "subset": [
+        116100,
+        116200,
+        116300,
+        116400,
+        116500
+      ],
       "endtime": 0,
       "id": 212000,
       "isshow": 1,
@@ -5132,7 +5849,11 @@
     },
     {
       "channel": "",
-      "subset": "125100;125200;125300",
+      "subset": [
+        125100,
+        125200,
+        125300
+      ],
       "endtime": 0,
       "id": 213000,
       "isshow": 1,
@@ -5142,7 +5863,10 @@
     },
     {
       "channel": "",
-      "subset": "128600;128700",
+      "subset": [
+        128600,
+        128700
+      ],
       "endtime": 0,
       "id": 214000,
       "isshow": 0,
@@ -5152,7 +5876,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 216000,
       "isshow": 1,
@@ -5162,7 +5886,9 @@
     },
     {
       "channel": "",
-      "subset": "131100",
+      "subset": [
+        131100
+      ],
       "endtime": 0,
       "id": 217000,
       "isshow": 1,
@@ -5172,7 +5898,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 218000,
       "isshow": 1,
@@ -5182,7 +5908,10 @@
     },
     {
       "channel": "",
-      "subset": "124100;124200",
+      "subset": [
+        124100,
+        124200
+      ],
       "endtime": 0,
       "id": 220000,
       "isshow": 1,
@@ -5192,7 +5921,9 @@
     },
     {
       "channel": "",
-      "subset": "122000",
+      "subset": [
+        122000
+      ],
       "endtime": 0,
       "id": 221000,
       "isshow": 1,
@@ -5202,7 +5933,10 @@
     },
     {
       "channel": "",
-      "subset": "110200;110400",
+      "subset": [
+        110200,
+        110400
+      ],
       "endtime": 0,
       "id": 223000,
       "isshow": 1,
@@ -5212,7 +5946,11 @@
     },
     {
       "channel": "",
-      "subset": "133100;133200;133500",
+      "subset": [
+        133100,
+        133200,
+        133500
+      ],
       "endtime": 0,
       "id": 225000,
       "isshow": 1,
@@ -5222,7 +5960,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 227000,
       "isshow": 0,
@@ -5232,7 +5970,9 @@
     },
     {
       "channel": "",
-      "subset": "113000",
+      "subset": [
+        113000
+      ],
       "endtime": 0,
       "id": 228000,
       "isshow": 1,
@@ -5242,7 +5982,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 229000,
       "isshow": 1,
@@ -5252,7 +5992,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 310110,
       "isshow": 1,
@@ -5262,7 +6002,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 310120,
       "isshow": 1,
@@ -5272,7 +6012,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 310220,
       "isshow": 1,
@@ -5282,7 +6022,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 310320,
       "isshow": 1,
@@ -5292,7 +6032,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 310420,
       "isshow": 1,
@@ -5302,7 +6042,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 310520,
       "isshow": 1,
@@ -5312,7 +6052,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 310620,
       "isshow": 1,
@@ -5322,7 +6062,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 310720,
       "isshow": 1,
@@ -5332,7 +6072,16 @@
     },
     {
       "channel": "",
-      "subset": "310110;310120;310220;310320;310420;310520;310620;310720",
+      "subset": [
+        310110,
+        310120,
+        310220,
+        310320,
+        310420,
+        310520,
+        310620,
+        310720
+      ],
       "endtime": 0,
       "id": 311000,
       "isshow": 1,
@@ -5342,7 +6091,9 @@
     },
     {
       "channel": "",
-      "subset": "320110",
+      "subset": [
+        320110
+      ],
       "endtime": 0,
       "id": 320100,
       "isshow": 1,
@@ -5352,7 +6103,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 320110,
       "isshow": 1,
@@ -5362,7 +6113,16 @@
     },
     {
       "channel": "",
-      "subset": "320201;320202;320203;320204;320205;320206;320207;320210",
+      "subset": [
+        320201,
+        320202,
+        320203,
+        320204,
+        320205,
+        320206,
+        320207,
+        320210
+      ],
       "endtime": 0,
       "id": 320200,
       "isshow": 1,
@@ -5372,7 +6132,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 320201,
       "isshow": 1,
@@ -5382,7 +6142,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 320202,
       "isshow": 1,
@@ -5392,7 +6152,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 320203,
       "isshow": 1,
@@ -5402,7 +6162,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 320204,
       "isshow": 1,
@@ -5412,7 +6172,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 320205,
       "isshow": 1,
@@ -5422,7 +6182,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 320206,
       "isshow": 1,
@@ -5432,7 +6192,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 320207,
       "isshow": 1,
@@ -5442,7 +6202,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 320210,
       "isshow": 1,
@@ -5452,7 +6212,10 @@
     },
     {
       "channel": "",
-      "subset": "320100;320200",
+      "subset": [
+        320100,
+        320200
+      ],
       "endtime": 0,
       "id": 321000,
       "isshow": 1,
@@ -5462,7 +6225,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 330100,
       "isshow": 1,
@@ -5472,7 +6235,9 @@
     },
     {
       "channel": "",
-      "subset": "330100",
+      "subset": [
+        330100
+      ],
       "endtime": 0,
       "id": 331000,
       "isshow": 1,
@@ -5482,7 +6247,9 @@
     },
     {
       "channel": "",
-      "subset": "340101",
+      "subset": [
+        340101
+      ],
       "endtime": 0,
       "id": 340100,
       "isshow": 1,
@@ -5492,7 +6259,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 340101,
       "isshow": 1,
@@ -5502,7 +6269,9 @@
     },
     {
       "channel": "",
-      "subset": "340201",
+      "subset": [
+        340201
+      ],
       "endtime": 0,
       "id": 340200,
       "isshow": 1,
@@ -5512,7 +6281,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 340201,
       "isshow": 1,
@@ -5522,7 +6291,10 @@
     },
     {
       "channel": "",
-      "subset": "340101;340201",
+      "subset": [
+        340101,
+        340201
+      ],
       "endtime": 0,
       "id": 341000,
       "isshow": 1,
@@ -5532,7 +6304,12 @@
     },
     {
       "channel": "",
-      "subset": "341101;341102;341103;341104",
+      "subset": [
+        341101,
+        341102,
+        341103,
+        341104
+      ],
       "endtime": 0,
       "id": 341100,
       "isshow": 1,
@@ -5542,7 +6319,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 341101,
       "isshow": 1,
@@ -5552,7 +6329,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 341102,
       "isshow": 1,
@@ -5562,7 +6339,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 341103,
       "isshow": 1,
@@ -5572,7 +6349,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 341104,
       "isshow": 1,
@@ -5582,7 +6359,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 1768492799,
       "id": 341200,
       "isshow": 1,
@@ -5592,7 +6369,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 342003,
       "isshow": 1,
@@ -5602,7 +6379,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 342004,
       "isshow": 1,
@@ -5612,7 +6389,9 @@
     },
     {
       "channel": "",
-      "subset": "342003",
+      "subset": [
+        342003
+      ],
       "endtime": 0,
       "id": 342005,
       "isshow": 1,
@@ -5622,7 +6401,9 @@
     },
     {
       "channel": "",
-      "subset": "342004",
+      "subset": [
+        342004
+      ],
       "endtime": 0,
       "id": 342006,
       "isshow": 1,
@@ -5632,7 +6413,7 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 342007,
       "isshow": 1,
@@ -5642,7 +6423,9 @@
     },
     {
       "channel": "",
-      "subset": "342007",
+      "subset": [
+        342007
+      ],
       "endtime": 0,
       "id": 342008,
       "isshow": 1,
@@ -5652,9 +6435,19 @@
     },
     {
       "channel": "",
-      "subset": "",
+      "subset": null,
       "endtime": 0,
       "id": 342100,
+      "isshow": 1,
+      "starttime": 0,
+      "subtype": 2,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "subset": null,
+      "endtime": 0,
+      "id": 342009,
       "isshow": 1,
       "starttime": 0,
       "subtype": 2,

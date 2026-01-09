@@ -1,54 +1,70 @@
 {
   "data": [
     {
-      "dest": "-1",
-      "image": "homepage",
-      "name": "主页",
-      "clickLock": 0,
-      "closeother": 1,
-      "id": 1,
-      "priority": 1,
-      "reddotid": 0
-    },
-    {
-      "dest": "270000",
-      "image": "guide",
-      "name": "航行指南",
-      "clickLock": 0,
-      "closeother": 0,
-      "id": 2,
-      "priority": 1,
-      "reddotid": 211000
-    },
-    {
-      "dest": "110000",
-      "image": "activityCenter",
-      "name": "活动中心",
-      "clickLock": 0,
-      "closeother": 0,
-      "id": 3,
-      "priority": 2,
-      "reddotid": 212000
-    },
-    {
       "dest": "170000",
-      "image": "plotTasks",
+      "image": "expressJumpNew_story",
       "name": "剧情任务",
       "clickLock": 0,
       "closeother": 1,
-      "id": 4,
-      "priority": 2,
+      "id": 1,
+      "iosLock": 0,
+      "priority": 1,
       "reddotid": 213000
     },
     {
       "dest": "200000",
-      "image": "peakJihad",
+      "image": "expressJumpNew_peak",
       "name": "巅峰圣战",
       "clickLock": 0,
       "closeother": 1,
-      "id": 5,
-      "priority": 2,
+      "id": 2,
+      "iosLock": 0,
+      "priority": 1,
       "reddotid": 214000
+    },
+    {
+      "dest": "150000",
+      "image": "expressJumpNew_petLevel",
+      "name": "精灵获得",
+      "clickLock": 0,
+      "closeother": 1,
+      "id": 3,
+      "iosLock": 0,
+      "priority": 2,
+      "reddotid": 0
+    },
+    {
+      "dest": "161000",
+      "image": "expressJumpNew_resourceCollection",
+      "name": "资源收集",
+      "clickLock": 0,
+      "closeother": 1,
+      "id": 4,
+      "iosLock": 0,
+      "priority": 2,
+      "reddotid": 124000
+    },
+    {
+      "dest": "180000",
+      "image": "expressJumpNew_markWheel",
+      "name": "刻印之轮",
+      "clickLock": 0,
+      "closeother": 0,
+      "id": 5,
+      "iosLock": 0,
+      "priority": 2,
+      "reddotid": 126000
+    },
+    {
+      "dest": "190000",
+      "image": "expressJumpNew_petRecruit",
+      "name": "精灵招募",
+      "clickLock": 0,
+      "closeother": 0,
+      "id": 6,
+      "iosLock": 0,
+      "priority": 2,
+      "reddotid": 0
     },
     {
       "dest": "220000",
@@ -56,7 +72,8 @@
       "name": "精灵",
       "clickLock": 0,
       "closeother": 0,
-      "id": 6,
+      "id": 7,
+      "iosLock": 0,
       "priority": 3,
       "reddotid": 0
     },
@@ -66,7 +83,8 @@
       "name": "物品",
       "clickLock": 0,
       "closeother": 0,
-      "id": 7,
+      "id": 8,
+      "iosLock": 0,
       "priority": 3,
       "reddotid": 216000
     },
@@ -76,59 +94,43 @@
       "name": "图鉴",
       "clickLock": 0,
       "closeother": 0,
-      "id": 8,
+      "id": 9,
+      "iosLock": 0,
       "priority": 3,
       "reddotid": 217000
     },
     {
-      "dest": "130000",
-      "image": "mall",
-      "name": "商城",
+      "dest": "250000",
+      "image": "team",
+      "name": "战队",
       "clickLock": 0,
       "closeother": 0,
-      "id": 9,
-      "priority": 3,
-      "reddotid": 218000
-    },
-    {
-      "dest": "150000",
-      "image": "petLevel",
-      "name": "精灵获得",
-      "clickLock": 0,
-      "closeother": 1,
       "id": 10,
+      "iosLock": 0,
       "priority": 3,
-      "reddotid": 0
+      "reddotid": 225000
     },
     {
-      "dest": "161000",
-      "image": "resourceCollection",
-      "name": "资源收集",
+      "dest": "110000",
+      "image": "activityCenter",
+      "name": "活动中心",
       "clickLock": 0,
-      "closeother": 1,
+      "closeother": 0,
       "id": 11,
+      "iosLock": 0,
       "priority": 3,
-      "reddotid": 124000
+      "reddotid": 212000
     },
     {
-      "dest": "180000",
-      "image": "markWheel",
-      "name": "刻印之轮",
+      "dest": "270000",
+      "image": "crewHandbook",
+      "name": "航行指南",
       "clickLock": 0,
       "closeother": 0,
       "id": 12,
+      "iosLock": 0,
       "priority": 3,
-      "reddotid": 126000
-    },
-    {
-      "dest": "190000",
-      "image": "petRecruit",
-      "name": "精灵招募",
-      "clickLock": 0,
-      "closeother": 0,
-      "id": 13,
-      "priority": 3,
-      "reddotid": 0
+      "reddotid": 211000
     },
     {
       "dest": "140000",
@@ -136,7 +138,8 @@
       "name": "量子回廊",
       "clickLock": 0,
       "closeother": 1,
-      "id": 14,
+      "id": 13,
+      "iosLock": 0,
       "priority": 3,
       "reddotid": 0
     },
@@ -146,27 +149,8 @@
       "name": "SPT挑战",
       "clickLock": 0,
       "closeother": 1,
-      "id": 15,
-      "priority": 3,
-      "reddotid": 0
-    },
-    {
-      "dest": "250000",
-      "image": "team",
-      "name": "战队",
-      "clickLock": 0,
-      "closeother": 0,
-      "id": 16,
-      "priority": 3,
-      "reddotid": 225000
-    },
-    {
-      "dest": "260000",
-      "image": "map",
-      "name": "星系地图",
-      "clickLock": 0,
-      "closeother": 1,
-      "id": 17,
+      "id": 14,
+      "iosLock": 0,
       "priority": 3,
       "reddotid": 0
     },
@@ -176,7 +160,8 @@
       "name": "个人",
       "clickLock": 0,
       "closeother": 0,
-      "id": 18,
+      "id": 15,
+      "iosLock": 0,
       "priority": 3,
       "reddotid": 223000
     },
@@ -186,7 +171,8 @@
       "name": "好友",
       "clickLock": 0,
       "closeother": 0,
-      "id": 19,
+      "id": 16,
+      "iosLock": 0,
       "priority": 3,
       "reddotid": 0
     },
@@ -196,9 +182,21 @@
       "name": "基地",
       "clickLock": 0,
       "closeother": 1,
-      "id": 20,
+      "id": 17,
+      "iosLock": 1,
       "priority": 3,
       "reddotid": 0
+    },
+    {
+      "dest": "130000",
+      "image": "mall",
+      "name": "商城",
+      "clickLock": 0,
+      "closeother": 0,
+      "id": 18,
+      "iosLock": 0,
+      "priority": 3,
+      "reddotid": 218000
     },
     {
       "dest": "320000",
@@ -206,7 +204,8 @@
       "name": "设置",
       "clickLock": 0,
       "closeother": 0,
-      "id": 21,
+      "id": 19,
+      "iosLock": 0,
       "priority": 4,
       "reddotid": 0
     },
@@ -216,7 +215,8 @@
       "name": "邮件",
       "clickLock": 0,
       "closeother": 0,
-      "id": 22,
+      "id": 20,
+      "iosLock": 0,
       "priority": 4,
       "reddotid": 228000
     },
@@ -226,9 +226,32 @@
       "name": "公告",
       "clickLock": 0,
       "closeother": 0,
-      "id": 23,
+      "id": 21,
+      "iosLock": 0,
       "priority": 4,
       "reddotid": 229000
+    },
+    {
+      "dest": "-1",
+      "image": "home",
+      "name": "主页",
+      "clickLock": 0,
+      "closeother": 0,
+      "id": 22,
+      "iosLock": 0,
+      "priority": 4,
+      "reddotid": 0
+    },
+    {
+      "dest": "260000",
+      "image": "map",
+      "name": "星系地图",
+      "clickLock": 0,
+      "closeother": 1,
+      "id": 23,
+      "iosLock": 0,
+      "priority": 4,
+      "reddotid": 0
     }
   ]
 }

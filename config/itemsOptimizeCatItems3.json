@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "LimitPetClass": "",
+      "Name": "怪味果酱",
+      "Bean": 0,
+      "catID": 3,
+      "EvRemove": 0,
+      "Hide": 0,
+      "ID": 301051,
+      "IncreMonLvTo": 0,
+      "ItemType": 0,
+      "Max": 999,
+      "PP": 0,
+      "Price": 0,
+      "purpose": 0,
+      "Rarity": 3,
+      "Sort": 4,
+      "UseMax": 0,
+      "VipOnly": 0,
+      "wd": 1
+    },
+    {
       "LimitPetClass": "3514",
       "Name": "梅赫维特专属学习力注入剂",
       "Bean": 0,

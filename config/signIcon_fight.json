@@ -2685,7 +2685,7 @@
         "isShowNum": 0,
         "showmonster": 0,
         "showtime": 0,
-        "sort": 5
+        "sort": 4
       },
       {
         "className": "*",
@@ -2701,7 +2701,7 @@
         "isShowNum": 1,
         "showmonster": 0,
         "showtime": 0,
-        "sort": 5
+        "sort": 4
       },
       {
         "className": "*",
@@ -2724,7 +2724,7 @@
         "isShowNum": 0,
         "showmonster": 4186,
         "showtime": 0,
-        "sort": 5
+        "sort": 4
       },
       {
         "className": "*",
@@ -2747,7 +2747,7 @@
         "isShowNum": 0,
         "showmonster": 4186,
         "showtime": 0,
-        "sort": 5
+        "sort": 4
       },
       {
         "className": "*",
@@ -3816,6 +3816,38 @@
         "sptips": null,
         "tips": "苍茫树海",
         "id": 143,
+        "isShowNum": 1,
+        "showmonster": 0,
+        "showtime": 0,
+        "sort": 4
+      },
+      {
+        "className": "*",
+        "dec": "m",
+        "Des": "%",
+        "frame": null,
+        "NumDes": "剩余回合",
+        "spDes": null,
+        "spicon": null,
+        "sptips": null,
+        "tips": "m",
+        "id": 144,
+        "isShowNum": 1,
+        "showmonster": 0,
+        "showtime": 0,
+        "sort": 5
+      },
+      {
+        "className": "*",
+        "dec": "x",
+        "Des": "%",
+        "frame": null,
+        "NumDes": "剩余回合",
+        "spDes": null,
+        "spicon": null,
+        "sptips": null,
+        "tips": "x",
+        "id": 145,
         "isShowNum": 1,
         "showmonster": 0,
         "showtime": 0,

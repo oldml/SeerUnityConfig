@@ -17809,6 +17809,20 @@
                     "ID": 27,
                     "proicon": 1455,
                     "SpeNameBonus": 564
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "除虫高手",
+                    "Desc": "在犹尔尼斯星探索中获得的实力证明",
+                    "Threshold": "28",
+                    "title": "除虫高手",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 28,
+                    "proicon": 1459,
+                    "SpeNameBonus": 567
                   }
                 ],
                 "ID": 166,

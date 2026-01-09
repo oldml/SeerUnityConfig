@@ -13898,8 +13898,8 @@
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "世界之脉·圣灵谱尼",
         "SkinKind": [
           {
@@ -13911,14 +13911,14 @@
           }
         ],
         "ID": 774,
-        "Jumptarget": 114006,
+        "Jumptarget": 0,
         "MonID": 5000,
         "Type": 19
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
-        "Name": "潮汐之主·星光鲁斯王",
+        "Go": "",
+        "GoType": "",
+        "Name": "潮汐之主·鲁斯王",
         "SkinKind": [
           {
             "ID": 1,
@@ -13929,7 +13929,7 @@
           }
         ],
         "ID": 775,
-        "Jumptarget": 114006,
+        "Jumptarget": 0,
         "MonID": 4648,
         "Type": 19
       },
@@ -14042,8 +14042,8 @@
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "拂晓·奥菲利娅",
         "SkinKind": [
           {
@@ -14055,13 +14055,13 @@
           }
         ],
         "ID": 782,
-        "Jumptarget": 114021,
+        "Jumptarget": 0,
         "MonID": 4706,
         "Type": 2
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "冬日礼颂·枫眠",
         "SkinKind": [
           {
@@ -14073,13 +14073,13 @@
           }
         ],
         "ID": 783,
-        "Jumptarget": 114026,
+        "Jumptarget": 0,
         "MonID": 3954,
         "Type": 8
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "雪境牧礼使·玛洛迪斯",
         "SkinKind": [
           {
@@ -14091,13 +14091,13 @@
           }
         ],
         "ID": 784,
-        "Jumptarget": 114026,
+        "Jumptarget": 0,
         "MonID": 3739,
         "Type": 8
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "萨瑞卡",
         "SkinKind": [
           {
@@ -14109,7 +14109,7 @@
           }
         ],
         "ID": 785,
-        "Jumptarget": 2,
+        "Jumptarget": 0,
         "MonID": 3637,
         "Type": 0
       },
@@ -14129,6 +14129,42 @@
         "ID": 786,
         "Jumptarget": 114028,
         "MonID": 4853,
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "渊墟帝龙",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 787,
+        "Jumptarget": 114031,
+        "MonID": 4797,
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "雪域祖灵·银月狼王",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 788,
+        "Jumptarget": 2,
+        "MonID": 3171,
         "Type": 3
       }
     ]

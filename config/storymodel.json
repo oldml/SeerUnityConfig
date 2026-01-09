@@ -3464,6 +3464,94 @@
       "portrait": "mhwt2_fg",
       "id": 315,
       "scale": 0.9
+    },
+    {
+      "CharacterID": "ariana",
+      "emoji": "ariana_01,ariana_02,ariana_03,ariana_04,ariana_05",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "52,393",
+      "name": "艾莉安娜",
+      "portrait": "ariana_fg",
+      "id": 316,
+      "scale": 1
+    },
+    {
+      "CharacterID": "xiersela",
+      "emoji": "xiersela_01,xiersela_02,xiersela_03,xiersela_04,xiersela_05",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "希尔瑟拉",
+      "portrait": "xiersela_fg",
+      "id": 317,
+      "scale": 1
+    },
+    {
+      "CharacterID": "aisibinnuosp",
+      "emoji": "aisibinnuo_01,aisibinnuo_02,aisibinnuo_03,aisibinnuo_04",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,244",
+      "name": "主母",
+      "portrait": "aisibinnuosp_fg",
+      "id": 318,
+      "scale": 1
+    },
+    {
+      "CharacterID": "insect_npc",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-178,56",
+      "name": "虫族",
+      "portrait": "insect_npc_fg",
+      "id": 319,
+      "scale": 1
+    },
+    {
+      "CharacterID": "denge",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "灯蛾",
+      "portrait": "denge_fg",
+      "id": 320,
+      "scale": 1
+    },
+    {
+      "CharacterID": "jjxf",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "戟决先锋",
+      "portrait": "jjxf_fg",
+      "id": 321,
+      "scale": 1
+    },
+    {
+      "CharacterID": "mhwt3",
+      "emoji": "mhwt1_01,mhwt1_02,mhwt1_03,mhwt1_04,mhwt1_05",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-50,45",
+      "name": "梅赫维特",
+      "portrait": "mhwt1_fg",
+      "id": 322,
+      "scale": 1.05
+    },
+    {
+      "CharacterID": "pye",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "朴叶蝶",
+      "portrait": "pye_fg",
+      "id": 323,
+      "scale": 1
     }
   ]
 }

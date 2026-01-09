@@ -157,54 +157,20 @@
           "shopkind": 2
         },
         {
-          "productName": "雷暴·利斯塔",
+          "productName": "惊涛海皇·波塞冬",
           "productID": [
-            3097,
+            3506,
             34174,
             5566,
             41817
           ],
           "batch": 1,
-          "Endtime": 20260101,
-          "exchangeId": 13970,
-          "forever": 125053,
+          "Endtime": 20991231,
+          "exchangeId": 14017,
+          "forever": 140227,
           "ID": 10001,
-          "Opentime": 20240426,
-          "productPrice": 25,
-          "shopkind": 1
-        },
-        {
-          "productName": "利斯塔",
-          "productID": [
-            3090,
-            34174,
-            5566,
-            41817
-          ],
-          "batch": 1,
-          "Endtime": 20260101,
-          "exchangeId": 13971,
-          "forever": 125054,
-          "ID": 10002,
-          "Opentime": 20240426,
-          "productPrice": 20,
-          "shopkind": 1
-        },
-        {
-          "productName": "利尔",
-          "productID": [
-            3089,
-            34174,
-            5566,
-            41817
-          ],
-          "batch": 1,
-          "Endtime": 20260101,
-          "exchangeId": 14020,
-          "forever": 140035,
-          "ID": 10003,
-          "Opentime": 20240426,
-          "productPrice": 10,
+          "Opentime": 20260101,
+          "productPrice": 80,
           "shopkind": 1
         },
         {

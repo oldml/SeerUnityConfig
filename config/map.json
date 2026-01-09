@@ -16815,15 +16815,40 @@
       "Ename": "Destination Reached",
       "name": "犹尔尼斯星",
       "notes": "",
-      "sound": "",
+      "sound": "2026yuris_01",
       "NPCID": null,
       "NPCXYZ": null,
-      "PlayerXYZ": null,
-      "WildBossID": null,
-      "WildBossPoint": null,
+      "PlayerXYZ": [
+        163,
+        232
+      ],
+      "WildBossID": [
+        4858,
+        4859
+      ],
+      "WildBossPoint": [
+        282,
+        314,
+        184,
+        261,
+        664,
+        366,
+        802,
+        307,
+        936,
+        213,
+        1007,
+        336,
+        1152,
+        253,
+        1341,
+        385,
+        1341,
+        385
+      ],
       "WildBossWeight": null,
       "enterMap": 0,
-      "GroupID": 0,
+      "GroupID": 22002,
       "id": 2164,
       "MapRatio": 1,
       "pic": 2164
@@ -16836,7 +16861,10 @@
       "sound": "",
       "NPCID": null,
       "NPCXYZ": null,
-      "PlayerXYZ": null,
+      "PlayerXYZ": [
+        467,
+        404
+      ],
       "WildBossID": null,
       "WildBossPoint": null,
       "WildBossWeight": null,

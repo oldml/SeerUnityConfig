@@ -24,6 +24,12 @@
         "id": 600094,
         "playerJudge": 1,
         "track": 0
+      },
+      {
+        "hitEffect": 1,
+        "id": 600095,
+        "playerJudge": 1,
+        "track": 1
       }
     ]
   }

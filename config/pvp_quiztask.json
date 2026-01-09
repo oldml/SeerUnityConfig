@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "describe": "参与1次巅峰圣战赛事模式比赛竞猜",
+      "describe": "参与1次巅峰圣战赛事模式比赛应援",
       "rewardinfo": [
         1,
         1703191,
@@ -34,18 +34,18 @@
       "value": 3
     },
     {
-      "describe": "完成钻石任务中的任意5项每日任务",
+      "describe": "参与5场巅峰圣战竞技/狂野模式对战",
       "rewardinfo": [
         1,
         1703191,
         100
       ],
       "id": 4,
-      "jumptarget": 271100,
+      "jumptarget": 200000,
       "value": 5
     },
     {
-      "describe": "完成竞猜任务中的任意3项任务",
+      "describe": "完成应援任务中的任意3项任务",
       "rewardinfo": [
         1,
         1703191,

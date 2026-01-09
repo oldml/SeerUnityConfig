@@ -523646,6 +523646,164 @@
           "Type": 8
         },
         {
+          "info": "开始免疫并反弹受到的异常状态了；开始反击了；可以转化下一次攻击伤害了",
+          "Name": "毒素外甲",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            191,
+            817,
+            1768
+          ],
+          "SideEffectArg": [
+            4,
+            3,
+            1,
+            300
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29235,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；开始恢复体力并附加百分比伤害了；出手变得更快了",
+          "Name": "族群意志",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1014,
+            532,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            2,
+            4,
+            3,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29236,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "开始免疫异常状态了；令对手能力下降了；开始闪避对手的攻击了",
+          "Name": "迷幻鳞片",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            48,
+            749,
+            1235
+          ],
+          "SideEffectArg": [
+            3,
+            100,
+            1,
+            2,
+            50,
+            1
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29237,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "能力提升了；开始恢复体力了",
+          "Name": "翼纹惊吓",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            4,
+            4,
+            57
+          ],
+          "SideEffectArg": [
+            0,
+            100,
+            2,
+            4,
+            100,
+            2,
+            3,
+            3
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29238,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "开始强化自身了；开始吸取对手的体力了",
+          "Name": "鳞翅锐化",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            407,
+            923
+          ],
+          "SideEffectArg": [
+            0,
+            2,
+            2,
+            2,
+            200
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29239,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
           "info": "",
           "Name": "千星死魂灭",
           "FriendSideEffect": null,
@@ -742843,7 +743001,9 @@
             5
           ],
           "SideEffectArg": [
-            0
+            0,
+            100,
+            -2
           ],
           "Accuracy": 95,
           "AtkNum": 0,
@@ -750904,6 +751064,186 @@
           "Type": 10
         },
         {
+          "info": "",
+          "Name": "震魂冲拳",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            453,
+            1465,
+            1719
+          ],
+          "SideEffectArg": [
+            6,
+            1,
+            2,
+            30,
+            20
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38216,
+          "MaxPP": 10,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Type": 13
+        },
+        {
+          "info": "",
+          "Name": "破冰反击",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1701,
+            1179,
+            147
+          ],
+          "SideEffectArg": [
+            50,
+            2,
+            50,
+            100,
+            15
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38217,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": -1,
+          "Type": 9
+        },
+        {
+          "info": "",
+          "Name": "碎甲重锤",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            747,
+            961,
+            886,
+            1155
+          ],
+          "SideEffectArg": [
+            1,
+            1,
+            25,
+            20,
+            5,
+            30
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38218,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 45
+        },
+        {
+          "info": "",
+          "Name": "乱影冲",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            714,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            2,
+            1
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38219,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 1,
+          "Type": 44
+        },
+        {
+          "info": "",
+          "Name": "俯冲突袭",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            789,
+            1574
+          ],
+          "SideEffectArg": [
+            1,
+            10,
+            5,
+            20
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38220,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 44
+        },
+        {
+          "info": "",
+          "Name": "冻羽冲击",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            173,
+            1549
+          ],
+          "SideEffectArg": [
+            100,
+            15,
+            1
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38221,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 44
+        },
+        {
           "info": "恢复自身一定体力",
           "Name": "浓尘翻涌",
           "FriendSideEffect": null,
@@ -750934,10 +751274,10 @@
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
-            2274
+            2385
           ],
           "SideEffectArg": [
-            30
+            1
           ],
           "Accuracy": 100,
           "AtkNum": 0,
@@ -750959,9 +751299,12 @@
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
-            2275
+            2386
           ],
-          "SideEffectArg": null,
+          "SideEffectArg": [
+            4,
+            100
+          ],
           "Accuracy": 100,
           "AtkNum": 0,
           "AtkType": 3,
@@ -750982,9 +751325,12 @@
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
-            2276
+            2387
           ],
-          "SideEffectArg": null,
+          "SideEffectArg": [
+            1,
+            1
+          ],
           "Accuracy": 100,
           "AtkNum": 0,
           "AtkType": 3,
@@ -751005,9 +751351,13 @@
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
-            2277
+            2388
           ],
-          "SideEffectArg": null,
+          "SideEffectArg": [
+            20,
+            50,
+            18
+          ],
           "Accuracy": 95,
           "AtkNum": 0,
           "AtkType": 3,
@@ -751028,12 +751378,10 @@
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
-            2278
+            2389
           ],
           "SideEffectArg": [
-            40,
-            40,
-            40
+            0
           ],
           "Accuracy": 95,
           "AtkNum": 0,
@@ -751055,11 +751403,10 @@
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
-            2279,
-            2280
+            2390
           ],
           "SideEffectArg": [
-            100
+            2
           ],
           "Accuracy": 95,
           "AtkNum": 0,

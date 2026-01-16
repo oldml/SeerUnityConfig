@@ -12,6 +12,19 @@
       "winrate1": 65,
       "winrate2": 62,
       "winrate3": 51
+    },
+    {
+      "time": "2025.10-2026.1",
+      "account1": 264391071,
+      "account2": 308037433,
+      "account3": 105538397,
+      "id": 2,
+      "score1": 2226,
+      "score2": 2181,
+      "score3": 2166,
+      "winrate1": 64,
+      "winrate2": 53,
+      "winrate3": 49
     }
   ]
 }

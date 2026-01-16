@@ -2823,7 +2823,7 @@
           }
         ],
         "ID": 157,
-        "Jumptarget": 0,
+        "Jumptarget": 295000,
         "MonID": 2987,
         "Type": 2
       },
@@ -3075,7 +3075,7 @@
           }
         ],
         "ID": 171,
-        "Jumptarget": 0,
+        "Jumptarget": 295000,
         "MonID": 2987,
         "Type": 3
       },
@@ -3309,7 +3309,7 @@
           }
         ],
         "ID": 184,
-        "Jumptarget": 0,
+        "Jumptarget": 295002,
         "MonID": 3291,
         "Type": 3
       },
@@ -3417,7 +3417,7 @@
           }
         ],
         "ID": 190,
-        "Jumptarget": 0,
+        "Jumptarget": 295001,
         "MonID": 3311,
         "Type": 3
       },
@@ -3993,7 +3993,7 @@
           }
         ],
         "ID": 222,
-        "Jumptarget": 0,
+        "Jumptarget": 295002,
         "MonID": 3291,
         "Type": 2
       },
@@ -5019,7 +5019,7 @@
           }
         ],
         "ID": 279,
-        "Jumptarget": 0,
+        "Jumptarget": 295003,
         "MonID": 3550,
         "Type": 2
       },
@@ -5307,7 +5307,7 @@
           }
         ],
         "ID": 295,
-        "Jumptarget": 0,
+        "Jumptarget": 295003,
         "MonID": 3550,
         "Type": 3
       },
@@ -6117,7 +6117,7 @@
           }
         ],
         "ID": 341,
-        "Jumptarget": 0,
+        "Jumptarget": 295005,
         "MonID": 3986,
         "Type": 2
       },
@@ -6261,7 +6261,7 @@
           }
         ],
         "ID": 349,
-        "Jumptarget": 0,
+        "Jumptarget": 295005,
         "MonID": 3986,
         "Type": 3
       },
@@ -6297,7 +6297,7 @@
           }
         ],
         "ID": 351,
-        "Jumptarget": 0,
+        "Jumptarget": 295005,
         "MonID": 3986,
         "Type": 4
       },
@@ -6441,7 +6441,7 @@
           }
         ],
         "ID": 359,
-        "Jumptarget": 0,
+        "Jumptarget": 295001,
         "MonID": 3311,
         "Type": 2
       },
@@ -6675,7 +6675,7 @@
           }
         ],
         "ID": 372,
-        "Jumptarget": 0,
+        "Jumptarget": 295005,
         "MonID": 3986,
         "Type": 3
       },
@@ -7107,7 +7107,7 @@
           }
         ],
         "ID": 396,
-        "Jumptarget": 0,
+        "Jumptarget": 295005,
         "MonID": 3986,
         "Type": 3
       },
@@ -7652,8 +7652,8 @@
         "Type": 0
       },
       {
-        "Go": "app/QiLingYuanShenWinterSkinMainPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "冬雪感召·启灵元神",
         "SkinKind": [
           {
@@ -7665,7 +7665,7 @@
           }
         ],
         "ID": 427,
-        "Jumptarget": 0,
+        "Jumptarget": 295005,
         "MonID": 3986,
         "Type": 3
       },
@@ -8475,7 +8475,7 @@
           }
         ],
         "ID": 472,
-        "Jumptarget": 0,
+        "Jumptarget": 111800,
         "MonID": 4377,
         "Type": 3
       },
@@ -8493,7 +8493,7 @@
           }
         ],
         "ID": 473,
-        "Jumptarget": 0,
+        "Jumptarget": 111800,
         "MonID": 4377,
         "Type": 3
       },
@@ -8511,7 +8511,7 @@
           }
         ],
         "ID": 474,
-        "Jumptarget": 0,
+        "Jumptarget": 111800,
         "MonID": 4377,
         "Type": 3
       },
@@ -8529,7 +8529,7 @@
           }
         ],
         "ID": 475,
-        "Jumptarget": 0,
+        "Jumptarget": 111800,
         "MonID": 4386,
         "Type": 4
       },
@@ -8601,7 +8601,7 @@
           }
         ],
         "ID": 479,
-        "Jumptarget": 0,
+        "Jumptarget": 295007,
         "MonID": 4321,
         "Type": 3
       },
@@ -9105,7 +9105,7 @@
           }
         ],
         "ID": 507,
-        "Jumptarget": 0,
+        "Jumptarget": 295007,
         "MonID": 4321,
         "Type": 2
       },
@@ -9267,7 +9267,7 @@
           }
         ],
         "ID": 516,
-        "Jumptarget": 0,
+        "Jumptarget": 295008,
         "MonID": 4450,
         "Type": 2
       },
@@ -9609,7 +9609,7 @@
           }
         ],
         "ID": 535,
-        "Jumptarget": 0,
+        "Jumptarget": 295008,
         "MonID": 4450,
         "Type": 3
       },
@@ -9717,7 +9717,7 @@
           }
         ],
         "ID": 541,
-        "Jumptarget": 0,
+        "Jumptarget": 111800,
         "MonID": 4510,
         "Type": 3
       },
@@ -9735,7 +9735,7 @@
           }
         ],
         "ID": 542,
-        "Jumptarget": 0,
+        "Jumptarget": 295006,
         "MonID": 4169,
         "Type": 2
       },
@@ -9897,7 +9897,7 @@
           }
         ],
         "ID": 551,
-        "Jumptarget": 0,
+        "Jumptarget": 111800,
         "MonID": 4515,
         "Type": 3
       },
@@ -9915,7 +9915,7 @@
           }
         ],
         "ID": 552,
-        "Jumptarget": 0,
+        "Jumptarget": 111800,
         "MonID": 4500,
         "Type": 3
       },
@@ -10221,7 +10221,7 @@
           }
         ],
         "ID": 569,
-        "Jumptarget": 0,
+        "Jumptarget": 111800,
         "MonID": 4377,
         "Type": 3
       },
@@ -10550,8 +10550,8 @@
         "Type": 3
       },
       {
-        "Go": "",
-        "GoType": "",
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
         "Name": "天蛇一梦·艾夏拉",
         "SkinKind": [
           {
@@ -10563,7 +10563,7 @@
           }
         ],
         "ID": 588,
-        "Jumptarget": 0,
+        "Jumptarget": 410000,
         "MonID": 3673,
         "Type": 15
       },
@@ -10892,8 +10892,8 @@
         "Type": 3
       },
       {
-        "Go": "",
-        "GoType": "",
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
         "Name": "玉龙猎手",
         "SkinKind": [
           {
@@ -10905,7 +10905,7 @@
           }
         ],
         "ID": 607,
-        "Jumptarget": 0,
+        "Jumptarget": 410000,
         "MonID": 3514,
         "Type": 15
       },
@@ -11414,8 +11414,8 @@
         "Type": 3
       },
       {
-        "Go": "",
-        "GoType": "",
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
         "Name": "穷极之扉·万魔天尊",
         "SkinKind": [
           {
@@ -11427,7 +11427,7 @@
           }
         ],
         "ID": 636,
-        "Jumptarget": 0,
+        "Jumptarget": 410000,
         "MonID": 4001,
         "Type": 15
       },
@@ -11882,8 +11882,8 @@
         "Type": 3
       },
       {
-        "Go": "",
-        "GoType": "",
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
         "Name": "星云幻想·黄金天马",
         "SkinKind": [
           {
@@ -11895,7 +11895,7 @@
           }
         ],
         "ID": 662,
-        "Jumptarget": 0,
+        "Jumptarget": 410000,
         "MonID": 3670,
         "Type": 15
       },
@@ -12314,8 +12314,8 @@
         "Type": 3
       },
       {
-        "Go": "",
-        "GoType": "",
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
         "Name": "森野之息·卡莎",
         "SkinKind": [
           {
@@ -12327,7 +12327,7 @@
           }
         ],
         "ID": 686,
-        "Jumptarget": 0,
+        "Jumptarget": 410000,
         "MonID": 4484,
         "Type": 3
       },
@@ -12782,8 +12782,8 @@
         "Type": 3
       },
       {
-        "Go": "",
-        "GoType": "",
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
         "Name": "风雷之翼·艾里克",
         "SkinKind": [
           {
@@ -12795,7 +12795,7 @@
           }
         ],
         "ID": 712,
-        "Jumptarget": 0,
+        "Jumptarget": 410000,
         "MonID": 3705,
         "Type": 3
       },
@@ -13322,8 +13322,8 @@
         "Type": 3
       },
       {
-        "Go": "",
-        "GoType": "",
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
         "Name": "梦色仲夏·月华",
         "SkinKind": [
           {
@@ -13335,7 +13335,7 @@
           }
         ],
         "ID": 742,
-        "Jumptarget": 0,
+        "Jumptarget": 410000,
         "MonID": 4462,
         "Type": 3
       },
@@ -13700,8 +13700,8 @@
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "冬日礼装·雪璞",
         "SkinKind": [
           {
@@ -13713,7 +13713,7 @@
           }
         ],
         "ID": 763,
-        "Jumptarget": 202000,
+        "Jumptarget": 0,
         "MonID": 4823,
         "Type": 3
       },
@@ -14165,6 +14165,60 @@
         "ID": 788,
         "Jumptarget": 2,
         "MonID": 3171,
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "四色黑雨·涂蝶",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 789,
+        "Jumptarget": 202000,
+        "MonID": 4861,
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "天域圣诫·岚",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 790,
+        "Jumptarget": 204000,
+        "MonID": 4376,
+        "Type": 15
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "霜穹巡弋·卫岳",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 791,
+        "Jumptarget": 410000,
+        "MonID": 4510,
         "Type": 3
       }
     ]

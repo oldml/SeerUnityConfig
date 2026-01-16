@@ -208,6 +208,17 @@
       "monsterid": 3554,
       "order": 0,
       "type": 1
+    },
+    {
+      "Arg2": "2_3",
+      "LevelLock": "",
+      "name": "妖族元皇·兰蒂斯",
+      "Arg1": 4,
+      "dataKey": 17,
+      "id": 20,
+      "monsterid": 3686,
+      "order": 0,
+      "type": 1
     }
   ]
 }

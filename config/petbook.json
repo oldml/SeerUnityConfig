@@ -1414,8 +1414,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4857,
-            "ImageID": 4857,
+            "ID": 4860,
+            "ImageID": 4860,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1425,8 +1425,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4858,
-            "ImageID": 4858,
+            "ID": 4861,
+            "ImageID": 4861,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1436,8 +1436,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4859,
-            "ImageID": 4859,
+            "ID": 4862,
+            "ImageID": 4862,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1447,10 +1447,10 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 787,
-            "ImageID": 1400787,
+            "ID": 789,
+            "ImageID": 1400789,
             "Label": 0,
-            "monID": 4797,
+            "monID": 4861,
             "type": 1
           },
           {
@@ -1458,10 +1458,21 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 788,
-            "ImageID": 1400788,
+            "ID": 790,
+            "ImageID": 1400790,
             "Label": 0,
-            "monID": 3171,
+            "monID": 4376,
+            "type": 1
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "Redirect": "module",
+            "Mintmark": null,
+            "ID": 791,
+            "ImageID": 1400791,
+            "Label": 0,
+            "monID": 4510,
             "type": 1
           }
         ]
@@ -23425,7 +23436,7 @@
       {
         "DefName": "妖族元皇·兰蒂斯",
         "Features": "万邪妖皇极致突破，兰蒂斯吸收了魂珠的力量变得更为强大，他能否带领妖族走向繁荣，我们还不得而知...",
-        "Target": "",
+        "Target": "150103",
         "ID": 3686
       },
       {
@@ -28309,7 +28320,7 @@
       {
         "DefName": "卫岳",
         "Features": "南荒卫氏家族中的长女，在帝国征召开拓舰舰长的选拔中脱颖而出，却在启航后看到了未曾预料的身影。",
-        "Target": "",
+        "Target": "111800",
         "ID": 4510
       },
       {
@@ -28321,7 +28332,7 @@
       {
         "DefName": "武心婵",
         "Features": "瓏帝国当今皇帝最年幼得宠的女儿，如今悄然走出宫门，登上了即将启航的开拓舰。",
-        "Target": "",
+        "Target": "111800",
         "ID": 4500
       },
       {
@@ -28345,7 +28356,7 @@
       {
         "DefName": "霍光",
         "Features": "北冥霍氏家族新晋家主，曾率北冥卫平定数次叛乱立下卓著功勋。作为当今皇帝心腹，接下重任，追逐痕迹来到了赛尔号所处的宇宙。",
-        "Target": "",
+        "Target": "111800",
         "ID": 4515
       },
       {
@@ -30187,7 +30198,7 @@
       {
         "DefName": "雪璞",
         "Features": "巅峰S8赛季【曜日】开启！日光将融化一切风雪，赤日凌空，希望永存！",
-        "Target": "200000",
+        "Target": "",
         "ID": 4823
       },
       {
@@ -30405,6 +30416,24 @@
         "Features": "闪光灯蛾是灯蛾族群中的稀有个体，你可以在族群中轻易发现闪闪发光的它。",
         "Target": "400018",
         "ID": 4859
+      },
+      {
+        "DefName": "希尔瑟拉",
+        "Features": "希尔瑟拉是一位勇敢的侦察战士，她秘密潜伏在虫族之中，将收集到的情报传递回后方，用另一种方式帮助大家对抗敌人。",
+        "Target": "153201/827",
+        "ID": 4860
+      },
+      {
+        "DefName": "涂蝶",
+        "Features": "雨巷中偶然的擦肩，她看见了“色彩”。再后来，庸人无法理解她对纯黑的狂热，也无法察觉他们眼中的漆黑，却在她眼中斑斓。",
+        "Target": "200000",
+        "ID": 4861
+      },
+      {
+        "DefName": "纷争之薇",
+        "Features": "在犹尔尼斯星再度现身的神秘幽灵，相比此前，她似乎长得更成熟了一些。但同样再次朝小梅发出了警告……",
+        "Target": "170000",
+        "ID": 4862
       }
     ],
     "RecMintmark": {

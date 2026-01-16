@@ -4382,6 +4382,48 @@
       "currAppDo": 1,
       "id": 755,
       "isFullScreen": 1
+    },
+    {
+      "moduleName": "insectFormationPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 756,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "insectFormationPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 757,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "landisStrong",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 758,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "landisStrong",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 759,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "equalShareGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 760,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "FourTeenYearSign",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 761,
+      "isFullScreen": 0
     }
   ]
 }

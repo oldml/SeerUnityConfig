@@ -235383,6 +235383,226 @@
         "price": 498,
         "productID": 262118,
         "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得精灵【希尔瑟拉】",
+        "itemID": [
+          1727673
+        ],
+        "price": 598,
+        "productID": 262119,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买每日挑战次数（希尔瑟拉）",
+        "itemID": [
+          1727674
+        ],
+        "price": 30,
+        "productID": 262120,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡简单关卡（希尔瑟拉）",
+        "itemID": [
+          1727675
+        ],
+        "price": 20,
+        "productID": 262121,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡困难关卡（希尔瑟拉）",
+        "itemID": [
+          1727676
+        ],
+        "price": 30,
+        "productID": 262122,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡地狱关卡（希尔瑟拉）",
+        "itemID": [
+          1727677
+        ],
+        "price": 40,
+        "productID": 262123,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买获得希尔瑟拉因子",
+        "itemID": [
+          1727678
+        ],
+        "price": 2,
+        "productID": 262124,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买精灵：霍光",
+        "itemID": [
+          1727679
+        ],
+        "price": 998,
+        "productID": 262125,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买皮肤：水中花·卫岳",
+        "itemID": [
+          1727680
+        ],
+        "price": 498,
+        "productID": 262126,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买皮肤：北冥之怒·霍光",
+        "itemID": [
+          1727681
+        ],
+        "price": 498,
+        "productID": 262127,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买刻印：沧吟星海·逐",
+        "itemID": [
+          1727682
+        ],
+        "price": 398,
+        "productID": 262128,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买刻印：沧吟星海·浪",
+        "itemID": [
+          1727683
+        ],
+        "price": 398,
+        "productID": 262129,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买刻印：沧吟星海·歌",
+        "itemID": [
+          1727684
+        ],
+        "price": 398,
+        "productID": 262130,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买刻印：沧吟星海·诗",
+        "itemID": [
+          1727685
+        ],
+        "price": 398,
+        "productID": 262131,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买刻印：沧吟星海·辉",
+        "itemID": [
+          1727686
+        ],
+        "price": 398,
+        "productID": 262132,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买刻印：沧吟星海·痕",
+        "itemID": [
+          1727687
+        ],
+        "price": 398,
+        "productID": 262133,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买刻印：沧吟星海·瀚",
+        "itemID": [
+          1727688
+        ],
+        "price": 398,
+        "productID": 262134,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买刻印：沧吟星海·澜",
+        "itemID": [
+          1727689
+        ],
+        "price": 398,
+        "productID": 262135,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "快速获得寻迹信标",
+        "itemID": [
+          1727691
+        ],
+        "price": 10,
+        "productID": 262136,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "提前【虫纹谜阵】关卡所需解锁天数",
+        "itemID": [
+          1727692
+        ],
+        "price": 18,
+        "productID": 262137,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买传奇扭蛋一次",
+        "itemID": [
+          1727693
+        ],
+        "price": 66,
+        "productID": 262138,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买传奇扭蛋十次",
+        "itemID": [
+          1727694
+        ],
+        "price": 660,
+        "productID": 262139,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "折扣购买传奇扭蛋十次",
+        "itemID": [
+          1727696
+        ],
+        "price": 66,
+        "productID": 262140,
+        "vip": 1
       }
     ]
   }

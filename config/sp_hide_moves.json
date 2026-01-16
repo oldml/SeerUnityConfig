@@ -1742,6 +1742,56 @@
         "monster": 3830,
         "moves": 38187,
         "movetype": 2
+      },
+      {
+        "itemname": "堕妖面",
+        "movesname": "逝面真唁",
+        "id": 99,
+        "item": 1727668,
+        "itemnumber": 1,
+        "monster": 3686,
+        "moves": 38232,
+        "movetype": 2
+      },
+      {
+        "itemname": "黑岩壁",
+        "movesname": "千峰化泥",
+        "id": 100,
+        "item": 1727669,
+        "itemnumber": 1,
+        "monster": 3867,
+        "moves": 38233,
+        "movetype": 2
+      },
+      {
+        "itemname": "无上魔轮",
+        "movesname": "噬古魔怀",
+        "id": 101,
+        "item": 1727670,
+        "itemnumber": 1,
+        "monster": 4001,
+        "moves": 29245,
+        "movetype": 2
+      },
+      {
+        "itemname": "真武天",
+        "movesname": "暗·贯日解天",
+        "id": 102,
+        "item": 1727671,
+        "itemnumber": 1,
+        "monster": 3875,
+        "moves": 38234,
+        "movetype": 1
+      },
+      {
+        "itemname": "荒古锁",
+        "movesname": "荒予咒缚",
+        "id": 103,
+        "item": 1727672,
+        "itemnumber": 1,
+        "monster": 3741,
+        "moves": 29246,
+        "movetype": 2
       }
     ]
   }

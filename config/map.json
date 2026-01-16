@@ -16859,11 +16859,16 @@
       "name": "传送舱",
       "notes": "新春版本",
       "sound": "",
-      "NPCID": null,
-      "NPCXYZ": null,
+      "NPCID": [
+        304
+      ],
+      "NPCXYZ": [
+        350,
+        430
+      ],
       "PlayerXYZ": [
-        467,
-        404
+        250,
+        270
       ],
       "WildBossID": null,
       "WildBossPoint": null,

@@ -998,8 +998,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#52a5f2]威力[/color]随机，随机范围150~220（boss有效）",
-        "info": "威力随机，随机范围150~220",
+        "analyze": "[sprite name=iconHit]随机改为{0}~{1}点[color=#52a5f2]威力[/color]（boss有效）",
+        "info": "随机改为{0}~{1}点威力",
         "key": "",
         "param": null,
         "argsNum": 0,
@@ -2236,7 +2236,7 @@
       },
       {
         "analyze": "[sprite name=iconHit]附加[color=#52a5f2]已损失体力[/color]值{0}%的[color=#52a5f2]百分比伤害[/color]（boss有效）",
-        "info": "附加[color=#52a5f2]已损失体力[/color]值{0}%的百分比伤害",
+        "info": "附加已损失体力值{0}%的百分比伤害",
         "key": "",
         "param": null,
         "argsNum": 1,
@@ -5441,7 +5441,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#52a5f2][color=#52a5f2]反转对手[/color]能力提升[/color]，反转成功下{0}回合[color=#52a5f2]先制[/color]+{1}（boss有效）",
+        "analyze": "[sprite name=iconHit][color=#52a5f2]反转[/color]对手能力提升，反转成功下{0}回合[color=#52a5f2]先制[/color]+{1}（boss有效）",
         "info": "反转对手能力提升，反转成功下{0}回合先制+{1}",
         "key": "",
         "param": null,
@@ -7418,7 +7418,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#52a5f2][color=#52a5f2]反转对手[/color]能力提升[/color]状态，反转成功则[color=#52a5f2]己方[/color]免疫下{0}次受到的异常状态",
+        "analyze": "[sprite name=iconHit][color=#52a5f2]反转[/color]对手能力提升状态，反转成功则[color=#52a5f2]己方[/color]免疫下{0}次受到的异常状态",
         "info": "反转对手能力提升状态，反转成功则己方免疫下{0}次受到的异常状态",
         "key": "",
         "param": null,
@@ -7609,7 +7609,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]双倍[color=#52a5f2][color=#52a5f2]反转对手[/color]能力提升[/color]状态，反转成功则下回合自身所有技能[color=#52a5f2]先制[/color]+{0}，反转失败则消除对手能力提升状态",
+        "analyze": "[sprite name=iconHit]双倍[color=#52a5f2]反转[/color]对手能力提升状态，反转成功则下回合自身所有技能[color=#52a5f2]先制[/color]+{0}，反转失败则消除对手能力提升状态",
         "info": "双倍反转对手能力提升状态，反转成功则下回合自身所有技能先制+{0}，反转失败则消除对手能力提升状态",
         "key": "",
         "param": null,
@@ -7689,7 +7689,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#52a5f2]吸取[/color]并[color=#52a5f2][color=#52a5f2]反转对手[/color]能力提升[/color]状态（boss有效）",
+        "analyze": "[sprite name=iconHit][color=#52a5f2]吸取[/color]并[color=#52a5f2]反转[/color]对手能力提升状态（boss有效）",
         "info": "吸取并反转对手能力提升状态",
         "key": "",
         "param": null,
@@ -8503,7 +8503,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#52a5f2][color=#52a5f2]反转对手[/color]能力提升[/color]状态，反转成功则自身附加相同的能力提升，反转失败则消除对手能力提升状态（boss有效）",
+        "analyze": "[sprite name=iconHit][color=#52a5f2]反转[/color]对手能力提升状态，反转成功则自身附加相同的能力提升，反转失败则消除对手能力提升状态（boss有效）",
         "info": "反转对手能力提升状态，反转成功则自身附加相同的能力提升，反转失败则消除对手能力提升状态",
         "key": "",
         "param": null,
@@ -8971,7 +8971,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#52a5f2][color=#52a5f2]反转对手[/color]能力提升[/color]状态（boss有效），反转成功则令对手下{0}次属性技能失效，反转失败则消除对手能力提升状态",
+        "analyze": "[sprite name=iconHit][color=#52a5f2]反转[/color]对手能力提升状态（boss有效），反转成功则令对手下{0}次属性技能失效，反转失败则消除对手能力提升状态",
         "info": "反转对手能力提升状态，反转成功则令对手下{0}次属性技能失效，反转失败则消除对手能力提升状态",
         "key": "",
         "param": null,
@@ -9505,7 +9505,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#52a5f2][color=#52a5f2]反转对手[/color]能力提升[/color]状态，若该效果未满足条件或反转失败则消除对手能力提升状态和[color=#52a5f2]回合类效果[/color]",
+        "analyze": "[sprite name=iconHit][color=#52a5f2]反转[/color]对手能力提升状态，若该效果未满足条件或反转失败则消除对手能力提升状态和[color=#52a5f2]回合类效果[/color]",
         "info": "反转对手能力提升状态，若该效果未满足条件或反转失败则消除对手能力提升状态和回合类效果",
         "key": "",
         "param": null,
@@ -10009,7 +10009,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#52a5f2][color=#52a5f2]反转对手[/color]能力提升[/color]状态，反转成功则恢复自身所有体力和PP值",
+        "analyze": "[sprite name=iconHit][color=#52a5f2]反转[/color]对手能力提升状态，反转成功则恢复自身所有体力和PP值",
         "info": "反转对手能力提升状态，反转成功则恢复自身所有体力和PP值",
         "key": "",
         "param": null,
@@ -11285,7 +11285,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#52a5f2][color=#52a5f2]反转对手[/color]能力提升[/color]状态，反转成功则令对手[color=#57c975]{0}[/color]，反转失败则消除对手能力提升状态",
+        "analyze": "[sprite name=iconHit][color=#52a5f2]反转[/color]对手能力提升状态，反转成功则令对手[color=#57c975]{0}[/color]，反转失败则消除对手能力提升状态",
         "info": "反转对手能力提升状态，反转成功则令对手{0}，反转失败则消除对手能力提升状态",
         "key": "",
         "param": [
@@ -12784,7 +12784,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#52a5f2][color=#52a5f2]反转对手[/color]能力提升[/color]状态，反转成功则{0}%令对手随机{1}个技能PP值归零",
+        "analyze": "[sprite name=iconHit][color=#52a5f2]反转[/color]对手能力提升状态，反转成功则{0}%令对手随机{1}个技能PP值归零",
         "info": "反转对手能力提升状态，反转成功则{0}%令对手随机{1}个技能PP值归零",
         "key": "",
         "param": null,
@@ -13454,7 +13454,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合内每[color=#57c975]回合结束后[/color][color=#52a5f2][color=#52a5f2]反转对手[/color]能力提升[/color]状态",
+        "analyze": "[sprite name=iconHit]{0}回合内每[color=#57c975]回合结束后[/color][color=#52a5f2]反转[/color]对手能力提升状态",
         "info": "{0}回合内每回合结束后反转对手能力提升状态",
         "key": "",
         "param": null,
@@ -14520,7 +14520,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#52a5f2][color=#52a5f2]反转对手[/color]能力提升[/color]状态，反转成功则对手{0}回合内[color=#52a5f2]无法通过自身技能恢复体力[/color]",
+        "analyze": "[sprite name=iconHit][color=#52a5f2]反转[/color]对手能力提升状态，反转成功则对手{0}回合内[color=#52a5f2]无法通过自身技能恢复体力[/color]",
         "info": "反转对手能力提升状态，反转成功则对手{0}回合内无法通过自身技能恢复体力",
         "key": "",
         "param": null,
@@ -15451,7 +15451,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#52a5f2][color=#52a5f2]反转对手[/color]能力提升[/color]状态，反转成功则{0}回合内对手的能力下降状态无法被解除或反转",
+        "analyze": "[sprite name=iconHit][color=#52a5f2]反转[/color]对手能力提升状态，反转成功则{0}回合内对手的能力下降状态无法被解除或反转",
         "info": "反转对手能力提升状态，反转成功则{0}回合内对手的能力下降状态无法被解除或反转",
         "key": "",
         "param": null,
@@ -18286,8 +18286,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]对手处于[color=#52a5f2]回合类效果[/color]时消除之并附加给对手1层[color=#f35555]圣告[/color]，对手处于能力提升状态时反转之并附加给对手1层[color=#f35555]邪诲[/color]，二者同时满足或消除、反转其一失败时触发1次[color=#f35555]湮灭[/color]",
-        "info": "对手处于回合类效果时消除之并附加给对手1层圣告，对手处于能力提升状态时反转之并附加给对手1层邪诲，二者同时满足或消除、反转其一失败时触发1次湮灭",
+        "analyze": "[sprite name=iconHit]对手处于[color=#52a5f2]回合类效果[/color]时消除之并附加给对手1层[color=#f35555]圣诰[/color]，对手处于能力提升状态时反转之并附加给对手1层[color=#f35555]邪诲[/color]，二者同时满足或消除、反转其一失败时，若对手同时拥有[color=#f35555]圣诰[/color]、[color=#f35555]邪诲[/color]则触发1次[color=#f35555]湮灭[/color]",
+        "info": "对手处于回合类效果时消除之并附加给对手1层圣诰，对手处于能力提升状态时反转之并附加给对手1层邪诲，二者同时满足或消除、反转其一失败时，若对手同时拥有圣诰、邪诲则触发1次湮灭",
         "key": "",
         "param": null,
         "argsNum": 0,
@@ -18322,8 +18322,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]尽可能触发[color=#f35555]湮灭[/color]直至对手的[color=#f35555]圣告[/color]、[color=#f35555]邪诲[/color]其中之一消失",
-        "info": "尽可能触发湮灭直至对手的圣告、邪诲其中之一消失",
+        "analyze": "[sprite name=iconHit]尽可能触发[color=#f35555]湮灭[/color]直至对手的[color=#f35555]圣诰[/color]、[color=#f35555]邪诲[/color]其中之一消失",
+        "info": "尽可能触发湮灭直至对手的圣诰、邪诲其中之一消失",
         "key": "",
         "param": null,
         "argsNum": 1,
@@ -18432,8 +18432,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合内使用技能[color=#52a5f2]吸取[/color]对手{1}点体力，自身体力低于1/{2}时效果翻倍，[color=#52a5f2]吸取[/color]后若对手体力减少值低于180则附加{3}点[color=#52a5f2]真实伤害[/color]与1层自身所处形态相应的[color=#f35555]圣告[/color]/[color=#f35555]邪诲[/color]",
-        "info": "{0}回合内使用技能吸取对手{1}点体力，自身体力低于1/{2}时效果翻倍，吸取后若对手体力减少值低于180则附加{3}点真实伤害与1层自身所处形态相应的圣告/邪诲",
+        "analyze": "[sprite name=iconHit]{0}回合内使用技能[color=#52a5f2]吸取[/color]对手{1}点体力，自身体力低于1/{2}时效果翻倍，[color=#52a5f2]吸取[/color]后若对手体力减少值低于180则附加{3}点[color=#52a5f2]真实伤害[/color]与1层自身所处形态相应的[color=#f35555]圣诰[/color]/[color=#f35555]邪诲[/color]",
+        "info": "{0}回合内使用技能吸取对手{1}点体力，自身体力低于1/{2}时效果翻倍，吸取后若对手体力减少值低于180则附加{3}点真实伤害与1层自身所处形态相应的圣诰/邪诲",
         "key": "",
         "param": null,
         "argsNum": 4,
@@ -18441,8 +18441,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#52a5f2]吸取[/color]对手{0}点体力，[color=#52a5f2]吸取[/color]后若对手体力减少值低于180则为对手附加1层自身所处形态相反的[color=#f35555]圣告[/color]/[color=#f35555]邪诲[/color]",
-        "info": "吸取对手{0}点体力，吸取后若对手体力减少值低于180则为对手附加1层自身所处形态相反的圣告/邪诲",
+        "analyze": "[sprite name=iconHit][color=#52a5f2]吸取[/color]对手{0}点体力，[color=#52a5f2]吸取[/color]后若对手体力减少值低于180则为对手附加1层自身所处形态相反的[color=#f35555]圣诰[/color]/[color=#f35555]邪诲[/color]",
+        "info": "吸取对手{0}点体力，吸取后若对手体力减少值低于180则为对手附加1层自身所处形态相反的圣诰/邪诲",
         "key": "",
         "param": null,
         "argsNum": 1,
@@ -18685,7 +18685,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#52a5f2][color=#52a5f2]反转对手[/color]能力提升[/color]状态，反转成功则{0}%令对手[color=#57c975]{1}[/color]",
+        "analyze": "[sprite name=iconHit][color=#52a5f2]反转[/color]对手能力提升状态，反转成功则{0}%令对手[color=#57c975]{1}[/color]",
         "info": "反转对手能力提升状态，反转成功则{0}%令对手{1}",
         "key": "",
         "param": [
@@ -18975,7 +18975,7 @@
         "type": 3
       },
       {
-        "analyze": "[sprite name=iconHit][color=#52a5f2][color=#52a5f2]反转对手[/color]能力提升[/color]状态，反转成功则恢复自身所有体力和PP值",
+        "analyze": "[sprite name=iconHit][color=#52a5f2]反转[/color]对手能力提升状态，反转成功则恢复自身所有体力和PP值",
         "info": "反转对手能力提升状态，反转成功则恢复自身所有体力和PP值",
         "key": "",
         "param": null,
@@ -19511,7 +19511,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}（boss有效）",
+        "analyze": "[sprite name=iconInherent]{0}",
         "info": "{0}",
         "key": "",
         "param": [
@@ -21387,8 +21387,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}",
-        "info": "{0}",
+        "analyze": "[sprite name=iconHit]吸取对手能力提升状态，[color=#52a5f2]吸取(434)[/color]成功自身免疫下{0}次受到的异常状态，若对手不处于能力提升状态则消除对手[color=#52a5f2]回合类效果[/color]",
+        "info": "吸取对手能力提升状态，吸取成功自身免疫下{0}次受到的异常状态，若对手不处于能力提升状态则消除对手回合类效果",
         "key": "",
         "param": null,
         "argsNum": 1,
@@ -21396,8 +21396,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}{1}",
-        "info": "{0}{1}",
+        "analyze": "[sprite name=iconHit][color=#52a5f2]吸取[/color]对手最大体力的1/{0}，对手免疫百分比伤害时当回合造成的攻击伤害提升{1}%",
+        "info": "吸取对手最大体力的1/{0}，对手免疫百分比伤害时当回合造成的攻击伤害提升{1}%",
         "key": "",
         "param": null,
         "argsNum": 2,
@@ -21405,8 +21405,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}{1}",
-        "info": "{0}{1}",
+        "analyze": "[sprite name=iconHit]对手每有{0}%的体力[color=#52a5f2]威力[/color]提升{1}%",
+        "info": "对手每有{0}%的体力威力提升{1}%",
         "key": "",
         "param": null,
         "argsNum": 2,
@@ -21414,17 +21414,21 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}{1}{2}",
-        "info": "{0}{1}{2}",
+        "analyze": "[sprite name=iconHit]解除自身所处的异常状态并消耗自身当前体力的{0}%，本次技能附加自身最大体力值{1}%的{2}系属性伤害",
+        "info": "解除自身所处的异常状态并消耗自身当前体力的{0}%，本次技能附加自身最大体力值{1}%的{2}系属性伤害",
         "key": "",
-        "param": null,
+        "param": [
+          22,
+          2,
+          2
+        ],
         "argsNum": 3,
         "id": 2388,
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]？",
-        "info": "？",
+        "analyze": "[sprite name=iconHit]自身处于能力提升状态时，此攻击不会微弱对手",
+        "info": "自身处于能力提升状态时，此攻击不会微弱对手",
         "key": "",
         "param": null,
         "argsNum": 0,
@@ -21432,30 +21436,64 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}",
-        "info": "{0}",
+        "analyze": "[sprite name=iconHit]消除对手回合类效果，消除成功则下{0}回合对手攻击技能无法造成伤害且命中效果失效",
+        "info": "消除对手回合类效果，消除成功则下{0}回合对手攻击技能无法造成伤害且命中效果失效",
         "key": "",
         "param": null,
-        "argsNum": 2,
+        "argsNum": 1,
         "id": 2390,
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]将{0}改为{1}",
-        "info": "将{0}改为{1}",
+        "analyze": "[sprite name=iconHit]将{0}[color=#f35555]幕[/color]的颜色改为{1}",
+        "info": "将{0}幕的颜色改为{1}",
         "key": "",
-        "param": null,
+        "param": [
+          30,
+          0,
+          0,
+          31,
+          1,
+          1
+        ],
         "argsNum": 2,
         "id": 2391,
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]召唤",
-        "info": "召唤",
+        "analyze": "[sprite name=iconHit]若本场战斗己方场上分别出现过[color=#f35555]红幕[/color]、[color=#f35555]黄幕[/color]、[color=#f35555]蓝幕[/color]，则在己方场上召唤1只[color=#f35555]虚之彩[/color]",
+        "info": "若本场战斗己方场上分别出现过红幕、黄幕、蓝幕，则在己方场上召唤1只虚之彩",
         "key": "",
         "param": null,
         "argsNum": 0,
         "id": 2392,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]{0}回合内，双方每处于1种属性技能无效状态，自身造成的技能伤害额外提升{1}%",
+        "info": "{0}回合内，双方每处于1种属性技能无效状态，自身造成的技能伤害额外提升{1}%",
+        "key": "",
+        "param": null,
+        "argsNum": 2,
+        "id": 2393,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent]技能无效时，触发1次符文锁链",
+        "info": "技能无效时，触发1次符文锁链",
+        "key": "",
+        "param": null,
+        "argsNum": 0,
+        "id": 2394,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent]每次登场时移除自身专属特性中的“回合开始时”，之后自身的符文锁链效果改为[color=#f35555]符文咒印[/color]",
+        "info": "携带此技能时，每次登场时移除自身专属特性中的“回合开始时”，之后自身的符文锁链效果改为符文咒印",
+        "key": "",
+        "param": null,
+        "argsNum": 0,
+        "id": 2395,
         "type": 0
       }
     ],
@@ -21493,7 +21531,7 @@
         "id": 7
       },
       {
-        "params": "[color=#52a5f2]已损失体力[/color]|最大血量|当前血量",
+        "params": "已损失体力|最大血量|当前血量",
         "id": 8
       },
       {
@@ -21565,7 +21603,7 @@
         "id": 25
       },
       {
-        "params": "智能运转的启动部件|携带此技能时，灼掠之刃触发概率提升50%，霜浮之刃触发概率减少50%|携带此技能时，霜浮之刃触发概率提升50%，灼掠之刃触发概率减少50%|无为：若自身处于异常状态，则消耗此技能全部PP值以令对手下回合无法主动切换精灵|无为：若对手未行动，则消耗此技能全部PP值以令对手所有技能PP值-2|无为：若对手处于能力提升状态，则消耗此技能全部PP值以消除对手回合类效果|无为：若自身未满体力，则消耗此技能全部PP值以令对手下回合先制-2|携带此技能时，自身进入的害怕转化为失神，任意一方处于属性技能无效状态时自身附加的固定伤害、百分比伤害改为真实伤害|携带此技能时，自身进入的诅咒转化为致命诅咒，任意一方处于属性技能无效效果时自身免疫受到的固定伤害、百分比伤害|携带此技能时，专属特性中的所有概率提升至100%|携带此技能时，自身免疫攻击伤害后恢复等量的体力并解除所处的异常状态|携带此技能时，自身登场时若己方场上没有苍茫树海则获得最大体力21%的临时体力上限并恢复等量体力且创造苍茫树海，苍茫树海不存在时，自身失去此临时体力上限",
+        "params": "智能运转的启动部件|携带此技能时，灼掠之刃触发概率提升50%，霜浮之刃触发概率减少50%|携带此技能时，霜浮之刃触发概率提升50%，灼掠之刃触发概率减少50%|无为：若自身处于异常状态，则消耗此技能全部PP值以令对手下回合无法主动切换精灵|无为：若对手未行动，则消耗此技能全部PP值以令对手所有技能PP值-2|无为：若对手处于能力提升状态，则消耗此技能全部PP值以消除对手回合类效果|无为：若自身未满体力，则消耗此技能全部PP值以令对手下回合先制-2|携带此技能时，自身进入的害怕转化为失神，任意一方处于属性技能无效状态时自身附加的固定伤害、百分比伤害改为真实伤害|携带此技能时，自身进入的诅咒转化为致命诅咒，任意一方处于属性技能无效效果时自身免疫受到的固定伤害、百分比伤害|携带此技能时，专属特性中的所有概率提升至100%|携带此技能时，自身免疫攻击伤害后恢复等量的体力并解除所处的异常状态|携带此技能时，自身登场时若己方场上没有苍茫树海则获得最大体力21%的临时体力上限并恢复等量体力且创造苍茫树海，苍茫树海不存在时，自身失去此临时体力上限|携带此技能时，对手打出致命一击时自身免疫攻击伤害的概率提升50%，反弹伤害的比例下降50%",
         "id": 26
       },
       {
@@ -21579,6 +21617,14 @@
       {
         "params": "点固定伤害，若对手未受到固定伤害则额外附加等量的真实伤害|%最大体力的真实伤害",
         "id": 29
+      },
+      {
+        "params": "己方|对方||||",
+        "id": 30
+      },
+      {
+        "params": "|白色|红色|蓝色|黄色|黑色",
+        "id": 31
       }
     ]
   }

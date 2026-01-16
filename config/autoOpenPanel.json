@@ -375,11 +375,11 @@
     {
       "actionName": "巅峰赛季更新强弹",
       "controller": "AutoOpenLocalDaily",
-      "endTime": "2025/10/24",
+      "endTime": "2026/01/23",
       "param1": "peakauto",
       "param2": "",
       "param3": "",
-      "startTime": "2025/10/17",
+      "startTime": "2026/01/16",
       "id": 33,
       "moduleId": 409,
       "state": 1
@@ -550,6 +550,18 @@
       "startTime": "2025_12_26 10:00:00",
       "id": 47,
       "moduleId": 742,
+      "state": 1
+    },
+    {
+      "actionName": "14周年资源返场",
+      "controller": "AutoOpenLocalDaily",
+      "endTime": "2026_01_29 23:59:59",
+      "param1": "",
+      "param2": "",
+      "param3": "pop",
+      "startTime": "2026_1_16 10:00:00",
+      "id": 48,
+      "moduleId": 761,
       "state": 1
     }
   ]

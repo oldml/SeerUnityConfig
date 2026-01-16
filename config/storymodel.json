@@ -3552,6 +3552,39 @@
       "portrait": "pye_fg",
       "id": 323,
       "scale": 1
+    },
+    {
+      "CharacterID": "gangkui",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,150",
+      "name": "钢傀",
+      "portrait": "gangkui_fg",
+      "id": 324,
+      "scale": 1
+    },
+    {
+      "CharacterID": "arianamini",
+      "emoji": "arianamini_01,arianamini_02,arianamini_03,arianamini_04,arianamini_05,arianamini_06,arianamini_07",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "艾莉安娜",
+      "portrait": "arianamini_fg",
+      "id": 325,
+      "scale": 1
+    },
+    {
+      "CharacterID": "vi2",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-50,0",
+      "name": "薇？",
+      "portrait": "vi2_fg",
+      "id": 326,
+      "scale": 1
     }
   ]
 }

@@ -4937,6 +4937,23 @@
       "offsetY": 0,
       "scaleX": 0.58,
       "scaleY": 0.58
+    },
+    {
+      "name": "春节纽斯",
+      "pic": "10001",
+      "triggerinfo": "",
+      "FuncParam": [
+        629
+      ],
+      "bit": 0,
+      "FuncParamSpecial": 0,
+      "FuncType": 3,
+      "id": 304,
+      "modelType": 4,
+      "offsetX": 0,
+      "offsetY": 0,
+      "scaleX": 0.7,
+      "scaleY": 0.7
     }
   ]
 }

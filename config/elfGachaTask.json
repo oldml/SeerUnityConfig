@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "endtime": "2026_03_27 10:00:00",
+      "rewardinfo": "1_1727665_1",
+      "title": "累计抽取10次",
+      "id": 1,
+      "NewMsglogId": -1214720258,
+      "poolid": 1,
+      "taskid": 1,
+      "value": 10
+    },
+    {
+      "endtime": "2026_03_27 10:00:00",
+      "rewardinfo": "1_1727665_1",
+      "title": "累计抽取20次",
+      "id": 2,
+      "NewMsglogId": -1214720258,
+      "poolid": 1,
+      "taskid": 2,
+      "value": 20
+    },
+    {
+      "endtime": "2026_03_27 10:00:00",
+      "rewardinfo": "1_1727665_1",
+      "title": "累计抽取30次",
+      "id": 3,
+      "NewMsglogId": -1214720258,
+      "poolid": 1,
+      "taskid": 3,
+      "value": 30
+    },
+    {
+      "endtime": "2026_03_27 10:00:00",
+      "rewardinfo": "1_1727665_1",
+      "title": "累计抽取40次",
+      "id": 4,
+      "NewMsglogId": -1214720258,
+      "poolid": 1,
+      "taskid": 4,
+      "value": 40
+    },
+    {
+      "endtime": "2026_03_27 10:00:00",
+      "rewardinfo": "1_1727665_1",
+      "title": "累计抽取50次",
+      "id": 5,
+      "NewMsglogId": -1214720258,
+      "poolid": 1,
+      "taskid": 5,
+      "value": 50
+    },
+    {
+      "endtime": "2026_03_27 10:00:00",
+      "rewardinfo": "1_1727665_1",
+      "title": "累计抽取60次",
+      "id": 6,
+      "NewMsglogId": -1214720258,
+      "poolid": 1,
+      "taskid": 6,
+      "value": 60
+    },
+    {
+      "endtime": "2026_03_27 10:00:00",
+      "rewardinfo": "1_1727665_1",
+      "title": "累计抽取70次",
+      "id": 7,
+      "NewMsglogId": -1214720258,
+      "poolid": 1,
+      "taskid": 7,
+      "value": 70
+    },
+    {
+      "endtime": "2026_03_27 10:00:00",
+      "rewardinfo": "1_1727665_2",
+      "title": "累计抽取80次",
+      "id": 8,
+      "NewMsglogId": -1214720258,
+      "poolid": 1,
+      "taskid": 8,
+      "value": 80
+    },
+    {
+      "endtime": "2026_03_27 10:00:00",
+      "rewardinfo": "1_1727665_3",
+      "title": "累计抽取90次",
+      "id": 9,
+      "NewMsglogId": -1214720258,
+      "poolid": 1,
+      "taskid": 9,
+      "value": 90
+    },
+    {
+      "endtime": "2026_03_27 10:00:00",
+      "rewardinfo": "1_1727665_3",
+      "title": "累计抽取100次",
+      "id": 10,
+      "NewMsglogId": -1214720258,
+      "poolid": 1,
+      "taskid": 10,
+      "value": 100
+    },
+    {
+      "endtime": "2026_03_27 10:00:00",
+      "rewardinfo": "1_1727665_3",
+      "title": "累计抽取110次",
+      "id": 11,
+      "NewMsglogId": -1214720258,
+      "poolid": 1,
+      "taskid": 11,
+      "value": 110
+    },
+    {
+      "endtime": "2026_03_27 10:00:00",
+      "rewardinfo": "1_1727665_3",
+      "title": "累计抽取120次",
+      "id": 12,
+      "NewMsglogId": -1214720258,
+      "poolid": 1,
+      "taskid": 12,
+      "value": 120
+    },
+    {
+      "endtime": "2026_03_27 10:00:00",
+      "rewardinfo": "1_1727665_1",
+      "title": "累计抽取130次",
+      "id": 13,
+      "NewMsglogId": -1214720258,
+      "poolid": 1,
+      "taskid": 13,
+      "value": 130
+    },
+    {
+      "endtime": "2026_03_27 10:00:00",
+      "rewardinfo": "1_1727665_2",
+      "title": "累计抽取140次",
+      "id": 14,
+      "NewMsglogId": -1214720258,
+      "poolid": 1,
+      "taskid": 14,
+      "value": 140
+    },
+    {
+      "endtime": "2026_03_27 10:00:00",
+      "rewardinfo": "1_1727665_3",
+      "title": "累计抽取150次",
+      "id": 15,
+      "NewMsglogId": -1214720258,
+      "poolid": 1,
+      "taskid": 15,
+      "value": 150
+    },
+    {
+      "endtime": "2026_03_27 10:00:00",
+      "rewardinfo": "1_1727665_3",
+      "title": "累计抽取160次",
+      "id": 16,
+      "NewMsglogId": -1214720258,
+      "poolid": 1,
+      "taskid": 16,
+      "value": 160
+    },
+    {
+      "endtime": "2026_03_27 10:00:00",
+      "rewardinfo": "1_1727665_3",
+      "title": "累计抽取170次",
+      "id": 17,
+      "NewMsglogId": -1214720258,
+      "poolid": 1,
+      "taskid": 17,
+      "value": 170
+    },
+    {
+      "endtime": "2026_03_27 10:00:00",
+      "rewardinfo": "1_1727665_3",
+      "title": "累计抽取180次",
+      "id": 18,
+      "NewMsglogId": -1214720258,
+      "poolid": 1,
+      "taskid": 18,
+      "value": 180
+    }
+  ]
+}

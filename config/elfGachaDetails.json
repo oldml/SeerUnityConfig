@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "itempro": "0.01782",
+      "itempro": "0.0594",
       "id": 1,
       "item": 300065,
       "number": 1,
@@ -9,7 +9,7 @@
       "quality": 1
     },
     {
-      "itempro": "0.01782",
+      "itempro": "0.0594",
       "id": 2,
       "item": 300878,
       "number": 1,
@@ -17,7 +17,7 @@
       "quality": 1
     },
     {
-      "itempro": "0.01782",
+      "itempro": "0.0594",
       "id": 3,
       "item": 1706926,
       "number": 1,
@@ -33,7 +33,7 @@
       "quality": 1
     },
     {
-      "itempro": "0.10692",
+      "itempro": "0.10642",
       "id": 5,
       "item": 300070,
       "number": 1,
@@ -41,7 +41,7 @@
       "quality": 1
     },
     {
-      "itempro": "0.10692",
+      "itempro": "0.1071",
       "id": 6,
       "item": 300673,
       "number": 1,
@@ -49,7 +49,7 @@
       "quality": 1
     },
     {
-      "itempro": "0.17820000000000003",
+      "itempro": "0.13",
       "id": 7,
       "item": 2500005,
       "number": 2,
@@ -57,7 +57,7 @@
       "quality": 1
     },
     {
-      "itempro": "0.17820000000000003",
+      "itempro": "0.13",
       "id": 8,
       "item": 1706927,
       "number": 30,
@@ -65,7 +65,7 @@
       "quality": 1
     },
     {
-      "itempro": "0.17820000000000003",
+      "itempro": "0.13",
       "id": 9,
       "item": 1706928,
       "number": 30,
@@ -83,15 +83,15 @@
     {
       "itempro": "0.0225",
       "id": 11,
-      "item": 300772,
+      "item": 2600046,
       "number": 1,
       "poolid": 1,
       "quality": 2
     },
     {
-      "itempro": "0.0355",
+      "itempro": "0.0225",
       "id": 12,
-      "item": 300136,
+      "item": 300772,
       "number": 1,
       "poolid": 1,
       "quality": 2
@@ -99,6 +99,14 @@
     {
       "itempro": "0.0225",
       "id": 13,
+      "item": 300136,
+      "number": 1,
+      "poolid": 1,
+      "quality": 2
+    },
+    {
+      "itempro": "0.0225",
+      "id": 14,
       "item": 1727666,
       "number": 1,
       "poolid": 1,
@@ -106,7 +114,7 @@
     },
     {
       "itempro": "0.0167",
-      "id": 14,
+      "id": 15,
       "item": 1727667,
       "number": 1,
       "poolid": 1,

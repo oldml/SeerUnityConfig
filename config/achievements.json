@@ -8330,6 +8330,20 @@
                     "ID": 3,
                     "proicon": 1457,
                     "SpeNameBonus": 566
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "群虫荣光",
+                    "Desc": "通关S-艾莉安娜【地狱难度】关卡获得",
+                    "Threshold": "4",
+                    "title": "群虫荣光",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 4,
+                    "proicon": 1464,
+                    "SpeNameBonus": 568
                   }
                 ],
                 "ID": 172,

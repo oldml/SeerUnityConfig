@@ -4424,6 +4424,55 @@
       "currAppDo": 1,
       "id": 761,
       "isFullScreen": 0
+    },
+    {
+      "moduleName": "cavernShuttle",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 762,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "markAdvanced",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 763,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "campfightpanel",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 764,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "rizeEvolutionaryFormSellPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 765,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "RedEnvelope2026",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 766,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "WuweijuezheSkin",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 767,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "MoneyTree",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 768,
+      "isFullScreen": 1
     }
   ]
 }

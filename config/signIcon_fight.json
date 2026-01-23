@@ -3852,7 +3852,7 @@
       {
         "className": "*",
         "dec": "虚之彩",
-        "Des": "混沌系额外精灵；场上每有一只混色神·虚之彩，己方行动阶段结束后对对手附加200点真实伤害，涂蝶主动下场或死亡时消失",
+        "Des": "混沌系额外精灵；场上每有一只虚之彩，己方行动阶段结束后对对手附加200点真实伤害，涂蝶主动下场或死亡时消失",
         "frame": null,
         "NumDes": "当前数量",
         "spDes": null,
@@ -3880,6 +3880,45 @@
         "showmonster": 0,
         "showtime": 0,
         "sort": 1
+      },
+      {
+        "className": "*",
+        "dec": "旧日之晷",
+        "Des": "每有1层每次在场限1次，无效对手PP值为1或与之同类型的技能；自身已损失PP值达到12点的回合开始时，恢复自身全部体力值、PP值且可无效次数额外+1；最高5层，下场保留",
+        "frame": [
+          "0_0",
+          "1_0",
+          "2_2",
+          "3_3",
+          "4_4",
+          "5_5"
+        ],
+        "NumDes": "当前道数",
+        "spDes": null,
+        "spicon": null,
+        "sptips": null,
+        "tips": "旧日之晷",
+        "id": 147,
+        "isShowNum": 1,
+        "showmonster": 4125,
+        "showtime": 0,
+        "sort": 1
+      },
+      {
+        "className": "*",
+        "dec": "宙变之殢",
+        "Des": "自身所处异常状态的回合数不会减少；每有1层自身每次在场的前1回合造成的非真实伤害减少一半；最高5层",
+        "frame": null,
+        "NumDes": "当前层数",
+        "spDes": null,
+        "spicon": null,
+        "sptips": null,
+        "tips": "宙变之殢",
+        "id": 148,
+        "isShowNum": 1,
+        "showmonster": 0,
+        "showtime": 0,
+        "sort": 5
       },
       {
         "className": "SignBuffView_1000",

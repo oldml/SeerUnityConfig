@@ -3501,6 +3501,23 @@
       "type": 2,
       "unavailable": 0,
       "unlocktype": 1
+    },
+    {
+      "desc": "占位预留",
+      "goto": "",
+      "name": "0213占位",
+      "spine": "",
+      "text": "我是名片",
+      "checkown": 0,
+      "finishTime": 0,
+      "hide": 1,
+      "icon": 46,
+      "id": 207,
+      "rarity": 4,
+      "tab": 0,
+      "type": 3,
+      "unavailable": 0,
+      "unlocktype": 1
     }
   ]
 }

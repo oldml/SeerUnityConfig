@@ -217,24 +217,6 @@
       "onekeyproductid": 262014
     },
     {
-      "enddate": "2025/12/26/10",
-      "jumpparam": "1",
-      "limitid": "5000;3107;4262",
-      "monstername": "镇世·乔特鲁德",
-      "startdate": "2025/11/14/10",
-      "awakentype": 1,
-      "bosslevelid": 20,
-      "diamondid": 262028,
-      "exchangepercnt": 0,
-      "fragmentid": 0,
-      "fragmentnum": 0,
-      "id": 20,
-      "itemnum": 720,
-      "itemurl": 1727549,
-      "mosterurl": 4186,
-      "onekeyproductid": 262029
-    },
-    {
       "enddate": "",
       "jumpparam": "1",
       "limitid": "5000;3594;3022",
@@ -287,6 +269,24 @@
       "itemurl": 1727662,
       "mosterurl": 3623,
       "onekeyproductid": 262118
+    },
+    {
+      "enddate": "2026/3/6/10",
+      "jumpparam": "1",
+      "limitid": "3107;3435;4262",
+      "monstername": "洪荒·列奥尼达",
+      "startdate": "2026/1/23/10",
+      "awakentype": 1,
+      "bosslevelid": 23,
+      "diamondid": 262144,
+      "exchangepercnt": 0,
+      "fragmentid": 0,
+      "fragmentnum": 0,
+      "id": 24,
+      "itemnum": 720,
+      "itemurl": 1727700,
+      "mosterurl": 4125,
+      "onekeyproductid": 262145
     }
   ]
 }

@@ -14220,6 +14220,42 @@
         "Jumptarget": 410000,
         "MonID": 4510,
         "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "心魔载道·无为觉者",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 792,
+        "Jumptarget": 114034,
+        "MonID": 4661,
+        "Type": 18
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "卡尔玛",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 793,
+        "Jumptarget": 2,
+        "MonID": 4726,
+        "Type": 0
       }
     ]
   }

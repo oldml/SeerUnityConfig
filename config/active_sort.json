@@ -257,7 +257,7 @@
     {
       "controller": "",
       "dest": "508",
-      "finishtime": "2025/9/6 00:00:00",
+      "finishtime": "2026/3/28 00:00:00",
       "image": "diamondCard",
       "name": "钻石月卡",
       "statlog": "",
@@ -268,10 +268,10 @@
       "id": 17,
       "iOSreviewshow": 0,
       "isdeadline": 1,
-      "isshow": 0,
+      "isshow": 1,
       "jumptarget": 0,
       "priority": 12,
-      "truepos": 0,
+      "truepos": 1,
       "type": 2
     },
     {

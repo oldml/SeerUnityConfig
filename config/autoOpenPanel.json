@@ -553,6 +553,18 @@
       "state": 1
     },
     {
+      "actionName": "寒假月卡",
+      "controller": "AutoOpenBitsetController",
+      "endTime": "2026_1_29 10:00:00",
+      "param1": "9105",
+      "param2": "0",
+      "param3": "",
+      "startTime": "2026_1_23 10:00:00",
+      "id": 48,
+      "moduleId": 508,
+      "state": 1
+    },
+    {
       "actionName": "14周年资源返场",
       "controller": "AutoOpenLocalDaily",
       "endTime": "2026_01_29 23:59:59",
@@ -560,8 +572,20 @@
       "param2": "",
       "param3": "pop",
       "startTime": "2026_1_16 10:00:00",
-      "id": 48,
+      "id": 49,
       "moduleId": 761,
+      "state": 1
+    },
+    {
+      "actionName": "无为觉者皮肤售卖",
+      "controller": "AutoOpenLocalOnce",
+      "endTime": "2026_01_29 23:59:59",
+      "param1": "",
+      "param2": "",
+      "param3": "pop",
+      "startTime": "2026_1_23 10:00:00",
+      "id": 50,
+      "moduleId": 767,
       "state": 1
     }
   ]

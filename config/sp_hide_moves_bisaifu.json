@@ -710,6 +710,46 @@
         "monster": 3766,
         "moves": 37880,
         "movetype": 1
+      },
+      {
+        "itemname": "完成精灵觉醒",
+        "movesname": "王·御古夷庚",
+        "id": 10073,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3524,
+        "moves": 29142,
+        "movetype": 2
+      },
+      {
+        "itemname": "完成精灵觉醒",
+        "movesname": "衔烛启曙",
+        "id": 10074,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3524,
+        "moves": 38075,
+        "movetype": 2
+      },
+      {
+        "itemname": "完成精灵觉醒",
+        "movesname": "龙寤揭天",
+        "id": 10075,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3524,
+        "moves": 38074,
+        "movetype": 2
+      },
+      {
+        "itemname": "完成精灵觉醒",
+        "movesname": "王·千秋稽首",
+        "id": 10076,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3524,
+        "moves": 38076,
+        "movetype": 1
       }
     ],
     "SpMoves": [
@@ -1397,7 +1437,7 @@
         "itemname": "巨兽之齿",
         "movesname": "冥渊啸神劫",
         "id": 68,
-        "item": 1,
+        "item": 1727209,
         "itemnumber": 1,
         "monster": 3584,
         "moves": 37965,
@@ -1427,7 +1467,7 @@
         "itemname": "鼓动咒胎",
         "movesname": "无尽咒杀",
         "id": 71,
-        "item": 1,
+        "item": 1727212,
         "itemnumber": 1,
         "monster": 3580,
         "moves": 29076,
@@ -1494,13 +1534,263 @@
         "movetype": 2
       },
       {
-        "itemname": "紫晶币",
-        "movesname": "斥天无常",
+        "itemname": "阳炎真火",
+        "movesname": "煌引日星曜",
         "id": 78,
-        "item": 1717452,
+        "item": 1727358,
         "itemnumber": 1,
-        "monster": 3667,
-        "moves": 28684,
+        "monster": 4219,
+        "moves": 38042,
+        "movetype": 1
+      },
+      {
+        "itemname": "大招秘籍",
+        "movesname": "祖传大招",
+        "id": 79,
+        "item": 1727365,
+        "itemnumber": 1,
+        "monster": 4801,
+        "moves": 38046,
+        "movetype": 2
+      },
+      {
+        "itemname": "大招秘籍",
+        "movesname": "祖传大招",
+        "id": 80,
+        "item": 1727365,
+        "itemnumber": 1,
+        "monster": 4802,
+        "moves": 38047,
+        "movetype": 2
+      },
+      {
+        "itemname": "大招秘籍",
+        "movesname": "祖传大招",
+        "id": 81,
+        "item": 1727365,
+        "itemnumber": 1,
+        "monster": 4803,
+        "moves": 38048,
+        "movetype": 2
+      },
+      {
+        "itemname": "大招秘籍",
+        "movesname": "祖传大招",
+        "id": 82,
+        "item": 1727365,
+        "itemnumber": 1,
+        "monster": 4804,
+        "moves": 38049,
+        "movetype": 2
+      },
+      {
+        "itemname": "霜之苦痛",
+        "movesname": "征天夜陵",
+        "id": 83,
+        "item": 1727407,
+        "itemnumber": 1,
+        "monster": 3813,
+        "moves": 29133,
+        "movetype": 2
+      },
+      {
+        "itemname": "夜之追怀",
+        "movesname": "殷痕血幕",
+        "id": 84,
+        "item": 1727406,
+        "itemnumber": 1,
+        "monster": 3815,
+        "moves": 29134,
+        "movetype": 2
+      },
+      {
+        "itemname": "方天画戟",
+        "movesname": "神鬼退遁",
+        "id": 85,
+        "item": 1727405,
+        "itemnumber": 1,
+        "monster": 3940,
+        "moves": 29135,
+        "movetype": 2
+      },
+      {
+        "itemname": "霸王枪",
+        "movesname": "祭寇赤锋",
+        "id": 86,
+        "item": 1727404,
+        "itemnumber": 1,
+        "monster": 3823,
+        "moves": 38063,
+        "movetype": 2
+      },
+      {
+        "itemname": "杀神之斧",
+        "movesname": "神暮",
+        "id": 87,
+        "item": 1727408,
+        "itemnumber": 1,
+        "monster": 3532,
+        "moves": 38064,
+        "movetype": 2
+      },
+      {
+        "itemname": "黄昏之眼",
+        "movesname": "死祸咒返",
+        "id": 88,
+        "item": 1727488,
+        "itemnumber": 1,
+        "monster": 3883,
+        "moves": 38117,
+        "movetype": 2
+      },
+      {
+        "itemname": "深雷之羽",
+        "movesname": "断界厄影",
+        "id": 89,
+        "item": 1727489,
+        "itemnumber": 1,
+        "monster": 3879,
+        "moves": 29169,
+        "movetype": 2
+      },
+      {
+        "itemname": "无缝天缎",
+        "movesname": "飞白渲襟",
+        "id": 90,
+        "item": 1727490,
+        "itemnumber": 1,
+        "monster": 3866,
+        "moves": 29170,
+        "movetype": 2
+      },
+      {
+        "itemname": "弥尘骨",
+        "movesname": "枯骨遗沙镇",
+        "id": 91,
+        "item": 1727491,
+        "itemnumber": 1,
+        "monster": 4354,
+        "moves": 38118,
+        "movetype": 2
+      },
+      {
+        "itemname": "鏖战双镰",
+        "movesname": "虐饕伏苍斩",
+        "id": 92,
+        "item": 1727492,
+        "itemnumber": 1,
+        "monster": 3586,
+        "moves": 38119,
+        "movetype": 2
+      },
+      {
+        "itemname": "记忆铭刻",
+        "movesname": "蜃阙余尘",
+        "id": 93,
+        "item": 1727568,
+        "itemnumber": 1,
+        "monster": 3983,
+        "moves": 29193,
+        "movetype": 2
+      },
+      {
+        "itemname": "苍茫元心",
+        "movesname": "浩域森罗",
+        "id": 96,
+        "item": 1727598,
+        "itemnumber": 1,
+        "monster": 3739,
+        "moves": 29211,
+        "movetype": 2
+      },
+      {
+        "itemname": "残缺辰星",
+        "movesname": "呪誓绝途",
+        "id": 94,
+        "item": 1727599,
+        "itemnumber": 1,
+        "monster": 3999,
+        "moves": 29212,
+        "movetype": 2
+      },
+      {
+        "itemname": "白虹",
+        "movesname": "圣质持恒",
+        "id": 95,
+        "item": 1727601,
+        "itemnumber": 1,
+        "monster": 3685,
+        "moves": 29213,
+        "movetype": 2
+      },
+      {
+        "itemname": "风杀利羽",
+        "movesname": "诉与孤风",
+        "id": 97,
+        "item": 1727600,
+        "itemnumber": 1,
+        "monster": 3554,
+        "moves": 38186,
+        "movetype": 2
+      },
+      {
+        "itemname": "蝶身心",
+        "movesname": "兰烬蘧栩",
+        "id": 98,
+        "item": 1727602,
+        "itemnumber": 1,
+        "monster": 3830,
+        "moves": 38187,
+        "movetype": 2
+      },
+      {
+        "itemname": "堕妖面",
+        "movesname": "逝面真唁",
+        "id": 99,
+        "item": 1727668,
+        "itemnumber": 1,
+        "monster": 3686,
+        "moves": 38232,
+        "movetype": 2
+      },
+      {
+        "itemname": "黑岩壁",
+        "movesname": "千峰化泥",
+        "id": 100,
+        "item": 1727669,
+        "itemnumber": 1,
+        "monster": 3867,
+        "moves": 38233,
+        "movetype": 2
+      },
+      {
+        "itemname": "无上魔轮",
+        "movesname": "噬古魔怀",
+        "id": 101,
+        "item": 1727670,
+        "itemnumber": 1,
+        "monster": 4001,
+        "moves": 29245,
+        "movetype": 2
+      },
+      {
+        "itemname": "真武天",
+        "movesname": "暗·贯日解天",
+        "id": 102,
+        "item": 1727671,
+        "itemnumber": 1,
+        "monster": 3875,
+        "moves": 38234,
+        "movetype": 1
+      },
+      {
+        "itemname": "荒古锁",
+        "movesname": "荒予咒缚",
+        "id": 103,
+        "item": 1727672,
+        "itemnumber": 1,
+        "monster": 3741,
+        "moves": 29246,
         "movetype": 2
       }
     ]

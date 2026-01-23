@@ -274,8 +274,8 @@
     },
     {
       "args": "",
-      "beginning": "2026_01_09 10:00:00",
-      "ending": "2026_01_23 10:00:00",
+      "beginning": "2026_01_23 10:00:00",
+      "ending": "2026_02_06 10:00:00",
       "labelName": "兑钻奖励",
       "name": "ExchangeDiamond",
       "channel": 0,
@@ -626,7 +626,7 @@
       "isShow": 1,
       "redbadge": 19,
       "signType": 1,
-      "sorting": 5,
+      "sorting": 9,
       "type": 1
     },
     {
@@ -1957,9 +1957,9 @@
     },
     {
       "args": "",
-      "beginning": "2025_07_18 10:00:00",
-      "ending": "2025_08_22 10:00:00",
-      "labelName": "暑假签到",
+      "beginning": "2026_01_23 10:00:00",
+      "ending": "2026_02_27 00:00:00",
+      "labelName": "寒假签到",
       "name": "summerHolidaySign",
       "channel": 0,
       "Go": 531,
@@ -1969,7 +1969,7 @@
       "isShow": 1,
       "redbadge": 74,
       "signType": 2,
-      "sorting": 4,
+      "sorting": 3,
       "type": 1
     },
     {
@@ -3962,23 +3962,6 @@
       "type": 1
     },
     {
-      "args": "Assets/Game/UI/snowBallJengaPanel/snowBallJengaPanel.prefab",
-      "beginning": "2025_12_12 10:00:00",
-      "ending": "2025_12_19 10:00:00",
-      "labelName": "雪球叠叠乐",
-      "name": "snowBallJengaPanel",
-      "channel": 0,
-      "Go": 445,
-      "helptips": 0,
-      "id": 248,
-      "iOSreviewshow": 1,
-      "isShow": 1,
-      "redbadge": 167,
-      "signType": 0,
-      "sorting": 1,
-      "type": 1
-    },
-    {
       "args": "",
       "beginning": "",
       "ending": "2025_12_19 10:00:00",
@@ -4185,7 +4168,7 @@
     {
       "args": "",
       "beginning": "2025_12_26 10:00:00",
-      "ending": "",
+      "ending": "2026_01_23 10:00:00",
       "labelName": "永恒之日",
       "name": "mehwiitLegendSkinSell",
       "channel": 0,
@@ -4193,7 +4176,7 @@
       "helptips": 0,
       "id": 261,
       "iOSreviewshow": 1,
-      "isShow": 1,
+      "isShow": 0,
       "redbadge": 176,
       "signType": 0,
       "sorting": 6,
@@ -4265,7 +4248,7 @@
       "redbadge": 0,
       "signType": 0,
       "sorting": 3,
-      "type": 5
+      "type": 9
     },
     {
       "args": "",
@@ -4414,7 +4397,7 @@
       "helptips": 0,
       "id": 274,
       "iOSreviewshow": 1,
-      "isShow": 1,
+      "isShow": 0,
       "redbadge": 0,
       "signType": 0,
       "sorting": 10,
@@ -4451,7 +4434,7 @@
       "isShow": 1,
       "redbadge": 342010,
       "signType": 0,
-      "sorting": 4,
+      "sorting": 8,
       "type": 1
     },
     {
@@ -4468,7 +4451,7 @@
       "isShow": 1,
       "redbadge": 185,
       "signType": 0,
-      "sorting": 3,
+      "sorting": 6,
       "type": 1
     },
     {
@@ -4487,6 +4470,74 @@
       "signType": 0,
       "sorting": 5,
       "type": 5
+    },
+    {
+      "args": "Assets/Game/Scripts/GameLogic/Module/cavernShuttle/panel/CavernShuttleCenterPanel.cs",
+      "beginning": "2026_01_23 10:00:00",
+      "ending": "2026_01_30 10:00:00",
+      "labelName": "洞窟穿梭",
+      "name": "cavernShuttle",
+      "channel": 0,
+      "Go": 762,
+      "helptips": 0,
+      "id": 279,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 187,
+      "signType": 0,
+      "sorting": 1,
+      "type": 1
+    },
+    {
+      "args": "",
+      "beginning": "2026_01_23 10:00:00",
+      "ending": "2026_02_06 10:00:00",
+      "labelName": "超维·瑞泽",
+      "name": "rizeEvolutionaryFormSellPanel",
+      "channel": 0,
+      "Go": 765,
+      "helptips": 381,
+      "id": 280,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 188,
+      "signType": 0,
+      "sorting": 4,
+      "type": 1
+    },
+    {
+      "args": "Assets/Game/UI/campfightpanel/campFightEnterPanel.prefab",
+      "beginning": "2026_01_23 10:00:00",
+      "ending": "2026_01_30 10:00:00",
+      "labelName": "聚落保卫战",
+      "name": "CampFight",
+      "channel": 0,
+      "Go": 445,
+      "helptips": 0,
+      "id": 281,
+      "iOSreviewshow": 4,
+      "isShow": 1,
+      "redbadge": 0,
+      "signType": 0,
+      "sorting": 2,
+      "type": 1
+    },
+    {
+      "args": "",
+      "beginning": "2026_01_23 10:00:00",
+      "ending": "2026_02_06 10:00:00",
+      "labelName": "心魔载道",
+      "name": "WuweijuezheSkin",
+      "channel": 0,
+      "Go": 767,
+      "helptips": 0,
+      "id": 282,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 189,
+      "signType": 0,
+      "sorting": 5,
+      "type": 1
     }
   ]
 }

@@ -3585,6 +3585,28 @@
       "portrait": "vi2_fg",
       "id": 326,
       "scale": 1
+    },
+    {
+      "CharacterID": "kangdiyakesp",
+      "emoji": "kangdiyake_01,kangdiyake_02,kangdiyake_03,kangdiyake_04",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "50,135",
+      "name": "先知",
+      "portrait": "kangdiyakesp_fg",
+      "id": 327,
+      "scale": 1
+    },
+    {
+      "CharacterID": "arianasp",
+      "emoji": "ariana_01,ariana_02,ariana_03,ariana_04,ariana_05",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,34",
+      "name": "艾莉安娜",
+      "portrait": "arianasp_fg",
+      "id": 328,
+      "scale": 1
     }
   ]
 }

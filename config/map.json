@@ -16904,6 +16904,27 @@
       "id": 2166,
       "MapRatio": 1,
       "pic": 2166
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "虫巢",
+      "notes": "",
+      "sound": "2026yuris_02",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": [
+        240,
+        380
+      ],
+      "WildBossID": null,
+      "WildBossPoint": null,
+      "WildBossWeight": null,
+      "enterMap": 0,
+      "GroupID": 22002,
+      "id": 2167,
+      "MapRatio": 0,
+      "pic": 2167
     }
   ]
 }

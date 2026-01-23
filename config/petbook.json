@@ -1414,8 +1414,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4860,
-            "ImageID": 4860,
+            "ID": 4863,
+            "ImageID": 4863,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1425,8 +1425,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4861,
-            "ImageID": 4861,
+            "ID": 4864,
+            "ImageID": 4864,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1436,8 +1436,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4862,
-            "ImageID": 4862,
+            "ID": 4865,
+            "ImageID": 4865,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1447,10 +1447,10 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 789,
-            "ImageID": 1400789,
+            "ID": 792,
+            "ImageID": 1400792,
             "Label": 0,
-            "monID": 4861,
+            "monID": 4661,
             "type": 1
           },
           {
@@ -1458,21 +1458,10 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 790,
-            "ImageID": 1400790,
+            "ID": 793,
+            "ImageID": 1400793,
             "Label": 0,
-            "monID": 4376,
-            "type": 1
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 791,
-            "ImageID": 1400791,
-            "Label": 0,
-            "monID": 4510,
+            "monID": 4726,
             "type": 1
           }
         ]
@@ -30434,6 +30423,24 @@
         "Features": "在犹尔尼斯星再度现身的神秘幽灵，相比此前，她似乎长得更成熟了一些。但同样再次朝小梅发出了警告……",
         "Target": "170000",
         "ID": 4862
+      },
+      {
+        "DefName": "艾莉安娜",
+        "Features": "艾莉安娜降生于犹尔尼斯星的虫族，成为被大家寄予厚望的“继承人”。在与赛尔一同经历冒险之后，她决定换一种方式带领大家走向崭新的未来。",
+        "Target": "153201/836",
+        "ID": 4863
+      },
+      {
+        "DefName": "格拉西恩",
+        "Features": "一位行走四方维护正义的神秘骑士，身上的特征表明了他与众不同的种族身份。",
+        "Target": "113026",
+        "ID": 4864
+      },
+      {
+        "DefName": "超维·瑞泽",
+        "Features": "瑞泽的超进化形态，如今的他对次元和空间的掌握得到了进一步的突破！",
+        "Target": "114033",
+        "ID": 4865
       }
     ],
     "RecMintmark": {

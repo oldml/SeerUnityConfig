@@ -1,6 +1,6 @@
-﻿**Parsing finished with 433 successes and 103 failures.**
+﻿**Parsing finished with 435 successes and 101 failures.**
 
-**Failed Files (103 files)**
+**Failed Files (101 files)**
   2025YearPetTrain.bytes
   AdAstraBoss.bytes
   AdventureChapter.bytes
@@ -69,8 +69,6 @@
   pveRewardMall_1.bytes
   pvp_BossConfig.bytes
   pvp_MonsterConfig.bytes
-  pvp_practice.bytes
-  pvp_race.bytes
   redbutton.bytes
   reddot.bytes
   reddotunity.bytes
@@ -106,4 +104,4 @@
   yizhishang_shop.bytes
 
 ---
-**Total duration: 28.47 seconds.**
+**Total duration: 8.38 seconds.**

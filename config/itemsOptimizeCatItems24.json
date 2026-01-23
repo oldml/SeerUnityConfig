@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "Name": "格拉西恩因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400551,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "艾莉安娜因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400550,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "纷争之薇因子",
       "catID": 24,
       "Hide": 0,

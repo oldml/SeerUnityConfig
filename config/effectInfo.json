@@ -21506,7 +21506,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#57c975]击败[/color]对手时，将对手的[color=#f35555]宙变之殢[/color]转移给自身并[color=#57c975]转化[/color]为等量的星附属异常状态",
+        "analyze": "[sprite name=iconHit][color=#57c975]击败[/color]对手时，将对手的[color=#f35555]宙变之殢[/color]转移给自身并[color=#52a5f2]转化[/color]为等量的星附属异常状态",
         "info": "击败对手时，将对手的宙变之殢转移给自身并转化为等量的星附属异常状态",
         "key": "",
         "param": null,
@@ -21533,7 +21533,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]未[color=#57c975]击败[/color]对手时，消除自身[color=#52a5f2]当回合[/color]所使用技能的记录",
+        "analyze": "[sprite name=iconHit]未[color=#57c975]击败[/color]对手时，消除自身[color=#52a5f2]当回合(412)[/color]所使用技能的记录",
         "info": "未击败对手时，消除自身当回合所使用技能的记录",
         "key": "",
         "param": null,

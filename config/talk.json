@@ -22659,6 +22659,495 @@
       "groupId": 728,
       "id": 2209,
       "npcId": 97
+    },
+    {
+      "answer": [
+        "触摸一下",
+        "观察一下",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_produce",
+        "2_752",
+        ""
+      ],
+      "msg": "这里好像是一个缓冲垫…不对，是一只长得像缓冲垫的虫子，要怎么做？",
+      "dir": 0,
+      "groupId": 729,
+      "id": 2210,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "观察一下",
+        "暂时离开"
+      ],
+      "deal": [
+        "2_752",
+        ""
+      ],
+      "msg": "这里似乎已经无法再做更多的事情了，接下来该干什么？",
+      "dir": 0,
+      "groupId": 730,
+      "id": 2211,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "暂时离开"
+      ],
+      "deal": null,
+      "msg": "这似乎是一只进行虫卵筛选的虫子，去别处看看吧。",
+      "dir": 0,
+      "groupId": 731,
+      "id": 2212,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这只虫子似乎正在进行虫卵的筛选工作，要不来帮帮它吧？",
+      "dir": 0,
+      "groupId": 732,
+      "id": 2213,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "开始游戏",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_qte1",
+        ""
+      ],
+      "msg": "只要<font color=\"0xffd325\">连续</font>帮助它确认<font color=\"0xffd325\">三次</font>质量区间，应该就没问题了。",
+      "dir": 0,
+      "groupId": 732,
+      "id": 2214,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "暂时离开"
+      ],
+      "deal": null,
+      "msg": "这似乎是一只负责虫卵分化的虫子，去别处看看吧。",
+      "dir": 0,
+      "groupId": 733,
+      "id": 2215,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这只虫子似乎正在进行虫卵的分化工作，要不来帮帮它吧？",
+      "dir": 0,
+      "groupId": 734,
+      "id": 2216,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "开始游戏",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_qte2",
+        ""
+      ],
+      "msg": "只要<font color=\"0xffd325\">连续</font>帮助它确认<font color=\"0xffd325\">三次</font>分化区间，且均为<font color=\"0xffd325\">同一染色</font>，应该就没问题了。",
+      "dir": 0,
+      "groupId": 734,
+      "id": 2217,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "暂时离开"
+      ],
+      "deal": null,
+      "msg": "这似乎是一只负责虫卵孵化的虫子，去别处看看吧。",
+      "dir": 0,
+      "groupId": 735,
+      "id": 2218,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "看样子孵化出来的是一只灯蛾。",
+      "dir": 0,
+      "groupId": 736,
+      "id": 2219,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "嚯嚯嚯，怎么，很让你惊讶吗。",
+      "dir": 0,
+      "groupId": 736,
+      "id": 2220,
+      "npcId": 4858
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "看样子你不是和我一样的同类，我应该问你才是，你是谁啊。",
+      "dir": 0,
+      "groupId": 736,
+      "id": 2221,
+      "npcId": 4858
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我是聪明的赛尔机器人。",
+      "dir": 0,
+      "groupId": 736,
+      "id": 2222,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "聪明？我可不相信有谁比我还聪明，除非你能答对我的问题，我就认可你。",
+      "dir": 0,
+      "groupId": 736,
+      "id": 2223,
+      "npcId": 4858
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "好呀，那就来吧。",
+      "dir": 0,
+      "groupId": 736,
+      "id": 2224,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "1只！",
+        "10只！",
+        "你做不到！"
+      ],
+      "deal": [
+        "4_funqa",
+        "2_738",
+        "2_738"
+      ],
+      "msg": "请听题：一只“我”可以点亮1立方米的树洞，那么几只“我”可以点亮10立方米的树洞呢？",
+      "dir": 0,
+      "groupId": 736,
+      "id": 2225,
+      "npcId": 4858
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "没想到居然答对了我的问题，好吧，我承认你有点聪明了。",
+      "dir": 0,
+      "groupId": 737,
+      "id": 2226,
+      "npcId": 4858
+    },
+    {
+      "answer": [
+        "谢谢你"
+      ],
+      "deal": null,
+      "msg": "我要走了，作为答对的奖励，这个送给你。",
+      "dir": 0,
+      "groupId": 737,
+      "id": 2227,
+      "npcId": 4858
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "噗噗噗，真笨，回答错误，看来你也没有那么聪明嘛。",
+      "dir": 0,
+      "groupId": 738,
+      "id": 2228,
+      "npcId": 4858
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "好了，我要走了，等你下次变聪明了再来找我吧。",
+      "dir": 0,
+      "groupId": 738,
+      "id": 2229,
+      "npcId": 4858
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这是？是我完全没有见过的虫族诶。",
+      "dir": 0,
+      "groupId": 739,
+      "id": 2230,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "进入战斗",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_lfz",
+        ""
+      ],
+      "msg": "嗯？你是谁？要对我做什么？",
+      "dir": 0,
+      "groupId": 739,
+      "id": 2231,
+      "npcId": 4869
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "哇，孵出来的居然是戟决先锋！",
+      "dir": 0,
+      "groupId": 740,
+      "id": 2232,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "吼——",
+      "dir": 0,
+      "groupId": 740,
+      "id": 2233,
+      "npcId": 4857
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "敌人，进入，虫巢，立即，铲除！",
+      "dir": 0,
+      "groupId": 740,
+      "id": 2234,
+      "npcId": 4857
+    },
+    {
+      "answer": [
+        "进入战斗",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_jjxfs",
+        ""
+      ],
+      "msg": "不好，它把我视作虫巢的敌人了。该怎么办？",
+      "dir": 0,
+      "groupId": 740,
+      "id": 2235,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "嗯？怎么回事？虫巢之心似乎折射出一缕光芒，让我想伸出手去感受这股温暖……",
+      "dir": 0,
+      "groupId": 741,
+      "id": 2236,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "哇，这是什么？看上去像是来自虫巢的馈赠，先收起来吧。",
+      "dir": 0,
+      "groupId": 741,
+      "id": 2237,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "嗯？看样子又是一只灯蛾。",
+      "dir": 0,
+      "groupId": 742,
+      "id": 2238,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "嚯嚯嚯，怎么，很让你惊讶吗。",
+      "dir": 0,
+      "groupId": 742,
+      "id": 2239,
+      "npcId": 4858
+    },
+    {
+      "answer": [
+        "招呼它离开"
+      ],
+      "deal": [
+        "4_return1"
+      ],
+      "msg": "不对，怎么感觉我说过这句台词，总之你找我有什么事吗？",
+      "dir": 0,
+      "groupId": 742,
+      "id": 2240,
+      "npcId": 4858
+    },
+    {
+      "answer": [
+        "招呼它离开"
+      ],
+      "deal": [
+        "4_return2"
+      ],
+      "msg": "可爱的小蜘蛛。",
+      "dir": 0,
+      "groupId": 743,
+      "id": 2241,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "哇，孵出来的又是一只是戟决先锋！",
+      "dir": 0,
+      "groupId": 744,
+      "id": 2242,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "吼——",
+      "dir": 0,
+      "groupId": 744,
+      "id": 2243,
+      "npcId": 4857
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "赛尔，认可，不是，敌人。",
+      "dir": 0,
+      "groupId": 744,
+      "id": 2244,
+      "npcId": 4857
+    },
+    {
+      "answer": [
+        "招呼它离开"
+      ],
+      "deal": [
+        "4_return3"
+      ],
+      "msg": "看样子它似乎认定我不是危险的存在了，这下安全了。",
+      "dir": 0,
+      "groupId": 744,
+      "id": 2245,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "哎呀，好像把事情搞砸了。这颗虫卵似乎要被淘汰了……",
+      "dir": 0,
+      "groupId": 745,
+      "id": 2246,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "哎呀，好像把事情搞砸了。不过没关系，进入分化的虫卵不会被淘汰，我还可以重新开始。",
+      "dir": 0,
+      "groupId": 746,
+      "id": 2247,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "嗯？这里似乎还留下了些什么？先收起来吧。",
+      "dir": 0,
+      "groupId": 747,
+      "id": 2248,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "好可惜，让它逃脱了。",
+      "dir": 0,
+      "groupId": 748,
+      "id": 2249,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "呼，危机解除。这里似乎还留下了什么？先收起来吧。",
+      "dir": 0,
+      "groupId": 749,
+      "id": 2250,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "好险，逃过了一劫。这里似乎还留下了什么？先收起来吧。",
+      "dir": 0,
+      "groupId": 750,
+      "id": 2251,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "负责虫卵孵化的虫子似乎要重新进入休眠状态了，回过头去看看吧。",
+      "dir": 0,
+      "groupId": 751,
+      "id": 2252,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这上面有三个突出的黄色软体组织，似乎代表着什么。",
+      "dir": 0,
+      "groupId": 752,
+      "id": 2253,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "难道说？在完成了某些与“<font color=\"0xffd325\">三</font>”有关的条件后，或许可以发现什么？",
+      "dir": 0,
+      "groupId": 752,
+      "id": 2254,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "已经帮助这只虫子完成筛选工作了，去后面看看吧。",
+      "dir": 0,
+      "groupId": 753,
+      "id": 2255,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "已经帮助这只虫子完成分化工作了，去后面看看吧。",
+      "dir": 0,
+      "groupId": 754,
+      "id": 2256,
+      "npcId": 11
     }
   ]
 }

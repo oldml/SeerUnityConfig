@@ -219,6 +219,17 @@
       "monsterid": 3686,
       "order": 0,
       "type": 1
+    },
+    {
+      "Arg2": "2",
+      "LevelLock": "",
+      "name": "无上·万魔天尊",
+      "Arg1": 4,
+      "dataKey": 18,
+      "id": 21,
+      "monsterid": 4001,
+      "order": 0,
+      "type": 1
     }
   ]
 }

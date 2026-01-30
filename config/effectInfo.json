@@ -21596,6 +21596,24 @@
         "argsNum": 4,
         "id": 2405,
         "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]令对手全属性-{0}，未触发则令对手所有技能PP值-{1}",
+        "info": "令对手全属性-{0}，未触发则令对手所有技能PP值-{1}",
+        "key": "",
+        "param": null,
+        "argsNum": 2,
+        "id": 2406,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]自身技能PP值之和每比对手少{0}点附加{1}点[color=#52a5f2]固定伤害[/color]",
+        "info": "自身技能PP值之和每比对手少{0}点附加{1}点固定伤害",
+        "key": "",
+        "param": null,
+        "argsNum": 2,
+        "id": 2407,
+        "type": 0
       }
     ],
     "ParamType": [

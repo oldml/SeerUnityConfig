@@ -1792,6 +1792,16 @@
         "monster": 3741,
         "moves": 29246,
         "movetype": 2
+      },
+      {
+        "itemname": "虫巢之誓",
+        "movesname": "螟息·万籁归寂",
+        "id": 104,
+        "item": 1727724,
+        "itemnumber": 1,
+        "monster": 4863,
+        "moves": 38261,
+        "movetype": 1
       }
     ]
   }

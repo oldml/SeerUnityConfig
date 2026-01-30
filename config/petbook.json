@@ -1414,8 +1414,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4863,
-            "ImageID": 4863,
+            "ID": 4866,
+            "ImageID": 4866,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1425,8 +1425,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4864,
-            "ImageID": 4864,
+            "ID": 4867,
+            "ImageID": 4867,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1436,8 +1436,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4865,
-            "ImageID": 4865,
+            "ID": 4868,
+            "ImageID": 4868,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1447,10 +1447,21 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 792,
-            "ImageID": 1400792,
+            "ID": 4869,
+            "ImageID": 4869,
             "Label": 0,
-            "monID": 4661,
+            "monID": 0,
+            "type": 0
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "Redirect": "module",
+            "Mintmark": null,
+            "ID": 794,
+            "ImageID": 1400794,
+            "Label": 0,
+            "monID": 4663,
             "type": 1
           },
           {
@@ -1458,10 +1469,10 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 793,
-            "ImageID": 1400793,
+            "ID": 795,
+            "ImageID": 1400795,
             "Label": 0,
-            "monID": 4726,
+            "monID": 4866,
             "type": 1
           }
         ]
@@ -24715,7 +24726,7 @@
       {
         "DefName": "缚影•炼狱魔神",
         "Features": "魔界新篇章，炼狱魔神完全体登场！黑暗中他不止囚禁你最信任的影子，同样带走的是你活下去的希望......",
-        "Target": "",
+        "Target": "140004",
         "ID": 3907
       },
       {
@@ -24817,7 +24828,7 @@
       {
         "DefName": "凛戾·寂灭魔神",
         "Features": "魔界新篇章，寂灭魔神完全体登场！凛冽深寒、极光烁电，可怖的杀气让人颤栗！",
-        "Target": "",
+        "Target": "140004",
         "ID": 3924
       },
       {
@@ -24943,7 +24954,7 @@
       {
         "DefName": "屠戮·毁灭魔神",
         "Features": "魔界新篇章，毁灭魔神完全体登场！屠弑世间悲悯，只留虚妄恐惧！",
-        "Target": "",
+        "Target": "140004",
         "ID": 3945
       },
       {
@@ -25147,7 +25158,7 @@
       {
         "DefName": "炽魂·邪恶魔神",
         "Features": "魔界新篇章，邪恶魔神完全体登场！熔岩怒火的狂啸，宛若死神嗤笑的低语！",
-        "Target": "",
+        "Target": "140004",
         "ID": 3979
       },
       {
@@ -25273,7 +25284,7 @@
       {
         "DefName": "无上·万魔天尊",
         "Features": "魔尊的完全体，真正实力的展现，与其为敌将令你不寒而栗！",
-        "Target": "",
+        "Target": "150104",
         "ID": 4001
       },
       {
@@ -30426,7 +30437,7 @@
       },
       {
         "DefName": "艾莉安娜",
-        "Features": "艾莉安娜降生于犹尔尼斯星的虫族，成为被大家寄予厚望的“继承人”。在与赛尔一同经历冒险之后，她决定换一种方式带领大家走向崭新的未来。",
+        "Features": "艾莉安娜降生于犹尔尼斯星的虫族，成为被大家寄予厚望的“主母”。在与赛尔一同经历冒险之后，她决定换一种方式带领大家走向崭新的未来。",
         "Target": "153201/836",
         "ID": 4863
       },
@@ -30441,6 +30452,30 @@
         "Features": "瑞泽的超进化形态，如今的他对次元和空间的掌握得到了进一步的突破！",
         "Target": "114033",
         "ID": 4865
+      },
+      {
+        "DefName": "埃斯宾诺",
+        "Features": "犹尔尼斯星的黄金圣徒，以“主母”的身份控制了整个虫巢，她与她身后整个组织“黄金圣徒”的真实目的成谜。想必在未来一定还有与她交手的时刻吧。",
+        "Target": "153201/839",
+        "ID": 4866
+      },
+      {
+        "DefName": "西格恩",
+        "Features": "诡计之神洛基的妻子，紫色眼眸总透露着淡淡的忧郁。",
+        "Target": "114036",
+        "ID": 4867
+      },
+      {
+        "DefName": "西塞萝",
+        "Features": "2026年包月精灵，万象录之《桃李天下之人》。从前，她是为了学生们燃烧自己的老师；如今，他是为了迷途之人照亮道路的烛火。终有一天，她会油尽灯枯，但她不后悔，这是她的责任。",
+        "Target": "121000",
+        "ID": 4868
+      },
+      {
+        "DefName": "颅腹虫",
+        "Features": "身体构造奇怪的虫族生物，大脑生长在腹腔的它似乎有着比其他虫族更高的智慧。",
+        "Target": "400019",
+        "ID": 4869
       }
     ],
     "RecMintmark": {

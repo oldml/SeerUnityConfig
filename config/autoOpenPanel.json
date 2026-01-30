@@ -531,7 +531,7 @@
     {
       "actionName": "2026年费登录PV",
       "controller": "AutoOpenLocalOnce",
-      "endTime": "2026_2_28 10:00:00",
+      "endTime": "2026_1_30 10:00:00",
       "param1": "yearvip2026PVAlert",
       "param2": "",
       "param3": "",
@@ -543,7 +543,7 @@
     {
       "actionName": "2026年费登陆强弹",
       "controller": "AutoOpenEveryLogin",
-      "endTime": "2026_2_28 10:00:00",
+      "endTime": "2026_1_30 10:00:00",
       "param1": "YearsVip2026AlertPanel",
       "param2": "",
       "param3": "",
@@ -586,6 +586,18 @@
       "startTime": "2026_1_23 10:00:00",
       "id": 50,
       "moduleId": 767,
+      "state": 1
+    },
+    {
+      "actionName": "2026红包",
+      "controller": "AutoOpenLocalDaily",
+      "endTime": "2026_02_03 23:59:59",
+      "param1": "",
+      "param2": "",
+      "param3": "pop",
+      "startTime": "2026_1_30 12:00:00",
+      "id": 51,
+      "moduleId": 766,
       "state": 1
     }
   ]

@@ -4458,7 +4458,7 @@
       "resConfig": null,
       "currAppDo": 1,
       "id": 766,
-      "isFullScreen": 1
+      "isFullScreen": 0
     },
     {
       "moduleName": "WuweijuezheSkin",
@@ -4473,6 +4473,69 @@
       "currAppDo": 1,
       "id": 768,
       "isFullScreen": 1
+    },
+    {
+      "moduleName": "theCompleteEvoOfWanMoTianZunMainPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 769,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "arianaSkinPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 770,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "buildHivePlanPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 771,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "buildHivePlanPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 772,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "getasbnskin",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 773,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "removeCubeGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 774,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getxgnpanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 775,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "dragonboatExploratio",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 776,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "tetrisGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 777,
+      "isFullScreen": 0
     }
   ]
 }

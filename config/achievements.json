@@ -8344,6 +8344,20 @@
                     "ID": 4,
                     "proicon": 1464,
                     "SpeNameBonus": 568
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "理性之化身",
+                    "Desc": "通关S-埃斯宾诺【地狱难度】关卡获得",
+                    "Threshold": "5",
+                    "title": "理性之化身",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 5,
+                    "proicon": 1465,
+                    "SpeNameBonus": 569
                   }
                 ],
                 "ID": 172,

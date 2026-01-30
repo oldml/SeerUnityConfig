@@ -1329,6 +1329,36 @@
       "id": 133,
       "scale": 1,
       "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "灯蛾",
+      "portrait": "denge_fg",
+      "CharacterID": 4858,
+      "id": 134,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "颅腹虫",
+      "portrait": "ifc_fg",
+      "CharacterID": 4869,
+      "id": 135,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "戟决先锋",
+      "portrait": "jjxf_fg",
+      "CharacterID": 4857,
+      "id": 136,
+      "scale": 1,
+      "silhouette": 0
     }
   ]
 }

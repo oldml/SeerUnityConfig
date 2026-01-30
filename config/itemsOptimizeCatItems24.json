@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "Name": "埃斯宾诺因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400552,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "格拉西恩因子",
       "catID": 24,
       "Hide": 0,

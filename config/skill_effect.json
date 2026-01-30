@@ -32789,6 +32789,36 @@
       "tagAboss": 1,
       "tagBboss": 1,
       "tagCboss": 1
+    },
+    {
+      "formattingAdjustment": "令对手全属性-{0}\r\n-->未触发则令对手所有技能PP值-{1}",
+      "ifTextItalic": "未触发",
+      "info": "令对手全属性-{0}，未触发则令对手所有技能PP值-{1}",
+      "tagA": "弱化",
+      "tagB": "减PP",
+      "tagC": "",
+      "argsNum": 2,
+      "Bosseffective": 1,
+      "id": 2406,
+      "isif": 1,
+      "tagAboss": 1,
+      "tagBboss": 1,
+      "tagCboss": 1
+    },
+    {
+      "formattingAdjustment": "",
+      "ifTextItalic": "",
+      "info": "自身技能PP值之和每比对手少{0}点附加{1}点固定伤害",
+      "tagA": "附加伤害",
+      "tagB": "",
+      "tagC": "",
+      "argsNum": 2,
+      "Bosseffective": 1,
+      "id": 2407,
+      "isif": 0,
+      "tagAboss": 1,
+      "tagBboss": 1,
+      "tagCboss": 1
     }
   ]
 }

@@ -66,6 +66,19 @@
       "partnerNumber": 2
     },
     {
+      "partnerName": "黄昏罪罚",
+      "type": "2",
+      "partnerMonsterId": [
+        4361,
+        4867
+      ],
+      "bitbuf": 11050,
+      "choice": 34,
+      "cost": 6,
+      "id": 6,
+      "partnerNumber": 2
+    },
+    {
       "partnerName": "挽尘之遗",
       "type": "2",
       "partnerMonsterId": [
@@ -75,7 +88,7 @@
       "bitbuf": 9224,
       "choice": 33,
       "cost": 6,
-      "id": 6,
+      "id": 7,
       "partnerNumber": 2
     },
     {
@@ -88,7 +101,7 @@
       "bitbuf": 11018,
       "choice": 32,
       "cost": 6,
-      "id": 7,
+      "id": 8,
       "partnerNumber": 2
     },
     {
@@ -103,7 +116,7 @@
       "bitbuf": 11002,
       "choice": 31,
       "cost": 6,
-      "id": 8,
+      "id": 9,
       "partnerNumber": 4
     },
     {
@@ -117,7 +130,7 @@
       "bitbuf": 9907,
       "choice": 30,
       "cost": 9,
-      "id": 9,
+      "id": 10,
       "partnerNumber": 3
     },
     {
@@ -131,7 +144,7 @@
       "bitbuf": 11001,
       "choice": 29,
       "cost": 6,
-      "id": 10,
+      "id": 11,
       "partnerNumber": 3
     },
     {
@@ -144,7 +157,7 @@
       "bitbuf": 9333,
       "choice": 28,
       "cost": 6,
-      "id": 11,
+      "id": 12,
       "partnerNumber": 2
     },
     {
@@ -157,7 +170,7 @@
       "bitbuf": 9331,
       "choice": 27,
       "cost": 6,
-      "id": 12,
+      "id": 13,
       "partnerNumber": 2
     },
     {
@@ -170,7 +183,7 @@
       "bitbuf": 9062,
       "choice": 26,
       "cost": 6,
-      "id": 13,
+      "id": 14,
       "partnerNumber": 2
     },
     {
@@ -184,7 +197,7 @@
       "bitbuf": 9316,
       "choice": 25,
       "cost": 5,
-      "id": 14,
+      "id": 15,
       "partnerNumber": 3
     },
     {
@@ -198,7 +211,7 @@
       "bitbuf": 9314,
       "choice": 24,
       "cost": 4,
-      "id": 15,
+      "id": 16,
       "partnerNumber": 3
     },
     {
@@ -211,7 +224,7 @@
       "bitbuf": 9310,
       "choice": 23,
       "cost": 8,
-      "id": 16,
+      "id": 17,
       "partnerNumber": 2
     },
     {
@@ -225,7 +238,7 @@
       "bitbuf": 9308,
       "choice": 22,
       "cost": 4,
-      "id": 17,
+      "id": 18,
       "partnerNumber": 3
     },
     {
@@ -238,7 +251,7 @@
       "bitbuf": 9306,
       "choice": 21,
       "cost": 6,
-      "id": 18,
+      "id": 19,
       "partnerNumber": 2
     },
     {
@@ -253,7 +266,7 @@
       "bitbuf": 9304,
       "choice": 20,
       "cost": 4,
-      "id": 19,
+      "id": 20,
       "partnerNumber": 4
     },
     {
@@ -267,7 +280,7 @@
       "bitbuf": 9300,
       "choice": 19,
       "cost": 6,
-      "id": 20,
+      "id": 21,
       "partnerNumber": 3
     },
     {
@@ -280,7 +293,7 @@
       "bitbuf": 9219,
       "choice": 18,
       "cost": 4,
-      "id": 21,
+      "id": 22,
       "partnerNumber": 2
     },
     {
@@ -293,7 +306,7 @@
       "bitbuf": 9218,
       "choice": 17,
       "cost": 8,
-      "id": 22,
+      "id": 23,
       "partnerNumber": 2
     },
     {
@@ -306,7 +319,7 @@
       "bitbuf": 9216,
       "choice": 16,
       "cost": 5,
-      "id": 23,
+      "id": 24,
       "partnerNumber": 2
     },
     {
@@ -323,7 +336,7 @@
       "bitbuf": 9208,
       "choice": 15,
       "cost": 6,
-      "id": 24,
+      "id": 25,
       "partnerNumber": 6
     },
     {
@@ -336,7 +349,7 @@
       "bitbuf": 9204,
       "choice": 14,
       "cost": 4,
-      "id": 25,
+      "id": 26,
       "partnerNumber": 2
     },
     {
@@ -349,7 +362,7 @@
       "bitbuf": 9200,
       "choice": 13,
       "cost": 4,
-      "id": 26,
+      "id": 27,
       "partnerNumber": 2
     },
     {
@@ -366,7 +379,7 @@
       "bitbuf": 9008,
       "choice": 12,
       "cost": 6,
-      "id": 27,
+      "id": 28,
       "partnerNumber": 6
     },
     {
@@ -382,7 +395,7 @@
       "bitbuf": 9001,
       "choice": 11,
       "cost": 5,
-      "id": 28,
+      "id": 29,
       "partnerNumber": 5
     },
     {
@@ -395,7 +408,7 @@
       "bitbuf": 8806,
       "choice": 10,
       "cost": 4,
-      "id": 29,
+      "id": 30,
       "partnerNumber": 2
     },
     {
@@ -408,7 +421,7 @@
       "bitbuf": 488,
       "choice": 9,
       "cost": 4,
-      "id": 30,
+      "id": 31,
       "partnerNumber": 2
     },
     {
@@ -421,7 +434,7 @@
       "bitbuf": 415,
       "choice": 8,
       "cost": 4,
-      "id": 31,
+      "id": 32,
       "partnerNumber": 2
     },
     {
@@ -434,7 +447,7 @@
       "bitbuf": 9805,
       "choice": 7,
       "cost": 4,
-      "id": 32,
+      "id": 33,
       "partnerNumber": 2
     },
     {
@@ -447,7 +460,7 @@
       "bitbuf": 423,
       "choice": 6,
       "cost": 4,
-      "id": 33,
+      "id": 34,
       "partnerNumber": 2
     },
     {
@@ -463,7 +476,7 @@
       "bitbuf": 11284,
       "choice": 5,
       "cost": 4,
-      "id": 34,
+      "id": 35,
       "partnerNumber": 5
     },
     {
@@ -476,7 +489,7 @@
       "bitbuf": 9814,
       "choice": 4,
       "cost": 4,
-      "id": 35,
+      "id": 36,
       "partnerNumber": 2
     },
     {
@@ -489,7 +502,7 @@
       "bitbuf": 11329,
       "choice": 3,
       "cost": 4,
-      "id": 36,
+      "id": 37,
       "partnerNumber": 2
     },
     {
@@ -502,7 +515,7 @@
       "bitbuf": 9725,
       "choice": 2,
       "cost": 4,
-      "id": 37,
+      "id": 38,
       "partnerNumber": 2
     },
     {
@@ -517,7 +530,7 @@
       "bitbuf": 11307,
       "choice": 1,
       "cost": 4,
-      "id": 38,
+      "id": 39,
       "partnerNumber": 4
     }
   ]

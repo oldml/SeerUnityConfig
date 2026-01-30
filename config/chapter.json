@@ -510,7 +510,7 @@
       "tagtype": 108,
       "tobe": 0,
       "type": 1,
-      "upstory": 1,
+      "upstory": 0,
       "writing": 1003
     },
     {
@@ -646,6 +646,33 @@
       "tobe": 0,
       "type": 1,
       "upstory": 0,
+      "writing": 1003
+    },
+    {
+      "bgm": "2026yuris_05",
+      "chaptername": "覆灭与新生",
+      "enddate": "",
+      "imagebg": "image1021_bg",
+      "imagelist": "image1021_list",
+      "imagestage": "image1021_stage",
+      "img": "chapter_img1021",
+      "intro": "星球的未来将走向何方？重新踏入虫巢，见证阴谋与纷争的终结。",
+      "logo": "image1014_logo",
+      "previouslyon": "",
+      "startdate": "",
+      "tagname": "白皑迷踪",
+      "writingimg": "writing1003_img",
+      "writingname": "黄金的万象",
+      "branch": 0,
+      "id": 1021,
+      "needchapter": 1020,
+      "recordid": 25,
+      "redbadge": 0,
+      "tagopen": 0,
+      "tagtype": 108,
+      "tobe": 0,
+      "type": 1,
+      "upstory": 1,
       "writing": 1003
     }
   ]

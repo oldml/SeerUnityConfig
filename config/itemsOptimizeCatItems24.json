@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "Name": "拉克希斯因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400554,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "康迪亚克因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400553,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "埃斯宾诺因子",
       "catID": 24,
       "Hide": 0,

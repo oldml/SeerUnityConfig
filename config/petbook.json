@@ -1414,8 +1414,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4866,
-            "ImageID": 4866,
+            "ID": 4870,
+            "ImageID": 4870,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1425,43 +1425,10 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4867,
-            "ImageID": 4867,
+            "ID": 796,
+            "ImageID": 1400796,
             "Label": 0,
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 4868,
-            "ImageID": 4868,
-            "Label": 0,
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 4869,
-            "ImageID": 4869,
-            "Label": 0,
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 794,
-            "ImageID": 1400794,
-            "Label": 0,
-            "monID": 4663,
+            "monID": 4361,
             "type": 1
           },
           {
@@ -1469,10 +1436,10 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 795,
-            "ImageID": 1400795,
+            "ID": 797,
+            "ImageID": 1400797,
             "Label": 0,
-            "monID": 4866,
+            "monID": 4216,
             "type": 1
           }
         ]
@@ -19638,13 +19605,13 @@
       {
         "DefName": "库贝萨隆",
         "Features": "库贝萨的超进化形态，超进化后的库贝萨隆是新的恶势力的代表，浑身散发的邪恶气息令人无法靠近！",
-        "Target": "",
+        "Target": "137200",
         "ID": 3044
       },
       {
         "DefName": "六界神王",
         "Features": "六界之主，维护着六界中的正常秩序，是正义的化身！",
-        "Target": "",
+        "Target": "137300",
         "ID": 3045
       },
       {
@@ -20070,7 +20037,7 @@
       {
         "DefName": "索比斯",
         "Features": "索比拉特的超进化形态，更为灵动的身体可以感受到一些别的精灵不容易感知到的状态！",
-        "Target": "",
+        "Target": "137300",
         "ID": 3118
       },
       {
@@ -22086,7 +22053,7 @@
       {
         "DefName": "伶谣",
         "Features": "手持黑暗童话书的小女孩，周身围绕着黑色的闪电，体内拥有非常危险的力量！",
-        "Target": "",
+        "Target": "137200",
         "ID": 3461
       },
       {
@@ -30476,6 +30443,12 @@
         "Features": "身体构造奇怪的虫族生物，大脑生长在腹腔的它似乎有着比其他虫族更高的智慧。",
         "Target": "400019",
         "ID": 4869
+      },
+      {
+        "DefName": "康迪亚克",
+        "Features": "潜藏于犹尔尼斯星的另一位黄金圣徒，康迪亚克毅然站在虫族的对立阵营，为其他族群争取生存的权益。然而，在他的内心深处，却还有另一番别样的盘算……",
+        "Target": "153201/845",
+        "ID": 4870
       }
     ],
     "RecMintmark": {

@@ -174,68 +174,38 @@
           "shopkind": 1
         },
         {
-          "productName": "福兽天禄",
+          "productName": "西斯里",
           "productID": [
-            3313,
+            4391,
             34174,
             5566,
             41817
           ],
           "batch": 1,
           "Endtime": 20280426,
-          "exchangeId": 14018,
-          "forever": 140225,
-          "ID": 10004,
+          "exchangeId": 13970,
+          "forever": 125053,
+          "ID": 10002,
           "Opentime": 20260102,
-          "productPrice": 45,
+          "productPrice": 30,
           "shopkind": 1
         },
         {
-          "productName": "金瑞福龙",
+          "productName": "招财",
           "productID": [
-            4602,
+            4675,
             34174,
             5566,
             41817
           ],
           "batch": 1,
           "Endtime": 20280426,
-          "exchangeId": 14019,
-          "forever": 140226,
-          "ID": 10005,
+          "exchangeId": 13971,
+          "forever": 125054,
+          "ID": 10003,
           "Opentime": 20260102,
           "productPrice": 20,
           "shopkind": 1
-        },
-        {
-          "productName": "艾拉因子*35",
-          "productID": [
-            2400476,
-            3501
-          ],
-          "batch": 20,
-          "Endtime": 20281231,
-          "exchangeId": 14001,
-          "forever": 0,
-          "ID": 20236,
-          "Opentime": 20241122,
-          "productPrice": 1,
-          "shopkind": 5
-        },
-        {
-          "productName": "苏哥拉底因子*20",
-          "productID": [
-            2400477,
-            2493
-          ],
-          "batch": 20,
-          "Endtime": 20281231,
-          "exchangeId": 14016,
-          "forever": 0,
-          "ID": 20237,
-          "Opentime": 20241122,
-          "productPrice": 1,
-          "shopkind": 5
         },
         {
           "productName": "灵天圣君·萨尔蒙因子*55",
@@ -263,21 +233,6 @@
           "exchangeId": 13733,
           "forever": 0,
           "ID": 20239,
-          "Opentime": 20220114,
-          "productPrice": 1,
-          "shopkind": 5
-        },
-        {
-          "productName": "燃魂巨兽因子*55",
-          "productID": [
-            2400063,
-            3584
-          ],
-          "batch": 20,
-          "Endtime": 20261231,
-          "exchangeId": 13734,
-          "forever": 0,
-          "ID": 20240,
           "Opentime": 20220114,
           "productPrice": 1,
           "shopkind": 5
@@ -313,81 +268,6 @@
           "shopkind": 5
         },
         {
-          "productName": "波西利亚因子*35",
-          "productID": [
-            2400324,
-            3743
-          ],
-          "batch": 20,
-          "Endtime": 20261231,
-          "exchangeId": 13730,
-          "forever": 0,
-          "ID": 20243,
-          "Opentime": 20231229,
-          "productPrice": 1,
-          "shopkind": 5
-        },
-        {
-          "productName": "麒麟天女·波西利亚因子*35",
-          "productID": [
-            2400345,
-            3783
-          ],
-          "batch": 20,
-          "Endtime": 20261231,
-          "exchangeId": 13731,
-          "forever": 0,
-          "ID": 20244,
-          "Opentime": 20240301,
-          "productPrice": 1,
-          "shopkind": 5
-        },
-        {
-          "productName": "伽玛·鬼雀因子*35",
-          "productID": [
-            2400181,
-            3887
-          ],
-          "batch": 20,
-          "Endtime": 20261231,
-          "exchangeId": 14004,
-          "forever": 0,
-          "ID": 20245,
-          "Opentime": 20220114,
-          "productPrice": 1,
-          "shopkind": 5
-        },
-        {
-          "productName": "伽玛·夜煞因子*35",
-          "productID": [
-            2400182,
-            3893
-          ],
-          "batch": 20,
-          "Endtime": 20261231,
-          "exchangeId": 14005,
-          "forever": 0,
-          "ID": 20246,
-          "Opentime": 20220114,
-          "productPrice": 1,
-          "shopkind": 5
-        },
-        {
-          "productName": "伽玛·悍刀因子*35",
-          "productID": [
-            2400183,
-            3876
-          ],
-          "batch": 20,
-          "Endtime": 20261231,
-          "exchangeId": 14006,
-          "forever": 0,
-          "ID": 20247,
-          "Opentime": 20220114,
-          "productPrice": 1,
-          "shopkind": 5
-        },
-        {
           "productName": "怨恚魂王因子*40",
           "productID": [
             2400506,
@@ -398,36 +278,6 @@
           "exchangeId": 14007,
           "forever": 0,
           "ID": 20248,
-          "Opentime": 20220114,
-          "productPrice": 1,
-          "shopkind": 5
-        },
-        {
-          "productName": "魔镰武神因子*35",
-          "productID": [
-            2400507,
-            3694
-          ],
-          "batch": 20,
-          "Endtime": 20261231,
-          "exchangeId": 14008,
-          "forever": 0,
-          "ID": 20249,
-          "Opentime": 20220114,
-          "productPrice": 1,
-          "shopkind": 5
-        },
-        {
-          "productName": "暗灵法神因子*35",
-          "productID": [
-            2400508,
-            3678
-          ],
-          "batch": 20,
-          "Endtime": 20261231,
-          "exchangeId": 14009,
-          "forever": 0,
-          "ID": 20250,
           "Opentime": 20220114,
           "productPrice": 1,
           "shopkind": 5
@@ -778,9 +628,9 @@
           "shopkind": 5
         }
       ],
-      "Endday": "2/6",
-      "Endtime": "2026/2/6",
-      "Openday": "1/2"
+      "Endday": "3/13",
+      "Endtime": "2026/3/13",
+      "Openday": "2/6"
     }
   }
 }

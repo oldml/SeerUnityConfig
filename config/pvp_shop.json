@@ -719,6 +719,22 @@
       "suit": 0,
       "type": 3,
       "userinfo": 124702
+    },
+    {
+      "commodity": "1_1727739_50",
+      "petinfo": "0_0_0_0",
+      "bagLimit": 0,
+      "consumeitemid": 1717452,
+      "discount": 0,
+      "id": 46,
+      "limit": 3,
+      "price": 50,
+      "producttype": 1,
+      "quantity": 1,
+      "sort": 1,
+      "suit": 0,
+      "type": 2,
+      "userinfo": 20541
     }
   ]
 }

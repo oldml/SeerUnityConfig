@@ -131,6 +131,11 @@
             "id": 9,
             "randomcnt": 2,
             "rewardid": 67
+          },
+          {
+            "id": 10,
+            "randomcnt": 1,
+            "rewardid": 68
           }
         ],
         "colcnt": 11,
@@ -541,215 +546,136 @@
           "realcnt": 2,
           "realid": 1800123,
           "type": 1
+        },
+        {
+          "id": 68,
+          "realcnt": 10,
+          "realid": 1727738,
+          "type": 1
         }
       ]
     },
     "titanlode": [
       {
-        "ID": 1,
-        "bsrewardid": 1,
         "cltboss": [
           2536,
           2281
         ],
-        "desc": "",
-        "exrewardid": "2|3|4|5",
-        "mapid": 0,
-        "mode": 1,
         "passarg": [
           1
         ],
-        "passtype": 1,
-        "sebossid": 17577,
+        "mode": 1,
         "step": 1
       },
       {
-        "ID": 2,
-        "bsrewardid": 6,
         "cltboss": [
           3384
         ],
-        "desc": "",
-        "exrewardid": "7|8|9|10",
-        "mapid": 0,
-        "mode": 1,
         "passarg": [
           15,
           6
         ],
-        "passtype": 2,
-        "sebossid": 18466,
+        "mode": 1,
         "step": 2
       },
       {
-        "ID": 3,
-        "bsrewardid": 0,
         "cltboss": null,
-        "desc": "第三阶段",
-        "exrewardid": "",
-        "mapid": 1,
-        "mode": 1,
         "passarg": [
           25
         ],
-        "passtype": 3,
-        "sebossid": 0,
+        "mode": 1,
         "step": 3
       },
       {
-        "ID": 4,
-        "bsrewardid": 11,
         "cltboss": [
           3448
         ],
-        "desc": "",
-        "exrewardid": "12|13|14",
-        "mapid": 0,
-        "mode": 1,
         "passarg": [
           10
         ],
-        "passtype": 4,
-        "sebossid": 17579,
+        "mode": 1,
         "step": 4
       },
       {
-        "ID": 5,
-        "bsrewardid": 15,
         "cltboss": [
           2536,
           2281
         ],
-        "desc": "",
-        "exrewardid": "16|17|18|19",
-        "mapid": 0,
-        "mode": 2,
         "passarg": [
           1
         ],
-        "passtype": 1,
-        "sebossid": 17580,
+        "mode": 2,
         "step": 1
       },
       {
-        "ID": 6,
-        "bsrewardid": 20,
         "cltboss": [
           3384
         ],
-        "desc": "",
-        "exrewardid": "21|22|23|24",
-        "mapid": 0,
-        "mode": 2,
         "passarg": [
           12,
           6
         ],
-        "passtype": 2,
-        "sebossid": 18467,
+        "mode": 2,
         "step": 2
       },
       {
-        "ID": 7,
-        "bsrewardid": 0,
         "cltboss": null,
-        "desc": "第三阶段",
-        "exrewardid": "",
-        "mapid": 2,
-        "mode": 2,
         "passarg": [
           35
         ],
-        "passtype": 3,
-        "sebossid": 0,
+        "mode": 2,
         "step": 3
       },
       {
-        "ID": 8,
-        "bsrewardid": 25,
         "cltboss": [
           3448
         ],
-        "desc": "",
-        "exrewardid": "26|27|28|29",
-        "mapid": 0,
-        "mode": 2,
         "passarg": [
           10
         ],
-        "passtype": 4,
-        "sebossid": 17582,
+        "mode": 2,
         "step": 4
       },
       {
-        "ID": 9,
-        "bsrewardid": 30,
         "cltboss": [
           2536,
           2281
         ],
-        "desc": "",
-        "exrewardid": "31|32|33|34",
-        "mapid": 0,
-        "mode": 3,
         "passarg": [
           1
         ],
-        "passtype": 1,
-        "sebossid": 17583,
+        "mode": 3,
         "step": 1
       },
       {
-        "ID": 10,
-        "bsrewardid": 35,
         "cltboss": [
           3384
         ],
-        "desc": "",
-        "exrewardid": "36|37|38|39",
-        "mapid": 0,
-        "mode": 3,
         "passarg": [
           9,
           6
         ],
-        "passtype": 2,
-        "sebossid": 18468,
+        "mode": 3,
         "step": 2
       },
       {
-        "ID": 11,
-        "bsrewardid": 0,
         "cltboss": null,
-        "desc": "第三阶段",
-        "exrewardid": "",
-        "mapid": 3,
-        "mode": 3,
         "passarg": [
           48
         ],
-        "passtype": 3,
-        "sebossid": 0,
+        "mode": 3,
         "step": 3
       },
       {
-        "ID": 12,
-        "bsrewardid": 40,
         "cltboss": [
           3448
         ],
-        "desc": "",
-        "exrewardid": "41|42|43|44",
-        "mapid": 0,
-        "mode": 3,
         "passarg": [
           10
         ],
-        "passtype": 4,
-        "sebossid": 17585,
+        "mode": 3,
         "step": 4
       }
     ]
-  },
-  "b": true
+  }
 }

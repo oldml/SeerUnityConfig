@@ -2366,6 +2366,20 @@
                     "ID": 22,
                     "proicon": 1456,
                     "SpeNameBonus": 565
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "白皑迷踪",
+                    "Desc": "完成主线【白皑迷踪】获得",
+                    "Threshold": "23",
+                    "title": "白皑迷踪",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 23,
+                    "proicon": 1466,
+                    "SpeNameBonus": 570
                   }
                 ],
                 "ID": 161,
@@ -8358,6 +8372,20 @@
                     "ID": 5,
                     "proicon": 1465,
                     "SpeNameBonus": 569
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "感性之化身",
+                    "Desc": "通关S-康迪亚克【地狱难度】关卡获得",
+                    "Threshold": "6",
+                    "title": "感性之化身",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 6,
+                    "proicon": 1467,
+                    "SpeNameBonus": 571
                   }
                 ],
                 "ID": 172,
@@ -18148,6 +18176,20 @@
                     "hide": 0,
                     "ID": 12,
                     "proicon": 1458,
+                    "SpeNameBonus": 0
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "2026巅峰时装收集",
+                    "Desc": "达成2026巅峰圣战专属精灵皮肤收集进度",
+                    "Threshold": "13",
+                    "title": "",
+                    "titleColor": "",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 13,
+                    "proicon": 1468,
                     "SpeNameBonus": 0
                   }
                 ],

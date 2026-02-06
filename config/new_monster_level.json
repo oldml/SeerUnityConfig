@@ -20164,7 +20164,7 @@
       "showTag": false
     },
     {
-      "hide": "2020_01_02 10:00:00",
+      "hide": "",
       "image": "4216",
       "isnew": "",
       "param": "",
@@ -20174,7 +20174,10 @@
       "upgradeHide": "",
       "upgradeNew": "",
       "isrecommend": null,
-      "menutype": null,
+      "menutype": [
+        5,
+        1
+      ],
       "petTag": null,
       "upgrade": [
         2
@@ -24442,7 +24445,7 @@
     {
       "hide": "",
       "image": "4001",
-      "isnew": "1",
+      "isnew": "",
       "param": "",
       "quality": "",
       "recommendTime": "",
@@ -24696,7 +24699,7 @@
     {
       "hide": "",
       "image": "4866",
-      "isnew": "1",
+      "isnew": "",
       "param": "{Design:231}",
       "quality": "s",
       "recommendTime": "",
@@ -24753,7 +24756,7 @@
     {
       "hide": "2026_12_25 10:00:00",
       "image": "4868",
-      "isnew": "1",
+      "isnew": "",
       "param": "",
       "quality": "",
       "recommendTime": "",
@@ -24838,7 +24841,7 @@
     {
       "hide": "",
       "image": "4869",
-      "isnew": "1",
+      "isnew": "",
       "param": "",
       "quality": "",
       "recommendTime": "",
@@ -24855,6 +24858,34 @@
       "moduleid": -400019,
       "monsterid": 4869,
       "sort": 3,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4870",
+      "isnew": "1",
+      "param": "{Design:232}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精灵因子关卡系统功能,康迪亚克,点击进入关卡_点击兑换",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": null,
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 845,
+      "moduleid": 151,
+      "monsterid": 4870,
+      "sort": 1,
       "upgradeSort": 0,
       "upgradeSource": 0,
       "weekly": 0,

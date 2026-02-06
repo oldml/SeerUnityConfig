@@ -16925,6 +16925,24 @@
       "id": 2167,
       "MapRatio": 1,
       "pic": 2167
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "薇星林海占位",
+      "notes": "",
+      "sound": "",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": null,
+      "WildBossID": null,
+      "WildBossPoint": null,
+      "WildBossWeight": null,
+      "enterMap": 0,
+      "GroupID": 22003,
+      "id": 2168,
+      "MapRatio": 1,
+      "pic": 2168
     }
   ]
 }

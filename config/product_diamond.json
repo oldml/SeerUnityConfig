@@ -235973,6 +235973,76 @@
         "price": 66,
         "productID": 262177,
         "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得精灵【康迪亚克】",
+        "itemID": [
+          1727750
+        ],
+        "price": 798,
+        "productID": 262178,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买每日挑战次数（康迪亚克）",
+        "itemID": [
+          1727751
+        ],
+        "price": 30,
+        "productID": 262179,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡简单关卡（康迪亚克）",
+        "itemID": [
+          1727752
+        ],
+        "price": 20,
+        "productID": 262180,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡困难关卡（康迪亚克）",
+        "itemID": [
+          1727753
+        ],
+        "price": 30,
+        "productID": 262181,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡地狱关卡（康迪亚克）",
+        "itemID": [
+          1727754
+        ],
+        "price": 40,
+        "productID": 262182,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买获得康迪亚克因子",
+        "itemID": [
+          1727755
+        ],
+        "price": 2,
+        "productID": 262183,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买皮肤【暗渊之灾·洛基】",
+        "itemID": [
+          1727756
+        ],
+        "price": 498,
+        "productID": 262184,
+        "vip": 1
       }
     ]
   }

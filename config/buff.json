@@ -32853,6 +32853,26 @@
       ],
       "icontype": 0,
       "id": 4515
+    },
+    {
+      "Desc": "{0}回合内攻击必定打出致命一击",
+      "desc_tag": "",
+      "Tag": "致命一击",
+      "icon": [
+        36
+      ],
+      "icontype": 0,
+      "id": 4516
+    },
+    {
+      "Desc": "{roundnext[0]}所有技能先制+{1}",
+      "desc_tag": "roundnext",
+      "Tag": "先制",
+      "icon": [
+        6
+      ],
+      "icontype": 0,
+      "id": 4517
     }
   ]
 }

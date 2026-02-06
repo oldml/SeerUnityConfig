@@ -450,6 +450,16 @@
         "price": 8.8,
         "productID": 200065,
         "vip": 1
+      },
+      {
+        "name": "种植新春招财树",
+        "itemID": [
+          1727757
+        ],
+        "gold": 1,
+        "price": 10,
+        "productID": 200066,
+        "vip": 1
       }
     ]
   }

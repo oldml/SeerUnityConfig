@@ -524563,6 +524563,75 @@
           "Type": 8
         },
         {
+          "info": "开始免疫并反弹受到的异常状态了；开始吸取对手的体力了",
+          "Name": "闭目灵视",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            191,
+            717,
+            2232
+          ],
+          "SideEffectArg": [
+            4,
+            4,
+            3,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29263,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；开始弱化对手了；出手变得更快了",
+          "Name": "汇念凝神",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1020,
+            2161,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            3,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            1,
+            30,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29264,
+          "MaxPP": 4,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
           "info": "",
           "Name": "千星死魂灭",
           "FriendSideEffect": null,
@@ -753369,6 +753438,97 @@
           "Power": 95,
           "Priority": 0,
           "Type": 225
+        },
+        {
+          "info": "",
+          "Name": "慰心",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1863,
+            1037,
+            1740
+          ],
+          "SideEffectArg": [
+            10,
+            1,
+            1,
+            50,
+            80
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38267,
+          "MaxPP": 6,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 9,
+          "Priority": 3,
+          "Type": 7
+        },
+        {
+          "info": "",
+          "Name": "断怛离怊",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1352,
+            1019
+          ],
+          "SideEffectArg": [
+            1,
+            300,
+            2
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38268,
+          "MaxPP": 3,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 7
+        },
+        {
+          "info": "",
+          "Name": "感·万绪入魂",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1930,
+            942,
+            1323,
+            1286
+          ],
+          "SideEffectArg": [
+            1,
+            1,
+            4,
+            3,
+            50
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38269,
+          "MaxPP": 2,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 80,
+          "Priority": 1,
+          "Type": 7
         },
         {
           "info": "恢复自身一定体力",

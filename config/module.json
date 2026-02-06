@@ -4536,6 +4536,111 @@
       "currAppDo": 1,
       "id": 777,
       "isFullScreen": 0
+    },
+    {
+      "moduleName": "mintlevelsign",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 778,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "classicPetAssemblePanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 779,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "luojiSkinPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 780,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "mintmarkElevareReward",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 781,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "dangoHalma",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 782,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "GetShangGuYanShou",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 783,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "roamWriterReturn",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 784,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "StarsWhisper",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 785,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "SpringFestivalCollection",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 786,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "helkaTYMintmarkRerunCenter",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 787,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "SpringFestivalSign",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 788,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "cardDuelGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 789,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "bagTower",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 801,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getchaofengpanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 802,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "springSkinGift",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 803,
+      "isFullScreen": 1
     }
   ]
 }

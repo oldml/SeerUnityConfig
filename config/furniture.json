@@ -4310,6 +4310,15 @@
       "id": 540098,
       "type": 2,
       "vipOnly": 0
+    },
+    {
+      "funcParam": "",
+      "name": "新春聚宝盆",
+      "func": 0,
+      "funcIdentity": 0,
+      "id": 540099,
+      "type": 2,
+      "vipOnly": 0
     }
   ]
 }

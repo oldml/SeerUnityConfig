@@ -23148,6 +23148,105 @@
       "groupId": 754,
       "id": 2256,
       "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "春节传送仓占位",
+      "dir": 0,
+      "groupId": 755,
+      "id": 2257,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "春节传送仓占位",
+      "dir": 0,
+      "groupId": 756,
+      "id": 2258,
+      "npcId": 2
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "春节传送仓占位",
+      "dir": 0,
+      "groupId": 757,
+      "id": 2259,
+      "npcId": 3
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "春节传送仓占位",
+      "dir": 0,
+      "groupId": 758,
+      "id": 2260,
+      "npcId": 4
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "春节传送仓占位",
+      "dir": 0,
+      "groupId": 759,
+      "id": 2261,
+      "npcId": 5
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "春节传送仓占位",
+      "dir": 0,
+      "groupId": 760,
+      "id": 2262,
+      "npcId": 6
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "春节传送仓占位",
+      "dir": 0,
+      "groupId": 761,
+      "id": 2263,
+      "npcId": 7
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "春节传送仓占位",
+      "dir": 0,
+      "groupId": 762,
+      "id": 2264,
+      "npcId": 8
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "春节传送仓占位",
+      "dir": 0,
+      "groupId": 763,
+      "id": 2265,
+      "npcId": 9
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "春节传送仓占位",
+      "dir": 0,
+      "groupId": 764,
+      "id": 2266,
+      "npcId": 10
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "春节传送仓占位",
+      "dir": 0,
+      "groupId": 765,
+      "id": 2267,
+      "npcId": 11
     }
   ]
 }

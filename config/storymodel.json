@@ -3629,6 +3629,61 @@
       "portrait": "kangdiyake_fg",
       "id": 330,
       "scale": 0.95
+    },
+    {
+      "CharacterID": "aisibinnuobt",
+      "emoji": "aisibinnuo_01,aisibinnuo_02,aisibinnuo_03,aisibinnuo_04",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-120,180",
+      "name": "埃斯宾诺",
+      "portrait": "aisibinnuobt_fg",
+      "id": 331,
+      "scale": 1
+    },
+    {
+      "CharacterID": "fangshuyoyo",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "方术悠悠",
+      "portrait": "fangshuyoyo_fg",
+      "id": 332,
+      "scale": 1
+    },
+    {
+      "CharacterID": "longshou",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "瓏首",
+      "portrait": "longshou_fg",
+      "id": 333,
+      "scale": 1
+    },
+    {
+      "CharacterID": "xiaoling",
+      "emoji": "xiaoling_01,xiaoling_02,xiaoling_03",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "宵灵",
+      "portrait": "xiaoling_fg",
+      "id": 334,
+      "scale": 0.9
+    },
+    {
+      "CharacterID": "chaofeng",
+      "emoji": "chaofeng_01,chaofeng_02,chaofeng_03",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-50,100",
+      "name": "嘲风",
+      "portrait": "chaofeng_fg",
+      "id": 335,
+      "scale": 1
     }
   ]
 }

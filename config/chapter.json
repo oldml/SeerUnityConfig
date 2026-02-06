@@ -674,6 +674,33 @@
       "type": 1,
       "upstory": 1,
       "writing": 1003
+    },
+    {
+      "bgm": "",
+      "chaptername": "烟火点星辰",
+      "enddate": "",
+      "imagebg": "image4001_bg",
+      "imagelist": "image4001_list",
+      "imagestage": "image4001_stage",
+      "img": "chapter_img4001",
+      "intro": "一年到头，吉时已至，且看那宇宙苍穹处，响起片片爆竹声。",
+      "logo": "image4001_logo",
+      "previouslyon": "",
+      "startdate": "",
+      "tagname": "启星春",
+      "writingimg": "writing4001_img",
+      "writingname": "赤洲岁华录",
+      "branch": 0,
+      "id": 4001,
+      "needchapter": 0,
+      "recordid": 26,
+      "redbadge": 0,
+      "tagopen": 0,
+      "tagtype": 401,
+      "tobe": 0,
+      "type": 2,
+      "upstory": 1,
+      "writing": 4001
     }
   ]
 }

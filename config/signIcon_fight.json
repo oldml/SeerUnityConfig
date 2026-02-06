@@ -3937,6 +3937,38 @@
         "sort": 5
       },
       {
+        "className": "*",
+        "dec": "bt",
+        "Des": "",
+        "frame": null,
+        "NumDes": "剩余回合",
+        "spDes": null,
+        "spicon": null,
+        "sptips": null,
+        "tips": "bt",
+        "id": 150,
+        "isShowNum": 1,
+        "showmonster": 0,
+        "showtime": 0,
+        "sort": 1
+      },
+      {
+        "className": "*",
+        "dec": "t",
+        "Des": "",
+        "frame": null,
+        "NumDes": "",
+        "spDes": null,
+        "spicon": null,
+        "sptips": null,
+        "tips": "t",
+        "id": 151,
+        "isShowNum": 1,
+        "showmonster": 0,
+        "showtime": 0,
+        "sort": 1
+      },
+      {
         "className": "SignBuffView_1000",
         "dec": "折叠icon",
         "Des": "",

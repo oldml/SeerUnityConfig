@@ -2892,6 +2892,78 @@
     "Shop": {
       "MintMark": [
         {
+          "Des": "穷奇之邪",
+          "exchangeId": 14686,
+          "ID": 42046,
+          "Level": 5,
+          "maxNum": 1,
+          "price": 700,
+          "puton": 1
+        },
+        {
+          "Des": "穷奇之魅",
+          "exchangeId": 14687,
+          "ID": 42047,
+          "Level": 5,
+          "maxNum": 1,
+          "price": 700,
+          "puton": 1
+        },
+        {
+          "Des": "梼杌之狂",
+          "exchangeId": 14688,
+          "ID": 42048,
+          "Level": 5,
+          "maxNum": 1,
+          "price": 700,
+          "puton": 1
+        },
+        {
+          "Des": "梼杌之傲",
+          "exchangeId": 14689,
+          "ID": 42049,
+          "Level": 5,
+          "maxNum": 1,
+          "price": 700,
+          "puton": 1
+        },
+        {
+          "Des": "饕餮之吞",
+          "exchangeId": 14690,
+          "ID": 42050,
+          "Level": 5,
+          "maxNum": 1,
+          "price": 700,
+          "puton": 1
+        },
+        {
+          "Des": "饕餮之噬",
+          "exchangeId": 14691,
+          "ID": 42051,
+          "Level": 5,
+          "maxNum": 1,
+          "price": 700,
+          "puton": 1
+        },
+        {
+          "Des": "混沌之隐",
+          "exchangeId": 14692,
+          "ID": 42052,
+          "Level": 5,
+          "maxNum": 1,
+          "price": 700,
+          "puton": 1
+        },
+        {
+          "Des": "混沌之匿",
+          "exchangeId": 14693,
+          "ID": 42053,
+          "Level": 5,
+          "maxNum": 1,
+          "price": 700,
+          "puton": 1
+        },
+        {
           "Des": "九天之疾",
           "exchangeId": 13260,
           "ID": 41286,
@@ -3178,78 +3250,6 @@
           "maxNum": 2,
           "price": 300,
           "puton": 1
-        },
-        {
-          "Des": "穷奇之邪",
-          "exchangeId": 13268,
-          "ID": 42046,
-          "Level": 5,
-          "maxNum": 1,
-          "price": 500,
-          "puton": 2
-        },
-        {
-          "Des": "穷奇之魅",
-          "exchangeId": 13269,
-          "ID": 42047,
-          "Level": 5,
-          "maxNum": 1,
-          "price": 500,
-          "puton": 2
-        },
-        {
-          "Des": "梼杌之狂",
-          "exchangeId": 13270,
-          "ID": 42048,
-          "Level": 5,
-          "maxNum": 1,
-          "price": 500,
-          "puton": 2
-        },
-        {
-          "Des": "梼杌之傲",
-          "exchangeId": 13271,
-          "ID": 42049,
-          "Level": 5,
-          "maxNum": 1,
-          "price": 500,
-          "puton": 2
-        },
-        {
-          "Des": "饕餮之吞",
-          "exchangeId": 13272,
-          "ID": 42050,
-          "Level": 5,
-          "maxNum": 1,
-          "price": 500,
-          "puton": 2
-        },
-        {
-          "Des": "饕餮之噬",
-          "exchangeId": 13273,
-          "ID": 42051,
-          "Level": 5,
-          "maxNum": 1,
-          "price": 500,
-          "puton": 2
-        },
-        {
-          "Des": "混沌之隐",
-          "exchangeId": 13274,
-          "ID": 42052,
-          "Level": 5,
-          "maxNum": 1,
-          "price": 500,
-          "puton": 2
-        },
-        {
-          "Des": "混沌之匿",
-          "exchangeId": 13275,
-          "ID": 42053,
-          "Level": 5,
-          "maxNum": 1,
-          "price": 500,
-          "puton": 2
         }
       ],
       "name": "商店",

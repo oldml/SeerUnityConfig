@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "stageAward": "1_2500005_2",
+      "stageBlockPool": "101_5,102_5,103_5,104_5,105_5,106_5",
+      "stageSetting": "",
+      "stageStory": "第一次承办委托，别紧张，先来试试点燃红色烟花吧。",
+      "stageTarget": "1_0",
+      "stageTutorial": "tutorialControl,tutorialAim",
+      "chapterId": 1,
+      "id": 1
+    },
+    {
+      "stageAward": "1_2500005_2",
+      "stageBlockPool": "101_5,102_5,103_4,104_4,105_4,106_4",
+      "stageSetting": "108_2_2,108_4_3,108_3_4,108_2_5",
+      "stageStory": "没问题，接下来确认一下别的种类，看看黄色烟花的效果怎么样。",
+      "stageTarget": "3_0",
+      "stageTutorial": "tutorialBarrierBlock",
+      "chapterId": 1,
+      "id": 2
+    },
+    {
+      "stageAward": "1_300405_1;1_2500005_1",
+      "stageBlockPool": "101_1,102_1,103_6,104_6,105_6,106_5",
+      "stageSetting": "108_5_1,108_2_2,108_5_3,108_4_3,108_3_4",
+      "stageStory": "还剩最后一种烟花，蓝色烟花的效果会是怎样的呢？",
+      "stageTarget": "2_0",
+      "stageTutorial": "",
+      "chapterId": 1,
+      "id": 3
+    },
+    {
+      "stageAward": "1_300025_4",
+      "stageBlockPool": "101_5,102_10,103_4,104_2,105_2,106_3",
+      "stageSetting": "107_3_2,108_4_2,108_3_4,108_1_5",
+      "stageStory": "NONO也想录下好看的烟花发回赛尔看，最好是黄色烟花先绽放，然后再是红色烟花。",
+      "stageTarget": "2_1,1_2",
+      "stageTutorial": "tutorialDivBlock",
+      "chapterId": 2,
+      "id": 4
+    },
+    {
+      "stageAward": "1_2500003_1;1_2500005_2",
+      "stageBlockPool": "101_8,102_7,103_3,104_1,105_2,106_3",
+      "stageSetting": "107_3_2,108_5_1,108_5_2,108_1_4,108_4_4,108_5_4",
+      "stageStory": "这个已经记录好了，接下来NONO想先看到红色烟花，然后再是蓝色烟花。",
+      "stageTarget": "1_1,3_2",
+      "stageTutorial": "",
+      "chapterId": 2,
+      "id": 5
+    },
+    {
+      "stageAward": "1_2500005_2",
+      "stageBlockPool": "101_7,102_2,103_4,104_6,105_3,106_6",
+      "stageSetting": "107_4_2,107_2_4",
+      "stageStory": "听说你在承接烟花代燃的委托？那我想看到三种颜色的烟花，其中第二朵绽放的必须是红色烟花。",
+      "stageTarget": "1_2,2_0,3_0",
+      "stageTutorial": "",
+      "chapterId": 3,
+      "id": 6
+    },
+    {
+      "stageAward": "1_300405_1;1_2500005_1",
+      "stageBlockPool": "101_8,102_6,103_3,104_3,105_5,106_1",
+      "stageSetting": "107_3_3,107_3_4,108_1_1,108_6_4",
+      "stageStory": "还不赖嘛小家伙。那之后我想看到烟花按照蓝红黄的顺序绽放，你能做到吗？",
+      "stageTarget": "3_1,1_2,2_3",
+      "stageTutorial": "",
+      "chapterId": 3,
+      "id": 7
+    },
+    {
+      "stageAward": "1_300025_4",
+      "stageBlockPool": "101_7,102_6,103_4,104_4,105_4,106_0",
+      "stageSetting": "107_1_3,108_2_1,108_2_5,109_3_2,109_3_4",
+      "stageStory": "哦？没想到你就是承接烟花代燃的小后生。既然如此，我想见到黄色与蓝色的烟花依次绽放。",
+      "stageTarget": "2_1,3_2",
+      "stageTutorial": "tutorialDelayBlock",
+      "chapterId": 4,
+      "id": 8
+    },
+    {
+      "stageAward": "1_2500003_2",
+      "stageBlockPool": "101_5,102_5,103_4,104_3,105_5,106_2",
+      "stageSetting": "107_3_3,107_5_3,108_1_1,108_1_5,109_5_1,109_5_5",
+      "stageStory": "不赖嘛，我还想见到三色的烟花。头阵应是黄色，再以蓝色收尾。交给你了。",
+      "stageTarget": "2_1,1_2,3_3",
+      "stageTutorial": "",
+      "chapterId": 4,
+      "id": 9
+    },
+    {
+      "stageAward": "1_300405_1;1_2500005_1",
+      "stageBlockPool": "101_6,102_2,103_4,104_1,105_2,106_3",
+      "stageSetting": "107_1_3,108_1_1,108_2_1,108_1_5,108_2_5,108_6_2,108_6_4,109_4_1,109_4_2,109_4_3,109_4_4,109_4_5",
+      "stageStory": "正值团圆佳节，吾也甚有兴致。不妨引两朵烟花，以红蓝二色递进，作为开篇助兴。",
+      "stageTarget": "1_1,3_2",
+      "stageTutorial": "",
+      "chapterId": 5,
+      "id": 10
+    },
+    {
+      "stageAward": "1_2500003_2",
+      "stageBlockPool": "101_7,102_0,103_4,104_4,105_2,106_4",
+      "stageSetting": "107_1_3,107_2_4,107_4_2,107_4_3,107_5_4,109_3_1,109_3_3,109_6_1,109_6_3",
+      "stageStory": "甚好。吾欲观三色烟火，请依红、黄、蓝之序，依次点燃。",
+      "stageTarget": "1_1,2_2,3_3",
+      "stageTutorial": "",
+      "chapterId": 5,
+      "id": 11
+    }
+  ]
+}

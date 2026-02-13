@@ -599,6 +599,30 @@
       "id": 51,
       "moduleId": 766,
       "state": 1
+    },
+    {
+      "actionName": "过年集合",
+      "controller": "AutoOpenEveryLogin",
+      "endTime": "2026_02_27 10:00:00",
+      "param1": "SpringFestivalCollection",
+      "param2": "",
+      "param3": "pop",
+      "startTime": "2026_2_13 10:00:00",
+      "id": 52,
+      "moduleId": 786,
+      "state": 1
+    },
+    {
+      "actionName": "妙时天女",
+      "controller": "AutoOpenLocalOnce",
+      "endTime": "2026_03_06 10:00:00",
+      "param1": "TheFifthBuddhaSell",
+      "param2": "",
+      "param3": "pop",
+      "startTime": "2026_02_13 00:00:00",
+      "id": 53,
+      "moduleId": 804,
+      "state": 1
     }
   ]
 }

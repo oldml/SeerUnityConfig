@@ -1359,6 +1359,116 @@
       "id": 136,
       "scale": 1,
       "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "-87.5,-113.4",
+      "name": "春节纽斯",
+      "portrait": "news_spring_fg",
+      "CharacterID": 10002,
+      "id": 137,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "利牙鱼玩偶",
+      "portrait": "gangyasha_liyayu_fg",
+      "CharacterID": 10010,
+      "id": 138,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "利利玩偶",
+      "portrait": "cscjingling8_fg",
+      "CharacterID": 10011,
+      "id": 139,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "依依玩偶",
+      "portrait": "cscjingling1_fg",
+      "CharacterID": 10012,
+      "id": 140,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "果冻鸭玩偶",
+      "portrait": "cscjingling9_fg",
+      "CharacterID": 10013,
+      "id": 141,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "凯拉利玩偶",
+      "portrait": "cscjingling6_fg",
+      "CharacterID": 10014,
+      "id": 142,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "瑞克玩偶",
+      "portrait": "cscjingling4_fg",
+      "CharacterID": 10015,
+      "id": 143,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "吉宝玩偶",
+      "portrait": "cscjingling2_fg",
+      "CharacterID": 10016,
+      "id": 144,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "迪达玩偶",
+      "portrait": "dida_fg",
+      "CharacterID": 10017,
+      "id": 145,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "鲁克玩偶",
+      "portrait": "cscjingling7_fg",
+      "CharacterID": 10018,
+      "id": 146,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "神秘的花灯马",
+      "portrait": "cschuadeng_fg",
+      "CharacterID": 10019,
+      "id": 147,
+      "scale": 1,
+      "silhouette": 0
     }
   ]
 }

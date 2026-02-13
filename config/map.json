@@ -131,8 +131,8 @@
       "WildBossID": null,
       "WildBossPoint": null,
       "WildBossWeight": null,
-      "enterMap": 1,
-      "GroupID": 10103,
+      "enterMap": 0,
+      "GroupID": 0,
       "id": 2004,
       "MapRatio": 0,
       "pic": 1
@@ -16858,23 +16858,23 @@
       "Ename": "Destination Reached",
       "name": "传送舱",
       "notes": "新春版本",
-      "sound": "",
+      "sound": "BGM_158A",
       "NPCID": [
         304
       ],
       "NPCXYZ": [
-        350,
-        430
+        214,
+        369
       ],
       "PlayerXYZ": [
-        250,
-        270
+        608,
+        408
       ],
       "WildBossID": null,
       "WildBossPoint": null,
       "WildBossWeight": null,
-      "enterMap": 0,
-      "GroupID": 0,
+      "enterMap": 1,
+      "GroupID": 10103,
       "id": 2165,
       "MapRatio": 1,
       "pic": 2165

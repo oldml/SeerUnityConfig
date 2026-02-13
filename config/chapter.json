@@ -672,12 +672,12 @@
       "tagtype": 108,
       "tobe": 0,
       "type": 1,
-      "upstory": 1,
+      "upstory": 0,
       "writing": 1003
     },
     {
-      "bgm": "",
-      "chaptername": "烟火点星辰",
+      "bgm": "BGM_846",
+      "chaptername": "启星春",
       "enddate": "",
       "imagebg": "image4001_bg",
       "imagelist": "image4001_list",

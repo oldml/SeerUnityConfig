@@ -3679,10 +3679,65 @@
       "emoji": "chaofeng_01,chaofeng_02,chaofeng_03",
       "emojixy": "",
       "head": "",
-      "initialposition": "-50,100",
+      "initialposition": "-50,110",
       "name": "嘲风",
       "portrait": "chaofeng_fg",
       "id": 335,
+      "scale": 0.9
+    },
+    {
+      "CharacterID": "qiuniu",
+      "emoji": "qiuniu_01,qiuniu_02,qiuniu_03",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-50,-20",
+      "name": "囚牛",
+      "portrait": "qiuniu_fg",
+      "id": 336,
+      "scale": 1.1
+    },
+    {
+      "CharacterID": "chizhounan",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "赤洲人男",
+      "portrait": "chizhouNPC1_fg",
+      "id": 337,
+      "scale": 1
+    },
+    {
+      "CharacterID": "chizhounv",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "赤洲人女",
+      "portrait": "chizhouNPC2_fg",
+      "id": 338,
+      "scale": 1
+    },
+    {
+      "CharacterID": "tiannv",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "30,200",
+      "name": "妙时天女",
+      "portrait": "tiannvwhite_fg",
+      "id": 339,
+      "scale": 1
+    },
+    {
+      "CharacterID": "tianmu",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "30,130",
+      "name": "厉世天母",
+      "portrait": "tiannvblack_fg",
+      "id": 340,
       "scale": 1
     }
   ]

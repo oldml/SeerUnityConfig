@@ -4940,10 +4940,10 @@
     },
     {
       "name": "春节纽斯",
-      "pic": "10001",
-      "triggerinfo": "",
+      "pic": "10002",
+      "triggerinfo": "npc_springnews",
       "FuncParam": [
-        629
+        767
       ],
       "bit": 0,
       "FuncParamSpecial": 0,

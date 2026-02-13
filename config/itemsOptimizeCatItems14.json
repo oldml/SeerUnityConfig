@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "Name": "金币",
+      "Bean": 0,
+      "catID": 14,
+      "Hide": 1,
+      "ID": 1400168,
+      "Max": 999999,
+      "purpose": 0,
+      "Rarity": 2,
+      "Sort": 31,
+      "wd": 1
+    },
+    {
+      "Name": "螺丝",
+      "Bean": 0,
+      "catID": 14,
+      "Hide": 1,
+      "ID": 1400167,
+      "Max": 999,
+      "purpose": 0,
+      "Rarity": 2,
+      "Sort": 31,
+      "wd": 1
+    },
+    {
+      "Name": "弹簧",
+      "Bean": 0,
+      "catID": 14,
+      "Hide": 1,
+      "ID": 1400166,
+      "Max": 999,
+      "purpose": 0,
+      "Rarity": 2,
+      "Sort": 31,
+      "wd": 1
+    },
+    {
+      "Name": "齿轮",
+      "Bean": 0,
+      "catID": 14,
+      "Hide": 1,
+      "ID": 1400165,
+      "Max": 999,
+      "purpose": 0,
+      "Rarity": 2,
+      "Sort": 31,
+      "wd": 1
+    },
+    {
+      "Name": "木板",
+      "Bean": 0,
+      "catID": 14,
+      "Hide": 1,
+      "ID": 1400164,
+      "Max": 999,
+      "purpose": 0,
+      "Rarity": 2,
+      "Sort": 31,
+      "wd": 1
+    },
+    {
       "Name": "赛尔豆高仿版",
       "Bean": 0,
       "catID": 14,
@@ -8,7 +68,7 @@
       "ID": 1400163,
       "Max": 99999,
       "purpose": 0,
-      "Rarity": 1,
+      "Rarity": 2,
       "Sort": 31,
       "wd": 1
     },
@@ -20,7 +80,7 @@
       "ID": 1400162,
       "Max": 99999,
       "purpose": 0,
-      "Rarity": 1,
+      "Rarity": 2,
       "Sort": 31,
       "wd": 1
     },
@@ -32,7 +92,7 @@
       "ID": 1400161,
       "Max": 9999,
       "purpose": 0,
-      "Rarity": 1,
+      "Rarity": 2,
       "Sort": 31,
       "wd": 1
     },
@@ -44,7 +104,7 @@
       "ID": 1400160,
       "Max": 999,
       "purpose": 0,
-      "Rarity": 1,
+      "Rarity": 2,
       "Sort": 31,
       "wd": 1
     },
@@ -56,7 +116,7 @@
       "ID": 1400159,
       "Max": 99,
       "purpose": 0,
-      "Rarity": 1,
+      "Rarity": 2,
       "Sort": 31,
       "wd": 1
     },
@@ -68,7 +128,7 @@
       "ID": 1400158,
       "Max": 99,
       "purpose": 0,
-      "Rarity": 1,
+      "Rarity": 2,
       "Sort": 31,
       "wd": 1
     },
@@ -80,7 +140,7 @@
       "ID": 1400157,
       "Max": 99,
       "purpose": 0,
-      "Rarity": 1,
+      "Rarity": 2,
       "Sort": 31,
       "wd": 1
     },

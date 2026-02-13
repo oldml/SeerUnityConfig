@@ -460,6 +460,16 @@
         "price": 10,
         "productID": 200066,
         "vip": 1
+      },
+      {
+        "name": "购买【卡托娜的宝箱钥匙】",
+        "itemID": [
+          1727815
+        ],
+        "gold": 1,
+        "price": 6,
+        "productID": 200067,
+        "vip": 1
       }
     ]
   }

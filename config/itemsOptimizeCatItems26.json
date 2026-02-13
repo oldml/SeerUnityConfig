@@ -1,6 +1,28 @@
 {
   "items": [
     {
+      "Name": "赤洲龙子刻印自选β",
+      "catID": 26,
+      "ID": 2600054,
+      "Max": 9999,
+      "purpose": 1,
+      "Rarity": 5,
+      "Sort": 35,
+      "UseMax": 99,
+      "wd": 1
+    },
+    {
+      "Name": "赤洲龙子刻印自选α",
+      "catID": 26,
+      "ID": 2600053,
+      "Max": 9999,
+      "purpose": 1,
+      "Rarity": 5,
+      "Sort": 35,
+      "UseMax": 99,
+      "wd": 1
+    },
+    {
       "Name": "星际礼盒",
       "catID": 26,
       "ID": 2600052,

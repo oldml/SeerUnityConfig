@@ -1414,8 +1414,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4870,
-            "ImageID": 4870,
+            "ID": 4874,
+            "ImageID": 4874,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1425,21 +1425,21 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 796,
-            "ImageID": 1400796,
+            "ID": 4875,
+            "ImageID": 4875,
             "Label": 0,
-            "monID": 4361,
-            "type": 1
+            "monID": 0,
+            "type": 0
           },
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 797,
-            "ImageID": 1400797,
+            "ID": 805,
+            "ImageID": 1400805,
             "Label": 0,
-            "monID": 4216,
+            "monID": 4677,
             "type": 1
           }
         ]
@@ -30449,6 +30449,36 @@
         "Features": "潜藏于犹尔尼斯星的另一位黄金圣徒，康迪亚克毅然站在虫族的对立阵营，为其他族群争取生存的权益。然而，在他的内心深处，却还有另一番别样的盘算……",
         "Target": "153201/845",
         "ID": 4870
+      },
+      {
+        "DefName": "嘲风",
+        "Features": "性格急躁，好高骛远的龙之九子第三子，嘲风号船长。热衷于烟花爆竹和大摆宴席，别看她平时吊儿郎当的，但关键时刻值得信任。",
+        "Target": "150105",
+        "ID": 4871
+      },
+      {
+        "DefName": "妙时天女",
+        "Features": "来自“东之圈”星球赤洲星的大佛，拥有黑白两面。白面掌管吉时佳节的欢庆，是一位善神，黑面又称“厉世天母”，掌控祭祀与狂欢。",
+        "Target": "114042",
+        "ID": 4872
+      },
+      {
+        "DefName": "宵灵·午驹",
+        "Features": "赤洲星的吉祥物，龙船的领航员，虽然身兼重职，但可惜所有人都把她当小孩子看待。据说每一年都会变换样貌，很是奇妙。",
+        "Target": "114044",
+        "ID": 4873
+      },
+      {
+        "DefName": "瓏首",
+        "Features": "由古代赤洲方术和各项神秘技术制造的构造体，现作为龙船的大副或龙子的管家活动。其思考方式和行为逻辑类似于人工智能。",
+        "Target": "153201/849",
+        "ID": 4874
+      },
+      {
+        "DefName": "永烬劫炎·上古炎兽",
+        "Features": "炎魔之王在古老的火焰中淬炼自我，重拾本源的它将永不熄灭！",
+        "Target": "114043",
+        "ID": 4875
       }
     ],
     "RecMintmark": {

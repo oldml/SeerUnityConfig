@@ -12896,6 +12896,36 @@
         "petId": 4870
       },
       {
+        "moveName1": "天叩",
+        "moveName2": "千钧一发",
+        "moveId": 38272,
+        "petId": 4871
+      },
+      {
+        "moveName1": "万卍觉心",
+        "moveName2": "法界镇",
+        "moveId": 38275,
+        "petId": 4872
+      },
+      {
+        "moveName1": "绝招",
+        "moveName2": "马踏飞燕",
+        "moveId": 38278,
+        "petId": 4873
+      },
+      {
+        "moveName1": "啸风",
+        "moveName2": "穿云击",
+        "moveId": 38281,
+        "petId": 4874
+      },
+      {
+        "moveName1": "鏖火",
+        "moveName2": "证阳炎",
+        "moveId": 38284,
+        "petId": 4875
+      },
+      {
         "moveName1": "神灵",
         "moveName2": "救世光",
         "moveId": 31143,

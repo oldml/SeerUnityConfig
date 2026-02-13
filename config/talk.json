@@ -23152,101 +23152,137 @@
     {
       "answer": null,
       "deal": null,
-      "msg": "春节传送仓占位",
+      "msg": "依心像意！",
       "dir": 0,
       "groupId": 755,
       "id": 2257,
-      "npcId": 1
+      "npcId": 10012
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "春节传送仓占位",
+      "msg": "招财进宝！",
       "dir": 0,
       "groupId": 756,
       "id": 2258,
-      "npcId": 2
+      "npcId": 10016
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "春节传送仓占位",
+      "msg": "年年有余！",
       "dir": 0,
       "groupId": 757,
       "id": 2259,
-      "npcId": 3
+      "npcId": 10010
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "春节传送仓占位",
+      "msg": "凯旋而归！",
       "dir": 0,
       "groupId": 758,
       "id": 2260,
-      "npcId": 4
+      "npcId": 10014
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "春节传送仓占位",
+      "msg": "利路亨通！",
       "dir": 0,
       "groupId": 759,
       "id": 2261,
-      "npcId": 5
+      "npcId": 10011
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "春节传送仓占位",
+      "msg": "攻无不克！",
       "dir": 0,
       "groupId": 760,
       "id": 2262,
-      "npcId": 6
+      "npcId": 10018
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "春节传送仓占位",
+      "msg": "瑞气盈门！",
       "dir": 0,
       "groupId": 761,
       "id": 2263,
-      "npcId": 7
+      "npcId": 10015
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "春节传送仓占位",
+      "msg": "给我鸭岁钱啦！",
       "dir": 0,
       "groupId": 762,
       "id": 2264,
-      "npcId": 8
+      "npcId": 10013
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "春节传送仓占位",
+      "msg": "飞黄腾达！",
       "dir": 0,
       "groupId": 763,
       "id": 2265,
-      "npcId": 9
+      "npcId": 10017
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "春节传送仓占位",
+      "msg": "赛尔，你已经获得了所有新春玩偶的祝福，那么我再送你一份大礼吧。",
       "dir": 0,
       "groupId": 764,
       "id": 2266,
-      "npcId": 10
+      "npcId": 10019
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "春节传送仓占位",
+      "msg": "你今天已经摇了3次啦，明天再来吧~",
       "dir": 0,
       "groupId": 765,
       "id": 2267,
-      "npcId": 11
+      "npcId": 6006
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "真没想到你居然在这个小角落发现了我，来传送舱看看，我们在跨年时为你准备了一份惊喜！",
+      "dir": 0,
+      "groupId": 766,
+      "id": 2268,
+      "npcId": 10019
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "噢！我的老朋友，新年新气象，看看周围这喜气洋洋的新春玩偶们吧！手感真是绝佳！",
+      "dir": 0,
+      "groupId": 767,
+      "id": 2269,
+      "npcId": 10002
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "不知道迎新跨年那一刻，这些玩偶会发生什么变化呢？真是好期待啊！",
+      "dir": 0,
+      "groupId": 767,
+      "id": 2270,
+      "npcId": 10002
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "马年展宏图，策马踏新程，事业节节高，万事皆顺意。小赛尔们，纽斯在这里给大家拜年啦。",
+      "dir": 0,
+      "groupId": 768,
+      "id": 2271,
+      "npcId": 10002
     }
   ]
 }

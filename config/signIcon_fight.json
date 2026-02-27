@@ -4163,6 +4163,23 @@
         "sort": 1
       },
       {
+        "className": "*",
+        "dec": "暖雪",
+        "Des": "己方免疫受到的烧伤、焚烬、冻伤、冰封，免疫成功则减少50片",
+        "frame": null,
+        "NumDes": "剩余片数",
+        "spDes": null,
+        "SpDes": "",
+        "spicon": null,
+        "sptips": null,
+        "tips": "暖雪",
+        "id": 154,
+        "isShowNum": 1,
+        "showmonster": 0,
+        "showtime": 0,
+        "sort": 4
+      },
+      {
         "className": "SignBuffView_1000",
         "dec": "折叠icon",
         "Des": "",

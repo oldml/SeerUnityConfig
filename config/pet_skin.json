@@ -12411,7 +12411,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 14,
             "Type": 2,
             "Year": 0
           }
@@ -14294,8 +14294,8 @@
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "暗渊之灾·洛基",
         "SkinKind": [
           {
@@ -14307,13 +14307,13 @@
           }
         ],
         "ID": 796,
-        "Jumptarget": 114040,
+        "Jumptarget": 0,
         "MonID": 4361,
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "悠然假日·拉克希斯",
         "SkinKind": [
           {
@@ -14325,7 +14325,7 @@
           }
         ],
         "ID": 797,
-        "Jumptarget": 2,
+        "Jumptarget": 0,
         "MonID": 4216,
         "Type": 3
       },
@@ -14472,6 +14472,42 @@
         "Jumptarget": 114048,
         "MonID": 4677,
         "Type": 18
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "镇邪纳瑞·列奥尼达",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 14,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 806,
+        "Jumptarget": 114049,
+        "MonID": 4125,
+        "Type": 7
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "上古炎兽",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 807,
+        "Jumptarget": 2,
+        "MonID": 4875,
+        "Type": 0
       }
     ]
   }

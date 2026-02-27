@@ -274,8 +274,8 @@
     },
     {
       "args": "",
-      "beginning": "2026_02_06 10:00:00",
-      "ending": "2026_02_27 10:00:00",
+      "beginning": "2026_02_27 10:00:00",
+      "ending": "2026_03_13 10:00:00",
       "labelName": "兑钻奖励",
       "name": "ExchangeDiamond",
       "channel": 0,
@@ -286,7 +286,7 @@
       "isShow": 1,
       "redbadge": 7,
       "signType": 0,
-      "sorting": 12,
+      "sorting": 15,
       "type": 1
     },
     {
@@ -422,7 +422,7 @@
       "isShow": 1,
       "redbadge": 12,
       "signType": 1,
-      "sorting": 5,
+      "sorting": 10,
       "type": 1
     },
     {
@@ -512,8 +512,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_12_12 10:00:00",
-      "ending": "2025_12_26 10:00:00",
+      "beginning": "2026_02_27 10:00:00",
+      "ending": "2026_03_13 10:00:00",
       "labelName": "皮肤商城更新",
       "name": "Skinshop0403Panel",
       "channel": 0,
@@ -524,7 +524,7 @@
       "isShow": 1,
       "redbadge": 0,
       "signType": 1,
-      "sorting": 8,
+      "sorting": 6,
       "type": 1
     },
     {
@@ -1935,7 +1935,7 @@
       "isShow": 1,
       "redbadge": 148,
       "signType": 1,
-      "sorting": 2,
+      "sorting": 9,
       "type": 1
     },
     {
@@ -2399,8 +2399,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_08_22 10:00:00",
-      "ending": "2025_09_05 10:00:00",
+      "beginning": "2026_02_27 10:00:00",
+      "ending": "2026_03_13 10:00:00",
       "labelName": "战队BOSS",
       "name": "teamBossActivityCenter",
       "channel": 0,
@@ -2411,13 +2411,13 @@
       "isShow": 1,
       "redbadge": 88,
       "signType": 1,
-      "sorting": 10,
+      "sorting": 7,
       "type": 1
     },
     {
       "args": "",
-      "beginning": "2025_08_22 10:00:00",
-      "ending": "2025_09_05 10:00:00",
+      "beginning": "2026_02_27 10:00:00",
+      "ending": "2026_03_13 10:00:00",
       "labelName": "战队军需官",
       "name": "teamTraderActivityCenter",
       "channel": 0,
@@ -2428,7 +2428,7 @@
       "isShow": 1,
       "redbadge": 89,
       "signType": 2,
-      "sorting": 11,
+      "sorting": 7,
       "type": 1
     },
     {
@@ -4757,7 +4757,7 @@
       "isShow": 1,
       "redbadge": 150323,
       "signType": 0,
-      "sorting": 8,
+      "sorting": 9,
       "type": 1
     },
     {
@@ -4830,8 +4830,8 @@
     },
     {
       "args": "Assets/Game/UI/markWheel/markWheelPromotionPanel.prefab",
-      "beginning": "",
-      "ending": "",
+      "beginning": "2026_02_06 10:00:00",
+      "ending": "2026_02_27 10:00:00",
       "labelName": "刻印之轮更新",
       "name": "markWheelPromotionPanel",
       "channel": 0,
@@ -4859,7 +4859,7 @@
       "isShow": 1,
       "redbadge": 204,
       "signType": 0,
-      "sorting": 7,
+      "sorting": 8,
       "type": 1
     },
     {
@@ -4882,7 +4882,7 @@
     {
       "args": "Assets/Game/UI/redEnvelopeCover2026Panel/redEnvelopeCover2026Panel.prefab",
       "beginning": "2026_02_06 10:00:00",
-      "ending": "2026_03_06 10:00:00",
+      "ending": "2026_02_27 10:00:00",
       "labelName": "新春红包",
       "name": "redEnvelopeCover2026Panel",
       "channel": 0,
@@ -5235,6 +5235,91 @@
       "signType": 0,
       "sorting": 9,
       "type": 8
+    },
+    {
+      "args": "",
+      "beginning": "2026_02_27 10:00:00",
+      "ending": "2026_03_06 10:00:00",
+      "labelName": "元宵跃龙门",
+      "name": "clickspeedActivity",
+      "channel": 0,
+      "Go": 816,
+      "helptips": 0,
+      "id": 324,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 219,
+      "signType": 0,
+      "sorting": 2,
+      "type": 1
+    },
+    {
+      "args": "Assets/Game/UI/fireworkquest_show/fireworkquest_show.prefab",
+      "beginning": "2026_02_27 10:00:00",
+      "ending": "2026_03_06 10:00:00",
+      "labelName": "烟花委托",
+      "name": "fireworkquest",
+      "channel": 0,
+      "Go": 445,
+      "helptips": 0,
+      "id": 325,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 0,
+      "signType": 0,
+      "sorting": 1,
+      "type": 1
+    },
+    {
+      "args": "",
+      "beginning": "2026_02_27 10:00:00",
+      "ending": "2026_03_13 10:00:00",
+      "labelName": "新春橱窗",
+      "name": "springSkinSell",
+      "channel": 0,
+      "Go": 817,
+      "helptips": 400,
+      "id": 326,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 0,
+      "signType": 0,
+      "sorting": 4,
+      "type": 1
+    },
+    {
+      "args": "",
+      "beginning": "2026_02_27 10:00:00",
+      "ending": "2026_03_13 10:00:00",
+      "labelName": "镇邪纳瑞",
+      "name": "lieaonidaSkinSell",
+      "channel": 0,
+      "Go": 815,
+      "helptips": 399,
+      "id": 327,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 220,
+      "signType": 0,
+      "sorting": 5,
+      "type": 1
+    },
+    {
+      "args": "",
+      "beginning": "2026_02_27 10:00:00",
+      "ending": "2026_03_06 10:00:00",
+      "labelName": "元宵灯会",
+      "name": "lanternRiddles",
+      "channel": 0,
+      "Go": 814,
+      "helptips": 0,
+      "id": 328,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 342024,
+      "signType": 0,
+      "sorting": 3,
+      "type": 1
     }
   ]
 }

@@ -16929,12 +16929,15 @@
     {
       "DeviceID": "",
       "Ename": "Destination Reached",
-      "name": "薇星林海占位",
+      "name": "化乐天林海",
       "notes": "",
       "sound": "",
       "NPCID": null,
       "NPCXYZ": null,
-      "PlayerXYZ": null,
+      "PlayerXYZ": [
+        240,
+        380
+      ],
       "WildBossID": null,
       "WildBossPoint": null,
       "WildBossWeight": null,

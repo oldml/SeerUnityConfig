@@ -3739,6 +3739,50 @@
       "portrait": "tiannvblack_fg",
       "id": 340,
       "scale": 1
+    },
+    {
+      "CharacterID": "dwsmw",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,170",
+      "name": "大威势明王",
+      "portrait": "dwsmw_fg",
+      "id": 341,
+      "scale": 0.9
+    },
+    {
+      "CharacterID": "dlmw",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,130",
+      "name": "大轮明王",
+      "portrait": "dlmw_fg",
+      "id": 342,
+      "scale": 0.9
+    },
+    {
+      "CharacterID": "dtzf",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,100",
+      "name": "帝天战佛",
+      "portrait": "dtzf_fg",
+      "id": 343,
+      "scale": 0.9
+    },
+    {
+      "CharacterID": "yxlz",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,200",
+      "name": "御象灵尊",
+      "portrait": "yxlz_fg",
+      "id": 344,
+      "scale": 0.9
     }
   ]
 }

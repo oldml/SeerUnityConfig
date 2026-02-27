@@ -1414,8 +1414,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4874,
-            "ImageID": 4874,
+            "ID": 4876,
+            "ImageID": 4876,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1425,8 +1425,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4875,
-            "ImageID": 4875,
+            "ID": 4877,
+            "ImageID": 4877,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1436,10 +1436,32 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 805,
-            "ImageID": 1400805,
+            "ID": 4878,
+            "ImageID": 4878,
             "Label": 0,
-            "monID": 4677,
+            "monID": 0,
+            "type": 0
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "Redirect": "module",
+            "Mintmark": null,
+            "ID": 806,
+            "ImageID": 1400806,
+            "Label": 0,
+            "monID": 4125,
+            "type": 1
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "Redirect": "module",
+            "Mintmark": null,
+            "ID": 807,
+            "ImageID": 1400807,
+            "Label": 0,
+            "monID": 4875,
             "type": 1
           }
         ]
@@ -30479,6 +30501,24 @@
         "Features": "炎魔之王在古老的火焰中淬炼自我，重拾本源的它将永不熄灭！",
         "Target": "114043",
         "ID": 4875
+      },
+      {
+        "DefName": "方术·悠悠",
+        "Features": "受囚牛法术点醒而发生变化的悠悠，不知为何获得了强大的方术能力，且说话也有了几分赤洲人的味道，不仅如此，还受到了大佛妙时天女的庇护。",
+        "Target": "153201/850",
+        "ID": 4876
+      },
+      {
+        "DefName": "锢魂铁犀",
+        "Features": "濒死的犀牛被改造了无坚不摧的兵器，失去对自我控制的它对战队总部发起了进攻！",
+        "Target": "113037",
+        "ID": 4877
+      },
+      {
+        "DefName": "灯珑鱼",
+        "Features": "出现在元宵节的神秘精灵，据说答对灯谜最多的赛尔可以吸引它的注意力哟！",
+        "Target": "420002",
+        "ID": 4878
       }
     ],
     "RecMintmark": {

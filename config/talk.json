@@ -23283,6 +23283,339 @@
       "groupId": 768,
       "id": 2271,
       "npcId": 10002
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "拾取苏摩果对话1",
+      "dir": 0,
+      "groupId": 769,
+      "id": 2272,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "拾取苏摩果对话2",
+      "dir": 0,
+      "groupId": 770,
+      "id": 2273,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "拾取苏摩果对话3",
+      "dir": 0,
+      "groupId": 771,
+      "id": 2274,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "阿拿拿首次对话",
+      "dir": 0,
+      "groupId": 771,
+      "id": 2275,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "阿拿拿首次对话",
+      "dir": 0,
+      "groupId": 771,
+      "id": 2276,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "阿拿拿首次对话",
+      "dir": 0,
+      "groupId": 771,
+      "id": 2277,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "阿拿拿首次对话",
+      "dir": 0,
+      "groupId": 771,
+      "id": 2278,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "阿拿拿招呼对话",
+      "dir": 0,
+      "groupId": 772,
+      "id": 2279,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "阿拿拿招呼对话",
+      "dir": 0,
+      "groupId": 772,
+      "id": 2280,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "阿拿拿招呼对话",
+      "dir": 0,
+      "groupId": 772,
+      "id": 2281,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "阿拿拿招呼对话",
+      "dir": 0,
+      "groupId": 772,
+      "id": 2282,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "交付对话",
+      "dir": 0,
+      "groupId": 773,
+      "id": 2283,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "交付对话",
+      "dir": 0,
+      "groupId": 773,
+      "id": 2284,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "无道具对话",
+      "dir": 0,
+      "groupId": 774,
+      "id": 2285,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "交付成功对话1",
+      "dir": 0,
+      "groupId": 775,
+      "id": 2286,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "交付成功对话2",
+      "dir": 0,
+      "groupId": 776,
+      "id": 2287,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "交付成功对话3",
+      "dir": 0,
+      "groupId": 777,
+      "id": 2288,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "交付成功对话4",
+      "dir": 0,
+      "groupId": 778,
+      "id": 2289,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "交付成功对话5",
+      "dir": 0,
+      "groupId": 779,
+      "id": 2290,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "交付成功对话6",
+      "dir": 0,
+      "groupId": 780,
+      "id": 2291,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "交付成功对话7",
+      "dir": 0,
+      "groupId": 781,
+      "id": 2292,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "小精灵受伤了，怎么帮助它？",
+      "dir": 0,
+      "groupId": 782,
+      "id": 2293,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "机器人愿意提供一块金属片帮你舀水",
+      "dir": 0,
+      "groupId": 783,
+      "id": 2294,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "没有舀水工具，无法舀水",
+      "dir": 0,
+      "groupId": 784,
+      "id": 2295,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "现在有舀水工具了，去泉水那吧",
+      "dir": 0,
+      "groupId": 785,
+      "id": 2296,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "在苏摩泉里舀了水",
+      "dir": 0,
+      "groupId": 786,
+      "id": 2297,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "用水治疗了精灵",
+      "dir": 0,
+      "groupId": 787,
+      "id": 2298,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你现在接了水了，去医治精灵",
+      "dir": 0,
+      "groupId": 788,
+      "id": 2299,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "金属片里已经盛了水了",
+      "dir": 0,
+      "groupId": 789,
+      "id": 2300,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "归还金属片",
+      "dir": 0,
+      "groupId": 790,
+      "id": 2301,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "水声让人很安心",
+      "dir": 0,
+      "groupId": 791,
+      "id": 2302,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "水晶故事1",
+      "dir": 0,
+      "groupId": 792,
+      "id": 2303,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "水晶故事2",
+      "dir": 0,
+      "groupId": 793,
+      "id": 2304,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "水晶故事3",
+      "dir": 0,
+      "groupId": 794,
+      "id": 2305,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "门禁对话1",
+      "dir": 0,
+      "groupId": 795,
+      "id": 2306,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "门禁对话2",
+      "dir": 0,
+      "groupId": 796,
+      "id": 2307,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "自动触发门禁对话",
+      "dir": 0,
+      "groupId": 797,
+      "id": 2308,
+      "npcId": 1
     }
   ]
 }

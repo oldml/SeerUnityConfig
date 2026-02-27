@@ -1745,7 +1745,7 @@
       },
       {
         "itemname": "堕妖面",
-        "movesname": "逝面真唁",
+        "movesname": "万妖挽",
         "id": 99,
         "item": 1727668,
         "itemnumber": 1,
@@ -1802,6 +1802,56 @@
         "monster": 4863,
         "moves": 38261,
         "movetype": 1
+      },
+      {
+        "itemname": "斑驳之骨",
+        "movesname": "神威浩荡",
+        "id": 105,
+        "item": 1727839,
+        "itemnumber": 1,
+        "monster": 3442,
+        "moves": 29283,
+        "movetype": 2
+      },
+      {
+        "itemname": "无面之疚",
+        "movesname": "神谕净世",
+        "id": 106,
+        "item": 1727840,
+        "itemnumber": 1,
+        "monster": 3446,
+        "moves": 29284,
+        "movetype": 2
+      },
+      {
+        "itemname": "霜焱之谛",
+        "movesname": "日月轮·着天",
+        "id": 107,
+        "item": 1727841,
+        "itemnumber": 1,
+        "monster": 4657,
+        "moves": 38296,
+        "movetype": 1
+      },
+      {
+        "itemname": "死海之锢",
+        "movesname": "炼·死镜冥啼",
+        "id": 108,
+        "item": 1727842,
+        "itemnumber": 1,
+        "monster": 3907,
+        "moves": 38295,
+        "movetype": 1
+      },
+      {
+        "itemname": "地葬神颂",
+        "movesname": "苍笼尘井",
+        "id": 109,
+        "item": 1727843,
+        "itemnumber": 1,
+        "monster": 4024,
+        "moves": 38294,
+        "movetype": 2
       }
     ]
   }

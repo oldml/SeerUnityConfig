@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "Name": "锢魂铁犀因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400557,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "方术·悠悠因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400556,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "瓏首因子",
       "catID": 24,
       "Hide": 0,

@@ -4711,6 +4711,48 @@
       "currAppDo": 1,
       "id": 813,
       "isFullScreen": 1
+    },
+    {
+      "moduleName": "lanternRiddles1",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 814,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "lieaonidaSkinSell",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 815,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "clickspeedActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 816,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "springSkinSell",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 817,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "hunDunAiLan",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 818,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "hunDunAiLan",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 819,
+      "isFullScreen": 1
     }
   ]
 }

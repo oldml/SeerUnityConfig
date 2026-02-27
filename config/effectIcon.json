@@ -54170,6 +54170,83 @@
         "target": 0,
         "to": 0,
         "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身1号、3号位技能命中后自身获得200点[color=#57c975]护盾[/color]并令对手随机3项能力等级-1；自身2号、4号位技能命中后为自身恢复200点体力并令自身随机3项能力等级+1|[sprite name=dot4][color=#57c975]回合开始时[/color]，若双方能力提升等级之和不小于能力下降等级之和，为双方附加双方能力提升等级之和*15的[color=#57c975]护盾[/color]；若双方能力提升等级之和不大于能力下降等级之和，为双方附加双方能力下降等级之和*15的[color=#57c975]护罩[/color]",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身1号、3号位技能命中后自身获得200点护盾并令对手随机3项能力等级-1；自身2号、4号位技能命中后为自身恢复200点体力并令自身随机3项能力等级+1|回合开始时，若双方能力提升等级之和不小于能力下降等级之和，为双方附加双方能力提升等级之和*15的护盾；若双方能力提升等级之和不大于能力下降等级之和，为双方附加双方能力下降等级之和*15的护罩|（boss无效）",
+        "kind": [
+          2,
+          11
+        ],
+        "petId": [
+          4876
+        ],
+        "specificId": null,
+        "effectId": 2485,
+        "iconId": 2063,
+        "Id": 2063,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]回合开始[/color]时，若自身体力高于对手，则[color=#52a5f2][color=#52a5f2][color=#52a5f2]当回合[/color][/color][/color]自身攻击技能命中时消耗30%的体力并附加自身最大体力30%的[color=#52a5f2]百分比伤害[/color]且[color=#57c975]回合结束时[/color]获得等同于自身体力与[color=#57c975]回合开始时[/color]差值的[color=#57c975]护盾[/color]",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "回合开始时，若自身体力高于对手，则当回合自身攻击技能命中时消耗30%的体力并附加自身最大体力30%的百分比伤害且回合结束时获得等同于自身体力与回合开始时差值的护盾|（boss无效）",
+        "kind": [
+          14,
+          2
+        ],
+        "petId": [
+          4877
+        ],
+        "specificId": null,
+        "effectId": 2484,
+        "iconId": 2064,
+        "Id": 2064,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身位于出战背包时，[color=#52a5f2]己方[/color]免疫受到的[color=#57c975]失明[/color]",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身位于出战背包时，己方免疫受到的失明状态|（boss无效）",
+        "kind": [
+          7
+        ],
+        "petId": [
+          4878
+        ],
+        "specificId": null,
+        "effectId": 2483,
+        "iconId": 2065,
+        "Id": 2065,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
       }
     ]
   }

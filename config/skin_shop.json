@@ -2321,9 +2321,9 @@
           "Name": "闪耀之光·神圣龙鹰",
           "Show": [
             3,
-            17
+            35
           ],
-          "Batch": 18,
+          "Batch": 36,
           "CardPrice": 15,
           "DiamondPrice": 0,
           "ID": 155,
@@ -2519,14 +2519,14 @@
           "Name": "西楚天皇·项羽",
           "Show": [
             3,
-            18
+            35
           ],
-          "Batch": 19,
-          "CardPrice": 10,
+          "Batch": 36,
+          "CardPrice": 15,
           "DiamondPrice": 0,
           "ID": 168,
           "MonID": 3164,
-          "OriginalPrice": 20,
+          "OriginalPrice": 30,
           "ProductId": 0,
           "Rec": 0,
           "SkinID": 1400168
@@ -3405,14 +3405,14 @@
           "Name": "少年豪杰·项羽",
           "Show": [
             3,
-            18
+            35
           ],
-          "Batch": 19,
-          "CardPrice": 10,
+          "Batch": 36,
+          "CardPrice": 15,
           "DiamondPrice": 0,
           "ID": 226,
           "MonID": 3564,
-          "OriginalPrice": 20,
+          "OriginalPrice": 30,
           "ProductId": 0,
           "Rec": 0,
           "SkinID": 1400226
@@ -4274,9 +4274,9 @@
           "Name": "凝脂白玉·蓝露",
           "Show": [
             3,
-            14
+            35
           ],
-          "Batch": 15,
+          "Batch": 36,
           "CardPrice": 10,
           "DiamondPrice": 0,
           "ID": 283,
@@ -6514,9 +6514,9 @@
           "Name": "破灭之拥·幻影蝶",
           "Show": [
             3,
-            19
+            35
           ],
-          "Batch": 0,
+          "Batch": 36,
           "CardPrice": 35,
           "DiamondPrice": 0,
           "ID": 429,
@@ -6650,10 +6650,10 @@
         {
           "Name": "英卡洛斯",
           "Show": [
-            0
+            1
           ],
-          "Batch": 0,
-          "CardPrice": 0,
+          "Batch": 36,
+          "CardPrice": 20,
           "DiamondPrice": 0,
           "ID": 438,
           "MonID": 3577,
@@ -7829,10 +7829,10 @@
         {
           "Name": "王·萨格罗斯",
           "Show": [
-            0
+            1
           ],
-          "Batch": 0,
-          "CardPrice": 0,
+          "Batch": 36,
+          "CardPrice": 15,
           "DiamondPrice": 0,
           "ID": 515,
           "MonID": 3328,
@@ -8045,10 +8045,10 @@
         {
           "Name": "奥兰",
           "Show": [
-            0
+            1
           ],
-          "Batch": 0,
-          "CardPrice": 0,
+          "Batch": 36,
+          "CardPrice": 10,
           "DiamondPrice": 0,
           "ID": 529,
           "MonID": 3515,
@@ -8364,10 +8364,10 @@
         {
           "Name": "波西利亚",
           "Show": [
-            0
+            1
           ],
-          "Batch": 0,
-          "CardPrice": 0,
+          "Batch": 36,
+          "CardPrice": 10,
           "DiamondPrice": 0,
           "ID": 550,
           "MonID": 3783,
@@ -8593,10 +8593,10 @@
         {
           "Name": "迹",
           "Show": [
-            0
+            1
           ],
-          "Batch": 0,
-          "CardPrice": 0,
+          "Batch": 36,
+          "CardPrice": 10,
           "DiamondPrice": 0,
           "ID": 565,
           "MonID": 4532,
@@ -10366,10 +10366,10 @@
         {
           "Name": "冬梦使者·明德里奇",
           "Show": [
-            0
+            2
           ],
-          "Batch": 0,
-          "CardPrice": 0,
+          "Batch": 36,
+          "CardPrice": 15,
           "DiamondPrice": 0,
           "ID": 681,
           "MonID": 4693,
@@ -10624,14 +10624,15 @@
         {
           "Name": "创世之子",
           "Show": [
-            0
+            3,
+            35
           ],
-          "Batch": 0,
-          "CardPrice": 0,
+          "Batch": 36,
+          "CardPrice": 40,
           "DiamondPrice": 0,
           "ID": 698,
           "MonID": 4355,
-          "OriginalPrice": 0,
+          "OriginalPrice": 50,
           "ProductId": 0,
           "Rec": 0,
           "SkinID": 1400698
@@ -10669,10 +10670,11 @@
         {
           "Name": "七天创世神·闪光皮神",
           "Show": [
-            0
+            3,
+            35
           ],
-          "Batch": 0,
-          "CardPrice": 0,
+          "Batch": 36,
+          "CardPrice": 40,
           "DiamondPrice": 0,
           "ID": 701,
           "MonID": 4732,
@@ -10699,10 +10701,11 @@
         {
           "Name": "海洋幻想·沧岚",
           "Show": [
-            0
+            3,
+            35
           ],
-          "Batch": 0,
-          "CardPrice": 0,
+          "Batch": 36,
+          "CardPrice": 50,
           "DiamondPrice": 0,
           "ID": 703,
           "MonID": 3740,
@@ -10775,14 +10778,15 @@
         {
           "Name": "凛夜狩心·阿尔忒弥斯",
           "Show": [
-            0
+            3,
+            35
           ],
-          "Batch": 0,
-          "CardPrice": 0,
+          "Batch": 36,
+          "CardPrice": 45,
           "DiamondPrice": 0,
           "ID": 708,
           "MonID": 4745,
-          "OriginalPrice": 0,
+          "OriginalPrice": 50,
           "ProductId": 0,
           "Rec": 0,
           "SkinID": 1400708
@@ -10850,14 +10854,15 @@
         {
           "Name": "幻境诡术·杰格",
           "Show": [
-            0
+            3,
+            35
           ],
-          "Batch": 0,
-          "CardPrice": 0,
+          "Batch": 36,
+          "CardPrice": 40,
           "DiamondPrice": 0,
           "ID": 713,
           "MonID": 4568,
-          "OriginalPrice": 0,
+          "OriginalPrice": 50,
           "ProductId": 0,
           "Rec": 0,
           "SkinID": 1400713
@@ -11465,10 +11470,10 @@
         {
           "Name": "汐梦·安卡",
           "Show": [
-            0
+            2
           ],
-          "Batch": 0,
-          "CardPrice": 0,
+          "Batch": 36,
+          "CardPrice": 20,
           "DiamondPrice": 0,
           "ID": 754,
           "MonID": 4219,

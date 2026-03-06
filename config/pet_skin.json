@@ -14508,6 +14508,42 @@
         "Jumptarget": 2,
         "MonID": 4875,
         "Type": 0
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "风纪监察·希拓",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 808,
+        "Jumptarget": 114053,
+        "MonID": 4622,
+        "Type": 9
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "文墨风吟·伊芙",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 809,
+        "Jumptarget": 114054,
+        "MonID": 4816,
+        "Type": 9
       }
     ]
   }

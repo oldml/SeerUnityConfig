@@ -12956,6 +12956,24 @@
         "petId": 4657
       },
       {
+        "moveName1": "烁光",
+        "moveName2": "灼目波",
+        "moveId": 38299,
+        "petId": 4879
+      },
+      {
+        "moveName1": "光耀",
+        "moveName2": "破阵冲",
+        "moveId": 38302,
+        "petId": 4880
+      },
+      {
+        "moveName1": "烈爪",
+        "moveName2": "猛袭",
+        "moveId": 38305,
+        "petId": 4881
+      },
+      {
         "moveName1": "神灵",
         "moveName2": "救世光",
         "moveId": 31143,

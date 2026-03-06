@@ -236873,6 +236873,206 @@
         "price": 5,
         "productID": 262268,
         "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得精灵【阿塔塔】",
+        "itemID": [
+          1727851
+        ],
+        "price": 598,
+        "productID": 262269,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买每日挑战次数（阿塔塔）",
+        "itemID": [
+          1727852
+        ],
+        "price": 30,
+        "productID": 262270,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡简单关卡（阿塔塔）",
+        "itemID": [
+          1727853
+        ],
+        "price": 20,
+        "productID": 262271,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡困难关卡（阿塔塔）",
+        "itemID": [
+          1727854
+        ],
+        "price": 30,
+        "productID": 262272,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡地狱关卡（阿塔塔）",
+        "itemID": [
+          1727855
+        ],
+        "price": 40,
+        "productID": 262273,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买获得阿塔塔因子",
+        "itemID": [
+          1727856
+        ],
+        "price": 2,
+        "productID": 262274,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买精灵【阿尔法熊】",
+        "itemID": [
+          1727860
+        ],
+        "price": 148,
+        "productID": 262275,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "强化阿尔法熊特性",
+        "itemID": [
+          1727861
+        ],
+        "price": 60,
+        "productID": 262276,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "首周特惠购买巅峰赛季限定精灵",
+        "itemID": [
+          1727862
+        ],
+        "price": 598,
+        "productID": 262277,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买巅峰赛季限定精灵",
+        "itemID": [
+          1727863
+        ],
+        "price": 798,
+        "productID": 262278,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "首周特惠购买巅峰赛季限定皮肤",
+        "itemID": [
+          1727864
+        ],
+        "price": 298,
+        "productID": 262279,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买巅峰赛季限定皮肤",
+        "itemID": [
+          1727865
+        ],
+        "price": 398,
+        "productID": 262280,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买游戏次数",
+        "itemID": [
+          1727866
+        ],
+        "price": 10,
+        "productID": 262281,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买【风纪监察】皮肤",
+        "itemID": [
+          1727867
+        ],
+        "price": 398,
+        "productID": 262282,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "首周特惠购买918个巅峰赛季限定精灵因子",
+        "itemID": [
+          1727868
+        ],
+        "price": 598,
+        "productID": 262283,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买918个巅峰赛季限定精灵因子",
+        "itemID": [
+          1727869
+        ],
+        "price": 798,
+        "productID": 262284,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买茵茵因子",
+        "itemID": [
+          1727870
+        ],
+        "price": 1,
+        "productID": 262285,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买希拓因子",
+        "itemID": [
+          1727871
+        ],
+        "price": 1,
+        "productID": 262286,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买鲸沫因子",
+        "itemID": [
+          1727872
+        ],
+        "price": 1,
+        "productID": 262287,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买云盈因子",
+        "itemID": [
+          1727873
+        ],
+        "price": 1,
+        "productID": 262288,
+        "vip": 1
       }
     ]
   }

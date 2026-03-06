@@ -1414,8 +1414,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4876,
-            "ImageID": 4876,
+            "ID": 4879,
+            "ImageID": 4879,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1425,8 +1425,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4877,
-            "ImageID": 4877,
+            "ID": 4880,
+            "ImageID": 4880,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1436,8 +1436,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4878,
-            "ImageID": 4878,
+            "ID": 4881,
+            "ImageID": 4881,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1447,10 +1447,10 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 806,
-            "ImageID": 1400806,
+            "ID": 808,
+            "ImageID": 1400808,
             "Label": 0,
-            "monID": 4125,
+            "monID": 4622,
             "type": 1
           },
           {
@@ -1458,10 +1458,10 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 807,
-            "ImageID": 1400807,
+            "ID": 809,
+            "ImageID": 1400809,
             "Label": 0,
-            "monID": 4875,
+            "monID": 4816,
             "type": 1
           }
         ]
@@ -21811,7 +21811,7 @@
       {
         "DefName": "埃兰",
         "Features": "混沌领军者，掌握着强大的战斗力量，拥有超凡的战斗技巧！",
-        "Target": "",
+        "Target": "150107",
         "ID": 3417
       },
       {
@@ -21961,7 +21961,7 @@
       {
         "DefName": "混沌埃兰",
         "Features": "埃兰的超进化形态，得到了魔君混沌之力的领军者，混沌教派的强大统帅，号称混沌之手！",
-        "Target": "",
+        "Target": "150106",
         "ID": 3442
       },
       {
@@ -24745,7 +24745,7 @@
       {
         "DefName": "阿尔法熊",
         "Features": "电影同款神宠，芯片上搭载着最先进的战斗系统，攻可破防可守，战场中的狂野猛兽！",
-        "Target": "",
+        "Target": "114051",
         "ID": 3912
       },
       {
@@ -30519,6 +30519,24 @@
         "Features": "出现在元宵节的神秘精灵，据说答对灯谜最多的赛尔可以吸引它的注意力哟！",
         "Target": "420002",
         "ID": 4878
+      },
+      {
+        "DefName": "阿塔塔",
+        "Features": "阿塔塔是生活在化乐天林海的小精灵，性格内敛却又直率，拥有虫族基因的它，总是习惯陪伴在伙伴们的左右。",
+        "Target": "153201/858",
+        "ID": 4879
+      },
+      {
+        "DefName": "洛欧蒂",
+        "Features": "2026年包月精灵，万象录之《守卫家园之人》。他在过去是戍守一方的军人，身披荣耀成为仪卫队的一员。他即是那个时代的风貌象征，也是文明弥留之际最后的见证。",
+        "Target": "121000",
+        "ID": 4880
+      },
+      {
+        "DefName": "阿拿拿",
+        "Features": "阿拿拿平时生活在化乐天林海的树洞里，大家都说她性格有点古怪，但不管有什么事都能找她打听，真是个奇怪的小精灵。",
+        "Target": "400020",
+        "ID": 4881
       }
     ],
     "RecMintmark": {

@@ -131,7 +131,7 @@
       "WildBossID": null,
       "WildBossPoint": null,
       "WildBossWeight": null,
-      "enterMap": 0,
+      "enterMap": 1,
       "GroupID": 0,
       "id": 2004,
       "MapRatio": 0,
@@ -16873,7 +16873,7 @@
       "WildBossID": null,
       "WildBossPoint": null,
       "WildBossWeight": null,
-      "enterMap": 1,
+      "enterMap": 0,
       "GroupID": 10103,
       "id": 2165,
       "MapRatio": 1,
@@ -16931,12 +16931,12 @@
       "Ename": "Destination Reached",
       "name": "化乐天林海",
       "notes": "",
-      "sound": "",
+      "sound": "2026wil_01",
       "NPCID": null,
       "NPCXYZ": null,
       "PlayerXYZ": [
-        240,
-        380
+        400,
+        900
       ],
       "WildBossID": null,
       "WildBossPoint": null,
@@ -16946,6 +16946,27 @@
       "id": 2168,
       "MapRatio": 1,
       "pic": 2168
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "自在天飞船",
+      "notes": "",
+      "sound": "2026wil_01",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": [
+        340,
+        430
+      ],
+      "WildBossID": null,
+      "WildBossPoint": null,
+      "WildBossWeight": null,
+      "enterMap": 0,
+      "GroupID": 22003,
+      "id": 2169,
+      "MapRatio": 1,
+      "pic": 2169
     }
   ]
 }

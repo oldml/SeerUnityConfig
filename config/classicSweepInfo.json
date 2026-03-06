@@ -230,6 +230,17 @@
       "monsterid": 4001,
       "order": 0,
       "type": 1
+    },
+    {
+      "Arg2": "3",
+      "LevelLock": "",
+      "name": "混沌埃兰",
+      "Arg1": 4,
+      "dataKey": 19,
+      "id": 22,
+      "monsterid": 3442,
+      "order": 0,
+      "type": 1
     }
   ]
 }

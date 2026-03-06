@@ -3783,6 +3783,72 @@
       "portrait": "yxlz_fg",
       "id": 344,
       "scale": 0.9
+    },
+    {
+      "CharacterID": "att",
+      "emoji": "abb_01,abb_02,abb_03",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "阿塔塔",
+      "portrait": "abb_fg",
+      "id": 345,
+      "scale": 1
+    },
+    {
+      "CharacterID": "abb",
+      "emoji": "ahh_01,ahh_02,ahh_03,ahh_04",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "阿波波",
+      "portrait": "ahh_fg",
+      "id": 346,
+      "scale": 1
+    },
+    {
+      "CharacterID": "ahh",
+      "emoji": "att_01,att_02,att_03",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "阿华华",
+      "portrait": "att_fg",
+      "id": 347,
+      "scale": 1
+    },
+    {
+      "CharacterID": "tls",
+      "emoji": "tls_01,tls_02,tls_03,tls_04",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "托勒斯",
+      "portrait": "tls_fg",
+      "id": 348,
+      "scale": 1
+    },
+    {
+      "CharacterID": "ann",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "阿拿拿",
+      "portrait": "ann_fg",
+      "id": 349,
+      "scale": 1
+    },
+    {
+      "CharacterID": "sinnermind",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "记忆水晶",
+      "portrait": "sinnermind_fg",
+      "id": 350,
+      "scale": 1
     }
   ]
 }

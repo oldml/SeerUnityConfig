@@ -524637,14 +524637,13 @@
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
-            610,
+            1491,
             2029,
             191,
             738,
             663
           ],
           "SideEffectArg": [
-            1,
             4,
             3,
             1,
@@ -525285,6 +525284,186 @@
           "Category": 4,
           "CritRate": 0,
           "ID": 29284,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "开始免疫并反弹受到的异常状态了；恢复了一定的体力；开始保护自身",
+          "Name": "虫化防御",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            191,
+            1451,
+            1236
+          ],
+          "SideEffectArg": [
+            4,
+            300,
+            3,
+            3,
+            3
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29285,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；开始恢复体力并附加百分比伤害了；出手变得更快了",
+          "Name": "细胞激化",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            962,
+            1875,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            4,
+            3,
+            2,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29286,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "开始免疫并反弹受到的异常状态了；附加了百分比伤害；开始附加固定伤害了",
+          "Name": "守卫片像",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            191,
+            1801,
+            1731
+          ],
+          "SideEffectArg": [
+            4,
+            3,
+            3,
+            200,
+            1
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29287,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；开始恢复体力了；出手变得更快了",
+          "Name": "戍守之誓",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1001,
+            791,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            4,
+            3,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29288,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "开始免疫受到的异常状态了；开始抵挡攻击了",
+          "Name": "硬化表皮",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            48,
+            972
+          ],
+          "SideEffectArg": [
+            3,
+            1
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29289,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；出手变得更快了",
+          "Name": "活化姿态",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            2057,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29290,
           "MaxPP": 5,
           "MonID": 0,
           "MustHit": 1,
@@ -755033,6 +755212,266 @@
           "Power": 160,
           "Priority": 0,
           "Type": 86
+        },
+        {
+          "info": "",
+          "Name": "免疫侵蚀",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            2241,
+            436
+          ],
+          "SideEffectArg": [
+            2,
+            50,
+            30
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38297,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Type": 12
+        },
+        {
+          "info": "",
+          "Name": "聚能烈波",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1487,
+            1441,
+            2100
+          ],
+          "SideEffectArg": [
+            1
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38298,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 12
+        },
+        {
+          "info": "",
+          "Name": "烁光灼目波",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            781,
+            1008,
+            1285,
+            1155
+          ],
+          "SideEffectArg": [
+            2,
+            300,
+            300,
+            1,
+            20,
+            10,
+            40
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38299,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 12
+        },
+        {
+          "info": "",
+          "Name": "疾驰盾冲",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1055,
+            1483
+          ],
+          "SideEffectArg": [
+            1,
+            1
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38300,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Type": 59
+        },
+        {
+          "info": "",
+          "Name": "骑枪掷投",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            188,
+            1088,
+            1663
+          ],
+          "SideEffectArg": [
+            300,
+            3,
+            2
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38301,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 59
+        },
+        {
+          "info": "",
+          "Name": "光耀破阵冲",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            913,
+            1192,
+            1832
+          ],
+          "SideEffectArg": [
+            50,
+            1,
+            100,
+            300,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38302,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 59
+        },
+        {
+          "info": "",
+          "Name": "腐蚀爪袭",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1052,
+            1522
+          ],
+          "SideEffectArg": [
+            1,
+            150,
+            300
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38303,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 2,
+          "Type": 7
+        },
+        {
+          "info": "",
+          "Name": "兽化爪击",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1349,
+            713
+          ],
+          "SideEffectArg": [
+            10
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38304,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 7
+        },
+        {
+          "info": "",
+          "Name": "烈爪猛袭",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            789,
+            1312,
+            983
+          ],
+          "SideEffectArg": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38305,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 7
         },
         {
           "info": "恢复自身一定体力",

@@ -13699,7 +13699,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconInherent]自身体力低于对手时100%的概率打出[color=#57c975]致命一击[/color]（boss有效）",
+        "analyze": "[sprite name=iconInherent]自身体力低于对手时100%的概率打出[color=#57c975]致命一击[/color]",
         "info": "自身体力低于对手时100%的概率打出致命一击",
         "key": "",
         "param": null,
@@ -19011,8 +19011,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]为对手种下[color=#f35555]晦暗之因[/color]，若对手的[color=#f35555]晦暗之因[/color]已成熟则收割[color=#f35555]晦暗之因[/color][color=#52a5f2]转化[/color]为自身的1层[color=#f35555]晦暗之根[/color]",
-        "info": "为对手种下晦暗之因，若对手的晦暗之因已成熟则收割晦暗之因转化为自身的1层晦暗之根",
+        "analyze": "[sprite name=iconHit]为对手种下[color=#f35555]晦暗之因[/color]，若对手的[color=#f35555]晦暗之因[/color]已成熟则收割[color=#f35555]晦暗之因[/color][color=#52a5f2]转化[/color]为自身的1层[color=#f35555]秽黯之根[/color]",
+        "info": "为对手种下晦暗之因，若对手的晦暗之因已成熟则收割晦暗之因转化为自身的1层秽黯之根",
         "key": "",
         "param": null,
         "argsNum": 0,
@@ -19020,8 +19020,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]100%令对手[color=#57c975]害怕[/color]，对手拥有[color=#f35555]晦暗之因[/color]时改为[color=#57c975]诅咒[/color]，自身拥有[color=#f35555]晦暗之根[/color]时每有1层伤害提升{0}%",
-        "info": "100%令对手害怕，对手拥有晦暗之因时改为诅咒，自身拥有晦暗之根时每有1层伤害提升{0}%",
+        "analyze": "[sprite name=iconHit]100%令对手[color=#57c975]害怕[/color]，对手拥有[color=#f35555]晦暗之因[/color]时改为[color=#57c975]诅咒[/color]，自身拥有[color=#f35555]秽黯之根[/color]时每有1层伤害提升{0}%",
+        "info": "100%令对手害怕，对手拥有晦暗之因时改为诅咒，自身拥有秽黯之根时每有1层伤害提升{0}%",
         "key": "",
         "param": null,
         "argsNum": 1,
@@ -19038,8 +19038,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#57c975]击败[/color]拥有[color=#f35555]晦暗之因[/color]的对手时自身获得1层[color=#f35555]晦暗之根[/color]",
-        "info": "击败拥有晦暗之因的对手时自身获得1层晦暗之根",
+        "analyze": "[sprite name=iconHit][color=#57c975]击败[/color]拥有[color=#f35555]晦暗之因[/color]的对手时自身获得1层[color=#f35555]秽黯之根[/color]",
+        "info": "击败拥有晦暗之因的对手时自身获得1层秽黯之根",
         "key": "",
         "param": null,
         "argsNum": 0,
@@ -21497,7 +21497,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconInherent]每次使用后此技能造成的攻击[color=#52a5f2]伤害额外提升[/color]30%，最高120%",
+        "analyze": "[sprite name=iconInherent]每次使用后自身造成的攻击[color=#52a5f2]伤害额外提升[/color]30%，最高120%",
         "info": "每次使用后此技能造成的攻击伤害额外提升30%，最高120%",
         "key": "",
         "param": null,
@@ -21701,7 +21701,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconInherent]自身不为龙系时，此技能无法选择使用（boss有效）",
+        "analyze": "[sprite name=iconInherent]自身不为龙系时，此技能无法选择使用",
         "info": "自身不为龙系时，此技能无法选择使用",
         "key": "",
         "param": null,
@@ -21719,7 +21719,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=iconHit]解除双方所处的异常状态，触发成功对手2回合内体力恢复效果减少其中[color=#57c975]烧伤[/color]以外异常状态个数的比例，且为自身附加回合数等于其中[color=#57c975]烧伤[/color]回合数合计的[color=#f35555]神惧劫炎[/color]，自身已处于[color=#f35555]神惧劫炎[/color]时改为令其增加等量的回合数",
         "info": "解除双方所处的异常状态，触发成功对手2回合内体力恢复效果减少其中烧伤以外异常状态个数的比例，且为自身附加回合数等于其中烧伤回合数合计的神惧劫炎，自身已处于神惧劫炎时改为令其增加等量的回合数",
         "key": "",
         "param": null,

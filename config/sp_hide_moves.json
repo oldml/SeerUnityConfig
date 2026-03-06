@@ -750,6 +750,46 @@
         "monster": 3524,
         "moves": 38076,
         "movetype": 1
+      },
+      {
+        "itemname": "完成精灵觉醒",
+        "movesname": "酣胆素心",
+        "id": 10077,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3729,
+        "moves": 28910,
+        "movetype": 2
+      },
+      {
+        "itemname": "完成精灵觉醒",
+        "movesname": "穹贯",
+        "id": 10078,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3729,
+        "moves": 37691,
+        "movetype": 2
+      },
+      {
+        "itemname": "完成精灵觉醒",
+        "movesname": "嚣尘两袖却",
+        "id": 10079,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3729,
+        "moves": 37692,
+        "movetype": 2
+      },
+      {
+        "itemname": "完成精灵觉醒",
+        "movesname": "浩瀚一竿凭",
+        "id": 10080,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3729,
+        "moves": 37693,
+        "movetype": 1
       }
     ],
     "SpMoves": [

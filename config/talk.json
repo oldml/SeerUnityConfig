@@ -23287,335 +23287,815 @@
     {
       "answer": null,
       "deal": null,
-      "msg": "拾取苏摩果对话1",
+      "msg": "在隐秘的角落找到了一颗苏摩果。",
       "dir": 0,
       "groupId": 769,
       "id": 2272,
-      "npcId": 1
+      "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "拾取苏摩果对话2",
+      "msg": "在不起眼的地方找到了一颗苏摩果，真走运。",
       "dir": 0,
       "groupId": 770,
       "id": 2273,
-      "npcId": 1
+      "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "拾取苏摩果对话3",
+      "msg": "噢……嗨，我们，是第一次见面对吧？你是赛尔，对吗？大家都叫我，阿拿拿。林海里所有人都在说你的事。",
       "dir": 0,
       "groupId": 771,
       "id": 2274,
-      "npcId": 1
+      "npcId": 99
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "阿拿拿首次对话",
+      "msg": "嘿嘿，嘿嘿，我知道，我知道你是很有行动力的那种人，而我什么都会一点，惟独没有行动力。",
       "dir": 0,
       "groupId": 771,
       "id": 2275,
-      "npcId": 1
+      "npcId": 99
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "阿拿拿首次对话",
+      "msg": "另一个事实是，那个，我需要很多苏摩果，很多很多，不是拿来吃的，至少不全是……",
       "dir": 0,
       "groupId": 771,
       "id": 2276,
-      "npcId": 1
+      "npcId": 99
     },
     {
-      "answer": null,
-      "deal": null,
-      "msg": "阿拿拿首次对话",
+      "answer": [
+        "好"
+      ],
+      "deal": [
+        "2_773"
+      ],
+      "msg": "因为某种原因，我没法从这个树洞里面出去，所以希望你来帮我找苏摩果，我想想……7个就行了，怎么样？",
       "dir": 0,
       "groupId": 771,
       "id": 2277,
-      "npcId": 1
+      "npcId": 99
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "阿拿拿首次对话",
+      "msg": "嘿嘿……嘿嘿，你又来了。你一定是很喜欢和我说话所以才来找我的吧？",
       "dir": 0,
-      "groupId": 771,
+      "groupId": 772,
       "id": 2278,
-      "npcId": 1
+      "npcId": 99
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "阿拿拿招呼对话",
+      "msg": "没，没错，我也喜欢你……如果你给我带几个苏摩果来的话，我就会更喜欢你……",
       "dir": 0,
       "groupId": 772,
       "id": 2279,
-      "npcId": 1
+      "npcId": 99
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "阿拿拿招呼对话",
+      "msg": "在这个树洞里呆着有一个好处就是，能够听到很多消息，各种各样的消息，嘿嘿嘿……",
       "dir": 0,
       "groupId": 772,
       "id": 2280,
-      "npcId": 1
+      "npcId": 99
     },
     {
-      "answer": null,
-      "deal": null,
-      "msg": "阿拿拿招呼对话",
+      "answer": [
+        "非常好"
+      ],
+      "deal": [
+        "2_773"
+      ],
+      "msg": "给我苏摩果，我就把那些见不到人的消息，说给你听……嘿嘿嘿……",
       "dir": 0,
       "groupId": 772,
       "id": 2281,
-      "npcId": 1
+      "npcId": 99
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "阿拿拿招呼对话",
+      "msg": "那么，你现在身上有带着苏摩果吗？",
       "dir": 0,
-      "groupId": 772,
+      "groupId": 773,
       "id": 2282,
-      "npcId": 1
+      "npcId": 99
     },
     {
-      "answer": null,
-      "deal": null,
-      "msg": "交付对话",
+      "answer": [
+        "交出苏摩果",
+        "算了"
+      ],
+      "deal": [
+        "4_givesoma",
+        ""
+      ],
+      "msg": "如果有带的话，就给我一个吧，当然，我会拿东西来换的。嘿嘿，就当是……礼尚往来嘛。",
       "dir": 0,
       "groupId": 773,
       "id": 2283,
-      "npcId": 1
+      "npcId": 99
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "交付对话",
-      "dir": 0,
-      "groupId": 773,
-      "id": 2284,
-      "npcId": 1
-    },
-    {
-      "answer": null,
-      "deal": null,
-      "msg": "无道具对话",
+      "msg": "什么？你身上没带苏摩果吗？那……那我也不能给你奖励，即使我很喜欢你也不行！",
       "dir": 0,
       "groupId": 774,
-      "id": 2285,
-      "npcId": 1
+      "id": 2284,
+      "npcId": 99
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "交付成功对话1",
+      "msg": "好，好，这样就有了1个。",
+      "dir": 0,
+      "groupId": 775,
+      "id": 2285,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "说起来你见过那些飘浮的透明石头吗？如果在正确的位置上拿东西打它一下或者砸它一下，或许会有什么事发生呢，嘿嘿。",
       "dir": 0,
       "groupId": 775,
       "id": 2286,
-      "npcId": 1
+      "npcId": 99
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "交付成功对话2",
+      "msg": "你问什么是正确的位置？我也不知道诶，比如说它发光的时候？对了，如果你仔细听的话会听到那些石头在发出声音。",
+      "dir": 0,
+      "groupId": 775,
+      "id": 2287,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "如果听到了那种声音，就说明附近一定有一颗这样的石头。还有还有，不是所有东西打它都是有反应的！",
+      "dir": 0,
+      "groupId": 775,
+      "id": 2288,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "必须要用……“高能激光”、“红色的那个”射它才行！什么？你问我为什么知道这些，我也不知道我是怎么知道的！",
+      "dir": 0,
+      "groupId": 775,
+      "id": 2289,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "看来你对我很感兴趣嘛！感兴趣的话就把更多的苏摩果拿来吧！我，我会告诉你更多事情的！嘿嘿，嘿嘿嘿……",
+      "dir": 0,
+      "groupId": 775,
+      "id": 2290,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "好嘞，好，这样就有2个了。",
       "dir": 0,
       "groupId": 776,
-      "id": 2287,
-      "npcId": 1
+      "id": 2291,
+      "npcId": 99
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "交付成功对话3",
+      "msg": "说起天人，阿拿拿我可是见过天人的哦，大家都没见过呢，我可是见过。而我觉得，天人似乎不是什么好东西呢。",
+      "dir": 0,
+      "groupId": 776,
+      "id": 2292,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "那是在很久以前，我有一个认识的好朋友被天人带走了，我是说——带回天上去了，就在那个时候，我看到了天人的样子。",
+      "dir": 0,
+      "groupId": 776,
+      "id": 2293,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "怎么说呢，天人和我们长得很不一样，也和你不太一样，我记得天人告诉我的朋友，说他“时候到了”，就带走了他。",
+      "dir": 0,
+      "groupId": 776,
+      "id": 2294,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "嘿嘿……嘿嘿，然后我就再也没见过他，一想到他现在在哪，我就感到……嘿嘿，好奇怪的感觉。",
+      "dir": 0,
+      "groupId": 776,
+      "id": 2295,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "好……悲伤。但是……阿拿拿不知道“悲伤”这个词是怎么学到的……",
+      "dir": 0,
+      "groupId": 776,
+      "id": 2296,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "又拿到一个，这样就有3个了。",
       "dir": 0,
       "groupId": 777,
-      "id": 2288,
-      "npcId": 1
+      "id": 2297,
+      "npcId": 99
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "交付成功对话4",
+      "msg": "我问一句，你有没有偷偷吃过苏摩果？不不我不是在批评你，只是……嘿嘿，如果你想尝尝的话，告诉我一声，我会给你的。",
+      "dir": 0,
+      "groupId": 777,
+      "id": 2298,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "毕竟我这么喜欢你，只要你给我找来新的苏摩果，想吃多少都没关系，嘿嘿嘿……嘿嘿嘿……",
+      "dir": 0,
+      "groupId": 777,
+      "id": 2299,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你问我搜集这些苏摩果干什么？因为阿拿拿我啊，有一个非常有意思的主意，我要收集这片森林所有的苏摩果",
+      "dir": 0,
+      "groupId": 777,
+      "id": 2300,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这样大家不就没有果子吃了吗？那当然了，当所有人的肚子都饿得咕咕叫的时候，我就把我储藏的果子拿出来给大家。",
+      "dir": 0,
+      "groupId": 777,
+      "id": 2301,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这样我就会有很多朋友，嘿嘿，嘿嘿嘿……",
+      "dir": 0,
+      "groupId": 777,
+      "id": 2302,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "第4个了，真高兴啊。",
       "dir": 0,
       "groupId": 778,
-      "id": 2289,
-      "npcId": 1
+      "id": 2303,
+      "npcId": 99
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "交付成功对话5",
+      "msg": "你不停地拿苏摩果给我，听我说话，你是不是很喜欢我？嘿嘿，我也很喜欢你哦。",
+      "dir": 0,
+      "groupId": 778,
+      "id": 2304,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你是我很久很久以来的第二个好朋友，哦……第一个已经消失在天上咯，但是没关系，有你就好啦……哈哈，嘿嘿。",
+      "dir": 0,
+      "groupId": 778,
+      "id": 2305,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "大家都说我很奇怪，我哪有那么奇怪嘛，一定是因为我藏在这里太久了，所以大家都对我产生了奇怪的想象，嘿嘿嘿……",
+      "dir": 0,
+      "groupId": 778,
+      "id": 2306,
+      "npcId": 99
+    },
+    {
+      "answer": [
+        "真……好？"
+      ],
+      "deal": [
+        "2_798"
+      ],
+      "msg": "不如……我们一起出去逛逛吧？这样被大家看到了，就会解除误会，嘿嘿嘿。",
+      "dir": 0,
+      "groupId": 778,
+      "id": 2307,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这样一看，我还挺正常的嘛。",
+      "dir": 0,
+      "groupId": 798,
+      "id": 2308,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "有5个了，嘿嘿，太好了。",
       "dir": 0,
       "groupId": 779,
-      "id": 2290,
-      "npcId": 1
+      "id": 2309,
+      "npcId": 99
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "交付成功对话6",
+      "msg": "说起来……好像林海的另一边发生了什么大事呢，就在苏摩泉那个方向，你有去过吗？",
+      "dir": 0,
+      "groupId": 779,
+      "id": 2310,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "阿拿拿我看到自在天从天上掉下来了，掉下来的还有好多好多圆圆的家伙……是天人的随从吗？",
+      "dir": 0,
+      "groupId": 779,
+      "id": 2311,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我觉得你还是和我一起呆在这个树洞里面比较好，嘿嘿，嘿嘿，这里很安全，也很湿润，还有吃不完的食物。",
+      "dir": 0,
+      "groupId": 779,
+      "id": 2312,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "怎，怎么样，和我一起蜗居在这里，应该很舒服吧？",
+      "dir": 0,
+      "groupId": 779,
+      "id": 2313,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "第6个苏摩果，嘿嘿嘿嘿嘿嘿。",
       "dir": 0,
       "groupId": 780,
-      "id": 2291,
-      "npcId": 1
+      "id": 2314,
+      "npcId": 99
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "交付成功对话7",
+      "msg": "阿拿拿我还从来没见过这么多的苏摩果，这样下去，直到世界末日应该都不愁饿肚子了吧，嘿嘿。",
+      "dir": 0,
+      "groupId": 780,
+      "id": 2315,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "不过……世界末日，是什么？为什么阿拿拿会说出这种话？好奇怪……阿拿拿的脑子要变得奇怪了。",
+      "dir": 0,
+      "groupId": 780,
+      "id": 2316,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这段时间，阿拿拿我听到了很多事情哦，大家都在说林海着了火，还有人遇到了那个天魔呢，哈哈，真有趣。",
+      "dir": 0,
+      "groupId": 780,
+      "id": 2317,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "……嗯，你还有多余的苏摩果吗？",
+      "dir": 0,
+      "groupId": 780,
+      "id": 2318,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这是……第7个，也是最后一颗苏摩果了？",
       "dir": 0,
       "groupId": 781,
-      "id": 2292,
-      "npcId": 1
+      "id": 2319,
+      "npcId": 99
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "小精灵受伤了，怎么帮助它？",
+      "msg": "哇，太好了，那个，真好！现在整个林海的苏摩果都在这儿了，大概吧？这样一来，我就会交到很多很多朋友。",
+      "dir": 0,
+      "groupId": 781,
+      "id": 2320,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "嘿嘿……嘿嘿……话说……我还听到一件事，就是大家说你修理好那个什么“登陆舱”之后就要走了，你怎么不告诉我？",
+      "dir": 0,
+      "groupId": 781,
+      "id": 2321,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "哈哈不是啦，没有觉得孤单，毕竟我很快就要交更多的朋友了嘛，哈哈，只是有点……呃，没事。",
+      "dir": 0,
+      "groupId": 781,
+      "id": 2322,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "那，我把这个东西给你吧，免得你寂寞嘛，嘿嘿……嗯。",
+      "dir": 0,
+      "groupId": 781,
+      "id": 2323,
+      "npcId": 99
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "有一只小精灵受伤了，该怎么帮助它呢？",
       "dir": 0,
       "groupId": 782,
-      "id": 2293,
-      "npcId": 1
+      "id": 2324,
+      "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "机器人愿意提供一块金属片帮你舀水",
+      "msg": "是你，啊，赛尔。又，见面，了。",
       "dir": 0,
       "groupId": 783,
-      "id": 2294,
+      "id": 2325,
       "npcId": 1
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "没有舀水工具，无法舀水",
+      "msg": "如你，所见，现在，我正处于，等待修复，的状态，各项功能，受限。",
+      "dir": 0,
+      "groupId": 783,
+      "id": 2326,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "惭愧的，是，我们的坠毁，造成了不必要，的伤害，看到那边的S-O-M-A细胞受试体，了吗？它们，因我们的坠落，受伤。",
+      "dir": 0,
+      "groupId": 783,
+      "id": 2327,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "如果，你，有意愿，对它们施以援手，请，前往苏摩泉，用，苏摩水，治疗受试体。",
+      "dir": 0,
+      "groupId": 783,
+      "id": 2328,
+      "npcId": 1
+    },
+    {
+      "answer": [
+        "那我收下了",
+        "算了"
+      ],
+      "deal": [
+        "4_getcup",
+        ""
+      ],
+      "msg": "如果你，需要容器，那就请从我身上，拆卸一块，金属部件，作为容器吧。",
+      "dir": 0,
+      "groupId": 783,
+      "id": 2329,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "没有容器，无法舀水。",
       "dir": 0,
       "groupId": 784,
-      "id": 2295,
-      "npcId": 1
+      "id": 2330,
+      "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "现在有舀水工具了，去泉水那吧",
+      "msg": "现在有容器了，去泉水那儿吧。",
       "dir": 0,
       "groupId": 785,
-      "id": 2296,
-      "npcId": 1
+      "id": 2331,
+      "npcId": 11
     },
     {
-      "answer": null,
-      "deal": null,
-      "msg": "在苏摩泉里舀了水",
+      "answer": [
+        "用金属片舀水",
+        "算了"
+      ],
+      "deal": [
+        "4_getwater",
+        ""
+      ],
+      "msg": "苏摩泉的泉水晶莹剔透，该怎么办呢？",
       "dir": 0,
       "groupId": 786,
-      "id": 2297,
-      "npcId": 1
+      "id": 2332,
+      "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "用水治疗了精灵",
+      "msg": "姑且用苏摩水治疗了精灵，希望快点好起来。",
       "dir": 0,
       "groupId": 787,
-      "id": 2298,
-      "npcId": 1
+      "id": 2333,
+      "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "你现在接了水了，去医治精灵",
+      "msg": "看来，你已经，拥有盛水的，容器了，去医治，受伤的受试体吧。",
       "dir": 0,
       "groupId": 788,
-      "id": 2299,
+      "id": 2334,
       "npcId": 1
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "金属片里已经盛了水了",
+      "msg": "金属片里已经盛满了水。",
       "dir": 0,
       "groupId": 789,
-      "id": 2300,
-      "npcId": 1
+      "id": 2335,
+      "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "归还金属片",
+      "msg": "喏，小精灵们都被治疗好了，这片金属片也还给你吧。",
       "dir": 0,
       "groupId": 790,
-      "id": 2301,
+      "id": 2336,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "感谢，这样，就好了。",
+      "dir": 0,
+      "groupId": 790,
+      "id": 2337,
       "npcId": 1
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "水声让人很安心",
+      "msg": "你不需要帮忙什么的吗？",
+      "dir": 0,
+      "groupId": 790,
+      "id": 2338,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "不需要，我会，继续履行，自己的职责。",
+      "dir": 0,
+      "groupId": 790,
+      "id": 2339,
+      "npcId": 1
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "苏摩泉的水声让人很安心。",
       "dir": 0,
       "groupId": 791,
-      "id": 2302,
-      "npcId": 1
+      "id": 2340,
+      "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "水晶故事1",
+      "msg": "悲叹，哀鸣，这副易碎的身体将我们囚禁于此，仅仅是“存在”就让我们极其痛苦。",
       "dir": 0,
       "groupId": 792,
-      "id": 2303,
-      "npcId": 1
+      "id": 2341,
+      "npcId": 100
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "水晶故事2",
+      "msg": "粉碎吧，粉碎吧，将我们击碎，至少能够为这持续了不知多少个千年的囚禁画上一个句号。",
+      "dir": 0,
+      "groupId": 792,
+      "id": 2342,
+      "npcId": 100
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "只可惜我们那无辜又可怜的孩子，从诞生起就不知什么叫做自由，但也因此，成为了这颗监狱行星上的“公主”。",
+      "dir": 0,
+      "groupId": 792,
+      "id": 2343,
+      "npcId": 100
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "为什么我们会把她当做孩子？明明这样一点也不会减少我们的刑期，或许只是无聊吧，排解这漫长监禁之中的无聊感。",
+      "dir": 0,
+      "groupId": 792,
+      "id": 2344,
+      "npcId": 100
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "但我们衷心地希望，这个孩子能够代替我们，获得那触不可及的自由。",
+      "dir": 0,
+      "groupId": 792,
+      "id": 2345,
+      "npcId": 100
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "飞吧，我们的孩子，飞向那无数石楔的狭缝。你不需要躲避什么，因为在这个牢房之中，就连可悲的狱卒都不存在。",
       "dir": 0,
       "groupId": 793,
-      "id": 2304,
-      "npcId": 1
+      "id": 2346,
+      "npcId": 100
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "水晶故事3",
+      "msg": "告诉我们，你在这颗星球上空看到了什么？那是一副怎样的景象？星星？是吗，那些发光体？是吗，还有偌大的航船？",
+      "dir": 0,
+      "groupId": 793,
+      "id": 2347,
+      "npcId": 100
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "淘金者，原来如此。我们的孩子，你想不想飞得更高？比你上一次，上上次更高更高，去找到那些淘金者们吧。",
+      "dir": 0,
+      "groupId": 793,
+      "id": 2348,
+      "npcId": 100
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "到时候，你就能永远地离开这座监牢了，我们都指望着你，你帮我们完成这件事好不好？",
+      "dir": 0,
+      "groupId": 793,
+      "id": 2349,
+      "npcId": 100
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "报仇，报仇，向那些金色的混账报仇，报仇报仇报仇报仇报仇报仇报仇报仇报仇报仇报仇报仇报仇报仇报仇报仇报仇报仇……",
+      "dir": 0,
+      "groupId": 793,
+      "id": 2350,
+      "npcId": 100
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "公主，我们的孩子，回来了。在那黄金的波动平息下来之后，回来了。",
       "dir": 0,
       "groupId": 794,
-      "id": 2305,
-      "npcId": 1
+      "id": 2351,
+      "npcId": 100
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "门禁对话1",
+      "msg": "看看我们原本那些同胞，看看他们落得的下场，比我们更加悲惨。",
+      "dir": 0,
+      "groupId": 794,
+      "id": 2352,
+      "npcId": 100
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "变了，一切都变了，无间的牢狱生长出植被，被树木和藤蔓所掩盖，我们存在过的痕迹被抹消，我们，消失在历史中。",
+      "dir": 0,
+      "groupId": 794,
+      "id": 2353,
+      "npcId": 100
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "公主她饱含着怒意，坠落在这片不属于你我的乐园之中，毁灭吧，毁灭一切。公主不再是公主了，她将化为天魔。",
+      "dir": 0,
+      "groupId": 794,
+      "id": 2354,
+      "npcId": 100
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "天魔终将把这片乐园烧成灰，现在，她已经这么做到了。",
+      "dir": 0,
+      "groupId": 794,
+      "id": 2355,
+      "npcId": 100
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "密密麻麻的树根和藤蔓挡住了去路，现在没必要去那边吧。",
       "dir": 0,
       "groupId": 795,
-      "id": 2306,
-      "npcId": 1
+      "id": 2356,
+      "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "门禁对话2",
+      "msg": "这里好像有条路可以走？藤蔓和树根退开了。",
       "dir": 0,
       "groupId": 796,
-      "id": 2307,
-      "npcId": 1
+      "id": 2357,
+      "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "自动触发门禁对话",
+      "msg": "嗯？感觉森林里发生了什么变化？难道有秘密通道打开了吗？",
       "dir": 0,
       "groupId": 797,
-      "id": 2308,
-      "npcId": 1
+      "id": 2358,
+      "npcId": 11
     }
   ]
 }

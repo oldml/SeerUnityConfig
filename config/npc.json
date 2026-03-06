@@ -1469,6 +1469,26 @@
       "id": 147,
       "scale": 1,
       "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "阿拿拿",
+      "portrait": "ann_fg",
+      "CharacterID": 99,
+      "id": 148,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "记忆水晶",
+      "portrait": "sinnermind_fg",
+      "CharacterID": 100,
+      "id": 149,
+      "scale": 1,
+      "silhouette": 0
     }
   ]
 }

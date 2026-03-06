@@ -30651,7 +30651,7 @@
       {
         "analyze": "",
         "args": "50 100 300 300",
-        "come": "阿尔法熊魂印进化限时活动",
+        "come": "阿尔法熊特训",
         "des": null,
         "tag": null,
         "tips": "自身处于能力提升状态时阿尔法熊开启攻击模式：攻击50%的概率打出致命一击，未触发则造成的攻击伤害提升100%；阿尔法熊受到攻击后开启防御模式：为自身附加300点护盾和300点护罩（boss有效）",
@@ -30671,7 +30671,7 @@
         "isAdv": 0,
         "label": 0,
         "limitedType": 0,
-        "target": 0,
+        "target": 114051,
         "to": 0,
         "type": 0
       },
@@ -40479,7 +40479,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]裁决：至序圣华[color=#57c975]登场时[/color][/color]，为对方场下体力最高的随机1只精灵附加1层[color=#f35555]处决[/color]印记[/color]与3回合[color=#f35555]处决[/color]|[sprite name=dot4]圣铸：至序圣华[color=#52a5f2]首次[/color]在场上或场下死亡时，为[color=#52a5f2]己方[/color]附加1柄[color=#f35555]圣剑[/color]且开启[color=#f35555]圣剑[/color]重铸[/color]|[sprite name=dot4]加冕：至序圣华[color=#57c975]出战后[/color]所有技能PP值恢复至1点、[color=#57c975]下场后[/color]为对手附加1层[color=#f35555]处决[/color]印记[/color]、[color=#57c975]登场时[/color][/color]1回合内免疫异常状态与能力下降状态且PP值[color=#52a5f2]保留[/color]1点，对手[color=#f35555]处决[/color]印记[/color][color=#52a5f2]达到[/color]2层[/color]时回合数+1|[sprite name=dot4]秩序：[color=#57c975]战斗阶段结束时[/color]，若对手体力高于最大体力的1/2则下回合自身所有[color=#52a5f2]技能先制[/color]+1，若自身体力低于最大体力的1/2则2回合内自身[color=#52a5f2]回合类效果[/color]无法被消除|（boss无效）",
+        "analyze": "[sprite name=dot4]裁决：至序圣华[color=#57c975]登场时[/color][/color]，为对方场下体力最高的随机1只精灵附加1层[color=#f35555]处决[/color]印记[/color]与3回合[color=#f35555]处决[/color]|[sprite name=dot4]圣铸：至序圣华[color=#52a5f2]首次[/color]在场上或场下死亡时，为[color=#52a5f2]己方[/color]附加1柄[color=#f35555]圣剑[/color]且开启[color=#f35555]圣剑重铸[/color]|[sprite name=dot4]加冕：至序圣华[color=#57c975]出战后[/color]所有技能PP值恢复至1点、[color=#57c975]下场后[/color]为对手附加1层[color=#f35555]处决[/color]印记[/color]、[color=#57c975]登场时[/color][/color]1回合内免疫异常状态与能力下降状态且PP值[color=#52a5f2]保留[/color]1点，对手[color=#f35555]处决[/color]印记[/color][color=#52a5f2]达到[/color]2层[/color]时回合数+1|[sprite name=dot4]秩序：[color=#57c975]战斗阶段结束时[/color]，若对手体力高于最大体力的1/2则下回合自身所有[color=#52a5f2]技能先制[/color]+1，若自身体力低于最大体力的1/2则2回合内自身[color=#52a5f2]回合类效果[/color]无法被消除|（boss无效）",
         "args": "3 100 5 1 2 1 2 1",
         "come": "",
         "des": null,
@@ -49909,7 +49909,7 @@
         "isAdv": 0,
         "label": 0,
         "limitedType": 0,
-        "target": 0,
+        "target": 112003,
         "to": 0,
         "type": 0
       },
@@ -54119,7 +54119,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，自身每有216点速度自身攻击技能获得[color=#52a5f2]以[/color]下效果前1项：|    [sprite name=dot4][color=#52a5f2]当回合[/color]造成的攻击伤害提高20%|    [sprite name=dot4]命中后附加自身速度值25%的[color=#52a5f2]百分比伤害[/color]|    [sprite name=dot4][color=#57c975]致命一击[/color]造成的伤害提高26%|[sprite name=dot4]自身体力每损失217点以上效果的前1项效果翻倍",
+        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，自身每有216点速度自身攻击技能获得以下效果前1项：|    [sprite name=dot4][color=#52a5f2]当回合[/color]造成的攻击伤害提高20%|    [sprite name=dot4]命中后附加自身速度值25%的[color=#52a5f2]百分比伤害[/color]|    [sprite name=dot4][color=#57c975]致命一击[/color]造成的伤害提高26%|[sprite name=dot4]自身体力每损失217点以上效果的前1项效果翻倍",
         "args": "1 0",
         "come": "",
         "des": null,
@@ -54240,6 +54240,84 @@
         "effectId": 2483,
         "iconId": 2065,
         "Id": 2065,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身[color=#52a5f2][color=#57c975]登场[/color][/color][color=#52a5f2]当回合[/color][color=#57c975]受到攻击后[/color]将对手的系别变为虫系，对手本次在场累计造成的攻击伤害超过自身体力上限时恢复其系别|[sprite name=dot4]对手使用与其系别相同的攻击技能对自身造成的攻击伤害不超过300点，对手使用与其系别不同的攻击技能对自身造成的伤害高于300时消除对手能力提升状态，低于300时消除对手[color=#52a5f2]回合类效果[/color]",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身登场当回合受到攻击后将对手的系别变为虫系，对手本次在场累计造成的攻击伤害超过自身体力上限时恢复其系别|对手使用与其系别相同的攻击技能对自身造成的攻击伤害不超过300点，对手使用与其系别不同的攻击技能对自身造成的伤害高于300时消除对手能力提升状态，低于300时消除对手回合类效果（boss无效）",
+        "kind": [
+          3,
+          8
+        ],
+        "petId": [
+          4879
+        ],
+        "specificId": null,
+        "effectId": 2487,
+        "iconId": 2066,
+        "Id": 2066,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，若对手不处于异常状态则100%令对手[color=#57c975]失明[/color]，[color=#52a5f2]未触发[/color]则[color=#52a5f2]当回合[/color]100%[color=#57c975]闪避[/color]对手攻击|[sprite name=dot4][color=#57c975]回合结束时[/color]，若本回合未受到攻击伤害则下回合攻击技能必定[color=#57c975]致命一击[/color]",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "回合开始时，若对手不处于异常状态则100%令对手失明，未触发则当回合100%闪避对手攻击；回合结束时，若本回合未受到攻击伤害则下回合攻击技能必定致命一击（boss无效）",
+        "kind": [
+          1,
+          17
+        ],
+        "petId": [
+          4880
+        ],
+        "specificId": null,
+        "effectId": 2488,
+        "iconId": 2067,
+        "Id": 2067,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身造成的攻击伤害额外恢复至自身体力，恢复量每溢出2点，下回合造成伤害提高1%，最高50%",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身造成的攻击伤害额外恢复至自身体力，恢复量每溢出2点，下回合造成伤害提高1%，最高50%（boss无效）",
+        "kind": [
+          5,
+          1
+        ],
+        "petId": [
+          4881
+        ],
+        "specificId": null,
+        "effectId": 2486,
+        "iconId": 2068,
+        "Id": 2068,
         "intensify": 0,
         "isAdv": 0,
         "label": 0,

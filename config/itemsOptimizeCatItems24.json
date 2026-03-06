@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "Name": "克洛托因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400560,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "浩瀚昆仑因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400559,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "阿塔塔因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400558,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "锢魂铁犀因子",
       "catID": 24,
       "Hide": 0,

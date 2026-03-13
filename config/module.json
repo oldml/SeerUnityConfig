@@ -4823,6 +4823,41 @@
       "currAppDo": 1,
       "id": 829,
       "isFullScreen": 1
+    },
+    {
+      "moduleName": "skinsellstudent1Activity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 830,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "tenDaysPetSign",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 831,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "Violet",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 832,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "schoolStartSell",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 833,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "starSailPlan",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 834,
+      "isFullScreen": 1
     }
   ]
 }

@@ -3849,6 +3849,17 @@
       "portrait": "sinnermind_fg",
       "id": 350,
       "scale": 1
+    },
+    {
+      "CharacterID": "qdz1",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,180",
+      "name": "启迪者S451",
+      "portrait": "qdz1_fg",
+      "id": 351,
+      "scale": 1
     }
   ]
 }

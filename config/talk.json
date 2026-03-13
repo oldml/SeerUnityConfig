@@ -24096,6 +24096,159 @@
       "groupId": 797,
       "id": 2358,
       "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这个基因编组已经尝试过了，之后再试试别的方案吧。",
+      "dir": 0,
+      "groupId": 806,
+      "id": 2359,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "好可爱的小精灵！但感觉它似乎还没有完全达到阿华华那种阶段。",
+      "dir": 0,
+      "groupId": 799,
+      "id": 2360,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "啊…跑开了，希望之后有机会再见到它吧。",
+      "dir": 0,
+      "groupId": 799,
+      "id": 2361,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我瞧瞧，这就是自在天飞船上科研的工具吗？似乎是一套完整的基因编辑系统。",
+      "dir": 0,
+      "groupId": 800,
+      "id": 2362,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "将不同类型的基因进行组合，应该能够生成不一样的结果。",
+      "dir": 0,
+      "groupId": 800,
+      "id": 2363,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "托勒斯说过，这些都是在合理范围内的试验，不会存在什么风险，也不会对小精灵们造成什么伤害。",
+      "dir": 0,
+      "groupId": 800,
+      "id": 2364,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "好，那我也来试一试吧。",
+      "dir": 0,
+      "groupId": 800,
+      "id": 2365,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "确认开启调整",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_change",
+        ""
+      ],
+      "msg": "接下来需要调整培养罐之间的位置，要选择这个培养罐进行调整吗？",
+      "dir": 0,
+      "groupId": 801,
+      "id": 2366,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "确认取消调整",
+        "我再想想"
+      ],
+      "deal": [
+        "4_cancelchange",
+        ""
+      ],
+      "msg": "现在正在调整培养罐之间的位置，要暂时取消吗？",
+      "dir": 0,
+      "groupId": 802,
+      "id": 2367,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "确认进行调整",
+        "我再想想"
+      ],
+      "deal": [
+        "4_change",
+        ""
+      ],
+      "msg": "接下来两个培养罐之间的位置会进行调换，确认要让它们进行调换吗？",
+      "dir": 0,
+      "groupId": 803,
+      "id": 2368,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这样培养罐都按照正确的顺序排布了，不愧是我。",
+      "dir": 0,
+      "groupId": 804,
+      "id": 2369,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "诶？启迪者递给我了这些东西，似乎是作为完成这些的礼物。那我就不客气的收下啦。",
+      "dir": 0,
+      "groupId": 804,
+      "id": 2370,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这后面是一座巨大的生态舱…奇怪，是不是有什么东西在里面活动？",
+      "dir": 0,
+      "groupId": 805,
+      "id": 2371,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "四个培养罐都被顺利激活了，但看这上面提示灯的颜色…似乎与培养罐中的状态不匹配。",
+      "dir": 0,
+      "groupId": 807,
+      "id": 2372,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "培养罐下面的面板似乎可以调整培养罐之间的位置，事不宜迟，赶紧来试试吧。",
+      "dir": 0,
+      "groupId": 807,
+      "id": 2373,
+      "npcId": 11
     }
   ]
 }

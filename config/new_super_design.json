@@ -54271,6 +54271,239 @@
           ]
         },
         "ID": 235
+      },
+      {
+        "Achievement": {
+          "BranchID": 0,
+          "RuleID": 0
+        },
+        "Configure": {
+          "ExchangeID": [
+            14713,
+            14714,
+            14715
+          ],
+          "ExchangeProductID": [
+            262289,
+            262294,
+            262290
+          ],
+          "Exchange_mintmark": 0,
+          "FailTimes": 302432,
+          "needmon": 0,
+          "ProgressValue": 302434,
+          "Times": 3,
+          "TimeValue": 302435
+        },
+        "EasyBattle": {
+          "Desc": "依次战胜Battle1-5即可通关",
+          "Task": [
+            {
+              "Desc": "【简单的敌人，先制+1】",
+              "BattleBoss": 4082,
+              "Battlelevel": 1,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【普通的敌人，先制+1，每回合附加一定固定伤害】",
+              "BattleBoss": 4271,
+              "Battlelevel": 2,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【普通的敌人，先制+2，每回合附加一定固定伤害，每回合必定打出致命一击】",
+              "BattleBoss": 3741,
+              "Battlelevel": 2,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【普通的敌人，先制+3，每回合附加一定固定伤害，每回合消除对手回合类效果，每回合消除对手能力提升状态】",
+              "BattleBoss": 4050,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【有点难的敌人，先制+3，每回合附加一定固定伤害，无法探知其他能力】",
+              "BattleBoss": 4882,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 12,
+          "TaskStyle": 1
+        },
+        "HardBattle": {
+          "Desc": "依次战胜Battle1-5即可通关",
+          "RuleID": "1 3 4 5",
+          "Task": [
+            {
+              "Desc": "【较难的敌人，必定先手，免疫瞬杀，对手无法使用属性技能，每回合附加一定固定伤害，无法探知其他能力】",
+              "BattleBoss": 4082,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【较难的敌人，必定先手，免疫瞬杀，对手无法使用属性技能，每回合附加一定固定伤害，无法探知其他能力】",
+              "BattleBoss": 4271,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【十分困难的敌人，对手无法使用属性技能，每回合附加一定固定伤害，无法探知其他能力】",
+              "BattleBoss": 3741,
+              "Battlelevel": 5,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【极难的敌人，无法探知能力】",
+              "BattleBoss": 4050,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【极难的敌人，无法探知能力】",
+              "BattleBoss": 4882,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 36,
+          "TaskStyle": 1
+        },
+        "NormalBattle": {
+          "Desc": "依次战胜Battle1-5即可通关",
+          "RuleID": "2 1",
+          "Task": [
+            {
+              "Desc": "【有点难的敌人，先制+3，闪避率提升了许多，每回合提升自身全部能力值，每回合必定打出致命一击】",
+              "BattleBoss": 4082,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【较难的敌人，先制+3，每回合附加一定固定伤害，每回合提升自身全部能力值，体力过低时恢复所有体力】",
+              "BattleBoss": 4271,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【较难的敌人，先制+6，每回合消除对手回合类效果，无法探知其他能力】",
+              "BattleBoss": 3741,
+              "Battlelevel": 4,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【十分困难的敌人，每回合附加一定固定伤害，每回合消除对手回合类效果，无法探知其他能力】",
+              "BattleBoss": 4050,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【十分困难的敌人，对手无法使用属性技能，无法探知其他能力】",
+              "BattleBoss": 4882,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 18,
+          "TaskStyle": 1
+        },
+        "Reward": {
+          "GainValue": 126154,
+          "ItemID": 2400561,
+          "MintMarkID": 0,
+          "MonsterID": 4882
+        },
+        "Rules": {
+          "Rule": [
+            {
+              "Args": "",
+              "CheckTips": "本关卡在挑战中，不可重复上阵（出战背包派出过的）精灵",
+              "FailTips": "",
+              "RepeatTips": "背包内以下精灵放入过出战背包，不可重复出战：\\n{0}",
+              "UserInfo": "302408 302409 302410 302411 302412 302413 302414 302415 302416 302417 302418 302419 302420 302421 302422 302423 302424 302425 302426 302427 302428 302429 302430 302431",
+              "ID": 1,
+              "MouldID": 1
+            },
+            {
+              "Args": "6",
+              "CheckTips": "每场battle需要在6回合内击败BOSS，否则battle按失败结算",
+              "FailTips": "很抱歉，战斗未在6回合内结束，结算为失败！",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 2,
+              "MouldID": 2
+            },
+            {
+              "Args": "3022 4463 3221",
+              "CheckTips": "本关卡不可使用精灵：王之哈莫、斯克鲁恩、四九圣尊（特训）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 3,
+              "MouldID": 3
+            },
+            {
+              "Args": "100",
+              "CheckTips": "出战精灵需等于100级",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 4,
+              "MouldID": 4
+            },
+            {
+              "Args": "3",
+              "CheckTips": "关卡挑战中的对战累计失败次数＞3次，则本轮关卡挑战自动放弃",
+              "FailTips": "很抱歉，本关卡中对战累计失败次数已大于3次，挑战失败！",
+              "RepeatTips": "",
+              "UserInfo": "302432",
+              "ID": 5,
+              "MouldID": 5
+            },
+            {
+              "Args": "3",
+              "CheckTips": "一天之内连续胜利此难度关卡3次，即可解锁本关卡扫荡功能（需要连续胜利，不可中断）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "302433",
+              "ID": 6,
+              "MouldID": 6
+            }
+          ]
+        },
+        "Sweep": {
+          "ProductID": [
+            0,
+            0,
+            262291,
+            0,
+            0,
+            262292,
+            0,
+            0,
+            262293
+          ]
+        },
+        "ID": 236
       }
     ]
   }

@@ -21867,7 +21867,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]帝君之罚：天启帝君[color=#52a5f2]首次[/color][color=#57c975]出战后[/color]对[color=#52a5f2]对方[/color]所有不在场精灵附加其最大体力1/3的[color=#52a5f2]真实伤害(404)[/color]，[color=#52a5f2]之后[/color]本场战斗此效果改为1/9|[sprite name=dot1]帝君之赐：天启帝君[color=#52a5f2]首次[/color][color=#57c975]出战后[/color]恢复[color=#52a5f2]己方[/color]所有不在场精灵其最大体力的1/3，[color=#52a5f2]之后[/color]本场战斗此效果改为1/9|[sprite name=dot1]帝君之援：天启帝君在出战背包时，[color=#52a5f2]己方[/color]精灵[color=#57c975]登场时[/color][/color]若为满体力则[color=#52a5f2]当回合[/color]所有[color=#52a5f2]技能先制[/color]+1|[sprite name=dot4]帝君之御：天启帝君免疫所有[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color][color=#52a5f2]以[/color]及异常状态，且[color=#52a5f2]固定伤害[/color]和[color=#52a5f2]百分比伤害[/color]抗性提升至100%|[sprite name=dot1]帝君之阵：[color=#52a5f2]己方[/color]每有一只阵亡精灵自身受到的伤害降低10%，造成的伤害提高10%，[color=#52a5f2]对方[/color]每有一只存活精灵则自身使用技能后恢复1/10最大体力并造成等量[color=#52a5f2]百分比伤害[/color]|[sprite name=dot4]帝君之威：天启帝君为最后一只存活精灵时自身[color=#52a5f2]回合类效果[/color]无法被消除，对手为最后一只存活精灵时使对手[color=#52a5f2]无法通过自身技能恢复体力[/color]|[sprite name=dot4]帝君之殒：天启帝君[color=#57c975][color=#57c975]被击败[/color]后[/color]，30%令对方随机一只不在场精灵死亡",
+        "analyze": "[sprite name=dot4]|帝君之罚：天启帝君[color=#52a5f2]首次[/color][color=#57c975]出战后[/color]对对方所有[color=#f35555]不在场精灵附加其最大体力1/3的真实伤害(404)[/color]，[color=#52a5f2]之后[/color]本场战斗此效果改为1/9（boss无效）|[sprite name=dot1]帝君之赐：天启帝君[color=#52a5f2]首次[/color][color=#57c975]出战后[/color]恢复[color=#52a5f2]己方[/color]所有不在场精灵其最大体力的1/3，[color=#52a5f2]之后[/color]本场战斗此效果改为1/9（boss有效）|[sprite name=dot1]帝君之援：天启帝君在出战背包时，[color=#52a5f2]己方[/color]精灵[color=#57c975]登场时[/color][/color]若为满体力则[color=#52a5f2]当回合[/color]所有[color=#52a5f2]技能先制[/color]+1（boss有效）|[sprite name=dot4]帝君之御：天启帝君免疫所有[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color][color=#52a5f2]以[/color]及异常状态，且[color=#52a5f2]固定伤害[/color]和[color=#52a5f2]百分比伤害[/color]抗性提升至100%（boss无效）|[sprite name=dot1]帝君之阵：[color=#52a5f2]己方[/color]每有一只阵亡精灵则自身受到的伤害降低10%，造成的伤害提高10%，天启帝君为最后一只存活精灵时自身[color=#52a5f2]回合类效果[/color]无法被消除；对手每有一只不在场存活精灵则自身使用技能后恢复1/10最大体力并造成等量[color=#52a5f2]百分比伤害[/color]，对手为最后一只存活精灵时使对手[color=#52a5f2]无法通过自身技能恢复体力[/color]（自身受到的伤害降低和造成的伤害提高效果boss有效，其他效果boss无效）|[sprite name=dot4]帝君之殒：天启帝君[color=#57c975][color=#57c975]被击败[/color]后[/color]，30%令对方随机一只不在场精灵死亡（boss无效）",
         "args": "3 3 1 10 10 10 30 1",
         "come": "",
         "des": null,
@@ -54249,7 +54249,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身[color=#52a5f2][color=#57c975]登场[/color][/color][color=#52a5f2]当回合[/color][color=#57c975]受到攻击后[/color]将对手的系别变为虫系，对手本次在场累计造成的攻击伤害超过自身体力上限时恢复其系别|[sprite name=dot4]对手使用与其系别相同的攻击技能对自身造成的攻击伤害不超过300点，对手使用与其系别不同的攻击技能对自身造成的伤害高于300时消除对手能力提升状态，低于300时消除对手[color=#52a5f2]回合类效果[/color]",
+        "analyze": "[sprite name=dot4]自身[color=#52a5f2]登场[color=#52a5f2]当回合[/color][color=#57c975]受到攻击后[/color]将对手的系别变为虫系，对手本次在场累计造成的攻击伤害超过自身体力上限时恢复其系别|[sprite name=dot4]对手使用与其系别相同的攻击技能对自身造成的攻击伤害不超过300点，对手使用与其系别不同的攻击技能对自身造成的伤害高于300时消除对手能力提升状态，低于300时消除对手[color=#52a5f2]回合类效果[/color]",
         "args": "1 0",
         "come": "",
         "des": null,
@@ -54318,6 +54318,58 @@
         "effectId": 2486,
         "iconId": 2068,
         "Id": 2068,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身克制对手时，自身攻击技能威力提升20*m点，对手克制自身时，自身攻击技能造成伤害增加40%*n（m=自身对对手的克制倍数，最高为2,n=对手对自身的克制倍数，最高为2；两项均满足时m、n为二者中的最大值）|[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身不处于能力提升状态则自身攻击+1、速度+1",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身克制对手时，自身攻击技能威力提升20*m点，对手克制自身时，自身攻击技能造成伤害增加40%*n（m=自身对对手的克制倍数，最高为2；n=对手对自身的克制倍数，最高为2；两项均满足时m、n为二者中的最大值）；回合开始时，若自身不处于能力提升状态则自身攻击+1、速度+1（boss无效）",
+        "kind": [
+          1,
+          11
+        ],
+        "petId": [
+          4882
+        ],
+        "specificId": null,
+        "effectId": 2490,
+        "iconId": 2069,
+        "Id": 2069,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，若对手不处于异常状态，自身攻击技能命中时为对手附加随机一种[color=#52a5f2]附属诅咒[/color]|[sprite name=dot4]对手每有一种异常状态，自身攻击技能命中时附加100点[color=#52a5f2]固定伤害[/color]",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "回合开始时，若对手不处于异常状态，自身攻击技能命中时为对手附加随机一种附属诅咒；对手每有一种异常状态，自身攻击技能命中时附加100点固定伤害（boss无效）",
+        "kind": [
+          18,
+          14
+        ],
+        "petId": [
+          4883
+        ],
+        "specificId": null,
+        "effectId": 2489,
+        "iconId": 2070,
+        "Id": 2070,
         "intensify": 0,
         "isAdv": 0,
         "label": 0,

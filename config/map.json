@@ -16952,16 +16952,39 @@
       "Ename": "Destination Reached",
       "name": "自在天飞船",
       "notes": "",
-      "sound": "2026wil_01",
+      "sound": "2026wil_04",
       "NPCID": null,
       "NPCXYZ": null,
       "PlayerXYZ": [
         340,
         430
       ],
-      "WildBossID": null,
-      "WildBossPoint": null,
-      "WildBossWeight": null,
+      "WildBossID": [
+        4884
+      ],
+      "WildBossPoint": [
+        60,
+        370,
+        190,
+        420,
+        220,
+        320,
+        330,
+        430,
+        500,
+        450,
+        650,
+        410,
+        820,
+        420,
+        960,
+        360,
+        720,
+        310
+      ],
+      "WildBossWeight": [
+        1
+      ],
       "enterMap": 0,
       "GroupID": 22003,
       "id": 2169,

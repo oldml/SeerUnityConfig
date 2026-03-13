@@ -1414,8 +1414,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4879,
-            "ImageID": 4879,
+            "ID": 4882,
+            "ImageID": 4882,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1425,8 +1425,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4880,
-            "ImageID": 4880,
+            "ID": 4883,
+            "ImageID": 4883,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1436,8 +1436,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4881,
-            "ImageID": 4881,
+            "ID": 4884,
+            "ImageID": 4884,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1447,10 +1447,10 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 808,
-            "ImageID": 1400808,
+            "ID": 810,
+            "ImageID": 1400810,
             "Label": 0,
-            "monID": 4622,
+            "monID": 4712,
             "type": 1
           },
           {
@@ -1458,10 +1458,10 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 809,
-            "ImageID": 1400809,
+            "ID": 811,
+            "ImageID": 1400811,
             "Label": 0,
-            "monID": 4816,
+            "monID": 3716,
             "type": 1
           }
         ]
@@ -30537,6 +30537,24 @@
         "Features": "阿拿拿平时生活在化乐天林海的树洞里，大家都说她性格有点古怪，但不管有什么事都能找她打听，真是个奇怪的小精灵。",
         "Target": "400020",
         "ID": 4881
+      },
+      {
+        "DefName": "阿波波",
+        "Features": "阿波波是拥有兽族基因的小精灵，性格活泼，思维单纯。它在化乐天林海中无忧无虑地生活，享受着欢乐的时光。",
+        "Target": "153201/869",
+        "ID": 4882
+      },
+      {
+        "DefName": "薇奥莱特",
+        "Features": "一位神秘的魔女，以恐惧为乐的她散发的邪恶气场难以让人靠近。",
+        "Target": "114055",
+        "ID": 4883
+      },
+      {
+        "DefName": "拓本-ε",
+        "Features": "拓本-ε是自在天的清洁机器人，据说它在最高功率下可以在一天内清洁完整个自在天。",
+        "Target": "400021",
+        "ID": 4884
       }
     ],
     "RecMintmark": {

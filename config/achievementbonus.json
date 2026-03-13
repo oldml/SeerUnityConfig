@@ -9583,6 +9583,22 @@
       "id": 1200,
       "rewardtype": 1,
       "Rule": 7
+    },
+    {
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "Branch": 166,
+      "id": 1201,
+      "rewardtype": 1,
+      "Rule": 32
+    },
+    {
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "Branch": 171,
+      "id": 1202,
+      "rewardtype": 1,
+      "Rule": 14
     }
   ]
 }

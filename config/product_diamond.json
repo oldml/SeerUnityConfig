@@ -237073,6 +237073,186 @@
         "price": 1,
         "productID": 262288,
         "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得精灵【阿波波】",
+        "itemID": [
+          1727874
+        ],
+        "price": 598,
+        "productID": 262289,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买每日挑战次数（阿波波）",
+        "itemID": [
+          1727875
+        ],
+        "price": 30,
+        "productID": 262290,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡简单关卡（阿波波）",
+        "itemID": [
+          1727876
+        ],
+        "price": 20,
+        "productID": 262291,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡困难关卡（阿波波）",
+        "itemID": [
+          1727877
+        ],
+        "price": 30,
+        "productID": 262292,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡地狱关卡（阿波波）",
+        "itemID": [
+          1727878
+        ],
+        "price": 40,
+        "productID": 262293,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买获得阿波波因子",
+        "itemID": [
+          1727879
+        ],
+        "price": 2,
+        "productID": 262294,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买【任性法则】皮肤",
+        "itemID": [
+          1727880
+        ],
+        "price": 398,
+        "productID": 262295,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买【薇星起航计划】游戏次数",
+        "itemID": [
+          1727881
+        ],
+        "price": 10,
+        "productID": 262296,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买游玩次数",
+        "itemID": [
+          1727882
+        ],
+        "price": 15,
+        "productID": 262297,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "全民惊喜礼包",
+        "itemID": [
+          1727884
+        ],
+        "price": 1,
+        "productID": 262298,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "基础培养礼包",
+        "itemID": [
+          1727885
+        ],
+        "price": 98,
+        "productID": 262299,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "极品培养礼包",
+        "itemID": [
+          1727886
+        ],
+        "price": 198,
+        "productID": 262300,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊培养礼包",
+        "itemID": [
+          1727887
+        ],
+        "price": 398,
+        "productID": 262301,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "2026年费用户购买薇奥莱特",
+        "itemID": [
+          1727888
+        ],
+        "price": 98,
+        "productID": 262302,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "VIP天数超过180天用户购买薇奥莱特",
+        "itemID": [
+          1727889
+        ],
+        "price": 198,
+        "productID": 262303,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "VIP天数超过90天用户购买薇奥莱特",
+        "itemID": [
+          1727890
+        ],
+        "price": 249,
+        "productID": 262304,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "VIP天数超过30天用户购买薇奥莱特",
+        "itemID": [
+          1727891
+        ],
+        "price": 449,
+        "productID": 262305,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "VIP天数超过1天用户购买薇奥莱特",
+        "itemID": [
+          1727892
+        ],
+        "price": 549,
+        "productID": 262306,
+        "vip": 1
       }
     ]
   }

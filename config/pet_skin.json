@@ -6921,7 +6921,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 18,
             "Type": 2,
             "Year": 0
           }
@@ -7407,7 +7407,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 18,
             "Type": 2,
             "Year": 0
           }
@@ -8721,7 +8721,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 18,
             "Type": 2,
             "Year": 0
           }
@@ -9315,7 +9315,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 16,
             "Type": 2,
             "Year": 0
           }
@@ -9387,7 +9387,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 18,
             "Type": 2,
             "Year": 0
           }
@@ -10125,7 +10125,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 18,
             "Type": 2,
             "Year": 0
           }
@@ -10593,7 +10593,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 16,
             "Type": 2,
             "Year": 0
           }
@@ -11457,7 +11457,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 16,
             "Type": 2,
             "Year": 0
           }
@@ -12519,7 +12519,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 18,
             "Type": 2,
             "Year": 0
           }
@@ -13995,7 +13995,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 16,
             "Type": 2,
             "Year": 0
           }
@@ -14211,7 +14211,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 16,
             "Type": 2,
             "Year": 0
           }
@@ -14330,8 +14330,8 @@
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "厉世天母·妙时天女",
         "SkinKind": [
           {
@@ -14343,13 +14343,13 @@
           }
         ],
         "ID": 798,
-        "Jumptarget": 114042,
+        "Jumptarget": 0,
         "MonID": 4872,
         "Type": 18
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "噬瞳之夜·空元行者",
         "SkinKind": [
           {
@@ -14361,85 +14361,85 @@
           }
         ],
         "ID": 799,
-        "Jumptarget": 114045,
+        "Jumptarget": 0,
         "MonID": 4586,
         "Type": 14
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "背嵬骁龙·帝天战佛",
         "SkinKind": [
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 17,
             "Type": 2,
             "Year": 0
           }
         ],
         "ID": 800,
-        "Jumptarget": 114046,
+        "Jumptarget": 0,
         "MonID": 3033,
         "Type": 7
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "寅堂金甲·大威势明王",
         "SkinKind": [
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 17,
             "Type": 2,
             "Year": 0
           }
         ],
         "ID": 801,
-        "Jumptarget": 114046,
+        "Jumptarget": 0,
         "MonID": 3237,
         "Type": 7
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "彩凤玄袍·大轮明王",
         "SkinKind": [
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 17,
             "Type": 2,
             "Year": 0
           }
         ],
         "ID": 802,
-        "Jumptarget": 114046,
+        "Jumptarget": 0,
         "MonID": 3576,
         "Type": 7
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "豫擘天督·御象灵尊",
         "SkinKind": [
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 17,
             "Type": 2,
             "Year": 0
           }
         ],
         "ID": 803,
-        "Jumptarget": 114046,
+        "Jumptarget": 0,
         "MonID": 4002,
         "Type": 7
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "瑞雪映灯·卡托娜",
         "SkinKind": [
           {
@@ -14451,13 +14451,13 @@
           }
         ],
         "ID": 804,
-        "Jumptarget": 114047,
+        "Jumptarget": 0,
         "MonID": 4345,
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "群星低语时·天启星魂",
         "SkinKind": [
           {
@@ -14469,13 +14469,13 @@
           }
         ],
         "ID": 805,
-        "Jumptarget": 114048,
+        "Jumptarget": 0,
         "MonID": 4677,
         "Type": 18
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "镇邪纳瑞·列奥尼达",
         "SkinKind": [
           {
@@ -14487,13 +14487,13 @@
           }
         ],
         "ID": 806,
-        "Jumptarget": 114049,
+        "Jumptarget": 0,
         "MonID": 4125,
         "Type": 7
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "上古炎兽",
         "SkinKind": [
           {
@@ -14505,7 +14505,7 @@
           }
         ],
         "ID": 807,
-        "Jumptarget": 2,
+        "Jumptarget": 0,
         "MonID": 4875,
         "Type": 0
       },
@@ -14517,7 +14517,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 18,
             "Type": 2,
             "Year": 0
           }
@@ -14535,7 +14535,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 18,
             "Type": 2,
             "Year": 0
           }
@@ -14544,6 +14544,42 @@
         "Jumptarget": 114054,
         "MonID": 4816,
         "Type": 9
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "任性法则·龙琰",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 18,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 810,
+        "Jumptarget": 114056,
+        "MonID": 4712,
+        "Type": 9
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "死神镰刀·该洛西斯",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 811,
+        "Jumptarget": 2,
+        "MonID": 3716,
+        "Type": 3
       }
     ]
   }

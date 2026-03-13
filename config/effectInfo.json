@@ -20800,7 +20800,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]使用时解除自身所处的异常状态，若自身处于[color=#f35555]算力限制[/color]则本次攻击无法造成伤害",
+        "analyze": "[sprite name=iconInherent]使用时解除自身所处的异常状态，若自身处于[color=#f35555]算力限制[/color]则本次攻击无法造成伤害",
         "info": "使用时解除自身所处的异常状态，若自身处于算力限制则本次攻击无法造成伤害",
         "key": "",
         "param": null,

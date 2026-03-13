@@ -18017,10 +18017,10 @@
                   },
                   {
                     "abtext": "防御+20，特防+20，速度+20，体力+90",
-                    "achName": "岁业祓除",
+                    "achName": "岁业拔除",
                     "Desc": "2026年春节活动中，购买妙时天女至尊礼包获得",
                     "Threshold": "29",
-                    "title": "岁业祓除",
+                    "title": "岁业拔除",
                     "titleColor": "0xFFFFFF",
                     "AbilityTitle": 1,
                     "AchievementPoint": 10,
@@ -18056,6 +18056,20 @@
                     "ID": 31,
                     "proicon": 1471,
                     "SpeNameBonus": 574
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "基因大师",
+                    "Desc": "在自在天飞船完成探索解密获得",
+                    "Threshold": "32",
+                    "title": "基因大师",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 32,
+                    "proicon": 1473,
+                    "SpeNameBonus": 576
                   }
                 ],
                 "ID": 166,
@@ -18246,6 +18260,20 @@
                     "hide": 0,
                     "ID": 13,
                     "proicon": 1468,
+                    "SpeNameBonus": 0
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "运动无极限",
+                    "Desc": "达成运动时光系列皮肤收集进度",
+                    "Threshold": "14",
+                    "title": "",
+                    "titleColor": "",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 14,
+                    "proicon": 1474,
                     "SpeNameBonus": 0
                   }
                 ],

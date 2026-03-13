@@ -119,6 +119,30 @@
       "sort": 98,
       "subtype": 0,
       "type": 15
+    },
+    {
+      "name": "运动时光",
+      "subtypename": "",
+      "id": 16,
+      "sort": 14,
+      "subtype": 0,
+      "type": 16
+    },
+    {
+      "name": "岁令万象",
+      "subtypename": "",
+      "id": 17,
+      "sort": 15,
+      "subtype": 0,
+      "type": 17
+    },
+    {
+      "name": "青春校园",
+      "subtypename": "",
+      "id": 18,
+      "sort": 16,
+      "subtype": 0,
+      "type": 18
     }
   ]
 }

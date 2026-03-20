@@ -9393,7 +9393,7 @@
           }
         ],
         "ID": 523,
-        "Jumptarget": 0,
+        "Jumptarget": 114059,
         "MonID": 3506,
         "Type": 9
       },
@@ -10131,7 +10131,7 @@
           }
         ],
         "ID": 564,
-        "Jumptarget": 0,
+        "Jumptarget": 114059,
         "MonID": 4329,
         "Type": 9
       },
@@ -12525,7 +12525,7 @@
           }
         ],
         "ID": 697,
-        "Jumptarget": 0,
+        "Jumptarget": 114059,
         "MonID": 4627,
         "Type": 9
       },
@@ -14580,6 +14580,42 @@
         "Jumptarget": 2,
         "MonID": 3716,
         "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "星际领航员·艾欧丽娅",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 13,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 812,
+        "Jumptarget": 114057,
+        "MonID": 3437,
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "燕归青野·莫妮卡",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 813,
+        "Jumptarget": 114058,
+        "MonID": 3711,
+        "Type": 18
       }
     ]
   }

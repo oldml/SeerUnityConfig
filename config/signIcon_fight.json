@@ -4088,7 +4088,7 @@
       {
         "className": "*",
         "dec": "百天浮世络",
-        "Des": "",
+        "Des": "自身免疫并反弹受到的异常状态，免疫受到的能力下降状态；自身额外拥有对方的通用特性，以此法获得的特性升至最高级、触发概率提升至99%且取消攻击技能类型要求",
         "frame": null,
         "NumDes": "剩余回合",
         "spDes": null,
@@ -4178,6 +4178,47 @@
         "showmonster": 0,
         "showtime": 0,
         "sort": 4
+      },
+      {
+        "className": "*",
+        "dec": "宁界之律",
+        "Des": "每有1道，自身25%免疫受到的异常状态、对手非同系攻击技能且受到的攻击伤害减少8%、攻击技能先制+1；最高5道，达到5道时道数不再变化，己方在场精灵按最优系别计算克制系数，场下精灵的体力、PP值均不会减少",
+        "frame": [
+          "0_0",
+          "1_1",
+          "2_2",
+          "3_3",
+          "4_4",
+          "5_5"
+        ],
+        "NumDes": "剩余道数",
+        "spDes": null,
+        "SpDes": "",
+        "spicon": null,
+        "sptips": null,
+        "tips": "宁界之律",
+        "id": 155,
+        "isShowNum": 1,
+        "showmonster": 3711,
+        "showtime": 0,
+        "sort": 1
+      },
+      {
+        "className": "*",
+        "dec": "琼华之庇",
+        "Des": "每有1道自身的PP值被清除时保留1点，触发成功则对手直到下回合结束先制效果失效；自身每有1个技能PP值为0，造成的攻击伤害额外提升8%，受到的攻击额外伤害减少4%；最高4层",
+        "frame": null,
+        "NumDes": "剩余道数",
+        "spDes": null,
+        "SpDes": "",
+        "spicon": null,
+        "sptips": null,
+        "tips": "琼华之庇",
+        "id": 156,
+        "isShowNum": 1,
+        "showmonster": 0,
+        "showtime": 0,
+        "sort": 1
       },
       {
         "className": "SignBuffView_1000",

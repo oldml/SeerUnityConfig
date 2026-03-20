@@ -132,7 +132,7 @@
       "WildBossPoint": null,
       "WildBossWeight": null,
       "enterMap": 1,
-      "GroupID": 0,
+      "GroupID": 10103,
       "id": 2004,
       "MapRatio": 0,
       "pic": 1
@@ -16874,7 +16874,7 @@
       "WildBossPoint": null,
       "WildBossWeight": null,
       "enterMap": 0,
-      "GroupID": 10103,
+      "GroupID": 0,
       "id": 2165,
       "MapRatio": 1,
       "pic": 2165

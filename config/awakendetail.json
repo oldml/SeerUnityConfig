@@ -938,6 +938,47 @@
         "ID": 23,
         "NewEffID": 2470,
         "OldEffID": 1715
+      },
+      {
+        "Advances": {
+          "AdvEffect": {
+            "Des": "",
+            "Id": 2072
+          },
+          "exMove": {
+            "ExtraMoves": 38319
+          },
+          "Race": {
+            "NewRace": [
+              175,
+              80,
+              118,
+              165,
+              118,
+              134
+            ],
+            "OldRace": [
+              167,
+              70,
+              115,
+              135,
+              113,
+              130
+            ]
+          },
+          "spMove": {
+            "SpMoves": [
+              29299,
+              38317,
+              38318
+            ]
+          },
+          "AdvType": 0,
+          "MonsterId": 3711
+        },
+        "ID": 24,
+        "NewEffID": 2492,
+        "OldEffID": 1287
       }
     ]
   }

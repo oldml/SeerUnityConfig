@@ -20964,7 +20964,7 @@
     {
       "answer": null,
       "deal": null,
-      "msg": "这个骨头大概是凯莫兽的头骨吧。竟然死在了绿洲边上，明明就差一点了，好可怜。\n不过它也不一定是渴死的吧？",
+      "msg": "这个骨头大概是凯莫兽的头骨吧。竟然死在了绿洲边上，明明就差一点了，好可怜。\r\n不过它也不一定是渴死的吧？",
       "dir": 0,
       "groupId": 639,
       "id": 2036,
@@ -22117,7 +22117,7 @@
     {
       "answer": null,
       "deal": null,
-      "msg": "嗯！家人们一溜烟就不见了，赛尔赛尔，帮帮我嘛！<font color=\"0xffd325\">一共有8只米鲁藏起来了，我已经搜集到了一些情报，如果没有头绪，就来找我聊聊吧！</font>\n如果能找到大家的话，人家就把精心制作的手作送给你！",
+      "msg": "嗯！家人们一溜烟就不见了，赛尔赛尔，帮帮我嘛！<font color=\"0xffd325\">一共有8只米鲁藏起来了，我已经搜集到了一些情报，如果没有头绪，就来找我聊聊吧！</font>\r\n如果能找到大家的话，人家就把精心制作的手作送给你！",
       "dir": 0,
       "groupId": 700,
       "id": 2148,
@@ -22146,7 +22146,7 @@
     {
       "answer": null,
       "deal": null,
-      "msg": "嗯！家人们一溜烟就不见了，赛尔赛尔，帮帮我嘛！<font color=\"0xffd325\">一共有8只米鲁藏起来了，我已经搜集到了一些情报，如果没有头绪，就来找人家聊聊吧！</font>\n如果能找到大家的话，人家就把精心制作的手作送给你！",
+      "msg": "嗯！家人们一溜烟就不见了，赛尔赛尔，帮帮我嘛！<font color=\"0xffd325\">一共有8只米鲁藏起来了，我已经搜集到了一些情报，如果没有头绪，就来找人家聊聊吧！</font>\r\n如果能找到大家的话，人家就把精心制作的手作送给你！",
       "dir": 0,
       "groupId": 701,
       "id": 2151,
@@ -24248,6 +24248,240 @@
       "dir": 0,
       "groupId": 807,
       "id": 2373,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "1号立牌对话（占位符）",
+      "dir": 0,
+      "groupId": 808,
+      "id": 2374,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "2号立牌对话（占位符）",
+      "dir": 0,
+      "groupId": 809,
+      "id": 2375,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "3号立牌对话（占位符）",
+      "dir": 0,
+      "groupId": 810,
+      "id": 2376,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "4号立牌对话（占位符）",
+      "dir": 0,
+      "groupId": 811,
+      "id": 2377,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "损坏立牌对话（占位符）",
+      "dir": 0,
+      "groupId": 812,
+      "id": 2378,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "玩家未获得通行卡（占位符）",
+      "dir": 0,
+      "groupId": 813,
+      "id": 2379,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "玩家已获得通行卡（占位符）",
+      "dir": 0,
+      "groupId": 814,
+      "id": 2380,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "玩家第一次交互宗座宫大门（占位符）",
+      "dir": 0,
+      "groupId": 815,
+      "id": 2381,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "当前地图未开放（占位符）",
+      "dir": 0,
+      "groupId": 816,
+      "id": 2382,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "大电梯已关闭（占位符）",
+      "dir": 0,
+      "groupId": 817,
+      "id": 2383,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "操作台密码输入错误（占位符）",
+      "dir": 0,
+      "groupId": 818,
+      "id": 2384,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "操作台密码输入正确（占位符）",
+      "dir": 0,
+      "groupId": 819,
+      "id": 2385,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "点击罐子1（占位符）",
+      "dir": 0,
+      "groupId": 820,
+      "id": 2386,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "点击罐子2（占位符）",
+      "dir": 0,
+      "groupId": 821,
+      "id": 2387,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "点击罐子3（占位符）",
+      "dir": 0,
+      "groupId": 822,
+      "id": 2388,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "点击罐子4（占位符）",
+      "dir": 0,
+      "groupId": 823,
+      "id": 2389,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "获取挖矿道具（占位符）",
+      "dir": 0,
+      "groupId": 824,
+      "id": 2390,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "循环对话（占位符）",
+      "dir": 0,
+      "groupId": 825,
+      "id": 2391,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "大电梯损坏了（占位符）",
+      "dir": 0,
+      "groupId": 826,
+      "id": 2392,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "熔炉未解锁（占位符）",
+      "dir": 0,
+      "groupId": 827,
+      "id": 2393,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "需要挖矿道具（占位符）",
+      "dir": 0,
+      "groupId": 828,
+      "id": 2394,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "通关熔炉玩法（占位符）",
+      "dir": 0,
+      "groupId": 829,
+      "id": 2395,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "熔炉已经损坏（占位符）",
+      "dir": 0,
+      "groupId": 830,
+      "id": 2396,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "信号塔完全攻略（占位符）",
+      "dir": 0,
+      "groupId": 831,
+      "id": 2397,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "物理后门小游戏开始（占位符）",
+      "dir": 0,
+      "groupId": 832,
+      "id": 2398,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "通关物理后门小游戏（占位符）",
+      "dir": 0,
+      "groupId": 833,
+      "id": 2399,
       "npcId": 11
     }
   ]

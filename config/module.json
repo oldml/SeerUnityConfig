@@ -4858,6 +4858,69 @@
       "currAppDo": 1,
       "id": 834,
       "isFullScreen": 1
+    },
+    {
+      "moduleName": "initiallyRoutePanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 835,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "movegameActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 836,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "skinsellstudentActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 837,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "spiderSolitaireGame_activity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 838,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "spiderSolitaireGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 839,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "aprilFoolsDaySkinWarmPanel",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 840,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "doluotaitan",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 841,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "stellarGift",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 842,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "pveEnterPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 843,
+      "isFullScreen": 1
     }
   ]
 }

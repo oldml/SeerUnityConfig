@@ -790,6 +790,46 @@
         "monster": 3729,
         "moves": 37693,
         "movetype": 1
+      },
+      {
+        "itemname": "完成精灵觉醒",
+        "movesname": "繁嚣此寂",
+        "id": 10081,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3711,
+        "moves": 29299,
+        "movetype": 2
+      },
+      {
+        "itemname": "完成精灵觉醒",
+        "movesname": "万籁悦性",
+        "id": 10082,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3711,
+        "moves": 38317,
+        "movetype": 2
+      },
+      {
+        "itemname": "完成精灵觉醒",
+        "movesname": "王·鸾歌余音",
+        "id": 10083,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3711,
+        "moves": 38318,
+        "movetype": 2
+      },
+      {
+        "itemname": "完成精灵觉醒",
+        "movesname": "王·圣语空心",
+        "id": 10084,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3711,
+        "moves": 38319,
+        "movetype": 1
       }
     ],
     "SpMoves": [

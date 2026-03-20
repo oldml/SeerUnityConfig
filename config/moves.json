@@ -219209,7 +219209,9 @@
             792,
             919
           ],
-          "SideEffectArg": null,
+          "SideEffectArg": [
+            1
+          ],
           "Accuracy": 95,
           "AtkNum": 0,
           "AtkType": 0,
@@ -463566,7 +463568,8 @@
           ],
           "SideEffectArg": [
             2,
-            3
+            3,
+            1
           ],
           "Accuracy": 95,
           "AtkNum": 0,
@@ -488966,8 +488969,12 @@
           "Name": "绝命镇魂歌",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
-          "SideEffect": null,
-          "SideEffectArg": null,
+          "SideEffect": [
+            62
+          ],
+          "SideEffectArg": [
+            2
+          ],
           "Accuracy": 95,
           "AtkNum": 0,
           "AtkType": 3,
@@ -490973,7 +490980,6 @@
             585,
             1924,
             532,
-            0,
             843
           ],
           "SideEffectArg": [
@@ -497488,7 +497494,8 @@
             2,
             0,
             0,
-            10
+            10,
+            1
           ],
           "Accuracy": 95,
           "AtkNum": 0,
@@ -525654,6 +525661,110 @@
           "Type": 8
         },
         {
+          "info": "开始免疫并反弹受到的异常状态了；开始令对手感到害怕；开始吸取对手能力等级了；开始了反击",
+          "Name": "惊惧迷影",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            191,
+            1255,
+            849,
+            817
+          ],
+          "SideEffectArg": [
+            4,
+            4,
+            70,
+            6,
+            3,
+            3,
+            3,
+            3
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29297,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；开始吸取对手的体力了；攻击变得更加凌厉了；出手变得更快了",
+          "Name": "复仇回响",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1283,
+            717,
+            58,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            4,
+            3,
+            2,
+            2,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29298,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；开始吸取对手体力了；致命一击变得更加犀利了",
+          "Name": "繁嚣此寂",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1283,
+            971,
+            2428,
+            1558,
+            2380
+          ],
+          "SideEffectArg": [
+            1,
+            4,
+            3,
+            2,
+            3,
+            100,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29299,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
           "info": "",
           "Name": "千星死魂灭",
           "FriendSideEffect": null,
@@ -529897,7 +530008,8 @@
             919
           ],
           "SideEffectArg": [
-            3
+            3,
+            1
           ],
           "Accuracy": 95,
           "AtkNum": 0,
@@ -533697,7 +533809,9 @@
             945,
             919
           ],
-          "SideEffectArg": null,
+          "SideEffectArg": [
+            1
+          ],
           "Accuracy": 95,
           "AtkNum": 0,
           "AtkType": 0,
@@ -536932,7 +537046,8 @@
           ],
           "SideEffectArg": [
             100,
-            2
+            2,
+            1
           ],
           "Accuracy": 95,
           "AtkNum": 0,
@@ -540724,7 +540839,8 @@
           "SideEffectArg": [
             0,
             2,
-            50
+            50,
+            1
           ],
           "Accuracy": 95,
           "AtkNum": 0,
@@ -606996,7 +607112,7 @@
         },
         {
           "info": "",
-          "Name": " 幻冰斩",
+          "Name": "幻冰斩",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
@@ -623962,7 +624078,9 @@
             980,
             919
           ],
-          "SideEffectArg": null,
+          "SideEffectArg": [
+            1
+          ],
           "Accuracy": 95,
           "AtkNum": 0,
           "AtkType": 0,
@@ -755883,6 +756001,197 @@
           "Power": 150,
           "Priority": 0,
           "Type": 6
+        },
+        {
+          "info": "",
+          "Name": "残月钩",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1508,
+            1978,
+            1240
+          ],
+          "SideEffectArg": [
+            100,
+            6,
+            3,
+            1,
+            3
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38314,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Type": 225
+        },
+        {
+          "info": "",
+          "Name": "满月扫",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1352,
+            882,
+            1019
+          ],
+          "SideEffectArg": [
+            1,
+            10,
+            300,
+            2
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38315,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 225
+        },
+        {
+          "info": "",
+          "Name": "灰翼葬魂斩",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            797,
+            1355,
+            1214,
+            67
+          ],
+          "SideEffectArg": [
+            2,
+            1,
+            300,
+            3
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38316,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 225
+        },
+        {
+          "info": "",
+          "Name": "万籁悦性",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            736,
+            879,
+            1485,
+            2429
+          ],
+          "SideEffectArg": [
+            2,
+            100,
+            8,
+            100,
+            40,
+            5
+          ],
+          "Accuracy": 100,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38317,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 90,
+          "Priority": 3,
+          "Type": 88
+        },
+        {
+          "info": "",
+          "Name": "王·鸾歌余音",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            881,
+            1164,
+            1054,
+            2427,
+            1909
+          ],
+          "SideEffectArg": [
+            40,
+            100,
+            50
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38318,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 88
+        },
+        {
+          "info": "",
+          "Name": "王·圣语空心",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            760,
+            2425,
+            2432,
+            2430,
+            2426
+          ],
+          "SideEffectArg": [
+            50,
+            1,
+            1,
+            25,
+            1,
+            1,
+            40
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38319,
+          "MaxPP": 0,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 88
         },
         {
           "info": "恢复自身一定体力",

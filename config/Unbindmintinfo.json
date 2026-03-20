@@ -1385,6 +1385,54 @@
         {
           "MintmarkID": 41462,
           "NeedConsumeNum": 218
+        },
+        {
+          "MintmarkID": 42674,
+          "NeedConsumeNum": 128
+        },
+        {
+          "MintmarkID": 42675,
+          "NeedConsumeNum": 128
+        },
+        {
+          "MintmarkID": 42676,
+          "NeedConsumeNum": 128
+        },
+        {
+          "MintmarkID": 42677,
+          "NeedConsumeNum": 128
+        },
+        {
+          "MintmarkID": 42678,
+          "NeedConsumeNum": 128
+        },
+        {
+          "MintmarkID": 42679,
+          "NeedConsumeNum": 128
+        },
+        {
+          "MintmarkID": 42680,
+          "NeedConsumeNum": 128
+        },
+        {
+          "MintmarkID": 42681,
+          "NeedConsumeNum": 128
+        },
+        {
+          "MintmarkID": 42682,
+          "NeedConsumeNum": 128
+        },
+        {
+          "MintmarkID": 42683,
+          "NeedConsumeNum": 128
+        },
+        {
+          "MintmarkID": 42684,
+          "NeedConsumeNum": 128
+        },
+        {
+          "MintmarkID": 42685,
+          "NeedConsumeNum": 128
         }
       ]
     }

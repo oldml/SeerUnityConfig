@@ -602,6 +602,21 @@
             "Unrestriction": 2,
             "Unweaken": 2,
             "Weaken": 0
+          },
+          {
+            "Name": "空定",
+            "Ctrl": 2,
+            "Dependent": 0,
+            "Derivation": 2,
+            "Efftype": 0,
+            "ID": 40,
+            "Restriction": 0,
+            "Unctrl": 0,
+            "Undependent": 2,
+            "Underivation": 0,
+            "Unrestriction": 2,
+            "Unweaken": 2,
+            "Weaken": 0
           }
         ],
         "Type": 0

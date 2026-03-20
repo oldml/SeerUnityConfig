@@ -241,6 +241,17 @@
       "monsterid": 3442,
       "order": 0,
       "type": 1
+    },
+    {
+      "Arg2": "4",
+      "LevelLock": "",
+      "name": "堕落泰坦",
+      "Arg1": 4,
+      "dataKey": 20,
+      "id": 23,
+      "monsterid": 3532,
+      "order": 0,
+      "type": 1
     }
   ]
 }

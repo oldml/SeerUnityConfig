@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "args": null,
+      "accumulate": 0,
+      "cd": 196864,
+      "id": 2621440,
+      "type": 32768000
+    },
+    {
+      "args": null,
+      "accumulate": 13107200,
+      "cd": 0,
+      "id": 2560000,
+      "type": 256
+    },
+    {
+      "args": null,
+      "accumulate": 256,
+      "cd": 0,
+      "id": 0,
+      "type": 0
+    },
+    {
+      "args": null,
+      "accumulate": 33554432,
+      "cd": 327680,
+      "id": 0,
+      "type": 0
+    },
+    {
+      "args": null,
+      "accumulate": 257,
+      "cd": 1,
+      "id": 0,
+      "type": 500
+    },
+    {
+      "args": [],
+      "accumulate": 3,
+      "cd": 0,
+      "id": 65792,
+      "type": 327680
+    },
+    {
+      "args": null,
+      "accumulate": 0,
+      "cd": 51200,
+      "id": 1024,
+      "type": 512
+    },
+    {
+      "args": null,
+      "accumulate": 128000,
+      "cd": 67174400,
+      "id": 50331648,
+      "type": -201326592
+    },
+    {
+      "args": null,
+      "accumulate": 167772161,
+      "cd": 3276800,
+      "id": 0,
+      "type": 327680000
+    }
+  ]
+}

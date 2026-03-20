@@ -3860,6 +3860,28 @@
       "portrait": "qdz1_fg",
       "id": 351,
       "scale": 1
+    },
+    {
+      "CharacterID": "huie",
+      "emoji": "huie_01,huie_02,huie_03,huie_04,huie_05",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-120,70",
+      "name": "灰蛾",
+      "portrait": "huie_fg",
+      "id": 352,
+      "scale": 1
+    },
+    {
+      "CharacterID": "vi3",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,-50",
+      "name": "薇",
+      "portrait": "vi3_fg",
+      "id": 353,
+      "scale": 1
     }
   ]
 }

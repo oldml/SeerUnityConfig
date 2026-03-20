@@ -237253,6 +237253,166 @@
         "price": 549,
         "productID": 262306,
         "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得精灵【灰蛾】",
+        "itemID": [
+          1727893
+        ],
+        "price": 798,
+        "productID": 262307,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买每日挑战次数（灰蛾）",
+        "itemID": [
+          1727894
+        ],
+        "price": 30,
+        "productID": 262308,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡简单关卡（灰蛾）",
+        "itemID": [
+          1727895
+        ],
+        "price": 20,
+        "productID": 262309,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡困难关卡（灰蛾）",
+        "itemID": [
+          1727896
+        ],
+        "price": 30,
+        "productID": 262310,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡地狱关卡（灰蛾）",
+        "itemID": [
+          1727897
+        ],
+        "price": 40,
+        "productID": 262311,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买获得灰蛾因子",
+        "itemID": [
+          1727898
+        ],
+        "price": 2,
+        "productID": 262312,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "激活圣光莫妮卡皮肤部件",
+        "itemID": [
+          1727899
+        ],
+        "price": 30,
+        "productID": 262313,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "一键获得蝶梦夜曲·倪克斯",
+        "itemID": [
+          1727900
+        ],
+        "price": 398,
+        "productID": 262314,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "一键获得泳池健将·波塞冬",
+        "itemID": [
+          1727901
+        ],
+        "price": 398,
+        "productID": 262315,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "一键获得元素支配·赫斯提亚",
+        "itemID": [
+          1727902
+        ],
+        "price": 398,
+        "productID": 262316,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买游戏次数",
+        "itemID": [
+          1727903
+        ],
+        "price": 10,
+        "productID": 262317,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "补足所需的星光单价",
+        "itemID": [
+          1727904
+        ],
+        "price": 1,
+        "productID": 262318,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "0403测试道具",
+        "itemID": [
+          1727906
+        ],
+        "price": 10,
+        "productID": 262319,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买星芒",
+        "itemID": [
+          1727908
+        ],
+        "price": 25,
+        "productID": 262320,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买碧影结晶",
+        "itemID": [
+          1727910
+        ],
+        "price": 1,
+        "productID": 262321,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "一键觉醒圣光莫妮卡",
+        "itemID": [
+          1727911
+        ],
+        "price": 598,
+        "productID": 262322,
+        "vip": 1
       }
     ]
   }

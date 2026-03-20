@@ -8400,6 +8400,20 @@
                     "ID": 7,
                     "proicon": 1472,
                     "SpeNameBonus": 575
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "乐园的天魔",
+                    "Desc": "通关S-灰蛾【地狱难度】关卡获得",
+                    "Threshold": "8",
+                    "title": "乐园的天魔",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 8,
+                    "proicon": 1475,
+                    "SpeNameBonus": 577
                   }
                 ],
                 "ID": 172,

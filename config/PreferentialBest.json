@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "canchoose": "",
+      "price": "60|150|150|150|80|30",
+      "recommendlearningability": "1|5",
+      "skinname": "ShengTingReayPreferentialBestPanelSkin",
+      "id": 1,
+      "iscommon": 0,
+      "petid": 3406,
+      "recommendnature": 1
+    },
+    {
+      "canchoose": "",
+      "price": "",
+      "recommendlearningability": "1|5",
+      "skinname": "CommonBestPanelSkin",
+      "id": 2,
+      "iscommon": 0,
+      "petid": 3301,
+      "recommendnature": 1
+    }
+  ]
+}

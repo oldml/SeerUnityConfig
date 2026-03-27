@@ -3533,7 +3533,7 @@
     },
     {
       "CharacterID": "mhwt3",
-      "emoji": "mhwt1_01,mhwt1_02,mhwt1_03,mhwt1_04,mhwt1_05",
+      "emoji": "mhwt1_01,mhwt1_02,mhwt1_03,mhwt1_04,mhwt1_05,mhwt1_06,,mhwt1_07,,mhwt1_08",
       "emojixy": "",
       "head": "",
       "initialposition": "-50,45",
@@ -3881,6 +3881,17 @@
       "name": "薇",
       "portrait": "vi3_fg",
       "id": 353,
+      "scale": 1
+    },
+    {
+      "CharacterID": "qdz3",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "拓本-ε",
+      "portrait": "qdz3_fg",
+      "id": 354,
       "scale": 1
     }
   ]

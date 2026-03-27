@@ -14510,8 +14510,8 @@
         "Type": 0
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "风纪监察·希拓",
         "SkinKind": [
           {
@@ -14523,13 +14523,13 @@
           }
         ],
         "ID": 808,
-        "Jumptarget": 114053,
+        "Jumptarget": 0,
         "MonID": 4622,
         "Type": 9
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "文墨风吟·伊芙",
         "SkinKind": [
           {
@@ -14541,13 +14541,13 @@
           }
         ],
         "ID": 809,
-        "Jumptarget": 114054,
+        "Jumptarget": 0,
         "MonID": 4816,
         "Type": 9
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "任性法则·龙琰",
         "SkinKind": [
           {
@@ -14559,13 +14559,13 @@
           }
         ],
         "ID": 810,
-        "Jumptarget": 114056,
+        "Jumptarget": 0,
         "MonID": 4712,
         "Type": 9
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "死神镰刀·该洛西斯",
         "SkinKind": [
           {
@@ -14577,7 +14577,7 @@
           }
         ],
         "ID": 811,
-        "Jumptarget": 2,
+        "Jumptarget": 0,
         "MonID": 3716,
         "Type": 3
       },
@@ -14616,6 +14616,114 @@
         "Jumptarget": 114058,
         "MonID": 3711,
         "Type": 18
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "巨樽之灵·斯摩亚蒂",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 19,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 814,
+        "Jumptarget": 114060,
+        "MonID": 3541,
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "怪盗气球·尤纳斯",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 19,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 815,
+        "Jumptarget": 114060,
+        "MonID": 4717,
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "月圆之夜·月华",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 19,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 816,
+        "Jumptarget": 114060,
+        "MonID": 4462,
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "捣蛋魅影·米修莉",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 19,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 817,
+        "Jumptarget": 114060,
+        "MonID": 4808,
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "了不起的莱茵哈特",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 19,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 818,
+        "Jumptarget": 114060,
+        "MonID": 3516,
+        "Type": 18
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "莫妮卡",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 819,
+        "Jumptarget": 2,
+        "MonID": 3711,
+        "Type": 0
       }
     ]
   }

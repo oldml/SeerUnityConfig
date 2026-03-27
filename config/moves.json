@@ -756194,6 +756194,165 @@
           "Type": 88
         },
         {
+          "info": "",
+          "Name": "能力汲取",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1928,
+            842,
+            1106
+          ],
+          "SideEffectArg": [
+            3,
+            50,
+            300,
+            100,
+            1
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38320,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Type": 1
+        },
+        {
+          "info": "",
+          "Name": "环境同化",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            191,
+            1600,
+            717
+          ],
+          "SideEffectArg": [
+            4,
+            100,
+            1,
+            2,
+            3,
+            100,
+            1,
+            4,
+            3,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38321,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "",
+          "Name": "细胞分裂",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1669,
+            39,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            25,
+            100,
+            1,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38322,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 1
+        },
+        {
+          "info": "",
+          "Name": "毒株催生",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            2220,
+            2117,
+            1805
+          ],
+          "SideEffectArg": [
+            1,
+            27
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38323,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "",
+          "Name": "生机衰弱波",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1808,
+            1838,
+            1668,
+            897
+          ],
+          "SideEffectArg": [
+            50,
+            2,
+            15,
+            1,
+            50
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38324,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 1
+        },
+        {
           "info": "恢复自身一定体力",
           "Name": "浓尘翻涌",
           "FriendSideEffect": null,

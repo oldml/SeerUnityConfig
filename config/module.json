@@ -4921,6 +4921,174 @@
       "currAppDo": 1,
       "id": 843,
       "isFullScreen": 1
+    },
+    {
+      "moduleName": "linesGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 844,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "aprilFoolsDaySkinSellPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 845,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getdyspanelMain",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 846,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "seafishingActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 847,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "NewSkinStore",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 848,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "autocard",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1000,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autocardSelectFirstPetPanel",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 1001,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autocardRulePanel",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 1002,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autocardActivityCenter",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1003,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autocardactivationCode",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 1004,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autocardActivateEntrance",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 1005,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autocardFristAppoint",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 1006,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autocardaprilFoolsDayPanel",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 1007,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autocardInvitation",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 1008,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autocardHandBook",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1009,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autocardGetPet",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 1011,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autocardGetCardSkin",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 1012,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "puchuShowActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1013,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "puchuShow",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1014,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "chaosTias",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1015,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "chaosTias",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1016,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "laidashenqientry",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1017,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "signinForMintmark",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1018,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "rheaSkin",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1019,
+      "isFullScreen": 1
     }
   ]
 }

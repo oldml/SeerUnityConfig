@@ -1,0 +1,76 @@
+{
+  "root": {
+    "item": [
+      {
+        "firstRewardID": "1_3_1400352",
+        "firstRewardNum": "10000_ 10000_10000",
+        "index": "KS1",
+        "intro": "第一节的故事介绍",
+        "name": "第一节",
+        "nextSection": "2",
+        "chapterID": 1,
+        "id": 1
+      },
+      {
+        "firstRewardID": "1_3_1400352",
+        "firstRewardNum": "10000_ 10000_10000",
+        "index": "KS2",
+        "intro": "第二节的故事介绍",
+        "name": "第二节",
+        "nextSection": "3",
+        "chapterID": 1,
+        "id": 2
+      },
+      {
+        "firstRewardID": "1_3_1400352",
+        "firstRewardNum": "10000_ 10000_10000",
+        "index": "KS3",
+        "intro": "第三节的故事介绍",
+        "name": "第三节",
+        "nextSection": "4_6",
+        "chapterID": 1,
+        "id": 3
+      },
+      {
+        "firstRewardID": "1_3_1400352",
+        "firstRewardNum": "10000_ 10000_10000",
+        "index": "KS3-1",
+        "intro": "第三节支线1的故事介绍",
+        "name": "第三节支线1",
+        "nextSection": "5",
+        "chapterID": 1,
+        "id": 4
+      },
+      {
+        "firstRewardID": "1_3_1400352",
+        "firstRewardNum": "10000_ 10000_10000",
+        "index": "KS3-2",
+        "intro": "第三节支线2的故事介绍",
+        "name": "第三节支线2",
+        "nextSection": "",
+        "chapterID": 1,
+        "id": 5
+      },
+      {
+        "firstRewardID": "1_3_1400352",
+        "firstRewardNum": "10000_ 10000_10000",
+        "index": "KS4",
+        "intro": "第四节的故事介绍",
+        "name": "第四节",
+        "nextSection": "7",
+        "chapterID": 1,
+        "id": 6
+      },
+      {
+        "firstRewardID": "1_3_1400352",
+        "firstRewardNum": "10000_ 10000_10000",
+        "index": "KS5",
+        "intro": "第五节的故事介绍",
+        "name": "第五节",
+        "nextSection": "",
+        "chapterID": 1,
+        "id": 7
+      }
+    ]
+  }
+}

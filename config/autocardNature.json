@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "name": "草",
+      "picID": "grass",
+      "id": 1
+    },
+    {
+      "name": "水",
+      "picID": "water",
+      "id": 2
+    },
+    {
+      "name": "火",
+      "picID": "fire",
+      "id": 3
+    },
+    {
+      "name": "电",
+      "picID": "electric",
+      "id": 5
+    },
+    {
+      "name": "地面",
+      "picID": "ground",
+      "id": 7
+    },
+    {
+      "name": "无",
+      "picID": "none",
+      "id": 999
+    }
+  ]
+}

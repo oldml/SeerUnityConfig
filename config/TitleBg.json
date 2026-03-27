@@ -1,0 +1,42 @@
+{
+  "root": {
+    "item": [
+      {
+        "finishTime": "2023_12_29 00:00:00",
+        "go": "2_199",
+        "introduction": "2023年费专属昵称框",
+        "name": "2023年费昵称框",
+        "id": 1,
+        "imageId": 1,
+        "isObtain": 1
+      },
+      {
+        "finishTime": "2023_04_29 00:00:00",
+        "go": "2_167",
+        "introduction": "11111",
+        "name": "测试昵称框2",
+        "id": 2,
+        "imageId": 2,
+        "isObtain": 1
+      },
+      {
+        "finishTime": "",
+        "go": "",
+        "introduction": "22222",
+        "name": "测试昵称框3",
+        "id": 3,
+        "imageId": 3,
+        "isObtain": 0
+      },
+      {
+        "finishTime": "",
+        "go": "",
+        "introduction": "33333",
+        "name": "测试昵称框4",
+        "id": 4,
+        "imageId": 4,
+        "isObtain": 0
+      }
+    ]
+  }
+}

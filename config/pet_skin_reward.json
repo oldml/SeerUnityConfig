@@ -505,6 +505,28 @@
       "subtype": 0,
       "userbit": 14,
       "userinfo": 122602
+    },
+    {
+      "reward": "1_300065_2",
+      "id": 47,
+      "param": 2,
+      "redbadge": 131209,
+      "skintype": 19,
+      "stainfo": -1691706596,
+      "subtype": 0,
+      "userbit": 15,
+      "userinfo": 122602
+    },
+    {
+      "reward": "11_223_1",
+      "id": 48,
+      "param": 5,
+      "redbadge": 131209,
+      "skintype": 19,
+      "stainfo": -1691706595,
+      "subtype": 0,
+      "userbit": 16,
+      "userinfo": 122602
     }
   ]
 }

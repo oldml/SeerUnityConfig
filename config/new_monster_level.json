@@ -25074,7 +25074,7 @@
     {
       "hide": "",
       "image": "3446",
-      "isnew": "",
+      "isnew": "1",
       "param": "",
       "quality": "",
       "recommendTime": "",
@@ -25082,7 +25082,9 @@
       "upgradeHide": "",
       "upgradeNew": "2026_03_13 10:00:00",
       "isrecommend": null,
-      "menutype": null,
+      "menutype": [
+        3
+      ],
       "petTag": null,
       "upgrade": [
         3
@@ -25090,7 +25092,7 @@
       "difficult": 0,
       "fightType": 0,
       "id": 852,
-      "moduleid": 0,
+      "moduleid": -150110,
       "monsterid": 3446,
       "sort": 100,
       "upgradeSort": 10,
@@ -25634,7 +25636,7 @@
     {
       "hide": "",
       "image": "4885",
-      "isnew": "1",
+      "isnew": "",
       "param": "{Design:237}",
       "quality": "s",
       "recommendTime": "",
@@ -25687,6 +25689,62 @@
       "sort": 2,
       "upgradeSort": 0,
       "upgradeSource": 1,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "3422",
+      "isnew": "1",
+      "param": "",
+      "quality": "",
+      "recommendTime": "",
+      "statlog": "",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        3
+      ],
+      "petTag": null,
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 0,
+      "id": 874,
+      "moduleid": -150109,
+      "monsterid": 3422,
+      "sort": 100,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4886",
+      "isnew": "1",
+      "param": "{Design:238}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精灵因子关卡系统功能,阿华华,点击进入关卡_点击兑换",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": null,
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 875,
+      "moduleid": 151,
+      "monsterid": 4886,
+      "sort": 1,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
       "weekly": 0,
       "weeklyAdd": 0,
       "showTag": false

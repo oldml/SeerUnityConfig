@@ -237376,7 +237376,7 @@
       },
       {
         "icon": "",
-        "name": "0403测试道具",
+        "name": "关卡提前解锁",
         "itemID": [
           1727906
         ],
@@ -237412,6 +237412,146 @@
         ],
         "price": 598,
         "productID": 262322,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买巨樽印章",
+        "itemID": [
+          1727913
+        ],
+        "price": 1,
+        "productID": 262323,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买皮肤【了不起的莱茵哈特】单价",
+        "itemID": [
+          1727914
+        ],
+        "price": 1,
+        "productID": 262324,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买皮肤【捣蛋魅影·米修莉】单价",
+        "itemID": [
+          1727915
+        ],
+        "price": 1,
+        "productID": 262325,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买皮肤【怪盗气球·尤纳斯】单价",
+        "itemID": [
+          1727916
+        ],
+        "price": 1,
+        "productID": 262326,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买【怪盗行动】组合礼包单价",
+        "itemID": [
+          1727917
+        ],
+        "price": 1,
+        "productID": 262327,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买游戏次数",
+        "itemID": [
+          1727922
+        ],
+        "price": 10,
+        "productID": 262328,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得精灵【阿华华】",
+        "itemID": [
+          1727923
+        ],
+        "price": 598,
+        "productID": 262329,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买每日挑战次数（阿华华）",
+        "itemID": [
+          1727924
+        ],
+        "price": 30,
+        "productID": 262330,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡简单关卡（阿华华）",
+        "itemID": [
+          1727925
+        ],
+        "price": 20,
+        "productID": 262331,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡困难关卡（阿华华）",
+        "itemID": [
+          1727926
+        ],
+        "price": 30,
+        "productID": 262332,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡地狱关卡（阿华华）",
+        "itemID": [
+          1727927
+        ],
+        "price": 40,
+        "productID": 262333,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买获得阿华华因子",
+        "itemID": [
+          1727928
+        ],
+        "price": 2,
+        "productID": 262334,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "测试道具占位1",
+        "itemID": [
+          1727932
+        ],
+        "price": 1,
+        "productID": 262335,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "测试道具占位2",
+        "itemID": [
+          1727933
+        ],
+        "price": 1,
+        "productID": 262336,
         "vip": 1
       }
     ]

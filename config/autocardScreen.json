@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "jumpToLink": "",
+      "source": "invite",
+      "duration": 5,
+      "endTime": 1781748000,
+      "id": 1,
+      "jumpTo": 510002,
+      "sort": 1,
+      "startTime": 1772294400
+    },
+    {
+      "jumpToLink": "https://www.soboten.com/ticketclient/index.html?sysNum=b392d3478d2b49519bb7f5001f98af84&deployId=6479398025e547f08528a71119d63c32",
+      "source": "feedback",
+      "duration": 5,
+      "endTime": 1781748000,
+      "id": 2,
+      "jumpTo": 0,
+      "sort": 2,
+      "startTime": 1772294400
+    }
+  ]
+}

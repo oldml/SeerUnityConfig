@@ -1,67 +1,110 @@
 {
   "data": [
     {
+      "anim": "",
+      "args": [
+        40,
+        500,
+        200
+      ],
+      "accumulate": 0,
+      "before": 0,
+      "cd": 10000,
+      "id": 1,
+      "type": 1
+    },
+    {
+      "anim": "",
       "args": null,
       "accumulate": 0,
-      "cd": 196864,
-      "id": 2621440,
-      "type": 32768000
-    },
-    {
-      "args": null,
-      "accumulate": 13107200,
+      "before": 0,
       "cd": 0,
-      "id": 2560000,
-      "type": 256
+      "id": 2,
+      "type": 5
     },
     {
-      "args": null,
-      "accumulate": 256,
-      "cd": 0,
-      "id": 0,
-      "type": 0
+      "anim": "",
+      "args": [
+        1
+      ],
+      "accumulate": 0,
+      "before": 0,
+      "cd": 500,
+      "id": 3,
+      "type": 2
     },
     {
-      "args": null,
-      "accumulate": 33554432,
-      "cd": 327680,
-      "id": 0,
-      "type": 0
+      "anim": "",
+      "args": [
+        5
+      ],
+      "accumulate": 0,
+      "before": 0,
+      "cd": 200,
+      "id": 4,
+      "type": 2
     },
     {
-      "args": null,
-      "accumulate": 257,
-      "cd": 1,
-      "id": 0,
-      "type": 500
+      "anim": "",
+      "args": [
+        3,
+        500,
+        10,
+        50
+      ],
+      "accumulate": 500,
+      "before": 0,
+      "cd": 5000,
+      "id": 5,
+      "type": 3
     },
     {
-      "args": [],
-      "accumulate": 3,
-      "cd": 0,
-      "id": 65792,
-      "type": 327680
+      "anim": "",
+      "args": [
+        4,
+        1000,
+        20,
+        50
+      ],
+      "accumulate": 500,
+      "before": 0,
+      "cd": 5000,
+      "id": 6,
+      "type": 3
     },
     {
+      "anim": "",
+      "args": [
+        6,
+        2000,
+        10
+      ],
+      "accumulate": 0,
+      "before": 500,
+      "cd": 10000,
+      "id": 7,
+      "type": 4
+    },
+    {
+      "anim": "",
+      "args": [
+        15,
+        500
+      ],
+      "accumulate": 0,
+      "before": 0,
+      "cd": 1000,
+      "id": 8,
+      "type": 6
+    },
+    {
+      "anim": "",
       "args": null,
       "accumulate": 0,
-      "cd": 51200,
-      "id": 1024,
-      "type": 512
-    },
-    {
-      "args": null,
-      "accumulate": 128000,
-      "cd": 67174400,
-      "id": 50331648,
-      "type": -201326592
-    },
-    {
-      "args": null,
-      "accumulate": 167772161,
-      "cd": 3276800,
-      "id": 0,
-      "type": 327680000
+      "before": 0,
+      "cd": 0,
+      "id": 9,
+      "type": 7
     }
   ]
 }

@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "Name": "阿华华因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400563,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "灰蛾因子",
       "catID": 24,
       "Hide": 0,

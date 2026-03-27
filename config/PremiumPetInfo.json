@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "CouponsInfo": "1_1_1",
+      "id": 1,
+      "UpDvConsumeNum": 100,
+      "UpEvsConsumeNum": 100,
+      "UpLevelConsumeNum": 100,
+      "UpMaxhpadjConsumeNum": 100,
+      "UpNatureConsumeNum": 100,
+      "UpNewseConsumeNum": 100
+    }
+  ]
+}

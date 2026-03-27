@@ -427,6 +427,24 @@
       "priority": 17,
       "truepos": 1,
       "type": 2
+    },
+    {
+      "controller": "",
+      "dest": "AutoCard",
+      "finishtime": "2030/12/12 10:00:00",
+      "image": "autocard",
+      "name": "",
+      "statlog": "",
+      "reddotid": null,
+      "dailyRed": 0,
+      "id": 26,
+      "iOSreviewshow": 0,
+      "isdeadline": 0,
+      "isshow": 1,
+      "jumptarget": 0,
+      "priority": 20,
+      "truepos": 1,
+      "type": 2
     }
   ]
 }

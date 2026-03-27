@@ -1,0 +1,571 @@
+{
+  "data": [
+    {
+      "isPic": "",
+      "msg": "被选中的勇士，你终于来啦！",
+      "dir": 1,
+      "groupId": 1,
+      "id": 1,
+      "npcId": 1,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "罗杰船长，你找我来有什么事吗？\\n哎呀，这几位难道是……战神联盟的各位！？",
+      "dir": 2,
+      "groupId": 2,
+      "id": 2,
+      "npcId": 11,
+      "Panel": 3
+    },
+    {
+      "isPic": "",
+      "msg": "嗨！你好呀小赛尔！",
+      "dir": 1,
+      "groupId": 2,
+      "id": 3,
+      "npcId": 3,
+      "Panel": 1
+    },
+    {
+      "isPic": "",
+      "msg": "哇！雷伊！可是你怎么变成了这个样子呀？",
+      "dir": 2,
+      "groupId": 2,
+      "id": 4,
+      "npcId": 11,
+      "Panel": 3
+    },
+    {
+      "isPic": "",
+      "msg": "战神联盟前几日与大暗黑天展开决战，虽然将天邪龙王击溃，缺也被他们打伤，形态发生了退化。",
+      "dir": 1,
+      "groupId": 2,
+      "id": 5,
+      "npcId": 1,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "如今正是正邪战争的紧要关头，我们需要最为勇敢的战士，与战神联盟并肩作战！",
+      "dir": 1,
+      "groupId": 2,
+      "id": 6,
+      "npcId": 1,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "维护宇宙和平是我们的使命！\\n小赛尔你，有没有信心？",
+      "dir": 1,
+      "groupId": 2,
+      "id": 7,
+      "npcId": 1,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "我一定会做到的！",
+      "dir": 2,
+      "groupId": 2,
+      "id": 8,
+      "npcId": 11,
+      "Panel": 3
+    },
+    {
+      "isPic": "",
+      "msg": "小赛尔先别急，在战斗开始前还有一个很重要的事情要做，就是${white}确认首发精灵${red}哦！${white}",
+      "dir": 1,
+      "groupId": 3,
+      "id": 9,
+      "npcId": 3,
+      "Panel": 1
+    },
+    {
+      "isPic": "",
+      "msg": "第一次战斗让我先来教你一些基础知识。",
+      "dir": 1,
+      "groupId": 4,
+      "id": 10,
+      "npcId": 3,
+      "Panel": 1
+    },
+    {
+      "isPic": "kezhi1",
+      "msg": "",
+      "dir": 1,
+      "groupId": 5,
+      "id": 11,
+      "npcId": 3,
+      "Panel": 1
+    },
+    {
+      "isPic": "kezhi2",
+      "msg": "",
+      "dir": 1,
+      "groupId": 5,
+      "id": 12,
+      "npcId": 3,
+      "Panel": 1
+    },
+    {
+      "isPic": "kezhi3",
+      "msg": "",
+      "dir": 1,
+      "groupId": 5,
+      "id": 13,
+      "npcId": 3,
+      "Panel": 1
+    },
+    {
+      "isPic": "jinglingbeibao",
+      "msg": "",
+      "dir": 1,
+      "groupId": 5,
+      "id": 14,
+      "npcId": 3,
+      "Panel": 1
+    },
+    {
+      "isPic": "",
+      "msg": "精灵右上角显示了和敌人的克制关系",
+      "dir": 1,
+      "groupId": 6,
+      "id": 15,
+      "npcId": 3,
+      "Panel": 1
+    },
+    {
+      "isPic": "",
+      "msg": "缪斯${red}的属性克制敌人\\n这场战斗换她上场吧！${white}",
+      "dir": 1,
+      "groupId": 6,
+      "id": 16,
+      "npcId": 3,
+      "Panel": 1
+    },
+    {
+      "isPic": "",
+      "msg": "让敌人瞧瞧我们的实力！",
+      "dir": 1,
+      "groupId": 7,
+      "id": 17,
+      "npcId": 3,
+      "Panel": 1
+    },
+    {
+      "isPic": "",
+      "msg": "合理地释放技能，能让我们百战不殆",
+      "dir": 1,
+      "groupId": 8,
+      "id": 18,
+      "npcId": 3,
+      "Panel": 1
+    },
+    {
+      "isPic": "",
+      "msg": "让派特博士先给小赛尔你介绍下技能详情吧。",
+      "dir": 1,
+      "groupId": 8,
+      "id": 19,
+      "npcId": 3,
+      "Panel": 1
+    },
+    {
+      "isPic": "",
+      "msg": "越早在战斗中使用${white}属性技能${red}强化能力，越容易取得胜利哦${white}",
+      "dir": 1,
+      "groupId": 9,
+      "id": 20,
+      "npcId": 3,
+      "Panel": 1
+    },
+    {
+      "isPic": "",
+      "msg": "使用${white}雷神之心${red}强化属性，然后一击制敌吧！${white}",
+      "dir": 1,
+      "groupId": 9,
+      "id": 21,
+      "npcId": 3,
+      "Panel": 1
+    },
+    {
+      "isPic": "",
+      "msg": "没想到敌人居然和我们采用了相同地策略，使用了属性技能",
+      "dir": 1,
+      "groupId": 10,
+      "id": 22,
+      "npcId": 3,
+      "Panel": 1
+    },
+    {
+      "isPic": "",
+      "msg": "但是别急，敌人强化属性后，我们可以用${white}消除状态的技能${red}消除他的强化状态！${white}",
+      "dir": 1,
+      "groupId": 10,
+      "id": 23,
+      "npcId": 3,
+      "Panel": 1
+    },
+    {
+      "isPic": "",
+      "msg": "不好！体力进入危险线了！",
+      "dir": 1,
+      "groupId": 11,
+      "id": 24,
+      "npcId": 3,
+      "Panel": 1
+    },
+    {
+      "isPic": "",
+      "msg": "在没有体力恢复技能的时候，可以直接使用背包中的体力恢复道具\\n如果需要购买道具，可以去${white}商城${red}看看。${white}",
+      "dir": 1,
+      "groupId": 11,
+      "id": 25,
+      "npcId": 3,
+      "Panel": 1
+    },
+    {
+      "isPic": "",
+      "msg": "敌人现在已经是属性强化状态了",
+      "dir": 1,
+      "groupId": 12,
+      "id": 26,
+      "npcId": 3,
+      "Panel": 1
+    },
+    {
+      "isPic": "",
+      "msg": "直接使用${white}雷暴切${red}教训他吧！${white}",
+      "dir": 1,
+      "groupId": 12,
+      "id": 27,
+      "npcId": 3,
+      "Panel": 1
+    },
+    {
+      "isPic": "",
+      "msg": "基础的战斗要点掌握了吗？",
+      "dir": 1,
+      "groupId": 13,
+      "id": 28,
+      "npcId": 3,
+      "Panel": 1
+    },
+    {
+      "isPic": "",
+      "msg": "灵活运用${white}克制关系/技能/道具${red}，一鼓作气攻克后面三关吧！${white}",
+      "dir": 1,
+      "groupId": 13,
+      "id": 29,
+      "npcId": 3,
+      "Panel": 1
+    },
+    {
+      "isPic": "",
+      "msg": "呼，终于完成了基础试炼",
+      "dir": 1,
+      "groupId": 14,
+      "id": 30,
+      "npcId": 3,
+      "Panel": 1
+    },
+    {
+      "isPic": "",
+      "msg": "我已经感觉到力量在涌现啦！",
+      "dir": 1,
+      "groupId": 14,
+      "id": 31,
+      "npcId": 3,
+      "Panel": 1
+    },
+    {
+      "isPic": "",
+      "msg": "恭喜你小赛尔！\\n雷小伊终于进化成雷伊了！",
+      "dir": 1,
+      "groupId": 15,
+      "id": 32,
+      "npcId": 2,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "先给雷伊提升更多属性\\n面对后续的试炼才能更加从容。",
+      "dir": 1,
+      "groupId": 15,
+      "id": 33,
+      "npcId": 2,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "基础提升是提高精灵属性最快捷的途径，让我们试试吧",
+      "dir": 1,
+      "groupId": 16,
+      "id": 34,
+      "npcId": 2,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "升级方式有两种\\n一是用经验升级\\n二是使用经验药剂直接升至指定等级",
+      "dir": 1,
+      "groupId": 16,
+      "id": 35,
+      "npcId": 2,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "刚才试炼获得了经验药剂，直接使用吧！",
+      "dir": 1,
+      "groupId": 16,
+      "id": 36,
+      "npcId": 2,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "雷伊学会了新的强力技能\\n快去将它替换上。",
+      "dir": 1,
+      "groupId": 17,
+      "id": 37,
+      "npcId": 2,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "天赋可以在精灵达到100级时赋予精灵对应天赋的属性加成",
+      "dir": 1,
+      "groupId": 18,
+      "id": 38,
+      "npcId": 2,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "雷伊刚才升到了100级，给他使用天赋药剂提高天赋吧！",
+      "dir": 1,
+      "groupId": 18,
+      "id": 39,
+      "npcId": 2,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "接下来是学习力\\n不同精灵根据它的技能类型需要将学习力分配到不同属性上",
+      "dir": 1,
+      "groupId": 19,
+      "id": 40,
+      "npcId": 2,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "每只精灵最多能分配510点学习力给各项属性\\n每项属性最多分配255点哦。",
+      "dir": 1,
+      "groupId": 19,
+      "id": 41,
+      "npcId": 2,
+      "Panel": 2
+    },
+    {
+      "isPic": "xuexili",
+      "msg": "",
+      "dir": 1,
+      "groupId": 20,
+      "id": 42,
+      "npcId": 2,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "最后一项基础提升是体力上限了，它可以直接增加精灵最大体力值",
+      "dir": 1,
+      "groupId": 21,
+      "id": 43,
+      "npcId": 2,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "在对战中这几十点体力上限可能会引起极限翻盘的情况哦。",
+      "dir": 1,
+      "groupId": 21,
+      "id": 44,
+      "npcId": 2,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "下面的试炼会更加困难",
+      "dir": 1,
+      "groupId": 22,
+      "id": 45,
+      "npcId": 4,
+      "Panel": 1
+    },
+    {
+      "isPic": "",
+      "msg": "但是记得仔细观察${white}挑战技巧${red}和${white}提示信息${red}\\n相信小赛尔你能一口气通关进阶篇试炼！${white}",
+      "dir": 1,
+      "groupId": 22,
+      "id": 46,
+      "npcId": 4,
+      "Panel": 1
+    },
+    {
+      "isPic": "",
+      "msg": "马上就是最终试炼了",
+      "dir": 1,
+      "groupId": 23,
+      "id": 47,
+      "npcId": 2,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "用刚才获得的道具再给雷伊进行一次进阶提升吧！",
+      "dir": 1,
+      "groupId": 23,
+      "id": 48,
+      "npcId": 2,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "精灵在出生时会随机产生一种性格，并${white}对属性产生影响${red}",
+      "dir": 1,
+      "groupId": 24,
+      "id": 49,
+      "npcId": 2,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "养成合适的性格，对一只精灵来说至关重要",
+      "dir": 1,
+      "groupId": 24,
+      "id": 50,
+      "npcId": 2,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "这次我们用${white}性格重塑胶囊Ω${red}对雷伊的性格进行重塑吧${white}",
+      "dir": 1,
+      "groupId": 24,
+      "id": 51,
+      "npcId": 2,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "恭喜你小赛尔！${white}\\n固执的性格${red}可以将雷伊的实力大幅提高，可以说是最适合他的性格${white}",
+      "dir": 1,
+      "groupId": 25,
+      "id": 52,
+      "npcId": 2,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "如果不知道每只精灵适合什么样的性格，可以去${white}图鉴${red}中查看他的${white}推荐培养配置${red}哦。${white}",
+      "dir": 1,
+      "groupId": 25,
+      "id": 53,
+      "npcId": 2,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "精灵特性是一只精灵重要的实力组成部分",
+      "dir": 1,
+      "groupId": 26,
+      "id": 54,
+      "npcId": 2,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "每一只精灵都可以通过${white}开启特性${red}来增强实力！${white}",
+      "dir": 1,
+      "groupId": 26,
+      "id": 55,
+      "npcId": 2,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "后续还能获得强化特性的材料，让你的专属特性更加强大！",
+      "dir": 1,
+      "groupId": 26,
+      "id": 56,
+      "npcId": 2,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "最后，把${white}雷伊的专属刻印${red}装备上，让雷伊的实力更上一层楼！${white}",
+      "dir": 1,
+      "groupId": 27,
+      "id": 57,
+      "npcId": 2,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "离进化为完全形态还有一步之遥，灵活运营至今学到的战斗技巧一定能通过试炼！",
+      "dir": 1,
+      "groupId": 28,
+      "id": 58,
+      "npcId": 5,
+      "Panel": 1
+    },
+    {
+      "isPic": "",
+      "msg": "加油小赛尔！",
+      "dir": 1,
+      "groupId": 28,
+      "id": 59,
+      "npcId": 5,
+      "Panel": 1
+    },
+    {
+      "isPic": "",
+      "msg": "捕捉宠物能将宠物直接加入到你的队伍中",
+      "dir": 1,
+      "groupId": 29,
+      "id": 60,
+      "npcId": 2,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "我来教教你捕捉的诀窍",
+      "dir": 1,
+      "groupId": 29,
+      "id": 61,
+      "npcId": 2,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "哦对了，捕捉精灵需要消耗${white}精灵胶囊${red}\\n我先送你10个超级精灵胶囊，去试试吧。${white}",
+      "dir": 1,
+      "groupId": 30,
+      "id": 62,
+      "npcId": 2,
+      "Panel": 2
+    },
+    {
+      "isPic": "",
+      "msg": "超级精灵胶囊要好好利用哦\\n运用我教你的诀窍，一定能成功捕捉。",
+      "dir": 1,
+      "groupId": 31,
+      "id": 63,
+      "npcId": 2,
+      "Panel": 2
+    }
+  ]
+}

@@ -537,7 +537,7 @@
       "tagtype": 109,
       "tobe": 0,
       "type": 1,
-      "upstory": 1,
+      "upstory": 0,
       "writing": 1003
     },
     {
@@ -701,6 +701,33 @@
       "type": 2,
       "upstory": 0,
       "writing": 4001
+    },
+    {
+      "bgm": "2026wil_01",
+      "chaptername": "燃烧的伊甸",
+      "enddate": "",
+      "imagebg": "image1022_bg",
+      "imagelist": "image1022_list",
+      "imagestage": "image1015_stage",
+      "img": "chapter_img1022",
+      "intro": "乐园下的不谐阴影逐渐揭开，我们该如何寻得文明的出路。",
+      "logo": "image1015_logo",
+      "previouslyon": "",
+      "startdate": "",
+      "tagname": "虚妄乐园",
+      "writingimg": "writing1003_img",
+      "writingname": "黄金的万象",
+      "branch": 0,
+      "id": 1022,
+      "needchapter": 1015,
+      "recordid": 27,
+      "redbadge": 0,
+      "tagopen": 0,
+      "tagtype": 109,
+      "tobe": 0,
+      "type": 1,
+      "upstory": 1,
+      "writing": 1003
     }
   ]
 }

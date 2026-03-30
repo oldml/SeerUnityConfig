@@ -1037,6 +1037,15 @@
     },
     {
       "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "入场：刷新1次商店，刷新的精灵牌获得+a/+b",
+      "id": 10122,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "",
       "object": "魔法",
       "param": "a",
       "paramDes": "获得a枚金币",

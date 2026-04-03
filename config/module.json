@@ -5089,6 +5089,55 @@
       "currAppDo": 1,
       "id": 1019,
       "isFullScreen": 1
+    },
+    {
+      "moduleName": "bulletTimeGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1020,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getlymwzkspanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 849,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getNewFightCloth",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 850,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "rheaObtainPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 851,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "rheaObtainPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 852,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "carrygame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 853,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "diceExpandGame",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 854,
+      "isFullScreen": 0
     }
   ]
 }

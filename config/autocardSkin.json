@@ -1,11 +1,11 @@
 {
   "data": [
     {
-      "name": "name",
-      "skinName": "空",
-      "contentId": 1,
-      "id": 1,
-      "series": 0,
+      "name": "card_50005",
+      "skinName": "抽象大师",
+      "contentId": 41,
+      "id": 50005,
+      "series": 1,
       "type": 1
     }
   ]

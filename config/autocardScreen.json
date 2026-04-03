@@ -7,7 +7,7 @@
       "endTime": 1781748000,
       "id": 1,
       "jumpTo": 510002,
-      "sort": 1,
+      "sort": 2,
       "startTime": 1772294400
     },
     {
@@ -17,7 +17,17 @@
       "endTime": 1781748000,
       "id": 2,
       "jumpTo": 0,
-      "sort": 2,
+      "sort": 3,
+      "startTime": 1772294400
+    },
+    {
+      "jumpToLink": "",
+      "source": "activity_1",
+      "duration": 5,
+      "endTime": 1781748000,
+      "id": 3,
+      "jumpTo": 510003,
+      "sort": 1,
       "startTime": 1772294400
     }
   ]

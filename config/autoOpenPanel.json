@@ -623,6 +623,18 @@
       "id": 53,
       "moduleId": 804,
       "state": 1
+    },
+    {
+      "actionName": "瑞亚完全体",
+      "controller": "AutoOpenByFrontendValue",
+      "endTime": "2026_04_17 10:00:00",
+      "param1": "RheaObtainPOP",
+      "param2": "",
+      "param3": "",
+      "startTime": "2026_04_03 10:00:00",
+      "id": 54,
+      "moduleId": 852,
+      "state": 1
     }
   ]
 }

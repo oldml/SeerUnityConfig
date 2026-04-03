@@ -2380,6 +2380,20 @@
                     "ID": 23,
                     "proicon": 1466,
                     "SpeNameBonus": 570
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "乐园放逐",
+                    "Desc": "完成主线【乐园放逐】获得",
+                    "Threshold": "24",
+                    "title": "乐园放逐",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 24,
+                    "proicon": 1477,
+                    "SpeNameBonus": 579
                   }
                 ],
                 "ID": 161,
@@ -8414,6 +8428,20 @@
                     "ID": 8,
                     "proicon": 1475,
                     "SpeNameBonus": 577
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "和谐之化身",
+                    "Desc": "通关S-托勒斯【地狱难度】关卡获得",
+                    "Threshold": "9",
+                    "title": "和谐之化身",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 9,
+                    "proicon": 1480,
+                    "SpeNameBonus": 582
                   }
                 ],
                 "ID": 172,
@@ -18058,10 +18086,10 @@
                   },
                   {
                     "abtext": "防御+20，特防+20，速度+20，体力+90",
-                    "achName": "岁业祓除",
+                    "achName": "岁业拔除",
                     "Desc": "2026年春节活动中，购买妙时天女至尊礼包获得",
                     "Threshold": "29",
-                    "title": "岁业祓除",
+                    "title": "岁业拔除",
                     "titleColor": "0xFFFFFF",
                     "AbilityTitle": 1,
                     "AchievementPoint": 10,
@@ -18319,6 +18347,43 @@
                   }
                 ],
                 "ID": 171,
+                "isShowPro": 0,
+                "IsSingle": 0
+              },
+              {
+                "_text": "",
+                "Desc": "限定分类10",
+                "Rule": [
+                  {
+                    "abtext": "",
+                    "achName": "果实品鉴家",
+                    "Desc": "在化乐天林海完成探索解密",
+                    "Threshold": "1",
+                    "title": "品鉴达人",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 5,
+                    "hide": 0,
+                    "ID": 1,
+                    "proicon": 1478,
+                    "SpeNameBonus": 580
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "知晓故事之人",
+                    "Desc": "在化乐天林海完成探索解密",
+                    "Threshold": "2",
+                    "title": "故事达人",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 5,
+                    "hide": 0,
+                    "ID": 2,
+                    "proicon": 1479,
+                    "SpeNameBonus": 581
+                  }
+                ],
+                "ID": 176,
                 "isShowPro": 0,
                 "IsSingle": 0
               }

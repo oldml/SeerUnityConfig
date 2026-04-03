@@ -1489,6 +1489,16 @@
       "id": 149,
       "scale": 1,
       "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "启迪者S451",
+      "portrait": "qdz2_fg",
+      "CharacterID": 101,
+      "id": 150,
+      "scale": 1,
+      "silhouette": 0
     }
   ]
 }

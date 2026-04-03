@@ -202,7 +202,7 @@
       "effectIcon": "1",
       "object": "卡牌",
       "param": "a_b_c",
-      "paramDes": "商店结束时，若左右相邻的精灵为a系精灵则永久获得+b/+c",
+      "paramDes": "商店结束时，与a系精灵相邻则永久获得+b/+c",
       "id": 10023,
       "IsDeathEffect": 0,
       "IsPlaceEffect": 0
@@ -211,7 +211,7 @@
       "effectIcon": "1",
       "object": "卡牌",
       "param": "a_b_c_d",
-      "paramDes": "战斗开始时，若左右相邻的精灵为a系精灵则使同排b系精灵获得+c/+d",
+      "paramDes": "战斗开始时，与a系精灵则使同排b系精灵获得+c/+d",
       "id": 10024,
       "IsDeathEffect": 0,
       "IsPlaceEffect": 0
@@ -292,7 +292,7 @@
       "effectIcon": "1",
       "object": "卡牌",
       "param": "a_b_c",
-      "paramDes": "商店结束时，每有1只a系精灵相邻则自身永久获得+b/+c",
+      "paramDes": "商店结束时，每有1只其他a系精灵相邻则自身永久获得+b/+c",
       "id": 10034,
       "IsDeathEffect": 0,
       "IsPlaceEffect": 0
@@ -507,8 +507,8 @@
     {
       "effectIcon": "1",
       "object": "卡牌",
-      "param": "a_b_c",
-      "paramDes": "攻击时若自身与a系精灵相邻则获得b/c",
+      "param": "a_b_c_d",
+      "paramDes": "攻击时若自身与a系精灵相邻使自身和符合要求的精灵是否永久获得(b:1攻击永久、2:血量永久、3:全部永久)+c/+d",
       "id": 10063,
       "IsDeathEffect": 0,
       "IsPlaceEffect": 0
@@ -570,8 +570,8 @@
     {
       "effectIcon": "2",
       "object": "卡牌",
-      "param": "a",
-      "paramDes": "阵亡：使己方生命值最高的a系精灵获得自身攻击值",
+      "param": "a_b",
+      "paramDes": "阵亡：使相邻的a系精灵获得b倍自身攻击值",
       "id": 10070,
       "IsDeathEffect": 1,
       "IsPlaceEffect": 0
@@ -886,7 +886,7 @@
       "effectIcon": "1",
       "object": "玩家",
       "param": "a",
-      "paramDes": "商店开始时，获得1张对方指定精灵卡(a)，只能有效1次",
+      "paramDes": "商店开始时，获得1张对方指定精灵卡(a)原始复制，只能有效1次",
       "id": 10105,
       "IsDeathEffect": 0,
       "IsPlaceEffect": 0
@@ -1043,6 +1043,15 @@
       "id": 10122,
       "IsDeathEffect": 0,
       "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "攻击时若自身与a系精灵相邻则是否永久(b:1攻击永久、2:血量永久、3:全部永久)+b/+c",
+      "id": 10123,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
     },
     {
       "effectIcon": "",

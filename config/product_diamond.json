@@ -237553,6 +237553,276 @@
         "price": 1,
         "productID": 262336,
         "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "测试道具占位3",
+        "itemID": [
+          1727934
+        ],
+        "price": 10,
+        "productID": 262337,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得精灵【托勒斯】",
+        "itemID": [
+          1727938
+        ],
+        "price": 798,
+        "productID": 262338,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买每日挑战次数（托勒斯）",
+        "itemID": [
+          1727939
+        ],
+        "price": 30,
+        "productID": 262339,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡简单关卡（托勒斯）",
+        "itemID": [
+          1727940
+        ],
+        "price": 20,
+        "productID": 262340,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡困难关卡（托勒斯）",
+        "itemID": [
+          1727941
+        ],
+        "price": 30,
+        "productID": 262341,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡地狱关卡（托勒斯）",
+        "itemID": [
+          1727942
+        ],
+        "price": 40,
+        "productID": 262342,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买获得托勒斯因子",
+        "itemID": [
+          1727943
+        ],
+        "price": 2,
+        "productID": 262343,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得慈辉永颂·瑞亚",
+        "itemID": [
+          1727944
+        ],
+        "price": 998,
+        "productID": 262344,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "进化获得慈辉永颂·瑞亚",
+        "itemID": [
+          1727945
+        ],
+        "price": 898,
+        "productID": 262345,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得花间晴昼·瑞亚",
+        "itemID": [
+          1727946
+        ],
+        "price": 498,
+        "productID": 262346,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得精灵【空元行者】",
+        "itemID": [
+          1727947
+        ],
+        "price": 998,
+        "productID": 262347,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得刻印【告命之典】",
+        "itemID": [
+          1727948
+        ],
+        "price": 248,
+        "productID": 262348,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得刻印【归元诗匣】",
+        "itemID": [
+          1727949
+        ],
+        "price": 248,
+        "productID": 262349,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得称号【调律者】",
+        "itemID": [
+          1727950
+        ],
+        "price": 128,
+        "productID": 262350,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得皮肤【临川·空元行者】",
+        "itemID": [
+          1727951
+        ],
+        "price": 198,
+        "productID": 262351,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得皮肤【极弈天下·空元行者】",
+        "itemID": [
+          1727952
+        ],
+        "price": 498,
+        "productID": 262352,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "抽取1次2024年包月神宠",
+        "itemID": [
+          1727953
+        ],
+        "price": 98,
+        "productID": 262353,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "追赶1天签到进度",
+        "itemID": [
+          1727954
+        ],
+        "price": 10,
+        "productID": 262354,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "一键获得圣芒佑界套装",
+        "itemID": [
+          1727955
+        ],
+        "price": 398,
+        "productID": 262355,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "优惠获得圣芒佑界套装",
+        "itemID": [
+          1727956
+        ],
+        "price": 348,
+        "productID": 262356,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "VIP限时返场空灵之刃",
+        "itemID": [
+          1727957
+        ],
+        "price": 198,
+        "productID": 262357,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "VIP限时返场巴鲁格",
+        "itemID": [
+          1727958
+        ],
+        "price": 198,
+        "productID": 262358,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "VIP限时返场风凌雪",
+        "itemID": [
+          1727959
+        ],
+        "price": 98,
+        "productID": 262359,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买拓本大进攻游戏次数",
+        "itemID": [
+          1727960
+        ],
+        "price": 10,
+        "productID": 262360,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "测试道具占位7",
+        "itemID": [
+          1727961
+        ],
+        "price": 300,
+        "productID": 262361,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "测试道具占位8",
+        "itemID": [
+          1727962
+        ],
+        "price": 300,
+        "productID": 262362,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "补充原原液",
+        "itemID": [
+          1727963
+        ],
+        "price": 15,
+        "productID": 262363,
+        "vip": 1
       }
     ]
   }

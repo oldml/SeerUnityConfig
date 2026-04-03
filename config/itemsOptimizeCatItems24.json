@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "Name": "阿特洛波斯因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400566,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "初诞之薇因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400565,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "托勒斯因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400564,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "阿华华因子",
       "catID": 24,
       "Hide": 0,

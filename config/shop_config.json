@@ -3068,6 +3068,42 @@
             "item": [
               {
                 "checkBuy": "",
+                "name": "圣芒佑界",
+                "tip": "",
+                "checkown": [
+                  1301154,
+                  1301155,
+                  1301156,
+                  1301157
+                ],
+                "itemID": [
+                  1301154,
+                  1301155,
+                  1301156,
+                  1301157
+                ],
+                "coins": 0,
+                "exchangeId": 0,
+                "excludeSearch": 0,
+                "gold": 0,
+                "hide": 0,
+                "malldiscount": 0,
+                "mintMark": 0,
+                "MonsterID": 0,
+                "moveID": 0,
+                "POPID": 0,
+                "price": 398,
+                "productID": 262355,
+                "productType": 1,
+                "skinId": 0,
+                "tip2": 0,
+                "tip3": 0,
+                "type": 26,
+                "usenew": 55,
+                "vip": 1
+              },
+              {
+                "checkBuy": "",
                 "name": "漆黑天使",
                 "tip": "",
                 "checkown": [
@@ -4557,6 +4593,42 @@
             "cls": "com.robot.module.app.newShop.vo.ShopSubMenuVo",
             "countID": "0x05212059",
             "item": [
+              {
+                "checkBuy": "",
+                "name": "圣芒佑界",
+                "tip": "",
+                "checkown": [
+                  1301154,
+                  1301155,
+                  1301156,
+                  1301157
+                ],
+                "itemID": [
+                  1301154,
+                  1301155,
+                  1301156,
+                  1301157
+                ],
+                "coins": 0,
+                "exchangeId": 0,
+                "excludeSearch": 0,
+                "gold": 0,
+                "hide": 0,
+                "malldiscount": 0,
+                "mintMark": 0,
+                "MonsterID": 0,
+                "moveID": 0,
+                "POPID": 0,
+                "price": 398,
+                "productID": 262355,
+                "productType": 1,
+                "skinId": 0,
+                "tip2": 0,
+                "tip3": 0,
+                "type": 26,
+                "usenew": 55,
+                "vip": 1
+              },
               {
                 "checkBuy": "",
                 "name": "漆黑天使",

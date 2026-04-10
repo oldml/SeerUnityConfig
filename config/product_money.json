@@ -470,6 +470,26 @@
         "price": 6,
         "productID": 200067,
         "vip": 1
+      },
+      {
+        "name": "4月风尚月历",
+        "itemID": [
+          1727974
+        ],
+        "gold": 1,
+        "price": 30,
+        "productID": 200068,
+        "vip": 1
+      },
+      {
+        "name": "5月风尚月历",
+        "itemID": [
+          1727975
+        ],
+        "gold": 1,
+        "price": 30,
+        "productID": 200069,
+        "vip": 1
       }
     ]
   }

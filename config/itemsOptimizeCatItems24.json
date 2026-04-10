@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "Name": "B-12因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400567,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "阿特洛波斯因子",
       "catID": 24,
       "Hide": 0,

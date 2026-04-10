@@ -16938,32 +16938,9 @@
         400,
         900
       ],
-      "WildBossID": [
-        4893
-      ],
-      "WildBossPoint": [
-        108,
-        880,
-        470,
-        880,
-        1020,
-        720,
-        960,
-        900,
-        230,
-        380,
-        500,
-        320,
-        850,
-        310,
-        1320,
-        340,
-        670,
-        610
-      ],
-      "WildBossWeight": [
-        1
-      ],
+      "WildBossID": null,
+      "WildBossPoint": null,
+      "WildBossWeight": null,
       "enterMap": 0,
       "GroupID": 22003,
       "id": 2168,
@@ -17013,6 +16990,32 @@
       "id": 2169,
       "MapRatio": 1,
       "pic": 2169
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "波卢卡星地表",
+      "notes": "",
+      "sound": "boruca01_bgm",
+      "NPCID": [
+        305
+      ],
+      "NPCXYZ": [
+        1120,
+        200
+      ],
+      "PlayerXYZ": [
+        220,
+        290
+      ],
+      "WildBossID": null,
+      "WildBossPoint": null,
+      "WildBossWeight": null,
+      "enterMap": 0,
+      "GroupID": 22004,
+      "id": 2170,
+      "MapRatio": 1,
+      "pic": 2170
     }
   ]
 }

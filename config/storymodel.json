@@ -3863,7 +3863,7 @@
     },
     {
       "CharacterID": "huie",
-      "emoji": "huie_01,huie_02,huie_03,huie_04,huie_05",
+      "emoji": "huie_01,huie_02,huie_03,huie_04,huie_05,huie_06",
       "emojixy": "",
       "head": "",
       "initialposition": "-120,70",
@@ -3892,6 +3892,94 @@
       "name": "拓本-ε",
       "portrait": "qdz3_fg",
       "id": 354,
+      "scale": 1
+    },
+    {
+      "CharacterID": "qdz2",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "启迪者S451",
+      "portrait": "qdz2_fg",
+      "id": 355,
+      "scale": 1
+    },
+    {
+      "CharacterID": "b12",
+      "emoji": "b12_01,b12_02",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "B-12",
+      "portrait": "b12_fg",
+      "id": 356,
+      "scale": 1
+    },
+    {
+      "CharacterID": "servitor1",
+      "emoji": "servitor1_01,servitor1_02",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "奴工",
+      "portrait": "servitor1_fg",
+      "id": 357,
+      "scale": 1
+    },
+    {
+      "CharacterID": "servitor2",
+      "emoji": "servitor2_01,servitor2_02",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "奴工",
+      "portrait": "servitor2_fg",
+      "id": 358,
+      "scale": 1
+    },
+    {
+      "CharacterID": "asl",
+      "emoji": "asl_01,asl_02,asl_03,asl_04",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,80",
+      "name": "安瑟伦",
+      "portrait": "asl_fg",
+      "id": 359,
+      "scale": 1
+    },
+    {
+      "CharacterID": "labt",
+      "emoji": "labt_01,labt_02,labt_03",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-132,60",
+      "name": "莱布缇",
+      "portrait": "labt_fg",
+      "id": 360,
+      "scale": 1
+    },
+    {
+      "CharacterID": "acolyte",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "圣仆",
+      "portrait": "acolyte_fg",
+      "id": 361,
+      "scale": 1
+    },
+    {
+      "CharacterID": "pilgrim",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "机械哨兵",
+      "portrait": "pilgrim_fg",
+      "id": 362,
       "scale": 1
     }
   ]

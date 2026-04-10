@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "oncereward": [
+        1,
+        1727937,
+        1,
+        1,
+        1727935,
+        30
+      ],
+      "taskreward": [
+        1,
+        1727935,
+        2
+      ],
+      "endtime": 1777564799,
+      "id": 1,
+      "itemID": 1727974,
+      "onsaleprice": 30,
+      "price": 68,
+      "productID": 200068,
+      "rewardtime": 1778860799,
+      "starttime": 1775786400,
+      "userinfo1": 401001,
+      "userinfo2": 401003,
+      "userinfo3": 351001,
+      "value": 15
+    },
+    {
+      "oncereward": [
+        1,
+        1727937,
+        1,
+        1,
+        1727935,
+        30
+      ],
+      "taskreward": [
+        1,
+        1727935,
+        2
+      ],
+      "endtime": 1780243199,
+      "id": 2,
+      "itemID": 1727975,
+      "onsaleprice": 30,
+      "price": 68,
+      "productID": 200069,
+      "rewardtime": 1781539199,
+      "starttime": 1777564800,
+      "userinfo1": 401002,
+      "userinfo2": 401004,
+      "userinfo3": 351002,
+      "value": 15
+    }
+  ]
+}

@@ -4954,6 +4954,23 @@
       "offsetY": 0,
       "scaleX": 0.7,
       "scaleY": 0.7
+    },
+    {
+      "name": "B-12",
+      "pic": "4890",
+      "triggerinfo": "",
+      "FuncParam": [
+        834
+      ],
+      "bit": 0,
+      "FuncParamSpecial": 0,
+      "FuncType": 3,
+      "id": 305,
+      "modelType": 0,
+      "offsetX": 0,
+      "offsetY": 0,
+      "scaleX": 0.7,
+      "scaleY": 0.7
     }
   ]
 }

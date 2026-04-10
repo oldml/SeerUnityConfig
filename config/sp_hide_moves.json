@@ -1932,6 +1932,16 @@
         "monster": 4024,
         "moves": 38294,
         "movetype": 2
+      },
+      {
+        "itemname": "丹心影",
+        "movesname": "天驳百洲禁",
+        "id": 110,
+        "item": 1727966,
+        "itemnumber": 1,
+        "monster": 4354,
+        "moves": 38348,
+        "movetype": 1
       }
     ]
   }

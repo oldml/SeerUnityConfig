@@ -439516,7 +439516,6 @@
           "SideEffect": [
             48,
             47,
-            0,
             681,
             843
           ],
@@ -526312,6 +526311,124 @@
           "CritRate": 0,
           "ID": 29316,
           "MaxPP": 10,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "开始免疫并反弹受到的异常状态；获得了护盾",
+          "Name": "信息窃取",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            191,
+            1937,
+            1561
+          ],
+          "SideEffectArg": [
+            4,
+            300,
+            200,
+            1
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29317,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；开始恢复体力了；出手变得更快了",
+          "Name": "破釜突围",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1326,
+            615,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            3,
+            400,
+            3,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29318,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "开始免疫受到的异常状态了；特防、防御开始提升了",
+          "Name": "集聚硬化",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            48,
+            165
+          ],
+          "SideEffectArg": [
+            3,
+            3,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29319,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "开始恢复体力了",
+          "Name": "隐雾作战",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            972,
+            762
+          ],
+          "SideEffectArg": [
+            1,
+            3,
+            50
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29320,
+          "MaxPP": 5,
           "MonID": 0,
           "MustHit": 1,
           "ordinary": 0,
@@ -757416,6 +757533,183 @@
           "Type": 12
         },
         {
+          "info": "",
+          "Name": "气雾缓冲",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1869,
+            724
+          ],
+          "SideEffectArg": [
+            300,
+            3,
+            100,
+            4
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38343,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Type": 37
+        },
+        {
+          "info": "",
+          "Name": "密计脱身",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1782,
+            1281,
+            1068
+          ],
+          "SideEffectArg": [
+            1,
+            1
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38344,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 37
+        },
+        {
+          "info": "",
+          "Name": "重甲爆破拳",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1545,
+            1219,
+            1700
+          ],
+          "SideEffectArg": [
+            1
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38345,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 37
+        },
+        {
+          "info": "",
+          "Name": "尘霾散布",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            766,
+            535
+          ],
+          "SideEffectArg": [
+            2,
+            400,
+            3
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38346,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Type": 7
+        },
+        {
+          "info": "",
+          "Name": "灰烬冲击波",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            2157,
+            713
+          ],
+          "SideEffectArg": [
+            20
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38347,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 7
+        },
+        {
+          "info": "",
+          "Name": "天驳百洲禁",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            2439,
+            2438,
+            1788,
+            2440,
+            1128
+          ],
+          "SideEffectArg": [
+            100,
+            9,
+            100,
+            31,
+            50,
+            100,
+            28,
+            30,
+            50,
+            2,
+            1
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38348,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 109
+        },
+        {
           "info": "恢复自身一定体力",
           "Name": "浓尘翻涌",
           "FriendSideEffect": null,
@@ -757446,10 +757740,13 @@
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
-            2385
+            2442
           ],
           "SideEffectArg": [
-            1
+            100,
+            0,
+            100,
+            0
           ],
           "Accuracy": 100,
           "AtkNum": 0,
@@ -757471,11 +757768,10 @@
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
-            2386
+            2443
           ],
           "SideEffectArg": [
-            4,
-            100
+            3
           ],
           "Accuracy": 100,
           "AtkNum": 0,
@@ -757497,11 +757793,12 @@
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
-            2387
+            2444
           ],
           "SideEffectArg": [
+            2,
             1,
-            1
+            2
           ],
           "Accuracy": 100,
           "AtkNum": 0,
@@ -757523,12 +757820,12 @@
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
-            2388
+            2445
           ],
           "SideEffectArg": [
-            20,
-            50,
-            18
+            100,
+            0,
+            3
           ],
           "Accuracy": 95,
           "AtkNum": 0,
@@ -757550,11 +757847,9 @@
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
-            2389
+            2446
           ],
-          "SideEffectArg": [
-            0
-          ],
+          "SideEffectArg": null,
           "Accuracy": 95,
           "AtkNum": 0,
           "AtkType": 0,
@@ -757575,11 +757870,9 @@
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
-            2390
+            2447
           ],
-          "SideEffectArg": [
-            2
-          ],
+          "SideEffectArg": null,
           "Accuracy": 95,
           "AtkNum": 0,
           "AtkType": 3,

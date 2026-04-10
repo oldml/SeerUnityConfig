@@ -5133,11 +5133,39 @@
       "isFullScreen": 1
     },
     {
-      "moduleName": "diceExpandGame",
+      "moduleName": "diceExpandGameEntry",
       "resConfig": null,
       "currAppDo": 0,
       "id": 854,
       "isFullScreen": 0
+    },
+    {
+      "moduleName": "diceExpandGameEntry",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 855,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getSaTe",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 856,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "ashesPathEntryPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 857,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "zuma",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1021,
+      "isFullScreen": 1
     }
   ]
 }

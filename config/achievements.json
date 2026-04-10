@@ -18381,6 +18381,20 @@
                     "ID": 2,
                     "proicon": 1479,
                     "SpeNameBonus": 581
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "潜入达人",
+                    "Desc": "在波卢卡星地表完成探索解密",
+                    "Threshold": "3",
+                    "title": "潜入达人",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 3,
+                    "proicon": 1481,
+                    "SpeNameBonus": 583
                   }
                 ],
                 "ID": 176,

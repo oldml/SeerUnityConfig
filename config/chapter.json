@@ -8,7 +8,7 @@
       "imagelist": "image1001_list",
       "imagestage": "image1001_stage",
       "img": "",
-      "intro": "那是一段千年之前的尘封往事——\n少女的抗争与宿命的枷锁所谱写的悲歌。",
+      "intro": "那是一段千年之前的尘封往事——\r\n少女的抗争与宿命的枷锁所谱写的悲歌。",
       "logo": "image1001_logo",
       "previouslyon": "",
       "startdate": "",
@@ -35,7 +35,7 @@
       "imagelist": "image1002_list",
       "imagestage": "image1002_stage",
       "img": "",
-      "intro": "那天，我们终于知道，\n文明所面对的究竟是什么……",
+      "intro": "那天，我们终于知道，\r\n文明所面对的究竟是什么……",
       "logo": "",
       "previouslyon": "",
       "startdate": "",
@@ -541,14 +541,14 @@
       "writing": 1003
     },
     {
-      "bgm": "",
-      "chaptername": "",
+      "bgm": "boruca02_bgm",
+      "chaptername": "朘土为笼",
       "enddate": "",
-      "imagebg": "",
-      "imagelist": "",
-      "imagestage": "",
-      "img": "",
-      "intro": "",
+      "imagebg": "image1016_bg",
+      "imagelist": "image1016_list",
+      "imagestage": "image1016_stage",
+      "img": "chapter_img1016",
+      "intro": "波卢卡，黄金教廷的驻地，追寻真相之旅的“终点”，是时候为这趟旅途画下句号了。",
       "logo": "image1016_logo",
       "previouslyon": "",
       "startdate": "",
@@ -560,11 +560,11 @@
       "needchapter": 0,
       "recordid": 21,
       "redbadge": 0,
-      "tagopen": 1,
+      "tagopen": 0,
       "tagtype": 110,
       "tobe": 0,
       "type": 1,
-      "upstory": 0,
+      "upstory": 1,
       "writing": 1003
     },
     {
@@ -726,7 +726,7 @@
       "tagtype": 109,
       "tobe": 0,
       "type": 1,
-      "upstory": 1,
+      "upstory": 0,
       "writing": 1003
     }
   ]

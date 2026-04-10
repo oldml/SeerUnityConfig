@@ -1499,6 +1499,26 @@
       "id": 150,
       "scale": 1,
       "silhouette": 0
+    },
+    {
+      "emoji": "b12_01",
+      "initialposition": "0,-115",
+      "name": "B-12",
+      "portrait": "b12_fg",
+      "CharacterID": 102,
+      "id": 151,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "守卫机器人",
+      "portrait": "borucanpc1_fg",
+      "CharacterID": 103,
+      "id": 152,
+      "scale": 1,
+      "silhouette": 0
     }
   ]
 }

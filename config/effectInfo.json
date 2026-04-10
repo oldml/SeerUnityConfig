@@ -21342,7 +21342,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]自身下{0}次[color=#57c975]致命一击[/color]视为命中并制[color=#52a5f2]执行[/color]命中效果",
+        "analyze": "[sprite name=iconHit]自身下{0}次[color=#57c975]致命一击[/color]视为命中并强制[color=#52a5f2]执行[/color]命中效果",
         "info": "自身下{0}次致命一击视为命中并强制执行命中效果",
         "key": "",
         "param": null,

@@ -1593,11 +1593,11 @@
     {
       "formattingAdjustment": "",
       "ifTextItalic": "",
-      "info": "威力随机，随机范围150~220",
+      "info": "威力随机，随机范围{0}~{1}",
       "tagA": "",
       "tagB": "",
       "tagC": "",
-      "argsNum": 0,
+      "argsNum": 2,
       "Bosseffective": 0,
       "id": 118,
       "isif": 0,

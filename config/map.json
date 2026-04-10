@@ -16938,9 +16938,32 @@
         400,
         900
       ],
-      "WildBossID": null,
-      "WildBossPoint": null,
-      "WildBossWeight": null,
+      "WildBossID": [
+        4893
+      ],
+      "WildBossPoint": [
+        108,
+        880,
+        470,
+        880,
+        1020,
+        720,
+        960,
+        900,
+        230,
+        380,
+        500,
+        320,
+        850,
+        310,
+        1320,
+        340,
+        670,
+        610
+      ],
+      "WildBossWeight": [
+        1
+      ],
       "enterMap": 0,
       "GroupID": 22003,
       "id": 2168,

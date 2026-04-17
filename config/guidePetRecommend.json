@@ -753,10 +753,10 @@
       ],
       "gainday": "",
       "judge5thmoveByvalue": [
-        "14_101268_2"
+        "0_0_0"
       ],
       "judgeNewseByvalue": [
-        "14_101268_2"
+        "0_0_0"
       ],
       "judgeOnekeyget": "",
       "judgePetByvalue": [
@@ -18597,6 +18597,114 @@
       "strategy": null,
       "id": 682,
       "petID": 4354,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400568_108"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgeOnekeyget": "",
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400568_540"
+      ],
+      "seProgress": [
+        "1_2400568_270"
+      ],
+      "strategy": null,
+      "id": 683,
+      "petID": 4894,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "1_2400569_200"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "0_0_0"
+      ],
+      "judgeNewseByvalue": [
+        "0_0_0"
+      ],
+      "judgeOnekeyget": "",
+      "judgePetByvalue": [
+        "0_0_0"
+      ],
+      "petProgress": [
+        "1_2400569_1000"
+      ],
+      "seProgress": [
+        "1_2400569_500"
+      ],
+      "strategy": null,
+      "id": 684,
+      "petID": 4238,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "11_102001_0_4"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "11_102001_0_5"
+      ],
+      "judgeNewseByvalue": [
+        "11_102001_0_5"
+      ],
+      "judgeOnekeyget": "",
+      "judgePetByvalue": [
+        "11_152056_0_1"
+      ],
+      "petProgress": [
+        "11_102001_0_4"
+      ],
+      "seProgress": [
+        "11_102001_0_4"
+      ],
+      "strategy": null,
+      "id": 685,
+      "petID": 3162,
+      "recommend": 0,
+      "stage": 0
+    },
+    {
+      "fifthProgress": [
+        "11_152054_0_7"
+      ],
+      "gainday": "",
+      "judge5thmoveByvalue": [
+        "11_152054_0_7"
+      ],
+      "judgeNewseByvalue": [
+        "11_152054_0_7"
+      ],
+      "judgeOnekeyget": "",
+      "judgePetByvalue": [
+        "11_152054_0_7"
+      ],
+      "petProgress": [
+        "11_152054_0_7"
+      ],
+      "seProgress": [
+        "11_152054_0_7"
+      ],
+      "strategy": null,
+      "id": 686,
+      "petID": 2652,
       "recommend": 0,
       "stage": 0
     }

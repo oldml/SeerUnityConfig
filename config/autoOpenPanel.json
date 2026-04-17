@@ -375,11 +375,11 @@
     {
       "actionName": "巅峰赛季更新强弹",
       "controller": "AutoOpenLocalDaily",
-      "endTime": "2026/01/23",
+      "endTime": "2026/04/24",
       "param1": "peakauto",
       "param2": "",
       "param3": "",
-      "startTime": "2026/01/16",
+      "startTime": "2026/04/17",
       "id": 33,
       "moduleId": 409,
       "state": 1
@@ -634,6 +634,18 @@
       "startTime": "2026_04_03 10:00:00",
       "id": 54,
       "moduleId": 852,
+      "state": 1
+    },
+    {
+      "actionName": "钻石为负违规强弹",
+      "controller": "AutoOpenDiamondObligatioController",
+      "endTime": "2027_04_17 10:00:00",
+      "param1": "DiamondObligatio",
+      "param2": "",
+      "param3": "",
+      "startTime": "2026_04_17 10:00:00",
+      "id": 55,
+      "moduleId": 860,
       "state": 1
     }
   ]

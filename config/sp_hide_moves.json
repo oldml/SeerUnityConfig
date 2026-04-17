@@ -1942,6 +1942,56 @@
         "monster": 4354,
         "moves": 38348,
         "movetype": 1
+      },
+      {
+        "itemname": "平衡装置",
+        "movesname": "极影绘风岚",
+        "id": 111,
+        "item": 1727994,
+        "itemnumber": 1,
+        "monster": 4358,
+        "moves": 38358,
+        "movetype": 1
+      },
+      {
+        "itemname": "燃火手指",
+        "movesname": "霆辉烬天野",
+        "id": 112,
+        "item": 1727995,
+        "itemnumber": 1,
+        "monster": 4332,
+        "moves": 38357,
+        "movetype": 1
+      },
+      {
+        "itemname": "奥法魔刃",
+        "movesname": "胧月黑甜",
+        "id": 113,
+        "item": 1727996,
+        "itemnumber": 1,
+        "monster": 3870,
+        "moves": 29329,
+        "movetype": 2
+      },
+      {
+        "itemname": "狂蛮之角",
+        "movesname": "古神长嚎",
+        "id": 114,
+        "item": 1727997,
+        "itemnumber": 1,
+        "monster": 3971,
+        "moves": 38356,
+        "movetype": 2
+      },
+      {
+        "itemname": "夜呓之镜",
+        "movesname": "零时诳语",
+        "id": 115,
+        "item": 1727998,
+        "itemnumber": 1,
+        "monster": 3491,
+        "moves": 29330,
+        "movetype": 2
       }
     ]
   }

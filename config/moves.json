@@ -526437,6 +526437,448 @@
           "Type": 8
         },
         {
+          "info": "开始免疫并反弹受到的异常状态了；解除了能力下降状态；令对手害怕了",
+          "Name": "异端诛罚",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            191,
+            1115,
+            909
+          ],
+          "SideEffectArg": [
+            4,
+            1,
+            100,
+            6,
+            300
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29321,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "不惜一切代价",
+          "Name": "凶恶祝祷",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1380
+          ],
+          "SideEffectArg": [
+            1,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29322,
+          "MaxPP": 1,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 1,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；开始恢复体力了；出手变得更快了",
+          "Name": "神迹现世",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            885,
+            791,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            4,
+            3,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29323,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "攻击、速度开始提升了",
+          "Name": "武装充能",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            126,
+            1250
+          ],
+          "SideEffectArg": [
+            3,
+            1,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29324,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；开始消除对手的能力提升",
+          "Name": "配电增容",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1338,
+            190
+          ],
+          "SideEffectArg": [
+            1,
+            3
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29325,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "开始免疫并反弹受到的异常状态了；令双方烧伤了；攻击变得更加凌厉了；受到的攻击伤害减少了",
+          "Name": "燔祭",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            2450,
+            547,
+            191,
+            1204,
+            522
+          ],
+          "SideEffectArg": [
+            3,
+            2,
+            4,
+            4,
+            2,
+            4,
+            777
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29326,
+          "MaxPP": 7,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；开始吸取对手的体力了；令对手麻痹了；对手的出手变慢了",
+          "Name": "嘒鸣",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            2450,
+            993,
+            717,
+            1823,
+            619
+          ],
+          "SideEffectArg": [
+            1,
+            1,
+            0,
+            4,
+            3,
+            2,
+            100,
+            0,
+            100,
+            22,
+            1,
+            -2,
+            0,
+            -2,
+            0,
+            0,
+            0,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29327,
+          "MaxPP": 7,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "天使，吹响灭世颂歌",
+          "Name": "天颂文·歌不落",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            2449,
+            1861
+          ],
+          "SideEffectArg": null,
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29328,
+          "MaxPP": 7,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "双方全属性提升了；自身可以免疫一次受到的异常状态；令对手睡眠了；开始吸取对手的体力了；对手的出手变慢了",
+          "Name": "胧月黑甜",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1145,
+            1440,
+            2403,
+            717,
+            619
+          ],
+          "SideEffectArg": [
+            1,
+            1,
+            100,
+            8,
+            2,
+            4,
+            3,
+            2,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29329,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "令对手狂暴了；令自身睡眠了；开始吸取对手的体力了；对手的出手变慢了",
+          "Name": "零时诳语",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            2441,
+            2193,
+            2445,
+            2461,
+            619
+          ],
+          "SideEffectArg": [
+            100,
+            14,
+            3,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            100,
+            8,
+            3,
+            5,
+            3,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29330,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "",
+          "Name": "聆主天答",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1635
+          ],
+          "SideEffectArg": [
+            777,
+            3
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29331,
+          "MaxPP": 7,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "",
+          "Name": "天盖之上",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1284
+          ],
+          "SideEffectArg": [
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29332,
+          "MaxPP": 10,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "",
+          "Name": "破灭号角",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            58,
+            761
+          ],
+          "SideEffectArg": [
+            2,
+            3,
+            70
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29333,
+          "MaxPP": 10,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "",
+          "Name": "世末歌者",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            2247,
+            1305,
+            1972
+          ],
+          "SideEffectArg": [
+            100,
+            100,
+            100
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29334,
+          "MaxPP": 10,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
           "info": "",
           "Name": "千星死魂灭",
           "FriendSideEffect": null,
@@ -757710,6 +758152,527 @@
           "Type": 109
         },
         {
+          "info": "",
+          "Name": "惩处",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            2058,
+            2028,
+            1897,
+            871
+          ],
+          "SideEffectArg": [
+            3,
+            300,
+            2,
+            50,
+            2,
+            300
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38349,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Type": 13
+        },
+        {
+          "info": "",
+          "Name": "涤罪荆棘",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1195,
+            1284,
+            723
+          ],
+          "SideEffectArg": [
+            3,
+            100,
+            6,
+            300,
+            2,
+            2,
+            1
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38350,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 13
+        },
+        {
+          "info": "",
+          "Name": "信·惊悸神罚",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1399,
+            1048,
+            2081,
+            698
+          ],
+          "SideEffectArg": [
+            6,
+            1,
+            100,
+            1,
+            100,
+            6
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38351,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 13
+        },
+        {
+          "info": "",
+          "Name": "信息扫描",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            954,
+            1224
+          ],
+          "SideEffectArg": [
+            1
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38352,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 1,
+          "Type": 6
+        },
+        {
+          "info": "",
+          "Name": "高热激光",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            2216,
+            1323
+          ],
+          "SideEffectArg": [
+            50,
+            100
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38353,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 6
+        },
+        {
+          "info": "",
+          "Name": "施洗",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1491,
+            2450,
+            2452,
+            1981,
+            449
+          ],
+          "SideEffectArg": [
+            2,
+            37,
+            1,
+            37,
+            2,
+            100,
+            31
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38354,
+          "MaxPP": 7,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Type": 104
+        },
+        {
+          "info": "",
+          "Name": "删炘",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            2448,
+            2453,
+            2454,
+            2162
+          ],
+          "SideEffectArg": [
+            7,
+            1,
+            100,
+            0
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38355,
+          "MaxPP": 7,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 104
+        },
+        {
+          "info": "",
+          "Name": "古神长嚎",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            2331,
+            2444,
+            1895,
+            2443
+          ],
+          "SideEffectArg": [
+            2,
+            1,
+            2,
+            300,
+            100,
+            6,
+            2
+          ],
+          "Accuracy": 100,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38356,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Type": 81
+        },
+        {
+          "info": "",
+          "Name": "霆辉烬天野",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            867,
+            2460,
+            2332,
+            1233
+          ],
+          "SideEffectArg": [
+            2,
+            1,
+            30,
+            5,
+            40
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38357,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 33
+        },
+        {
+          "info": "",
+          "Name": "极影绘风岚",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            2349,
+            547,
+            191,
+            1953,
+            1773
+          ],
+          "SideEffectArg": [
+            35,
+            4,
+            5,
+            60,
+            70
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38358,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 30
+        },
+        {
+          "info": "",
+          "Name": "宣告",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            765
+          ],
+          "SideEffectArg": [
+            7
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38359,
+          "MaxPP": 40,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 40,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "",
+          "Name": "问云",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1000
+          ],
+          "SideEffectArg": [
+            70,
+            70
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38360,
+          "MaxPP": 40,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 40,
+          "Priority": 0,
+          "Type": 4
+        },
+        {
+          "info": "",
+          "Name": "雷诛",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            102
+          ],
+          "SideEffectArg": null,
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38361,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 70,
+          "Priority": 0,
+          "Type": 5
+        },
+        {
+          "info": "",
+          "Name": "嬉皮",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            614,
+            972
+          ],
+          "SideEffectArg": [
+            3,
+            14,
+            1
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38362,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 100,
+          "Priority": 0,
+          "Type": 104
+        },
+        {
+          "info": "",
+          "Name": "惰落天使",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            155
+          ],
+          "SideEffectArg": [
+            3
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38363,
+          "MaxPP": 10,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 110,
+          "Priority": 0,
+          "Type": 104
+        },
+        {
+          "info": "",
+          "Name": "命运节奏",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1798
+          ],
+          "SideEffectArg": [
+            100,
+            0,
+            1
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38364,
+          "MaxPP": 10,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 120,
+          "Priority": 0,
+          "Type": 104
+        },
+        {
+          "info": "",
+          "Name": "至高时代",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1156
+          ],
+          "SideEffectArg": null,
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38365,
+          "MaxPP": 10,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 130,
+          "Priority": 0,
+          "Type": 104
+        },
+        {
+          "info": "",
+          "Name": "最终杰作",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            904
+          ],
+          "SideEffectArg": [
+            2,
+            777,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38366,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 140,
+          "Priority": 0,
+          "Type": 104
+        },
+        {
           "info": "恢复自身一定体力",
           "Name": "浓尘翻涌",
           "FriendSideEffect": null,
@@ -757740,13 +758703,11 @@
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
-            2442
+            2455
           ],
           "SideEffectArg": [
-            100,
-            0,
-            100,
-            0
+            3,
+            100
           ],
           "Accuracy": 100,
           "AtkNum": 0,
@@ -757768,10 +758729,10 @@
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
-            2443
+            2456
           ],
           "SideEffectArg": [
-            3
+            1
           ],
           "Accuracy": 100,
           "AtkNum": 0,
@@ -757793,13 +758754,9 @@
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
-            2444
+            2457
           ],
-          "SideEffectArg": [
-            2,
-            1,
-            2
-          ],
+          "SideEffectArg": null,
           "Accuracy": 100,
           "AtkNum": 0,
           "AtkType": 3,
@@ -757847,7 +758804,7 @@
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
-            2446
+            2458
           ],
           "SideEffectArg": null,
           "Accuracy": 95,
@@ -757860,7 +758817,7 @@
           "MonID": 0,
           "MustHit": 0,
           "ordinary": 0,
-          "Power": 1,
+          "Power": 120,
           "Priority": 0,
           "Type": 12
         },
@@ -757870,20 +758827,23 @@
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
-            2447
+            2459
           ],
-          "SideEffectArg": null,
+          "SideEffectArg": [
+            1,
+            100
+          ],
           "Accuracy": 95,
           "AtkNum": 0,
           "AtkType": 3,
-          "Category": 4,
+          "Category": 2,
           "CritRate": 0,
           "ID": 40008,
           "MaxPP": 5,
           "MonID": 0,
           "MustHit": 1,
           "ordinary": 0,
-          "Power": 0,
+          "Power": 120,
           "Priority": 0,
           "Type": 221
         },

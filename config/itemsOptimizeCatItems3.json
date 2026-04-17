@@ -2,7 +2,7 @@
   "items": [
     {
       "LimitPetClass": "",
-      "Name": "精灵道具占位3",
+      "Name": "大森林的萤火",
       "Bean": 0,
       "catID": 3,
       "EvRemove": 0,
@@ -22,7 +22,7 @@
     },
     {
       "LimitPetClass": "",
-      "Name": "精灵道具占位2",
+      "Name": "暴风雪的残晶",
       "Bean": 0,
       "catID": 3,
       "EvRemove": 0,
@@ -42,7 +42,7 @@
     },
     {
       "LimitPetClass": "",
-      "Name": "精灵道具占位1",
+      "Name": "太阳神的余温",
       "Bean": 0,
       "catID": 3,
       "EvRemove": 0,

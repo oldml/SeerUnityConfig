@@ -17039,6 +17039,50 @@
       "id": 2170,
       "MapRatio": 1,
       "pic": 2170
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "宗座宫内廷",
+      "notes": "",
+      "sound": "boruca02_bgm",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": [
+        100,
+        370
+      ],
+      "WildBossID": [
+        4896
+      ],
+      "WildBossPoint": [
+        320,
+        360,
+        500,
+        440,
+        820,
+        360,
+        1290,
+        360,
+        1530,
+        440,
+        1760,
+        360,
+        2240,
+        360,
+        2510,
+        440,
+        2700,
+        360
+      ],
+      "WildBossWeight": [
+        1
+      ],
+      "enterMap": 0,
+      "GroupID": 22004,
+      "id": 2171,
+      "MapRatio": 1,
+      "pic": 2171
     }
   ]
 }

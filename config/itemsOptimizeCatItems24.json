@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "Name": "鬼面阎罗因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400569,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "安瑟伦因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400568,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "B-12因子",
       "catID": 24,
       "Hide": 0,
@@ -13,7 +33,7 @@
     {
       "Name": "阿特洛波斯因子",
       "catID": 24,
-      "Hide": 0,
+      "Hide": 1,
       "ID": 2400566,
       "Max": 9999,
       "purpose": 0,

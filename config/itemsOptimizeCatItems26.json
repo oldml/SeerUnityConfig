@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "Name": "星际礼盒",
+      "catID": 26,
+      "ID": 2600055,
+      "Max": 99999,
+      "purpose": 1,
+      "Rarity": 0,
+      "Sort": 35,
+      "UseMax": 99,
+      "wd": 1
+    },
+    {
       "Name": "赤洲龙子刻印自选β",
       "catID": 26,
       "ID": 2600054,

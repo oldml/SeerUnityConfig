@@ -7896,6 +7896,34 @@
         "PetLimit": 1,
         "Rarity": 2,
         "show": 1
+      },
+      {
+        "effectId": 2081,
+        "ID": 2400568,
+        "MonsterID": 4894,
+        "MoveID": 38351,
+        "MovesConsume": 108,
+        "NeedmonID": 0,
+        "NewseConsume": 270,
+        "NewSeIdx": 6382,
+        "PetConsume": 540,
+        "PetLimit": 1,
+        "Rarity": 3,
+        "show": 1
+      },
+      {
+        "effectId": 1457,
+        "ID": 2400569,
+        "MonsterID": 4238,
+        "MoveID": 35176,
+        "MovesConsume": 200,
+        "NeedmonID": 0,
+        "NewseConsume": 500,
+        "NewSeIdx": 5728,
+        "PetConsume": 1000,
+        "PetLimit": 0,
+        "Rarity": 4,
+        "show": 1
       }
     ]
   }

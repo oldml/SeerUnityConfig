@@ -192,7 +192,7 @@
       "jumptarget": 360000,
       "priority": 5,
       "truepos": 1,
-      "type": 1
+      "type": 2
     },
     {
       "controller": "",
@@ -445,6 +445,26 @@
       "priority": 20,
       "truepos": 1,
       "type": 2
+    },
+    {
+      "controller": "",
+      "dest": "848",
+      "finishtime": "",
+      "image": "skinStore",
+      "name": "皮肤商城",
+      "statlog": "",
+      "reddotid": [
+        550001
+      ],
+      "dailyRed": 0,
+      "id": 27,
+      "iOSreviewshow": 0,
+      "isdeadline": 0,
+      "isshow": 1,
+      "jumptarget": 510005,
+      "priority": 5,
+      "truepos": 1,
+      "type": 1
     }
   ]
 }

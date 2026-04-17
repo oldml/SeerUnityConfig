@@ -1,6 +1,7 @@
 {
   "data": [
     {
+      "changereward": "",
       "reward": "10_171_1",
       "id": 1,
       "param": 5,
@@ -9,9 +10,11 @@
       "stainfo": -1786686296,
       "subtype": 2016,
       "userbit": 1,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "10_171_2",
       "id": 2,
       "param": 12,
@@ -20,9 +23,11 @@
       "stainfo": -1786686295,
       "subtype": 2017,
       "userbit": 2,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "10_171_3",
       "id": 3,
       "param": 12,
@@ -31,9 +36,11 @@
       "stainfo": -1786686294,
       "subtype": 2018,
       "userbit": 3,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "10_171_4",
       "id": 4,
       "param": 12,
@@ -42,9 +49,11 @@
       "stainfo": -1786686293,
       "subtype": 2019,
       "userbit": 4,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "10_171_5",
       "id": 5,
       "param": 12,
@@ -53,9 +62,11 @@
       "stainfo": -1786686292,
       "subtype": 2020,
       "userbit": 5,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "10_171_6",
       "id": 6,
       "param": 12,
@@ -64,9 +75,11 @@
       "stainfo": -1786686291,
       "subtype": 2021,
       "userbit": 6,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "10_171_7",
       "id": 7,
       "param": 12,
@@ -75,9 +88,11 @@
       "stainfo": -1786686290,
       "subtype": 2022,
       "userbit": 7,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "10_171_8",
       "id": 8,
       "param": 12,
@@ -86,9 +101,11 @@
       "stainfo": -1786686289,
       "subtype": 2023,
       "userbit": 8,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "10_171_9",
       "id": 9,
       "param": 4,
@@ -97,9 +114,11 @@
       "stainfo": -1786686288,
       "subtype": 2024,
       "userbit": 9,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "10_171_10",
       "id": 10,
       "param": 4,
@@ -108,9 +127,11 @@
       "stainfo": -1786686287,
       "subtype": 2025,
       "userbit": 10,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "1_1726992_88",
       "id": 11,
       "param": 3,
@@ -119,9 +140,11 @@
       "stainfo": -1786686286,
       "subtype": 0,
       "userbit": 11,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "1_1706926_2",
       "id": 12,
       "param": 2,
@@ -130,9 +153,11 @@
       "stainfo": -1786686285,
       "subtype": 0,
       "userbit": 12,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "14_165_1",
       "id": 13,
       "param": 5,
@@ -141,9 +166,11 @@
       "stainfo": -1786686284,
       "subtype": 0,
       "userbit": 13,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "9_163_1",
       "id": 14,
       "param": 2,
@@ -152,9 +179,11 @@
       "stainfo": -1786686283,
       "subtype": 0,
       "userbit": 14,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "1_1723117_50",
       "id": 15,
       "param": 5,
@@ -163,9 +192,11 @@
       "stainfo": -1786686282,
       "subtype": 0,
       "userbit": 15,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "8_164_1",
       "id": 16,
       "param": 2,
@@ -174,9 +205,11 @@
       "stainfo": -1786686281,
       "subtype": 0,
       "userbit": 16,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "1_1723117_50",
       "id": 17,
       "param": 5,
@@ -185,9 +218,11 @@
       "stainfo": -1786686280,
       "subtype": 0,
       "userbit": 17,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "1_1706926_2",
       "id": 18,
       "param": 2,
@@ -196,9 +231,11 @@
       "stainfo": -1785716596,
       "subtype": 0,
       "userbit": 18,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "14_168_1",
       "id": 19,
       "param": 5,
@@ -207,9 +244,11 @@
       "stainfo": -1785716595,
       "subtype": 0,
       "userbit": 19,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "12_540097_1",
       "id": 20,
       "param": 8,
@@ -218,9 +257,11 @@
       "stainfo": -1785716594,
       "subtype": 0,
       "userbit": 20,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "10_171_11",
       "id": 21,
       "param": 2,
@@ -229,9 +270,11 @@
       "stainfo": -1785716593,
       "subtype": 0,
       "userbit": 21,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "1_1723117_50",
       "id": 22,
       "param": 5,
@@ -240,9 +283,11 @@
       "stainfo": -1785716592,
       "subtype": 0,
       "userbit": 22,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "1_300065_2",
       "id": 23,
       "param": 2,
@@ -251,9 +296,11 @@
       "stainfo": -1785716591,
       "subtype": 0,
       "userbit": 23,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "14_169_1",
       "id": 24,
       "param": 5,
@@ -262,9 +309,11 @@
       "stainfo": -1785716590,
       "subtype": 0,
       "userbit": 24,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "1_1722826_50",
       "id": 25,
       "param": 3,
@@ -273,9 +322,11 @@
       "stainfo": -1785716589,
       "subtype": 0,
       "userbit": 25,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "8_185_1",
       "id": 26,
       "param": 2,
@@ -284,9 +335,11 @@
       "stainfo": -1785716588,
       "subtype": 0,
       "userbit": 26,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "1_1723255_2",
       "id": 27,
       "param": 5,
@@ -295,9 +348,11 @@
       "stainfo": -1785716587,
       "subtype": 0,
       "userbit": 27,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "9_192_1",
       "id": 28,
       "param": 2,
@@ -306,9 +361,11 @@
       "stainfo": -1782716396,
       "subtype": 0,
       "userbit": 28,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "10_171_12",
       "id": 29,
       "param": 5,
@@ -317,9 +374,11 @@
       "stainfo": -1782716395,
       "subtype": 0,
       "userbit": 29,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "1_1723117_50",
       "id": 30,
       "param": 8,
@@ -328,9 +387,11 @@
       "stainfo": -1782716394,
       "subtype": 0,
       "userbit": 30,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "1_300054_2",
       "id": 31,
       "param": 2,
@@ -339,9 +400,11 @@
       "stainfo": -1782716393,
       "subtype": 0,
       "userbit": 31,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "13_193_1",
       "id": 32,
       "param": 5,
@@ -350,9 +413,11 @@
       "stainfo": -1782716392,
       "subtype": 0,
       "userbit": 32,
-      "userinfo": 122601
+      "userinfo": 122601,
+      "userinfo1": 122651
     },
     {
+      "changereward": "",
       "reward": "1_1726992_50",
       "id": 33,
       "param": 2,
@@ -361,9 +426,11 @@
       "stainfo": -1782716391,
       "subtype": 0,
       "userbit": 1,
-      "userinfo": 122602
+      "userinfo": 122602,
+      "userinfo1": 122652
     },
     {
+      "changereward": "",
       "reward": "10_171_13",
       "id": 34,
       "param": 4,
@@ -372,9 +439,11 @@
       "stainfo": -1692917196,
       "subtype": 2026,
       "userbit": 2,
-      "userinfo": 122602
+      "userinfo": 122602,
+      "userinfo1": 122652
     },
     {
+      "changereward": "",
       "reward": "1_1723117_20",
       "id": 35,
       "param": 2,
@@ -383,9 +452,11 @@
       "stainfo": -1692917195,
       "subtype": 0,
       "userbit": 3,
-      "userinfo": 122602
+      "userinfo": 122602,
+      "userinfo1": 122652
     },
     {
+      "changereward": "",
       "reward": "14_214_1",
       "id": 36,
       "param": 5,
@@ -394,9 +465,11 @@
       "stainfo": -1692917194,
       "subtype": 0,
       "userbit": 4,
-      "userinfo": 122602
+      "userinfo": 122602,
+      "userinfo1": 122652
     },
     {
+      "changereward": "",
       "reward": "12_540099_1",
       "id": 37,
       "param": 8,
@@ -405,9 +478,11 @@
       "stainfo": -1692917193,
       "subtype": 0,
       "userbit": 5,
-      "userinfo": 122602
+      "userinfo": 122602,
+      "userinfo1": 122652
     },
     {
+      "changereward": "",
       "reward": "1_1723255_2",
       "id": 38,
       "param": 2,
@@ -416,9 +491,11 @@
       "stainfo": -1692917192,
       "subtype": 0,
       "userbit": 6,
-      "userinfo": 122602
+      "userinfo": 122602,
+      "userinfo1": 122652
     },
     {
+      "changereward": "",
       "reward": "1_1723255_4",
       "id": 39,
       "param": 5,
@@ -427,9 +504,11 @@
       "stainfo": -1692917191,
       "subtype": 0,
       "userbit": 7,
-      "userinfo": 122602
+      "userinfo": 122602,
+      "userinfo1": 122652
     },
     {
+      "changereward": "",
       "reward": "1_1723255_6",
       "id": 40,
       "param": 8,
@@ -438,9 +517,11 @@
       "stainfo": -1692917190,
       "subtype": 0,
       "userbit": 8,
-      "userinfo": 122602
+      "userinfo": 122602,
+      "userinfo1": 122652
     },
     {
+      "changereward": "",
       "reward": "1_1723255_2",
       "id": 41,
       "param": 2,
@@ -449,9 +530,11 @@
       "stainfo": -1691846196,
       "subtype": 0,
       "userbit": 9,
-      "userinfo": 122602
+      "userinfo": 122602,
+      "userinfo1": 122652
     },
     {
+      "changereward": "",
       "reward": "10_171_14",
       "id": 42,
       "param": 5,
@@ -460,9 +543,11 @@
       "stainfo": -1691846195,
       "subtype": 0,
       "userbit": 10,
-      "userinfo": 122602
+      "userinfo": 122602,
+      "userinfo1": 122652
     },
     {
+      "changereward": "",
       "reward": "1_1723255_2",
       "id": 43,
       "param": 2,
@@ -471,9 +556,11 @@
       "stainfo": -1691846194,
       "subtype": 0,
       "userbit": 11,
-      "userinfo": 122602
+      "userinfo": 122602,
+      "userinfo1": 122652
     },
     {
+      "changereward": "",
       "reward": "9_216_1",
       "id": 44,
       "param": 2,
@@ -482,9 +569,11 @@
       "stainfo": -1691846193,
       "subtype": 0,
       "userbit": 12,
-      "userinfo": 122602
+      "userinfo": 122602,
+      "userinfo1": 122652
     },
     {
+      "changereward": "",
       "reward": "14_215_1",
       "id": 45,
       "param": 5,
@@ -493,9 +582,11 @@
       "stainfo": -1691846192,
       "subtype": 0,
       "userbit": 13,
-      "userinfo": 122602
+      "userinfo": 122602,
+      "userinfo1": 122652
     },
     {
+      "changereward": "",
       "reward": "1_1723117_50",
       "id": 46,
       "param": 8,
@@ -504,9 +595,11 @@
       "stainfo": -1691846191,
       "subtype": 0,
       "userbit": 14,
-      "userinfo": 122602
+      "userinfo": 122602,
+      "userinfo1": 122652
     },
     {
+      "changereward": "",
       "reward": "1_300065_2",
       "id": 47,
       "param": 2,
@@ -515,9 +608,11 @@
       "stainfo": -1691706596,
       "subtype": 0,
       "userbit": 15,
-      "userinfo": 122602
+      "userinfo": 122602,
+      "userinfo1": 122652
     },
     {
+      "changereward": "",
       "reward": "11_223_1",
       "id": 48,
       "param": 5,
@@ -526,7 +621,47 @@
       "stainfo": -1691706595,
       "subtype": 0,
       "userbit": 16,
-      "userinfo": 122602
+      "userinfo": 122602,
+      "userinfo1": 122652
+    },
+    {
+      "changereward": "",
+      "reward": "1_300065_2",
+      "id": 49,
+      "param": 2,
+      "redbadge": 131211,
+      "skintype": 20,
+      "stainfo": 0,
+      "subtype": 0,
+      "userbit": 17,
+      "userinfo": 122602,
+      "userinfo1": 122652
+    },
+    {
+      "changereward": "1_1726992_50",
+      "reward": "10_152_24",
+      "id": 50,
+      "param": 4,
+      "redbadge": 131211,
+      "skintype": 20,
+      "stainfo": 0,
+      "subtype": 0,
+      "userbit": 18,
+      "userinfo": 122602,
+      "userinfo1": 122652
+    },
+    {
+      "changereward": "1_1726992_80",
+      "reward": "11_40_1",
+      "id": 51,
+      "param": 6,
+      "redbadge": 131211,
+      "skintype": 20,
+      "stainfo": 0,
+      "subtype": 0,
+      "userbit": 19,
+      "userinfo": 122602,
+      "userinfo1": 122652
     }
   ]
 }

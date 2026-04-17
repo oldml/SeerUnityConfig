@@ -263,6 +263,17 @@
       "monsterid": 3446,
       "order": 0,
       "type": 1
+    },
+    {
+      "Arg2": "4",
+      "LevelLock": "",
+      "name": "天邪龙皇",
+      "Arg1": 4,
+      "dataKey": 22,
+      "id": 25,
+      "monsterid": 3162,
+      "order": 0,
+      "type": 1
     }
   ]
 }

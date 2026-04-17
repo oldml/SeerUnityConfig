@@ -174,9 +174,9 @@
           "shopkind": 1
         },
         {
-          "productName": "清灵儿",
+          "productName": "英灵剑圣·兰斯洛特",
           "productID": [
-            3615,
+            3134,
             34174,
             5566,
             41817
@@ -191,9 +191,9 @@
           "shopkind": 1
         },
         {
-          "productName": "魔花仙灵",
+          "productName": "圣辉·达赫迪",
           "productID": [
-            4198,
+            3255,
             34174,
             5566,
             41817
@@ -204,7 +204,7 @@
           "forever": 125054,
           "ID": 10003,
           "Opentime": 20260102,
-          "productPrice": 30,
+          "productPrice": 20,
           "shopkind": 1
         },
         {
@@ -418,81 +418,6 @@
           "shopkind": 5
         },
         {
-          "productName": "暗武逆战·艾辛格斯因子*30",
-          "productID": [
-            2400286,
-            3224
-          ],
-          "batch": 20,
-          "Endtime": 20281231,
-          "exchangeId": 13972,
-          "forever": 0,
-          "ID": 20260,
-          "Opentime": 20231006,
-          "productPrice": 1,
-          "shopkind": 5
-        },
-        {
-          "productName": "暗影极夜·诺伊尔顿因子*30",
-          "productID": [
-            2400287,
-            3261
-          ],
-          "batch": 20,
-          "Endtime": 20281231,
-          "exchangeId": 13973,
-          "forever": 0,
-          "ID": 20261,
-          "Opentime": 20231006,
-          "productPrice": 1,
-          "shopkind": 5
-        },
-        {
-          "productName": "暗魇圣瞳·魔眼凯兮因子*30",
-          "productID": [
-            2400288,
-            3263
-          ],
-          "batch": 20,
-          "Endtime": 20281231,
-          "exchangeId": 13974,
-          "forever": 0,
-          "ID": 20262,
-          "Opentime": 20231006,
-          "productPrice": 1,
-          "shopkind": 5
-        },
-        {
-          "productName": "暗地魔影·格莱奥丹因子*30",
-          "productID": [
-            2400289,
-            3268
-          ],
-          "batch": 20,
-          "Endtime": 20281231,
-          "exchangeId": 13975,
-          "forever": 0,
-          "ID": 20263,
-          "Opentime": 20231006,
-          "productPrice": 1,
-          "shopkind": 5
-        },
-        {
-          "productName": "暗雷天闪·伊修兰迪因子*30",
-          "productID": [
-            2400290,
-            3273
-          ],
-          "batch": 20,
-          "Endtime": 20281231,
-          "exchangeId": 13976,
-          "forever": 0,
-          "ID": 20264,
-          "Opentime": 20231006,
-          "productPrice": 1,
-          "shopkind": 5
-        },
-        {
           "productName": "鬼蚀豹尊因子*35",
           "productID": [
             2400535,
@@ -503,36 +428,6 @@
           "exchangeId": 13992,
           "forever": 0,
           "ID": 20265,
-          "Opentime": 20260102,
-          "productPrice": 1,
-          "shopkind": 5
-        },
-        {
-          "productName": "恶灵兽因子*50",
-          "productID": [
-            2400536,
-            1534
-          ],
-          "batch": 20,
-          "Endtime": 20281231,
-          "exchangeId": 13993,
-          "forever": 0,
-          "ID": 20266,
-          "Opentime": 20260102,
-          "productPrice": 1,
-          "shopkind": 5
-        },
-        {
-          "productName": "邪冥兽因子*30",
-          "productID": [
-            2400537,
-            2620
-          ],
-          "batch": 20,
-          "Endtime": 20281231,
-          "exchangeId": 13994,
-          "forever": 0,
-          "ID": 20267,
           "Opentime": 20260102,
           "productPrice": 1,
           "shopkind": 5
@@ -763,9 +658,9 @@
           "shopkind": 5
         }
       ],
-      "Endday": "4/17",
-      "Endtime": "2026/4/17",
-      "Openday": "3/13"
+      "Endday": "5/22",
+      "Endtime": "2026/5/22",
+      "Openday": "4/17"
     }
   }
 }

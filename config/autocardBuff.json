@@ -1406,6 +1406,24 @@
     },
     {
       "effectIcon": "",
+      "object": "技能",
+      "param": "a_b",
+      "paramDes": "获得a张魔法牌b",
+      "id": 30024,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a",
+      "paramDes": "每回合开始时，招募一只上回合未出场的四神兽分身",
+      "id": 30025,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
       "object": "商店",
       "param": "a_b_c",
       "paramDes": "本次刷新次数消耗a，刷新效果：商店刷新出的随从获得+b/+c",

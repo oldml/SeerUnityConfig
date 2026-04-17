@@ -151,6 +151,14 @@
       "sort": 17,
       "subtype": 0,
       "type": 19
+    },
+    {
+      "name": "瓏域传说",
+      "subtypename": "",
+      "id": 20,
+      "sort": 18,
+      "subtype": 0,
+      "type": 20
     }
   ]
 }

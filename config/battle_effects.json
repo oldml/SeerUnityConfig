@@ -617,6 +617,21 @@
             "Unrestriction": 2,
             "Unweaken": 2,
             "Weaken": 0
+          },
+          {
+            "Name": "XX",
+            "Ctrl": 2,
+            "Dependent": 0,
+            "Derivation": 0,
+            "Efftype": 0,
+            "ID": 41,
+            "Restriction": 0,
+            "Unctrl": 0,
+            "Undependent": 2,
+            "Underivation": 2,
+            "Unrestriction": 2,
+            "Unweaken": 2,
+            "Weaken": 0
           }
         ],
         "Type": 0

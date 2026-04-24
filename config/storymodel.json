@@ -3981,6 +3981,50 @@
       "portrait": "pilgrim_fg",
       "id": 362,
       "scale": 1
+    },
+    {
+      "CharacterID": "xmn",
+      "emoji": "xmn_01,xmn_02,xmn_03,xmn_04",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "西蒙妮",
+      "portrait": "xmn_fg",
+      "id": 363,
+      "scale": 1
+    },
+    {
+      "CharacterID": "twy",
+      "emoji": "twy_01,twy_02,twy_03,twy_04,twy_05,twy_06",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-108,30",
+      "name": "特维耶",
+      "portrait": "twy_fg",
+      "id": 364,
+      "scale": 1
+    },
+    {
+      "CharacterID": "minercorps",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,70",
+      "name": "反抗军",
+      "portrait": "minercorps_fg",
+      "id": 365,
+      "scale": 1
+    },
+    {
+      "CharacterID": "vi4",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "薇？",
+      "portrait": "vi4_fg",
+      "id": 366,
+      "scale": 1
     }
   ]
 }

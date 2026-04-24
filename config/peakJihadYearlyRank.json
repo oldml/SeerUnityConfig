@@ -5,6 +5,384 @@
       "playerID": 264391071,
       "rank": 1,
       "score": 350
+    },
+    {
+      "id": 2,
+      "playerID": 204921134,
+      "rank": 2,
+      "score": 200
+    },
+    {
+      "id": 3,
+      "playerID": 65334801,
+      "rank": 3,
+      "score": 150
+    },
+    {
+      "id": 4,
+      "playerID": 776096076,
+      "rank": 3,
+      "score": 150
+    },
+    {
+      "id": 5,
+      "playerID": 108831995,
+      "rank": 5,
+      "score": 128
+    },
+    {
+      "id": 6,
+      "playerID": 337114585,
+      "rank": 5,
+      "score": 128
+    },
+    {
+      "id": 7,
+      "playerID": 56992046,
+      "rank": 5,
+      "score": 128
+    },
+    {
+      "id": 8,
+      "playerID": 31131419,
+      "rank": 5,
+      "score": 128
+    },
+    {
+      "id": 9,
+      "playerID": 38843591,
+      "rank": 9,
+      "score": 96
+    },
+    {
+      "id": 10,
+      "playerID": 187618174,
+      "rank": 9,
+      "score": 96
+    },
+    {
+      "id": 11,
+      "playerID": 139837230,
+      "rank": 9,
+      "score": 96
+    },
+    {
+      "id": 12,
+      "playerID": 346196054,
+      "rank": 9,
+      "score": 96
+    },
+    {
+      "id": 13,
+      "playerID": 120454387,
+      "rank": 9,
+      "score": 96
+    },
+    {
+      "id": 14,
+      "playerID": 85595386,
+      "rank": 9,
+      "score": 96
+    },
+    {
+      "id": 15,
+      "playerID": 308037433,
+      "rank": 9,
+      "score": 96
+    },
+    {
+      "id": 16,
+      "playerID": 167518011,
+      "rank": 9,
+      "score": 96
+    },
+    {
+      "id": 17,
+      "playerID": 757497782,
+      "rank": 9,
+      "score": 96
+    },
+    {
+      "id": 18,
+      "playerID": 187129236,
+      "rank": 9,
+      "score": 96
+    },
+    {
+      "id": 19,
+      "playerID": 961549475,
+      "rank": 19,
+      "score": 76
+    },
+    {
+      "id": 20,
+      "playerID": 914901190,
+      "rank": 19,
+      "score": 76
+    },
+    {
+      "id": 21,
+      "playerID": 920905315,
+      "rank": 19,
+      "score": 76
+    },
+    {
+      "id": 22,
+      "playerID": 923144463,
+      "rank": 19,
+      "score": 76
+    },
+    {
+      "id": 23,
+      "playerID": 179863256,
+      "rank": 19,
+      "score": 76
+    },
+    {
+      "id": 24,
+      "playerID": 407995593,
+      "rank": 19,
+      "score": 76
+    },
+    {
+      "id": 25,
+      "playerID": 181694228,
+      "rank": 19,
+      "score": 76
+    },
+    {
+      "id": 26,
+      "playerID": 92869005,
+      "rank": 19,
+      "score": 76
+    },
+    {
+      "id": 27,
+      "playerID": 225926924,
+      "rank": 19,
+      "score": 76
+    },
+    {
+      "id": 28,
+      "playerID": 588451806,
+      "rank": 19,
+      "score": 76
+    },
+    {
+      "id": 29,
+      "playerID": 655322300,
+      "rank": 19,
+      "score": 76
+    },
+    {
+      "id": 30,
+      "playerID": 105538397,
+      "rank": 19,
+      "score": 76
+    },
+    {
+      "id": 31,
+      "playerID": 340659445,
+      "rank": 19,
+      "score": 76
+    },
+    {
+      "id": 32,
+      "playerID": 768170972,
+      "rank": 19,
+      "score": 76
+    },
+    {
+      "id": 33,
+      "playerID": 945935028,
+      "rank": 33,
+      "score": 48
+    },
+    {
+      "id": 34,
+      "playerID": 49463137,
+      "rank": 33,
+      "score": 48
+    },
+    {
+      "id": 35,
+      "playerID": 33221079,
+      "rank": 33,
+      "score": 48
+    },
+    {
+      "id": 36,
+      "playerID": 119169968,
+      "rank": 33,
+      "score": 48
+    },
+    {
+      "id": 37,
+      "playerID": 769721922,
+      "rank": 33,
+      "score": 48
+    },
+    {
+      "id": 38,
+      "playerID": 213413528,
+      "rank": 33,
+      "score": 48
+    },
+    {
+      "id": 39,
+      "playerID": 95574466,
+      "rank": 33,
+      "score": 48
+    },
+    {
+      "id": 40,
+      "playerID": 900588797,
+      "rank": 33,
+      "score": 48
+    },
+    {
+      "id": 41,
+      "playerID": 900346243,
+      "rank": 33,
+      "score": 48
+    },
+    {
+      "id": 42,
+      "playerID": 911034118,
+      "rank": 33,
+      "score": 48
+    },
+    {
+      "id": 43,
+      "playerID": 108003590,
+      "rank": 33,
+      "score": 48
+    },
+    {
+      "id": 44,
+      "playerID": 13456998,
+      "rank": 33,
+      "score": 48
+    },
+    {
+      "id": 45,
+      "playerID": 92917406,
+      "rank": 33,
+      "score": 48
+    },
+    {
+      "id": 46,
+      "playerID": 594350086,
+      "rank": 33,
+      "score": 48
+    },
+    {
+      "id": 47,
+      "playerID": 163636208,
+      "rank": 33,
+      "score": 48
+    },
+    {
+      "id": 48,
+      "playerID": 70202534,
+      "rank": 33,
+      "score": 48
+    },
+    {
+      "id": 49,
+      "playerID": 64373245,
+      "rank": 49,
+      "score": 24
+    },
+    {
+      "id": 50,
+      "playerID": 56355950,
+      "rank": 49,
+      "score": 24
+    },
+    {
+      "id": 51,
+      "playerID": 935955300,
+      "rank": 49,
+      "score": 24
+    },
+    {
+      "id": 52,
+      "playerID": 34890381,
+      "rank": 49,
+      "score": 24
+    },
+    {
+      "id": 53,
+      "playerID": 89206620,
+      "rank": 49,
+      "score": 24
+    },
+    {
+      "id": 54,
+      "playerID": 539833947,
+      "rank": 49,
+      "score": 24
+    },
+    {
+      "id": 55,
+      "playerID": 335465328,
+      "rank": 49,
+      "score": 24
+    },
+    {
+      "id": 56,
+      "playerID": 497734161,
+      "rank": 49,
+      "score": 24
+    },
+    {
+      "id": 57,
+      "playerID": 9644917,
+      "rank": 49,
+      "score": 24
+    },
+    {
+      "id": 58,
+      "playerID": 213996713,
+      "rank": 49,
+      "score": 24
+    },
+    {
+      "id": 59,
+      "playerID": 19332511,
+      "rank": 49,
+      "score": 24
+    },
+    {
+      "id": 60,
+      "playerID": 184657178,
+      "rank": 49,
+      "score": 24
+    },
+    {
+      "id": 61,
+      "playerID": 183570025,
+      "rank": 49,
+      "score": 24
+    },
+    {
+      "id": 62,
+      "playerID": 609069086,
+      "rank": 49,
+      "score": 24
+    },
+    {
+      "id": 63,
+      "playerID": 182054026,
+      "rank": 49,
+      "score": 24
+    },
+    {
+      "id": 64,
+      "playerID": 9291154,
+      "rank": 49,
+      "score": 24
     }
   ]
 }

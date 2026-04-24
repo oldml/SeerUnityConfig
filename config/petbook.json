@@ -1414,8 +1414,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4894,
-            "ImageID": 4894,
+            "ID": 4897,
+            "ImageID": 4897,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1425,32 +1425,10 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4895,
-            "ImageID": 4895,
+            "ID": 825,
+            "ImageID": 1400825,
             "Label": 0,
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 4896,
-            "ImageID": 4896,
-            "Label": 0,
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 822,
-            "ImageID": 1400822,
-            "Label": 0,
-            "monID": 3507,
+            "monID": 3575,
             "type": 1
           },
           {
@@ -1458,21 +1436,10 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 823,
-            "ImageID": 1400823,
+            "ID": 826,
+            "ImageID": 1400826,
             "Label": 0,
-            "monID": 3686,
-            "type": 1
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 824,
-            "ImageID": 1400824,
-            "Label": 0,
-            "monID": 4895,
+            "monID": 3870,
             "type": 1
           }
         ]
@@ -22770,7 +22737,7 @@
       {
         "DefName": "终末之灭·天邪龙王",
         "Features": "终末之声回响起！逆世之难再君临！他是灭世的霸者！他是末日的丧钟！沉寂已久的邪龙，如今又降临宇宙，究竟会掀起如何风暴？",
-        "Target": "",
+        "Target": "150114",
         "ID": 3575
       },
       {
@@ -30638,6 +30605,12 @@
         "Features": "朝圣者型机械哨兵，是黄金教廷在波卢卡星部署数量最大的机械哨兵。虽然这个型号已经好几十年没有更新过了，但是凭借着好生产好维护的特点一直都是最热门的机型。",
         "Target": "400023",
         "ID": 4896
+      },
+      {
+        "DefName": "西蒙妮",
+        "Features": "波卢卡星反抗军的临时指挥官。带领着自己的同胞们在地下矿坑的里世界进行了多年的游击战。对地下世界的了解甚至超过了黄金教廷。",
+        "Target": "153201/900",
+        "ID": 4897
       }
     ],
     "RecMintmark": {

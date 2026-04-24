@@ -238163,6 +238163,86 @@
         "price": 3,
         "productID": 262397,
         "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "优惠购买皮肤【烬灭之灾·天邪龙王】",
+        "itemID": [
+          1728018
+        ],
+        "price": 398,
+        "productID": 262398,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得精灵【西蒙妮】",
+        "itemID": [
+          1728019
+        ],
+        "price": 598,
+        "productID": 262399,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买每日挑战次数（西蒙妮）",
+        "itemID": [
+          1728020
+        ],
+        "price": 30,
+        "productID": 262400,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡简单关卡（西蒙妮）",
+        "itemID": [
+          1728021
+        ],
+        "price": 20,
+        "productID": 262401,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡困难关卡（西蒙妮）",
+        "itemID": [
+          1728022
+        ],
+        "price": 30,
+        "productID": 262402,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡地狱关卡（西蒙妮）",
+        "itemID": [
+          1728023
+        ],
+        "price": 40,
+        "productID": 262403,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买获得西蒙妮因子",
+        "itemID": [
+          1728024
+        ],
+        "price": 2,
+        "productID": 262404,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "0430占位商品12",
+        "itemID": [
+          1728026
+        ],
+        "price": 10,
+        "productID": 262405,
+        "vip": 1
       }
     ]
   }

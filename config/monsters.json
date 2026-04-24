@@ -436046,7 +436046,18 @@
         },
         "Move": null,
         "ShowExtraMoves": null,
-        "SpExtraMoves": null,
+        "SpExtraMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 38372,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
         "Atk": 70,
         "CharacterAttrParam": 4,
         "Combo": 0,
@@ -441577,6 +441588,12 @@
           "SpMove": [
             {
               "ID": 32483,
+              "Rec": 0,
+              "tag": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 29338,
               "Rec": 0,
               "tag": 0,
               "Tag": 0
@@ -474279,7 +474296,18 @@
         },
         "Move": null,
         "ShowExtraMoves": null,
-        "SpExtraMoves": null,
+        "SpExtraMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 38370,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
         "Atk": 70,
         "CharacterAttrParam": 4,
         "Combo": 0,
@@ -494218,7 +494246,18 @@
         },
         "Move": null,
         "ShowExtraMoves": null,
-        "SpExtraMoves": null,
+        "SpExtraMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 38371,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
         "Atk": 140,
         "CharacterAttrParam": 0,
         "Combo": 0,
@@ -510310,7 +510349,14 @@
               "Tag": 0
             }
           ],
-          "SpMove": null
+          "SpMove": [
+            {
+              "ID": 29337,
+              "Rec": 0,
+              "tag": 0,
+              "Tag": 0
+            }
+          ]
         },
         "Move": null,
         "ShowExtraMoves": null,
@@ -633488,6 +633534,148 @@
         "Vip": 0
       },
       {
+        "DefName": "西蒙妮",
+        "ExtraMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 38369,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 10250,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20190,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10411,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 12567,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 22219,
+              "LearningLv": 17,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 38367,
+              "LearningLv": 21,
+              "Rec": 1,
+              "Tag": 1
+            },
+            {
+              "ID": 11202,
+              "LearningLv": 25,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20050,
+              "LearningLv": 29,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10291,
+              "LearningLv": 33,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10907,
+              "LearningLv": 37,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 23164,
+              "LearningLv": 41,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11962,
+              "LearningLv": 45,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 29335,
+              "LearningLv": 49,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "ID": 19009,
+              "LearningLv": 53,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 29336,
+              "LearningLv": 57,
+              "Rec": 1,
+              "Tag": 3
+            },
+            {
+              "ID": 38368,
+              "LearningLv": 61,
+              "Rec": 1,
+              "Tag": 4
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 70,
+        "CharacterAttrParam": 4,
+        "Combo": 0,
+        "Def": 110,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 2,
+        "HP": 170,
+        "ID": 4897,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 3558,
+        "RealId": 0,
+        "SpAtk": 139,
+        "Spd": 136,
+        "SpDef": 110,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 33,
+        "Vip": 0
+      },
+      {
         "DefName": "圣灵谱尼",
         "ExtraMoves": {
           "AdvMove": null,
@@ -734102,6 +734290,66 @@
         "isRidePet": 0,
         "PetClass": 0,
         "RealId": 0,
+        "SpAtk": 0,
+        "Spd": 0,
+        "SpDef": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0
+      },
+      {
+        "DefName": "烬灭之灾·天邪龙王",
+        "ExtraMoves": null,
+        "LearnableMoves": null,
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400825,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 0,
+        "Spd": 0,
+        "SpDef": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0
+      },
+      {
+        "DefName": "凯兮",
+        "ExtraMoves": null,
+        "LearnableMoves": null,
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400826,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 2402,
         "SpAtk": 0,
         "Spd": 0,
         "SpDef": 0,

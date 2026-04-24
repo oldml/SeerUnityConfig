@@ -564,7 +564,7 @@
       "tagtype": 110,
       "tobe": 0,
       "type": 1,
-      "upstory": 1,
+      "upstory": 0,
       "writing": 1003
     },
     {
@@ -727,6 +727,33 @@
       "tobe": 0,
       "type": 1,
       "upstory": 0,
+      "writing": 1003
+    },
+    {
+      "bgm": "boruca04_bgm",
+      "chaptername": "星火燎原",
+      "enddate": "",
+      "imagebg": "image1023_bg",
+      "imagelist": "image1023_list",
+      "imagestage": "image1023_stage",
+      "img": "chapter_img1023",
+      "intro": "我们绝不屈服，唯有不断前进。向着希望与明天前进。",
+      "logo": "image1016_logo",
+      "previouslyon": "",
+      "startdate": "",
+      "tagname": "自由之潮",
+      "writingimg": "writing1003_img",
+      "writingname": "黄金的万象",
+      "branch": 0,
+      "id": 1023,
+      "needchapter": 1016,
+      "recordid": 28,
+      "redbadge": 0,
+      "tagopen": 0,
+      "tagtype": 110,
+      "tobe": 0,
+      "type": 1,
+      "upstory": 1,
       "writing": 1003
     }
   ]

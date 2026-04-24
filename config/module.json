@@ -5231,10 +5231,59 @@
       "isFullScreen": 1
     },
     {
+      "moduleName": "PlaustrumFleeGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 868,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "activity260424LastaBoxShow",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 869,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "activity260424LastaBoxShow",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 870,
+      "isFullScreen": 1
+    },
+    {
       "moduleName": "zuma",
       "resConfig": null,
       "currAppDo": 1,
       "id": 1021,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getAutomatedAI",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1022,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getAutomatedAI",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1023,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getblgdPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1024,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getblgdskinPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1025,
       "isFullScreen": 1
     }
   ]

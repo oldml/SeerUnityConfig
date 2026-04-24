@@ -490,6 +490,16 @@
         "price": 30,
         "productID": 200069,
         "vip": 1
+      },
+      {
+        "name": "0430占位米币商品1",
+        "itemID": [
+          1728027
+        ],
+        "gold": 1,
+        "price": 6,
+        "productID": 200070,
+        "vip": 1
       }
     ]
   }

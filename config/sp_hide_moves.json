@@ -1992,6 +1992,56 @@
         "monster": 3491,
         "moves": 29330,
         "movetype": 2
+      },
+      {
+        "itemname": "不逝狂念",
+        "movesname": "夜·天魔逆相",
+        "id": 116,
+        "item": 1728013,
+        "itemnumber": 1,
+        "monster": 3541,
+        "moves": 38372,
+        "movetype": 1
+      },
+      {
+        "itemname": "灭神魔石",
+        "movesname": "混沌邪魂祭",
+        "id": 117,
+        "item": 1728014,
+        "itemnumber": 1,
+        "monster": 3791,
+        "moves": 38370,
+        "movetype": 1
+      },
+      {
+        "itemname": "朽念龙鳞",
+        "movesname": "祸龑煌啼",
+        "id": 118,
+        "item": 1728015,
+        "itemnumber": 1,
+        "monster": 3575,
+        "moves": 29338,
+        "movetype": 2
+      },
+      {
+        "itemname": "撕雷之牙",
+        "movesname": "寂·妖胧天鸣",
+        "id": 119,
+        "item": 1728016,
+        "itemnumber": 1,
+        "monster": 3924,
+        "moves": 38371,
+        "movetype": 1
+      },
+      {
+        "itemname": "瀚海神颂",
+        "movesname": "逆浪分洲",
+        "id": 120,
+        "item": 1728017,
+        "itemnumber": 1,
+        "monster": 4030,
+        "moves": 29337,
+        "movetype": 2
       }
     ]
   }

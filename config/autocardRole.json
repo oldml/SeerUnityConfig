@@ -382,7 +382,7 @@
     },
     {
       "BuffId": "30026|30027",
-      "BuffParam": "1|0_0_10009",
+      "BuffParam": "1|0_0_10045",
       "desc": "服役于银翼—Silver Wings部队的士兵，英勇无畏、坚毅不屈。除了强大的战斗技巧，在牌技上也不容小觑。",
       "name": "银翼猎手",
       "skillName": "银翼之力",
@@ -599,6 +599,26 @@
       "skillID": 10005,
       "skillRoundLimit": 0,
       "skillType": 0
+    },
+    {
+      "BuffId": "30034",
+      "BuffParam": "2",
+      "desc": "新手用",
+      "name": "导航员·爱丽丝",
+      "skillName": "星空领航",
+      "skillTxt": "随机获得1张比当前商店等级高1级的精灵牌",
+      "skillUpgrade": "",
+      "CountNum": 0,
+      "Display": 0,
+      "health": 40,
+      "id": 99999,
+      "nature": 0,
+      "picID": 8,
+      "skillCostNum": 1,
+      "skillGameLimit": 0,
+      "skillID": 8,
+      "skillRoundLimit": 1,
+      "skillType": 1
     }
   ]
 }

@@ -1,5 +1,65 @@
 {
   "root": {
+    "autocard": {
+      "dialog": {
+        "petId": 0,
+        "x": 600,
+        "y": -100
+      },
+      "pet": {
+        "petId": 5000,
+        "x": 600,
+        "y": -400
+      },
+      "steps": [
+        {
+          "align": "",
+          "btnName": "",
+          "msg": "小赛尔，全新玩法《群星牌》正式上线啦！",
+          "strokeColor": "",
+          "targetBtn": "",
+          "position": null,
+          "autoX": 0,
+          "holeType": 0,
+          "id": 1,
+          "openMenu": 0
+        },
+        {
+          "align": "center_top",
+          "btnName": "",
+          "msg": "在群星牌赛场，你将带领熟悉的精灵，与另外7位小赛尔同台竞技争夺最高荣誉！",
+          "strokeColor": "0xf6fcff",
+          "targetBtn": "ToolsLevel/Toolbar 1/grpActivityOffset/grpActivity/container/activity_26",
+          "position": [
+            239,
+            60,
+            70,
+            60
+          ],
+          "autoX": 1,
+          "holeType": 1,
+          "id": 2,
+          "openMenu": 0
+        },
+        {
+          "align": "center_top",
+          "btnName": "",
+          "msg": "我已经准备好啦！上船打牌，我们牌桌上见！",
+          "strokeColor": "0xf6fcff",
+          "targetBtn": "ToolsLevel/Toolbar 1/grpActivityOffset/grpActivity/container/activity_26",
+          "position": [
+            239,
+            60,
+            70,
+            60
+          ],
+          "autoX": 1,
+          "holeType": 1,
+          "id": 3,
+          "openMenu": 0
+        }
+      ]
+    },
     "newer": {
       "dialog": {
         "petId": 0,

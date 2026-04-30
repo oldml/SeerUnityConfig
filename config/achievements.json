@@ -2394,6 +2394,20 @@
                     "ID": 24,
                     "proicon": 1477,
                     "SpeNameBonus": 579
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "波卢卡的火炬",
+                    "Desc": "完成主线【自由之潮】获得",
+                    "Threshold": "25",
+                    "title": "自由之潮",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 25,
+                    "proicon": 1487,
+                    "SpeNameBonus": 585
                   }
                 ],
                 "ID": 161,
@@ -17779,7 +17793,7 @@
                   {
                     "abtext": "",
                     "achName": "时空战警",
-                    "Desc": "2024年春节活动中，收集“异元时空”系列限定皮肤获得",
+                    "Desc": "收集“异元时空”系列皮肤获得",
                     "Threshold": "6",
                     "title": "时空战警",
                     "titleColor": "0xFFFFFF",
@@ -18100,10 +18114,10 @@
                   },
                   {
                     "abtext": "防御+20，特防+20，速度+20，体力+90",
-                    "achName": "岁业祓除",
+                    "achName": "岁业拔除",
                     "Desc": "2026年春节活动中，购买妙时天女至尊礼包获得",
                     "Threshold": "29",
-                    "title": "岁业祓除",
+                    "title": "岁业拔除",
                     "titleColor": "0xFFFFFF",
                     "AbilityTitle": 1,
                     "AchievementPoint": 10,
@@ -18409,6 +18423,20 @@
                     "ID": 3,
                     "proicon": 1481,
                     "SpeNameBonus": 583
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "活干完了",
+                    "Desc": "完成9527的奥朗金属熔炼任务获得",
+                    "Threshold": "4",
+                    "title": "活干完了",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 4,
+                    "proicon": 1488,
+                    "SpeNameBonus": 586
                   }
                 ],
                 "ID": 176,

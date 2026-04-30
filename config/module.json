@@ -5252,6 +5252,48 @@
       "isFullScreen": 1
     },
     {
+      "moduleName": "mayDaySkinMain",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 871,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "timeSkinSale",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 872,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "skinOfIceColde",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 873,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "templeRunGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 874,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "templeRunGame",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 875,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "FireAndElectricityPet",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 876,
+      "isFullScreen": 0
+    },
+    {
       "moduleName": "zuma",
       "resConfig": null,
       "currAppDo": 1,
@@ -5284,6 +5326,69 @@
       "resConfig": null,
       "currAppDo": 1,
       "id": 1025,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "autocardCareerPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1026,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "autocardActivateTrial",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 1027,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "getblgdPanelAlert",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1028,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "poxiaozheSkinPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1029,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "XzhanduiMega",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1030,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "BrokenWorld",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1031,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "bmdwSaruikaActivityCenter",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1032,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "bmdwSaruikaMainPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1033,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "watergame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1034,
       "isFullScreen": 1
     }
   ]

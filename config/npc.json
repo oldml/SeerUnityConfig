@@ -1501,9 +1501,9 @@
       "silhouette": 0
     },
     {
-      "emoji": "b12_01",
+      "emoji": "b12_02",
       "initialposition": "0,-115",
-      "name": "B-12",
+      "name": "反抗军线人",
       "portrait": "b12_fg",
       "CharacterID": 102,
       "id": 151,
@@ -1517,6 +1517,46 @@
       "portrait": "borucanpc1_fg",
       "CharacterID": 103,
       "id": 152,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "圣仆",
+      "portrait": "acolyte_fg",
+      "CharacterID": 104,
+      "id": 153,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "xmn_01",
+      "initialposition": "",
+      "name": "西蒙妮",
+      "portrait": "xmn_fg",
+      "CharacterID": 105,
+      "id": 154,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "twy_01",
+      "initialposition": "",
+      "name": "特维耶",
+      "portrait": "twy_fg",
+      "CharacterID": 106,
+      "id": 155,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "servitor1_01",
+      "initialposition": "",
+      "name": "反抗军",
+      "portrait": "servitor1_fg",
+      "CharacterID": 107,
+      "id": 156,
       "scale": 1,
       "silhouette": 0
     }

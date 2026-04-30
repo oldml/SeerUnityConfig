@@ -8236,6 +8236,47 @@
             "outputPanel": 0,
             "talkGroupId": 20033,
             "type": 3
+          },
+          {
+            "align": "center_top",
+            "btnfrom": "",
+            "btnname": "",
+            "cmd": "",
+            "condition": "",
+            "endEvent": "",
+            "event": "click_button",
+            "eventArgs": "btnClose",
+            "eventType": "",
+            "startEvent": "",
+            "stat": "关闭传说之路",
+            "targetBtn": "AppLevel/newBrave/NewBravePanel/btnClose",
+            "targetBtn1": "",
+            "targetBtn2": "",
+            "targetBtn3": "",
+            "tip": "返回主界面，开始你自己的路吧！",
+            "tipTitle": "",
+            "handOffSet": null,
+            "param": null,
+            "rect": [
+              100,
+              25,
+              300,
+              49
+            ],
+            "tipPos": [
+              0,
+              150
+            ],
+            "autoX": 1,
+            "await": 0,
+            "handScaleX": 0,
+            "handScaleY": 0,
+            "handType": 0,
+            "ignoreMask": 0,
+            "mustWin": 0,
+            "outputPanel": 0,
+            "talkGroupId": 0,
+            "type": 5
           }
         ],
         "conditionid": 0,

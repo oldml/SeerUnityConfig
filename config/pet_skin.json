@@ -9117,7 +9117,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 21,
             "Type": 2,
             "Year": 0
           }
@@ -9135,7 +9135,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 21,
             "Type": 2,
             "Year": 0
           }
@@ -9153,7 +9153,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 21,
             "Type": 2,
             "Year": 0
           }
@@ -9171,7 +9171,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 21,
             "Type": 2,
             "Year": 0
           }
@@ -9189,7 +9189,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 21,
             "Type": 2,
             "Year": 0
           }
@@ -14850,6 +14850,60 @@
         "Jumptarget": 2,
         "MonID": 3870,
         "Type": 0
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "戾夜萃魂·百罗鬼帝",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 827,
+        "Jumptarget": 114067,
+        "MonID": 4444,
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "破晓者·英卡洛斯",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 828,
+        "Jumptarget": 114068,
+        "MonID": 3586,
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "极速抢修·杰特洛",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 829,
+        "Jumptarget": 114069,
+        "MonID": 4358,
+        "Type": 3
       }
     ]
   }

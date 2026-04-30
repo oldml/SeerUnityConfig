@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "Name": "荣光之薇因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400573,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "月牙之刃因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400572,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "暮月之弦因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400571,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "西蒙妮因子",
       "catID": 24,
       "Hide": 0,

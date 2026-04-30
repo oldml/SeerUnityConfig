@@ -662,6 +662,32 @@
       "userbit": 19,
       "userinfo": 122602,
       "userinfo1": 122652
+    },
+    {
+      "changereward": "",
+      "reward": "1_1722826_50",
+      "id": 52,
+      "param": 3,
+      "redbadge": 131213,
+      "skintype": 21,
+      "stainfo": -1690666596,
+      "subtype": 0,
+      "userbit": 20,
+      "userinfo": 122602,
+      "userinfo1": 122652
+    },
+    {
+      "changereward": "1_1722826_50",
+      "reward": "10_166_6",
+      "id": 53,
+      "param": 5,
+      "redbadge": 131213,
+      "skintype": 21,
+      "stainfo": -1690666595,
+      "subtype": 0,
+      "userbit": 21,
+      "userinfo": 122602,
+      "userinfo1": 122652
     }
   ]
 }

@@ -17083,6 +17083,27 @@
       "id": 2171,
       "MapRatio": 1,
       "pic": 2171
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "波卢卡星矿坑",
+      "notes": "",
+      "sound": "boruca01_bgm",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": [
+        240,
+        320
+      ],
+      "WildBossID": null,
+      "WildBossPoint": null,
+      "WildBossWeight": null,
+      "enterMap": 0,
+      "GroupID": 22004,
+      "id": 2172,
+      "MapRatio": 1,
+      "pic": 2172
     }
   ]
 }

@@ -647,6 +647,30 @@
       "id": 55,
       "moduleId": 860,
       "state": 1
+    },
+    {
+      "actionName": "百鬼夜王新形态售卖强弹",
+      "controller": "AutoOpenLocalDaily",
+      "endTime": "2027_05_15 10:00:00",
+      "param1": "getblgdPanelAlert",
+      "param2": "",
+      "param3": "",
+      "startTime": "2026_04_30 10:00:00",
+      "id": 56,
+      "moduleId": 1028,
+      "state": 1
+    },
+    {
+      "actionName": "英卡洛斯售卖强弹",
+      "controller": "AutoOpenLocalOnce",
+      "endTime": "2026_05_14 23:59:59",
+      "param1": "",
+      "param2": "",
+      "param3": "pop3",
+      "startTime": "2026_04_30 10:00:00",
+      "id": 57,
+      "moduleId": 1029,
+      "state": 1
     }
   ]
 }

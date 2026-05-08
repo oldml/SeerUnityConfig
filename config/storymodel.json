@@ -4025,6 +4025,17 @@
       "portrait": "vi4_fg",
       "id": 366,
       "scale": 1
+    },
+    {
+      "CharacterID": "papa",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,217",
+      "name": "教皇",
+      "portrait": "papa_fg",
+      "id": 367,
+      "scale": 1
     }
   ]
 }

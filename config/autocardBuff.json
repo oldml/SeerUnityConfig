@@ -559,7 +559,7 @@
       "IsPlaceEffect": 0
     },
     {
-      "effectIcon": "",
+      "effectIcon": "1",
       "object": "卡牌",
       "param": "a",
       "paramDes": "每回合商店阶段，前a次刷新会消耗己方刷新价格的赛尔生命值",
@@ -577,7 +577,7 @@
       "IsPlaceEffect": 0
     },
     {
-      "effectIcon": "",
+      "effectIcon": "1",
       "object": "卡牌",
       "param": "a_b_c_d",
       "paramDes": "已方a系精灵造成伤害后，是否永久(b)获得+c/+d",
@@ -1009,7 +1009,7 @@
       "IsPlaceEffect": 0
     },
     {
-      "effectIcon": "",
+      "effectIcon": "1",
       "object": "卡牌",
       "param": "a_b_c_d",
       "paramDes": "每有一只己方精灵触发阵亡效果，使自身和同列a系精灵获得是否永久(b:1攻击永久、2:血量永久、3:全部永久)获得+c/+d",

@@ -154,6 +154,24 @@
             "monsterid": 4541
           },
           {
+            "monstername": "凌波清芙",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 3888
+          },
+          {
+            "monstername": "哀伤公爵·阿洛希尔",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 3813
+          },
+          {
+            "monstername": "鲜血女王·蔻缇雅",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 3815
+          },
+          {
             "monstername": "幻影蝶",
             "isjustone": 0,
             "kind": 2,
@@ -452,6 +470,36 @@
             "isjustone": 0,
             "kind": 2,
             "monsterid": 3267
+          },
+          {
+            "monstername": "白羽剑魂·特兰西",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3558
+          },
+          {
+            "monstername": "紫金斗魂·拉塞尔",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3565
+          },
+          {
+            "monstername": "赤炎战魂·金斯特",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3566
+          },
+          {
+            "monstername": "古焰",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3226
+          },
+          {
+            "monstername": "绝暗",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3288
           },
           {
             "monstername": "天尊龙帝",
@@ -830,6 +878,36 @@
             "isjustone": 0,
             "kind": 3,
             "monsterid": 3832
+          },
+          {
+            "monstername": "雅莉斯",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3677
+          },
+          {
+            "monstername": "瓦迪娅",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3787
+          },
+          {
+            "monstername": "魔血剑姬",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3441
+          },
+          {
+            "monstername": "金角灵魔",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3344
+          },
+          {
+            "monstername": "银角灵魔",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3342
           },
           {
             "monstername": "米诺",
@@ -1412,6 +1490,36 @@
             "isjustone": 0,
             "kind": 4,
             "monsterid": 4138
+          },
+          {
+            "monstername": "麒小麟",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2669
+          },
+          {
+            "monstername": "多戈",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 1002
+          },
+          {
+            "monstername": "伊布",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3016
+          },
+          {
+            "monstername": "闪光迈迈",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 1333
+          },
+          {
+            "monstername": "闪光迈恩",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 1706
           }
         ],
         "id": 1

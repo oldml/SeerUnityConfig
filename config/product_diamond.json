@@ -238353,6 +238353,106 @@
         "price": 398,
         "productID": 262416,
         "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "VIP限时返场嫦娥",
+        "itemID": [
+          1728042
+        ],
+        "price": 98,
+        "productID": 262417,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "VIP限时返场星诺",
+        "itemID": [
+          1728043
+        ],
+        "price": 198,
+        "productID": 262418,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "VIP限时返场普拉曼达",
+        "itemID": [
+          1728044
+        ],
+        "price": 198,
+        "productID": 262419,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得精灵【特维耶】",
+        "itemID": [
+          1728045
+        ],
+        "price": 598,
+        "productID": 262420,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买每日挑战次数（特维耶）",
+        "itemID": [
+          1728046
+        ],
+        "price": 30,
+        "productID": 262421,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡简单关卡（特维耶）",
+        "itemID": [
+          1728047
+        ],
+        "price": 20,
+        "productID": 262422,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡困难关卡（特维耶）",
+        "itemID": [
+          1728048
+        ],
+        "price": 30,
+        "productID": 262423,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡地狱关卡（特维耶）",
+        "itemID": [
+          1728049
+        ],
+        "price": 40,
+        "productID": 262424,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买获得特维耶因子",
+        "itemID": [
+          1728050
+        ],
+        "price": 2,
+        "productID": 262425,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "0515占位商品1",
+        "itemID": [
+          1728053
+        ],
+        "price": 498,
+        "productID": 262426,
+        "vip": 1
       }
     ]
   }

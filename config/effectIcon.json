@@ -54817,6 +54817,32 @@
         "target": 0,
         "to": 0,
         "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身攻击技能造成的伤害提升100%，若打出[color=#57c975]致命一击[/color]则额外提升100%且自身下回合选择使用技能不受pp限制、且使用的技能[color=#52a5f2]必定命中[/color]|[sprite name=dot4][color=#57c975]回合结束时[/color]，若对手体力为满则自身下回合所有[color=#52a5f2]技能先制[/color]+1，若不为满则恢复自身300点体力",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身攻击技能造成的伤害提升100%，若打出致命一击则额外提升100%且自身下回合选择使用技能不受pp限制、使用的技能必定命中|回合结束时，若对手体力为满则自身下回合所有技能先制+1，若不为满则恢复自身300点体力|（boss无效）",
+        "kind": [
+          1,
+          9
+        ],
+        "petId": [
+          4901
+        ],
+        "specificId": null,
+        "effectId": 2508,
+        "iconId": 2088,
+        "Id": 2088,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
       }
     ]
   }

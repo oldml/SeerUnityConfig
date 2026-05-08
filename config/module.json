@@ -5291,6 +5291,27 @@
       "resConfig": null,
       "currAppDo": 0,
       "id": 876,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "VigilforLaikaSkin",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 877,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "Sign20260508",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 878,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "SignSFW",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 879,
       "isFullScreen": 0
     },
     {
@@ -5389,6 +5410,20 @@
       "resConfig": null,
       "currAppDo": 1,
       "id": 1034,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "jumpParkourGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1035,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "aurumEndgame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1060,
       "isFullScreen": 1
     }
   ]

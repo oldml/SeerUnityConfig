@@ -468,6 +468,51 @@
       {
         "MintMark": [
           {
+            "Des": "古堡记忆·猎魔",
+            "exchangeId": 0,
+            "ID": 42458,
+            "Level": 4,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "Des": "古堡记忆·蝶语",
+            "exchangeId": 0,
+            "ID": 42459,
+            "Level": 4,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "Des": "古堡记忆·入梦",
+            "exchangeId": 0,
+            "ID": 42460,
+            "Level": 4,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "Des": "古堡记忆·炼狱",
+            "exchangeId": 0,
+            "ID": 42461,
+            "Level": 4,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "Des": "古堡记忆·幻兽",
+            "exchangeId": 0,
+            "ID": 42462,
+            "Level": 4,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
             "Des": "焰火·万木苍翠",
             "exchangeId": 0,
             "ID": 42153,
@@ -618,7 +663,7 @@
             "Level": 4,
             "maxNum": 0,
             "price": 0,
-            "puton": 2
+            "puton": 3
           },
           {
             "Des": "异元之铭·阵",
@@ -627,7 +672,7 @@
             "Level": 4,
             "maxNum": 0,
             "price": 0,
-            "puton": 2
+            "puton": 3
           },
           {
             "Des": "异元之铭·极",
@@ -636,7 +681,7 @@
             "Level": 4,
             "maxNum": 0,
             "price": 0,
-            "puton": 2
+            "puton": 3
           },
           {
             "Des": "异元之铭·破",
@@ -645,7 +690,7 @@
             "Level": 4,
             "maxNum": 0,
             "price": 0,
-            "puton": 2
+            "puton": 3
           },
           {
             "Des": "异元之铭·堕",
@@ -654,7 +699,7 @@
             "Level": 4,
             "maxNum": 0,
             "price": 0,
-            "puton": 2
+            "puton": 3
           },
           {
             "Des": "圣·虚无",
@@ -2150,6 +2195,96 @@
             "Des": "晓·永恒之月",
             "exchangeId": 0,
             "ID": 41935,
+            "Level": 3,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "Des": "月光·灵羽风暴",
+            "exchangeId": 0,
+            "ID": 42269,
+            "Level": 3,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "Des": "月光·闪耀祝福",
+            "exchangeId": 0,
+            "ID": 42270,
+            "Level": 3,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "Des": "月影·幽冥疾行",
+            "exchangeId": 0,
+            "ID": 42271,
+            "Level": 3,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "Des": "月影·暗魂诅咒",
+            "exchangeId": 0,
+            "ID": 42272,
+            "Level": 3,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "Des": "地葬印记",
+            "exchangeId": 0,
+            "ID": 41959,
+            "Level": 3,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "Des": "瀚海印记",
+            "exchangeId": 0,
+            "ID": 41960,
+            "Level": 3,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "Des": "天玄印记",
+            "exchangeId": 0,
+            "ID": 41961,
+            "Level": 3,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "Des": "幻境印记",
+            "exchangeId": 0,
+            "ID": 41962,
+            "Level": 3,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "Des": "时空印记",
+            "exchangeId": 0,
+            "ID": 41963,
+            "Level": 3,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "Des": "混沌印记",
+            "exchangeId": 0,
+            "ID": 41964,
             "Level": 3,
             "maxNum": 0,
             "price": 0,

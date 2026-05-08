@@ -527296,6 +527296,67 @@
           "Type": 8
         },
         {
+          "info": "解除了能力下降状态；开始恢复体力了；攻击变得更加凌厉了",
+          "Name": "风沙潜伏",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            568,
+            707,
+            58
+          ],
+          "SideEffectArg": [
+            2,
+            4,
+            3,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29347,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；开始免疫受到的异常状态了；出手变得更快了",
+          "Name": "激素分泌",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            946,
+            48,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            4,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29348,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
           "info": "",
           "Name": "千星死魂灭",
           "FriendSideEffect": null,
@@ -759639,6 +759700,96 @@
           "Power": 160,
           "Priority": 1,
           "Type": 60
+        },
+        {
+          "info": "",
+          "Name": "死亡预告",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            905,
+            1106
+          ],
+          "SideEffectArg": [
+            2,
+            300,
+            100,
+            6
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38385,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 40,
+          "Priority": 3,
+          "Type": 11
+        },
+        {
+          "info": "",
+          "Name": "刺杀觉悟",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1032,
+            582
+          ],
+          "SideEffectArg": [
+            1,
+            1
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38386,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 80,
+          "Priority": 0,
+          "Type": 11
+        },
+        {
+          "info": "",
+          "Name": "枪火革命",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            699,
+            697,
+            1568,
+            986,
+            1086,
+            1139
+          ],
+          "SideEffectArg": [
+            22,
+            22,
+            3,
+            7,
+            7
+          ],
+          "Accuracy": 0,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38387,
+          "MaxPP": 0,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 40,
+          "Priority": 0,
+          "Type": 11
         },
         {
           "info": "恢复自身一定体力",

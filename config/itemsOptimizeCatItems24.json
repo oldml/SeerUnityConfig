@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "Name": "特维耶因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400574,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "荣光之薇因子",
       "catID": 24,
       "Hide": 0,

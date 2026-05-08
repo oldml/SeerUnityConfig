@@ -13112,6 +13112,12 @@
         "petId": 4444
       },
       {
+        "moveName1": "枪火",
+        "moveName2": "革命",
+        "moveId": 38387,
+        "petId": 4901
+      },
+      {
         "moveName1": "神灵",
         "moveName2": "救世光",
         "moveId": 31143,

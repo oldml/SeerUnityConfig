@@ -6799,6 +6799,23 @@
       "signType": 0,
       "sorting": 2,
       "type": 1
+    },
+    {
+      "args": "Assets/Game/UI/zhounianbanner0508/zhounianbanner0508.prefab",
+      "beginning": "",
+      "ending": "",
+      "labelName": "17周年庆",
+      "name": "zhounianbanner0508",
+      "channel": 0,
+      "Go": 445,
+      "helptips": 0,
+      "id": 417,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 282,
+      "signType": 0,
+      "sorting": 7,
+      "type": 5
     }
   ]
 }

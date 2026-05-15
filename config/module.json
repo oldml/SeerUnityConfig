@@ -5289,7 +5289,7 @@
     {
       "moduleName": "FireAndElectricityPet",
       "resConfig": null,
-      "currAppDo": 0,
+      "currAppDo": 1,
       "id": 876,
       "isFullScreen": 1
     },
@@ -5313,6 +5313,41 @@
       "currAppDo": 0,
       "id": 879,
       "isFullScreen": 0
+    },
+    {
+      "moduleName": "freepet0515",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 880,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "fifteenyearsign",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 881,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "eyesOfLaikaActivity",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 882,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "eyesOfLaikaGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 883,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "inkShadowStarSoul",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 884,
+      "isFullScreen": 1
     },
     {
       "moduleName": "zuma",
@@ -5395,14 +5430,14 @@
       "moduleName": "bmdwSaruikaActivityCenter",
       "resConfig": null,
       "currAppDo": 1,
-      "id": 1032,
+      "id": 1033,
       "isFullScreen": 1
     },
     {
       "moduleName": "bmdwSaruikaMainPanel",
       "resConfig": null,
       "currAppDo": 1,
-      "id": 1033,
+      "id": 1032,
       "isFullScreen": 1
     },
     {
@@ -5418,6 +5453,27 @@
       "currAppDo": 1,
       "id": 1035,
       "isFullScreen": 1
+    },
+    {
+      "moduleName": "storyAnniversary2026Activitycenter",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1036,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "sanYgmActivityPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1037,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "newSeerToolbarGuide",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 1038,
+      "isFullScreen": 0
     },
     {
       "moduleName": "aurumEndgame",

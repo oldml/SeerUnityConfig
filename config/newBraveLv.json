@@ -6,7 +6,7 @@
         "阶段1-2",
         "获得谱尼"
       ],
-      "storehouse": "100",
+      "storehouse": "200",
       "id": 101,
       "stepnum": 3
     },
@@ -16,7 +16,7 @@
         "阶段2-2",
         "阶段提升"
       ],
-      "storehouse": "110",
+      "storehouse": "220",
       "id": 102,
       "stepnum": 3
     },
@@ -27,7 +27,7 @@
         "阶段3-3",
         "阶段提升"
       ],
-      "storehouse": "120",
+      "storehouse": "240",
       "id": 103,
       "stepnum": 4
     },
@@ -38,7 +38,7 @@
         "阶段4-3",
         "阶段提升"
       ],
-      "storehouse": "140",
+      "storehouse": "280",
       "id": 104,
       "stepnum": 4
     },
@@ -49,7 +49,7 @@
         "阶段5-3",
         "阶段提升"
       ],
-      "storehouse": "160",
+      "storehouse": "320",
       "id": 105,
       "stepnum": 4
     },
@@ -60,7 +60,7 @@
         "阶段6-3",
         "圣灵进阶"
       ],
-      "storehouse": "180",
+      "storehouse": "360",
       "id": 106,
       "stepnum": 4
     },
@@ -69,7 +69,7 @@
         "阶段7-1",
         "完全进化"
       ],
-      "storehouse": "200",
+      "storehouse": "400",
       "id": 107,
       "stepnum": 2
     }

@@ -1128,8 +1128,8 @@
     {
       "effectIcon": "1",
       "object": "卡牌",
-      "param": "a_b_c",
-      "paramDes": "己方精灵攻击时，此时处于战斗开始时，己方a系精灵永久获得+b/+c",
+      "param": "a_b_c_d",
+      "paramDes": "己方精灵攻击时，此时处于战斗开始时，己方a系精灵是否永久(b)获得+c/+d",
       "id": 10132,
       "IsDeathEffect": 0,
       "IsPlaceEffect": 0
@@ -1138,7 +1138,7 @@
       "effectIcon": "",
       "object": "卡牌",
       "param": "a_b_c",
-      "paramDes": "战斗开始时，己方a系精灵永久获得+b/+c",
+      "paramDes": "自身攻击时，此时处于战斗开始时，己方a系精灵永久获得+b/+c",
       "id": 10133,
       "IsDeathEffect": 0,
       "IsPlaceEffect": 0
@@ -1149,6 +1149,15 @@
       "param": "a_b_c_d",
       "paramDes": "选择一只己方a系精灵，使其获得b(0:无)回合BUFF(ID(c)，BUFFParam(d))",
       "id": 10134,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "战斗开始时，触发自身阵亡效果a次",
+      "id": 10147,
       "IsDeathEffect": 0,
       "IsPlaceEffect": 0
     },
@@ -1579,7 +1588,7 @@
       "effectIcon": "",
       "object": "技能",
       "param": "a_b_c_d",
-      "paramDes": "使用a张b系精灵牌后，招募c张不超过当前商店等级的d系精灵牌（距离触发：{0}）",
+      "paramDes": "使用a张b系精灵牌后，随机获得c张不超过当前商店等级的d系精灵牌（距离触发：{0}）",
       "id": 30028,
       "IsDeathEffect": 0,
       "IsPlaceEffect": 0
@@ -1635,6 +1644,24 @@
       "param": "a",
       "paramDes": "刷新1次商店，使商店包含a只比当前商店等级高1级的精灵",
       "id": 30034,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b_c_d",
+      "paramDes": "战斗开始时，己方最靠a(0:前，1:后)的己方b(0:任意)系精灵获得+c/+d",
+      "id": 30035,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b",
+      "paramDes": "战斗开始时，己方最靠a(0:前，1:后)的己方b(0:任意)系精灵立即发动1次攻击",
+      "id": 30036,
       "IsDeathEffect": 0,
       "IsPlaceEffect": 0
     },

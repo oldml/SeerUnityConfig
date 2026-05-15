@@ -33839,6 +33839,36 @@
       "tagAboss": 1,
       "tagBboss": 1,
       "tagCboss": 1
+    },
+    {
+      "formattingAdjustment": "自身属于第五技能的PP值每比对手多{0}点，此技能先制+1且随机附加{1}、{2}、{3}、{4}、{5}、{6}中的{7}种异常状态{8}回合\r\n-->未触发则消除对手回合类效果",
+      "ifTextItalic": "未触发",
+      "info": "自身属于第五技能的PP值每比对手多{0}点，此技能先制+1且随机附加{1}、{2}、{3}、{4}、{5}、{6}中的{7}种异常状态{8}回合，未触发则消除对手回合类效果",
+      "tagA": "先制",
+      "tagB": "施加异常",
+      "tagC": "消除回合",
+      "argsNum": 9,
+      "Bosseffective": 1,
+      "id": 2476,
+      "isif": 1,
+      "tagAboss": 1,
+      "tagBboss": 1,
+      "tagCboss": 1
+    },
+    {
+      "formattingAdjustment": "",
+      "ifTextItalic": "自身先制等级高于",
+      "info": "对手每处于{0}回合异常状态吸取对手{1}点体力，自身先制等级高于{2}时效果翻倍",
+      "tagA": "吸血",
+      "tagB": "",
+      "tagC": "",
+      "argsNum": 3,
+      "Bosseffective": 1,
+      "id": 2477,
+      "isif": 1,
+      "tagAboss": 1,
+      "tagBboss": 1,
+      "tagCboss": 1
     }
   ]
 }

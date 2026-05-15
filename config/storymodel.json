@@ -3610,7 +3610,7 @@
     },
     {
       "CharacterID": "aisibinnuo",
-      "emoji": "aisibinnuo_01,aisibinnuo_02,aisibinnuo_03,aisibinnuo_04",
+      "emoji": "aisibinnuo_01,aisibinnuo_02,aisibinnuo_03,aisibinnuo_04,aisibinnuo_05",
       "emojixy": "",
       "head": "",
       "initialposition": "-150,120",
@@ -3951,7 +3951,7 @@
     },
     {
       "CharacterID": "labt",
-      "emoji": "labt_01,labt_02,labt_03",
+      "emoji": "labt_01,labt_02,labt_03,labt_04,labt_05",
       "emojixy": "",
       "head": "",
       "initialposition": "-132,60",
@@ -4035,6 +4035,50 @@
       "name": "教皇",
       "portrait": "papa_fg",
       "id": 367,
+      "scale": 1
+    },
+    {
+      "CharacterID": "littlej",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "30,0",
+      "name": "小珍妮",
+      "portrait": "littlej_fg",
+      "id": 368,
+      "scale": 1
+    },
+    {
+      "CharacterID": "bdzs",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,400",
+      "name": "波动之神·西美尼斯",
+      "portrait": "bdzs_fg",
+      "id": 369,
+      "scale": 1
+    },
+    {
+      "CharacterID": "bdtyh",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "波动态幽魂",
+      "portrait": "bdtyh_fg",
+      "id": 370,
+      "scale": 1
+    },
+    {
+      "CharacterID": "aplry",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "人影",
+      "portrait": "aplry_fg",
+      "id": 371,
       "scale": 1
     }
   ]

@@ -8470,6 +8470,20 @@
                     "ID": 10,
                     "proicon": 1482,
                     "SpeNameBonus": 584
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "自由之化身",
+                    "Desc": "通关S-莱布缇【地狱难度】关卡获得",
+                    "Threshold": "11",
+                    "title": "自由之化身",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 11,
+                    "proicon": 1489,
+                    "SpeNameBonus": 587
                   }
                 ],
                 "ID": 172,
@@ -18114,10 +18128,10 @@
                   },
                   {
                     "abtext": "防御+20，特防+20，速度+20，体力+90",
-                    "achName": "岁业祓除",
+                    "achName": "岁业拔除",
                     "Desc": "2026年春节活动中，购买妙时天女至尊礼包获得",
                     "Threshold": "29",
-                    "title": "岁业祓除",
+                    "title": "岁业拔除",
                     "titleColor": "0xFFFFFF",
                     "AbilityTitle": 1,
                     "AchievementPoint": 10,

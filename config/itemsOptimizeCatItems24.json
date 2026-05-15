@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "Name": "莱布缇因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400575,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "特维耶因子",
       "catID": 24,
       "Hide": 0,

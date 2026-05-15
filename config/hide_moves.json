@@ -1,5 +1,6 @@
 {
   "root": {
+    "_text": "\r\n\r\n1313\r\n\r\n\t\t",
     "item": [
       {
         "moveName1": "狂魔",
@@ -13116,6 +13117,18 @@
         "moveName2": "革命",
         "moveId": 38387,
         "petId": 4901
+      },
+      {
+        "moveName1": "自",
+        "moveName2": "万物定理",
+        "moveId": 38390,
+        "petId": 4902
+      },
+      {
+        "moveName1": "万苍",
+        "moveName2": "书帝录",
+        "moveId": 38393,
+        "petId": 4903
       },
       {
         "moveName1": "神灵",

@@ -60,6 +60,54 @@
         }
       ]
     },
+    "brave": {
+      "dialog": {
+        "petId": 0,
+        "x": 600,
+        "y": -100
+      },
+      "pet": {
+        "petId": 5000,
+        "x": 600,
+        "y": -400
+      },
+      "steps": [
+        {
+          "align": "center_top",
+          "btnName": "",
+          "msg": "小赛尔，【传说之路】入口位置现已调整。",
+          "strokeColor": "0xf6fcff",
+          "targetBtn": "ToolsLevel/Toolbar 1/groupTop/grpBraveBannerGuide",
+          "position": [
+            239,
+            60,
+            70,
+            60
+          ],
+          "autoX": 1,
+          "holeType": 1,
+          "id": 1,
+          "openMenu": 0
+        },
+        {
+          "align": "center_top",
+          "btnName": "",
+          "msg": "助力谱尼圣灵化若暂时受阻，不妨前往【传说之路】，寻找强力伙伴与你同行！",
+          "strokeColor": "0xf6fcff",
+          "targetBtn": "ToolsLevel/Toolbar 1/groupTop/grpBraveBannerGuide",
+          "position": [
+            -239,
+            60,
+            70,
+            60
+          ],
+          "autoX": 1,
+          "holeType": 1,
+          "id": 2,
+          "openMenu": 0
+        }
+      ]
+    },
     "newer": {
       "dialog": {
         "petId": 0,

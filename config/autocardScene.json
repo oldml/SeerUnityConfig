@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "bookresouce": "map2",
+      "name": "群星之弈",
+      "resource": "DefaultCombatBoard",
+      "tag": "1_经典场景",
+      "id": 1,
+      "rarity": 1
+    },
+    {
+      "bookresouce": "map1",
+      "name": "蒂朵来袭",
+      "resource": "Didoscene",
+      "tag": "2_活动限定",
+      "id": 2,
+      "rarity": 2
+    }
+  ]
+}

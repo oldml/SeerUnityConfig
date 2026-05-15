@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "answer": "",
+      "msg": "第一句",
+      "npcId": "bdzs",
+      "deal": 0,
+      "end": 0,
+      "groupId": 101,
+      "id": 1,
+      "sidequestId": 1
+    },
+    {
+      "answer": "",
+      "msg": "第二句",
+      "npcId": "bdzs",
+      "deal": 0,
+      "end": 0,
+      "groupId": 102,
+      "id": 2,
+      "sidequestId": 1
+    },
+    {
+      "answer": "",
+      "msg": "第三句",
+      "npcId": "bdzs",
+      "deal": 0,
+      "end": -1,
+      "groupId": 103,
+      "id": 3,
+      "sidequestId": 1
+    },
+    {
+      "answer": "",
+      "msg": "又一句",
+      "npcId": "bdzs",
+      "deal": 0,
+      "end": -1,
+      "groupId": 101,
+      "id": 4,
+      "sidequestId": 2
+    }
+  ]
+}

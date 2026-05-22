@@ -11067,7 +11067,7 @@
           }
         ],
         "ID": 616,
-        "Jumptarget": 0,
+        "Jumptarget": 111800,
         "MonID": 4636,
         "Type": 2
       },
@@ -13605,7 +13605,7 @@
           }
         ],
         "ID": 757,
-        "Jumptarget": 0,
+        "Jumptarget": 111800,
         "MonID": 4644,
         "Type": 3
       },
@@ -13623,7 +13623,7 @@
           }
         ],
         "ID": 758,
-        "Jumptarget": 0,
+        "Jumptarget": 111800,
         "MonID": 4643,
         "Type": 3
       },
@@ -13641,7 +13641,7 @@
           }
         ],
         "ID": 759,
-        "Jumptarget": 0,
+        "Jumptarget": 111800,
         "MonID": 4636,
         "Type": 3
       },
@@ -14940,6 +14940,60 @@
         "Jumptarget": 2,
         "MonID": 4629,
         "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "莱卡的守望·潘克多斯",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 22,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 832,
+        "Jumptarget": 114073,
+        "MonID": 4344,
+        "Type": 18
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "莱卡的守望·斯克鲁恩",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 22,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 833,
+        "Jumptarget": 114073,
+        "MonID": 4463,
+        "Type": 18
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "莱卡的守望·加尔鲁特",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 22,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 834,
+        "Jumptarget": 114073,
+        "MonID": 4606,
+        "Type": 18
       }
     ]
   }

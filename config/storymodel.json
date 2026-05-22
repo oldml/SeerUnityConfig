@@ -4071,14 +4071,80 @@
       "scale": 1
     },
     {
-      "CharacterID": "aplry",
+      "CharacterID": "aplstudenta",
       "emoji": "",
       "emojixy": "",
       "head": "",
       "initialposition": "",
-      "name": "人影",
-      "portrait": "aplry_fg",
+      "name": "阿派罗尼亚学生A",
+      "portrait": "aplstudenta_fg",
       "id": 371,
+      "scale": 1
+    },
+    {
+      "CharacterID": "aplstudentb",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "阿派罗尼亚学生B",
+      "portrait": "aplstudentb_fg",
+      "id": 372,
+      "scale": 1
+    },
+    {
+      "CharacterID": "aplnpca",
+      "emoji": "aplnpca_01,aplnpca_02,aplnpca_03",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "阿派罗尼亚市民A",
+      "portrait": "aplnpca_fg",
+      "id": 373,
+      "scale": 1.3
+    },
+    {
+      "CharacterID": "aplnpcb",
+      "emoji": "aplnpcb_01,aplnpcb_02,aplnpcb_03",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "阿派罗尼亚市民B",
+      "portrait": "aplnpcb_fg",
+      "id": 374,
+      "scale": 1.3
+    },
+    {
+      "CharacterID": "revol",
+      "emoji": "revol_01,revol_02,revol_03,revol_04,revol_05",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "蕊沃尔",
+      "portrait": "revol_fg",
+      "id": 375,
+      "scale": 1
+    },
+    {
+      "CharacterID": "xxf",
+      "emoji": "xxf_01,xxf_02,xxf_03,xxf_04",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "西西弗",
+      "portrait": "xxf_fg",
+      "id": 376,
+      "scale": 1
+    },
+    {
+      "CharacterID": "xmdn",
+      "emoji": "xmdn_01,xmdn_02,xmdn_03,xmdn_04",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "西曼德妮",
+      "portrait": "xmdn_fg",
+      "id": 377,
       "scale": 1
     }
   ]

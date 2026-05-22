@@ -2,17 +2,17 @@
   "data": [
     {
       "bookresouce": "map2",
-      "name": "群星之弈",
+      "name": "测试配置",
       "resource": "DefaultCombatBoard",
-      "tag": "1_经典场景",
+      "tag": "1_测试配置",
       "id": 1,
       "rarity": 1
     },
     {
       "bookresouce": "map1",
-      "name": "蒂朵来袭",
-      "resource": "Didoscene",
-      "tag": "2_活动限定",
+      "name": "测试配置",
+      "resource": "DefaultCombatBoard",
+      "tag": "1_测试配置",
       "id": 2,
       "rarity": 2
     }

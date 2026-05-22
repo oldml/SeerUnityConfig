@@ -205,7 +205,7 @@
       "chapter": 2,
       "equipnum": 0,
       "id": 208,
-      "rewardrange2": 1,
+      "rewardrange2": 2,
       "stagetype": 3
     },
     {
@@ -309,7 +309,7 @@
       "chapter": 3,
       "equipnum": 0,
       "id": 308,
-      "rewardrange2": 1,
+      "rewardrange2": 2,
       "stagetype": 3
     }
   ]

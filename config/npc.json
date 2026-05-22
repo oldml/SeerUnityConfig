@@ -1559,6 +1559,26 @@
       "id": 156,
       "scale": 1,
       "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "勇敢的小孩",
+      "portrait": "aplstudenta_fg",
+      "CharacterID": 108,
+      "id": 157,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "aplnpcb_02",
+      "initialposition": "",
+      "name": "艾琳",
+      "portrait": "aplnpcb_fg",
+      "CharacterID": 109,
+      "id": 158,
+      "scale": 1,
+      "silhouette": 0
     }
   ]
 }

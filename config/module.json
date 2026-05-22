@@ -5350,6 +5350,20 @@
       "isFullScreen": 1
     },
     {
+      "moduleName": "fifteenyearsignPop",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 885,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "sareikaSkinMega",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 886,
+      "isFullScreen": 0
+    },
+    {
       "moduleName": "zuma",
       "resConfig": null,
       "currAppDo": 1,
@@ -5476,11 +5490,74 @@
       "isFullScreen": 0
     },
     {
+      "moduleName": "ChaosMagicEyeJerezMainPanel",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 1039,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getmagazinecenterpanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1040,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "storyAnniversary2026",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1041,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "tiaoyinActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1042,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "moneyageActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1043,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "livesharepanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1044,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "storyAnniversary2026Store",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 1045,
+      "isFullScreen": 0
+    },
+    {
       "moduleName": "aurumEndgame",
       "resConfig": null,
       "currAppDo": 1,
       "id": 1060,
       "isFullScreen": 1
+    },
+    {
+      "moduleName": "QteTimeline",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1100,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "QteTimelineScene",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 1101,
+      "isFullScreen": 0
     }
   ]
 }

@@ -174,9 +174,9 @@
           "shopkind": 1
         },
         {
-          "productName": "英灵剑圣·兰斯洛特",
+          "productName": "鬼剑罗刹",
           "productID": [
-            3134,
+            3923,
             34174,
             5566,
             41817
@@ -187,13 +187,13 @@
           "forever": 125053,
           "ID": 10002,
           "Opentime": 20260102,
-          "productPrice": 20,
+          "productPrice": 40,
           "shopkind": 1
         },
         {
-          "productName": "圣辉·达赫迪",
+          "productName": "德马斯克",
           "productID": [
-            3255,
+            3653,
             34174,
             5566,
             41817
@@ -204,7 +204,7 @@
           "forever": 125054,
           "ID": 10003,
           "Opentime": 20260102,
-          "productPrice": 20,
+          "productPrice": 40,
           "shopkind": 1
         },
         {
@@ -656,11 +656,146 @@
           "Opentime": 20220114,
           "productPrice": 1,
           "shopkind": 5
+        },
+        {
+          "productName": "圣辰之铠因子*30",
+          "productID": [
+            2400199,
+            4017
+          ],
+          "batch": 20,
+          "Endtime": 20261231,
+          "exchangeId": 13985,
+          "forever": 0,
+          "ID": 20283,
+          "Opentime": 20220114,
+          "productPrice": 1,
+          "shopkind": 5
+        },
+        {
+          "productName": "苏格尔因子*30",
+          "productID": [
+            2400200,
+            4082
+          ],
+          "batch": 20,
+          "Endtime": 20261231,
+          "exchangeId": 13986,
+          "forever": 0,
+          "ID": 20284,
+          "Opentime": 20220114,
+          "productPrice": 1,
+          "shopkind": 5
+        },
+        {
+          "productName": "核天使因子*30",
+          "productID": [
+            2400204,
+            4116
+          ],
+          "batch": 20,
+          "Endtime": 20261231,
+          "exchangeId": 13987,
+          "forever": 0,
+          "ID": 20285,
+          "Opentime": 20220114,
+          "productPrice": 1,
+          "shopkind": 5
+        },
+        {
+          "productName": "岩天使因子*30",
+          "productID": [
+            2400205,
+            4155
+          ],
+          "batch": 20,
+          "Endtime": 20261231,
+          "exchangeId": 13988,
+          "forever": 0,
+          "ID": 20286,
+          "Opentime": 20220114,
+          "productPrice": 1,
+          "shopkind": 5
+        },
+        {
+          "productName": "序天使因子*30",
+          "productID": [
+            2400206,
+            4165
+          ],
+          "batch": 20,
+          "Endtime": 20261231,
+          "exchangeId": 13989,
+          "forever": 0,
+          "ID": 20287,
+          "Opentime": 20220114,
+          "productPrice": 1,
+          "shopkind": 5
+        },
+        {
+          "productName": "萨里奥森因子*35",
+          "productID": [
+            2400221,
+            3745
+          ],
+          "batch": 20,
+          "Endtime": 20261231,
+          "exchangeId": 13990,
+          "forever": 0,
+          "ID": 20288,
+          "Opentime": 20230505,
+          "productPrice": 1,
+          "shopkind": 5
+        },
+        {
+          "productName": "奥德迪斯因子*35",
+          "productID": [
+            2400222,
+            3947
+          ],
+          "batch": 20,
+          "Endtime": 20261231,
+          "exchangeId": 13991,
+          "forever": 0,
+          "ID": 20289,
+          "Opentime": 20230505,
+          "productPrice": 1,
+          "shopkind": 5
+        },
+        {
+          "productName": "噬雷狂兽因子*35",
+          "productID": [
+            2400223,
+            3953
+          ],
+          "batch": 20,
+          "Endtime": 20261231,
+          "exchangeId": 13993,
+          "forever": 0,
+          "ID": 20290,
+          "Opentime": 20230505,
+          "productPrice": 1,
+          "shopkind": 5
+        },
+        {
+          "productName": "伊诺美丽因子*35",
+          "productID": [
+            2400224,
+            3845
+          ],
+          "batch": 20,
+          "Endtime": 20261231,
+          "exchangeId": 13994,
+          "forever": 0,
+          "ID": 20291,
+          "Opentime": 20230505,
+          "productPrice": 1,
+          "shopkind": 5
         }
       ],
-      "Endday": "5/22",
-      "Endtime": "2026/5/22",
-      "Openday": "4/17"
+      "Endday": "7/3",
+      "Endtime": "2026/7/3",
+      "Openday": "5/22"
     }
   }
 }

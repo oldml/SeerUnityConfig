@@ -238536,7 +238536,7 @@
       },
       {
         "icon": "",
-        "name": "0522占位商品1",
+        "name": "购买皮肤：莱卡的守望·潘克多斯",
         "itemID": [
           1728062
         ],
@@ -238546,7 +238546,7 @@
       },
       {
         "icon": "",
-        "name": "0522占位商品2",
+        "name": "购买皮肤：莱卡的守望·斯克鲁恩",
         "itemID": [
           1728063
         ],
@@ -238556,12 +238556,292 @@
       },
       {
         "icon": "",
-        "name": "0522占位商品3",
+        "name": "购买皮肤：莱卡的守望·加尔鲁特",
         "itemID": [
           1728064
         ],
         "price": 398,
         "productID": 262437,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得精灵【小珍妮】",
+        "itemID": [
+          1728065
+        ],
+        "price": 598,
+        "productID": 262438,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买每日挑战次数（小珍妮）",
+        "itemID": [
+          1728066
+        ],
+        "price": 30,
+        "productID": 262439,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡简单关卡（小珍妮）",
+        "itemID": [
+          1728067
+        ],
+        "price": 20,
+        "productID": 262440,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡困难关卡（小珍妮）",
+        "itemID": [
+          1728068
+        ],
+        "price": 30,
+        "productID": 262441,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡地狱关卡（小珍妮）",
+        "itemID": [
+          1728069
+        ],
+        "price": 40,
+        "productID": 262442,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买获得小珍妮因子",
+        "itemID": [
+          1728070
+        ],
+        "price": 2,
+        "productID": 262443,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "废弃",
+        "itemID": [
+          1728071
+        ],
+        "price": 398,
+        "productID": 262444,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "废弃",
+        "itemID": [
+          1728072
+        ],
+        "price": 398,
+        "productID": 262445,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "废弃",
+        "itemID": [
+          1728073
+        ],
+        "price": 398,
+        "productID": 262446,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买精灵：蓓丽安特",
+        "itemID": [
+          1728074
+        ],
+        "price": 998,
+        "productID": 262447,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买精灵：克雷弗德",
+        "itemID": [
+          1728075
+        ],
+        "price": 998,
+        "productID": 262448,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买皮肤：朔星·蓓丽安特",
+        "itemID": [
+          1728076
+        ],
+        "price": 498,
+        "productID": 262449,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买皮肤：领衔·克雷弗德",
+        "itemID": [
+          1728077
+        ],
+        "price": 498,
+        "productID": 262450,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买刻印：本源回响",
+        "itemID": [
+          1728078
+        ],
+        "price": 398,
+        "productID": 262451,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买刻印：黄金螺旋",
+        "itemID": [
+          1728079
+        ],
+        "price": 398,
+        "productID": 262452,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买刻印：群星·奇旅",
+        "itemID": [
+          1728080
+        ],
+        "price": 398,
+        "productID": 262453,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买刻印：群星·远航",
+        "itemID": [
+          1728081
+        ],
+        "price": 398,
+        "productID": 262454,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买刻印：群星·相遇",
+        "itemID": [
+          1728082
+        ],
+        "price": 398,
+        "productID": 262455,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买刻印：群星·重逢",
+        "itemID": [
+          1728083
+        ],
+        "price": 398,
+        "productID": 262456,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买刻印：群星·知心",
+        "itemID": [
+          1728084
+        ],
+        "price": 398,
+        "productID": 262457,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买刻印：群星·共鸣",
+        "itemID": [
+          1728085
+        ],
+        "price": 398,
+        "productID": 262458,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买刻印：群星·记忆",
+        "itemID": [
+          1728086
+        ],
+        "price": 398,
+        "productID": 262459,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买刻印：群星·印象",
+        "itemID": [
+          1728087
+        ],
+        "price": 398,
+        "productID": 262460,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买精灵：潘克多斯",
+        "itemID": [
+          1728098
+        ],
+        "price": 798,
+        "productID": 262461,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买精灵：加尔鲁特",
+        "itemID": [
+          1728099
+        ],
+        "price": 798,
+        "productID": 262462,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买精灵：斯克鲁恩",
+        "itemID": [
+          1728100
+        ],
+        "price": 798,
+        "productID": 262463,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买PVE攻坚礼包",
+        "itemID": [
+          1728101
+        ],
+        "price": 1994,
+        "productID": 262464,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买【莱卡之眼】游戏次数",
+        "itemID": [
+          1728102
+        ],
+        "price": 10,
+        "productID": 262465,
         "vip": 1
       }
     ]

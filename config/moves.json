@@ -527495,6 +527495,76 @@
           "Type": 8
         },
         {
+          "info": "开始免疫并反弹受到的异常状态；为精灵指明了方向",
+          "Name": "方位播报",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            191,
+            1779,
+            1702,
+            1911,
+            1937
+          ],
+          "SideEffectArg": [
+            4,
+            2,
+            3,
+            200,
+            200,
+            200
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29353,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；开始吸取对手的体力了；出手变得更快了",
+          "Name": "定向宣传",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            911,
+            1836,
+            2315,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            4,
+            4,
+            2,
+            150,
+            1,
+            50,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29354,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
           "info": "",
           "Name": "千星死魂灭",
           "FriendSideEffect": null,
@@ -760125,6 +760195,91 @@
           "Power": 160,
           "Priority": 0,
           "Type": 57
+        },
+        {
+          "info": "",
+          "Name": "扩音",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            948,
+            964
+          ],
+          "SideEffectArg": [
+            0
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38394,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Type": 6
+        },
+        {
+          "info": "",
+          "Name": "信息共振",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1982,
+            1133,
+            1145
+          ],
+          "SideEffectArg": [
+            1,
+            100,
+            1
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38395,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 6
+        },
+        {
+          "info": "",
+          "Name": "迷途指反",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            547,
+            2204,
+            672
+          ],
+          "SideEffectArg": [
+            10,
+            3,
+            50,
+            50
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38396,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 6
         },
         {
           "info": "恢复自身一定体力",

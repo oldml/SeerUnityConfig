@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "describe": "玩家当日成功登录游戏",
+      "describe": "今日登录游戏",
       "rewardinfo": "3_204001_10",
       "title": "登录",
       "value": "1",
@@ -87,7 +87,7 @@
       "title": "精灵养成",
       "value": "1",
       "id": 10,
-      "target": 220000,
+      "target": 222000,
       "time": 1
     },
     {

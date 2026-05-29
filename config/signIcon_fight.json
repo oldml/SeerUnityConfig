@@ -2721,11 +2721,7 @@
         "className": "*",
         "dec": "金祖之龍",
         "Des": "",
-        "frame": [
-          "0_0",
-          "1_0",
-          "2_2"
-        ],
+        "frame": null,
         "NumDes": "",
         "spDes": [
           "0_己方失去了金祖之龍",
@@ -2737,7 +2733,7 @@
         "tips": "金祖之龍",
         "id": 139,
         "isShowNum": 0,
-        "showmonster": 4186,
+        "showmonster": 0,
         "showtime": 0,
         "sort": 4
       },
@@ -2745,11 +2741,7 @@
         "className": "*",
         "dec": "玄源之㡣",
         "Des": "",
-        "frame": [
-          "0_0",
-          "1_0",
-          "2_2"
-        ],
+        "frame": null,
         "NumDes": "",
         "spDes": [
           "0_己方失去了玄源之㡣",
@@ -2761,7 +2753,7 @@
         "tips": "玄源之㡣",
         "id": 140,
         "isShowNum": 0,
-        "showmonster": 4186,
+        "showmonster": 0,
         "showtime": 0,
         "sort": 4
       },
@@ -4185,7 +4177,10 @@
           "1_1"
         ],
         "NumDes": "",
-        "spDes": null,
+        "spDes": [
+          "0_暂未拥有群辉加护",
+          "1_自身被攻击技能命中后消耗；消耗时己方记录当回合自身受到的技能伤害，对手下回合先制效果失效且以回合类效果形式下回合无法主动切换精灵"
+        ],
         "spicon": null,
         "sptips": null,
         "tips": "群辉加护",
@@ -4635,49 +4630,81 @@
         "isShowNum": 1,
         "showmonster": 0,
         "showtime": 0,
-        "sort": 1
+        "sort": 5
       },
       {
         "className": "*",
-        "dec": "9",
-        "Des": "",
+        "dec": "九劫之痕",
+        "Des": "自身免疫麻痹状态；自身所处的弱化类异常状态效果改为雷解且回合结束时转化为3回合雷解；下场时自身每有1组九劫之痕、百炼之炎保留1层并为己方下只精灵附加1回合九劫之痕",
         "frame": [
           "0_0",
           "1_1",
           "2_2",
           "3_3"
         ],
-        "NumDes": "",
+        "NumDes": "当前层数",
         "spDes": null,
         "spicon": null,
         "sptips": null,
-        "tips": "9",
+        "tips": "九劫之痕",
         "id": 174,
         "isShowNum": 1,
-        "showmonster": 0,
+        "showmonster": 3407,
         "showtime": 0,
         "sort": 1
       },
       {
         "className": "*",
-        "dec": "100",
-        "Des": "",
+        "dec": "百炼之炎",
+        "Des": "自身免疫焚烬状态；对手所处的附属类异常状态效果改为烧伤且回合结束时转化为3回合烧伤；下场时自身每有1组九劫之痕、百炼之炎保留1层并为己方下只精灵附加1回合百炼之炎",
         "frame": [
           "0_0",
           "1_1",
           "2_2",
           "3_3"
         ],
-        "NumDes": "",
+        "NumDes": "当前层数",
         "spDes": null,
         "spicon": null,
         "sptips": null,
-        "tips": "100",
+        "tips": "百炼之炎",
         "id": 175,
+        "isShowNum": 1,
+        "showmonster": 3407,
+        "showtime": 0,
+        "sort": 1
+      },
+      {
+        "className": "*",
+        "dec": "九劫之痕",
+        "Des": "自身免疫麻痹状态；自身所处的弱化类异常状态效果改为雷解且回合结束时转化为3回合雷解；下场时自身每有1组九劫之痕、百炼之炎保留1层并为己方下只精灵附加1回合九劫之痕",
+        "frame": null,
+        "NumDes": "剩余回合",
+        "spDes": null,
+        "spicon": null,
+        "sptips": null,
+        "tips": "九劫之痕",
+        "id": 176,
         "isShowNum": 1,
         "showmonster": 0,
         "showtime": 0,
-        "sort": 1
+        "sort": 5
+      },
+      {
+        "className": "*",
+        "dec": "百炼之炎",
+        "Des": "自身免疫焚烬状态；对手所处的附属类异常状态效果改为烧伤且回合结束时转化为3回合烧伤；下场时自身每有1组九劫之痕、百炼之炎保留1层并为己方下只精灵附加1回合百炼之炎",
+        "frame": null,
+        "NumDes": "剩余回合",
+        "spDes": null,
+        "spicon": null,
+        "sptips": null,
+        "tips": "百炼之炎",
+        "id": 177,
+        "isShowNum": 1,
+        "showmonster": 0,
+        "showtime": 0,
+        "sort": 5
       },
       {
         "className": "SignBuffView_1000",

@@ -5364,6 +5364,34 @@
       "isFullScreen": 0
     },
     {
+      "moduleName": "17yearsstarlight",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 887,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "seventeenthAnniversaryMintmark",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 888,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "17yearspopup",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 889,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "ChaoSuanSkin",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 890,
+      "isFullScreen": 0
+    },
+    {
       "moduleName": "zuma",
       "resConfig": null,
       "currAppDo": 1,
@@ -5537,6 +5565,20 @@
       "currAppDo": 2,
       "id": 1045,
       "isFullScreen": 0
+    },
+    {
+      "moduleName": "happyTreasureGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1046,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "FourNinePlusMine",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1047,
+      "isFullScreen": 1
     },
     {
       "moduleName": "aurumEndgame",

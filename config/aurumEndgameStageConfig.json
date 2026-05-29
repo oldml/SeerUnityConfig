@@ -3,27 +3,29 @@
     {
       "name": "来袭一",
       "elite1": [
-        112
+        123
       ],
       "elite2": [
-        113
+        124
       ],
       "enemy1": [
-        101
+        108
       ],
       "enemy2": [
-        102
+        109
       ],
-      "enemy3": null,
-      "atkRatio": 100,
-      "boss": 0,
+      "enemy3": [
+        110
+      ],
+      "atkRatio": 10,
+      "boss": 131,
       "bossCoef": 1000,
-      "elite1Coef": 1000,
+      "elite1Coef": 500,
       "elite2Coef": 1000,
-      "hpIncr": 100,
-      "hpRatio": 100,
+      "hpIncr": 50,
+      "hpRatio": 100000,
       "id": 1,
-      "modId": 1
+      "modId": 6
     },
     {
       "name": "来袭二",
@@ -42,13 +44,13 @@
       "enemy3": [
         104
       ],
-      "atkRatio": 100,
+      "atkRatio": 500,
       "boss": 0,
       "bossCoef": 1000,
-      "elite1Coef": 1000,
+      "elite1Coef": 500,
       "elite2Coef": 1000,
-      "hpIncr": 100,
-      "hpRatio": 110,
+      "hpIncr": 50,
+      "hpRatio": 600,
       "id": 2,
       "modId": 2
     },
@@ -69,15 +71,15 @@
       "enemy3": [
         105
       ],
-      "atkRatio": 110,
+      "atkRatio": 500,
       "boss": 126,
       "bossCoef": 1000,
-      "elite1Coef": 1000,
+      "elite1Coef": 500,
       "elite2Coef": 1000,
-      "hpIncr": 150,
-      "hpRatio": 120,
+      "hpIncr": 50,
+      "hpRatio": 700,
       "id": 3,
-      "modId": 4
+      "modId": 3
     },
     {
       "name": "来袭四",
@@ -96,13 +98,13 @@
       "enemy3": [
         105
       ],
-      "atkRatio": 110,
+      "atkRatio": 500,
       "boss": 124,
       "bossCoef": 1000,
-      "elite1Coef": 1000,
+      "elite1Coef": 500,
       "elite2Coef": 1000,
-      "hpIncr": 150,
-      "hpRatio": 130,
+      "hpIncr": 50,
+      "hpRatio": 800,
       "id": 4,
       "modId": 3
     },
@@ -123,13 +125,13 @@
       "enemy3": [
         105
       ],
-      "atkRatio": 120,
+      "atkRatio": 500,
       "boss": 125,
       "bossCoef": 1000,
-      "elite1Coef": 1000,
+      "elite1Coef": 500,
       "elite2Coef": 1000,
-      "hpIncr": 200,
-      "hpRatio": 140,
+      "hpIncr": 50,
+      "hpRatio": 900,
       "id": 5,
       "modId": 4
     },
@@ -150,15 +152,15 @@
       "enemy3": [
         102
       ],
-      "atkRatio": 120,
+      "atkRatio": 500,
       "boss": 127,
       "bossCoef": 1000,
-      "elite1Coef": 1000,
+      "elite1Coef": 500,
       "elite2Coef": 1000,
-      "hpIncr": 200,
-      "hpRatio": 150,
+      "hpIncr": 50,
+      "hpRatio": 1000,
       "id": 6,
-      "modId": 4
+      "modId": 3
     },
     {
       "name": "来袭七",
@@ -177,13 +179,13 @@
       "enemy3": [
         107
       ],
-      "atkRatio": 130,
+      "atkRatio": 500,
       "boss": 128,
       "bossCoef": 1000,
-      "elite1Coef": 1000,
+      "elite1Coef": 500,
       "elite2Coef": 1000,
-      "hpIncr": 250,
-      "hpRatio": 160,
+      "hpIncr": 50,
+      "hpRatio": 1100,
       "id": 7,
       "modId": 5
     },
@@ -204,13 +206,13 @@
       "enemy3": [
         109
       ],
-      "atkRatio": 130,
+      "atkRatio": 500,
       "boss": 129,
       "bossCoef": 1000,
-      "elite1Coef": 1000,
+      "elite1Coef": 500,
       "elite2Coef": 1000,
-      "hpIncr": 250,
-      "hpRatio": 170,
+      "hpIncr": 50,
+      "hpRatio": 1200,
       "id": 8,
       "modId": 3
     },
@@ -231,13 +233,13 @@
       "enemy3": [
         102
       ],
-      "atkRatio": 140,
+      "atkRatio": 500,
       "boss": 130,
       "bossCoef": 1000,
-      "elite1Coef": 1000,
+      "elite1Coef": 500,
       "elite2Coef": 1000,
-      "hpIncr": 280,
-      "hpRatio": 180,
+      "hpIncr": 50,
+      "hpRatio": 1300,
       "id": 9,
       "modId": 4
     },
@@ -258,13 +260,13 @@
       "enemy3": [
         110
       ],
-      "atkRatio": 140,
+      "atkRatio": 1000,
       "boss": 130,
       "bossCoef": 1000,
-      "elite1Coef": 1000,
+      "elite1Coef": 500,
       "elite2Coef": 1000,
-      "hpIncr": 280,
-      "hpRatio": 190,
+      "hpIncr": 50,
+      "hpRatio": 1400,
       "id": 10,
       "modId": 3
     },
@@ -285,13 +287,13 @@
       "enemy3": [
         109
       ],
-      "atkRatio": 150,
+      "atkRatio": 1000,
       "boss": 131,
       "bossCoef": 1000,
-      "elite1Coef": 1000,
+      "elite1Coef": 500,
       "elite2Coef": 1000,
-      "hpIncr": 300,
-      "hpRatio": 200,
+      "hpIncr": 50,
+      "hpRatio": 1500,
       "id": 11,
       "modId": 4
     },
@@ -312,13 +314,13 @@
       "enemy3": [
         111
       ],
-      "atkRatio": 160,
+      "atkRatio": 1000,
       "boss": 131,
       "bossCoef": 1000,
-      "elite1Coef": 1000,
+      "elite1Coef": 500,
       "elite2Coef": 1000,
-      "hpIncr": 300,
-      "hpRatio": 210,
+      "hpIncr": 50,
+      "hpRatio": 1600,
       "id": 12,
       "modId": 5
     },
@@ -362,13 +364,13 @@
         111,
         107
       ],
-      "atkRatio": 150,
+      "atkRatio": 500,
       "boss": 0,
       "bossCoef": 6000,
-      "elite1Coef": 2000,
+      "elite1Coef": 1000,
       "elite2Coef": 3000,
-      "hpIncr": 200,
-      "hpRatio": 150,
+      "hpIncr": 100,
+      "hpRatio": 500,
       "id": 100,
       "modId": 5
     }

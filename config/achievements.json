@@ -8484,6 +8484,20 @@
                     "ID": 11,
                     "proicon": 1489,
                     "SpeNameBonus": 587
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "希望之化身",
+                    "Desc": "通关S-西西弗【地狱难度】关卡获得",
+                    "Threshold": "12",
+                    "title": "希望之化身",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 12,
+                    "proicon": 1493,
+                    "SpeNameBonus": 590
                   }
                 ],
                 "ID": 172,

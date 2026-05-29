@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "Name": "月冕因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400578,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "西西弗因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400577,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "小珍妮因子",
       "catID": 24,
       "Hide": 0,

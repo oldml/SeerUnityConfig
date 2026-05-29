@@ -14994,6 +14994,42 @@
         "Jumptarget": 114073,
         "MonID": 4606,
         "Type": 18
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "卡通玩具·萨瑞卡",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 835,
+        "Jumptarget": 114076,
+        "MonID": 3637,
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "派鲁基达",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 836,
+        "Jumptarget": 2,
+        "MonID": 4834,
+        "Type": 0
       }
     ]
   }

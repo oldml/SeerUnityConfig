@@ -274,6 +274,17 @@
       "monsterid": 3162,
       "order": 0,
       "type": 1
+    },
+    {
+      "Arg2": "4",
+      "LevelLock": "",
+      "name": "墨影星魂",
+      "Arg1": 4,
+      "dataKey": 23,
+      "id": 26,
+      "monsterid": 3932,
+      "order": 0,
+      "type": 1
     }
   ]
 }

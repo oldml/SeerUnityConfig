@@ -17070,7 +17070,7 @@
     {
       "answer": null,
       "deal": null,
-      "msg": "吉尔…（好难受…那个黑黑的能量…弄得吉尔好难受…）",
+      "msg": "吉尔…（…那些黑黑的能量…可恶…）",
       "dir": 0,
       "groupId": 556,
       "id": 1620,
@@ -17079,7 +17079,7 @@
     {
       "answer": null,
       "deal": null,
-      "msg": "吉尔…（不能让黑黑的能量…溢出来…吉尔必须堵住它们…）",
+      "msg": "吉尔…（不能让黑黑的能量…逸散出来…它会危害大家的安全…吉尔必须阻止它们…）",
       "dir": 0,
       "groupId": 556,
       "id": 1621,
@@ -17088,7 +17088,7 @@
     {
       "answer": null,
       "deal": null,
-      "msg": "警告：检测到吉尔体内正在急剧上升，若不进行紧急处理，精灵将存在生命危险。",
+      "msg": "警告：检测到吉尔体温正在急剧上升，若不进行紧急处理，精灵将存在生命危险。",
       "dir": 0,
       "groupId": 556,
       "id": 1622,
@@ -17097,7 +17097,7 @@
     {
       "answer": null,
       "deal": null,
-      "msg": "吉尔应该是吸收了大量异常的能量，体内的免疫系统一时半会无法中和这股外来的能量。",
+      "msg": "吉尔应该是吸收了大量异常的能量，体内的免疫系统一时半会无法调解这股外来的能量。",
       "dir": 0,
       "groupId": 556,
       "id": 1623,
@@ -17126,7 +17126,7 @@
     {
       "answer": null,
       "deal": null,
-      "msg": "吉尔吉尔。（吉尔好舒服，谢谢你，正义的赛尔机器人。）",
+      "msg": "吉尔吉尔。（吉尔得救了，谢谢你，正义的赛尔机器人。）",
       "dir": 0,
       "groupId": 557,
       "id": 1626,
@@ -25046,6 +25046,1136 @@
       "dir": 0,
       "groupId": 849,
       "id": 2462,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "怎么会这样…难道是我吗…是我造成的这一切……",
+      "dir": 0,
+      "groupId": 850,
+      "id": 2463,
+      "npcId": 4892
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "（这家伙看上去和周围的幽魂不一样，看上去还有点奇怪，先观察一下吧）",
+      "dir": 0,
+      "groupId": 850,
+      "id": 2464,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你好？请问…你怎么一个人在这里？",
+      "dir": 0,
+      "groupId": 850,
+      "id": 2465,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "还有机会…肯定还可以回到过去，对，我傻站这里!",
+      "dir": 0,
+      "groupId": 850,
+      "id": 2466,
+      "npcId": 4892
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你…你一个机器人。你也来帮我，只要有那块怀表…那块怀表可以带我回到过去。",
+      "dir": 0,
+      "groupId": 850,
+      "id": 2467,
+      "npcId": 4892
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "（他似乎在找什么“怀表”？算了，还是帮帮他吧。）",
+      "dir": 0,
+      "groupId": 850,
+      "id": 2468,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "提交“怀表碎片”",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_piece",
+        ""
+      ],
+      "msg": "找到了吗？你找到了怀表吗？快！快给我！",
+      "dir": 0,
+      "groupId": 850,
+      "id": 2469,
+      "npcId": 4892
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "怎么回事…怎么就剩下这几块碎片了？",
+      "dir": 0,
+      "groupId": 851,
+      "id": 2470,
+      "npcId": 4892
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "没事…没事的，只要有碎片也可以将怀表复原……",
+      "dir": 0,
+      "groupId": 851,
+      "id": 2471,
+      "npcId": 4892
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你快去多找几块怀表碎片给我……",
+      "dir": 0,
+      "groupId": 851,
+      "id": 2472,
+      "npcId": 4892
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我看看…这是一块破碎的怀表碎片？也不知道管不管用，先收下来吧。",
+      "dir": 0,
+      "groupId": 852,
+      "id": 2473,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你…你做到了。感谢…我这就将怀表复原。等着…我们马上就能回到过去了……",
+      "dir": 0,
+      "groupId": 853,
+      "id": 2474,
+      "npcId": 4892
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "还赶得上…一切都还来得及……好！终于复原了，阿派罗尼亚，等着我……",
+      "dir": 0,
+      "groupId": 853,
+      "id": 2475,
+      "npcId": 4892
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "欸？！他怎么一按这个怀表就消失了？我还什么都没问清楚呢。",
+      "dir": 0,
+      "groupId": 853,
+      "id": 2476,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "不过，这个怀表倒是留在了我的面前…真有这么神奇吗？不然，我也试试吧。",
+      "dir": 0,
+      "groupId": 853,
+      "id": 2477,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这是一副未完成的画作…线条什么的都画好了，可似乎还没来得及上色就被损毁了……",
+      "dir": 0,
+      "groupId": 854,
+      "id": 2478,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "就这么决定了！"
+      ],
+      "deal": [
+        "2_855"
+      ],
+      "msg": "实在于心不忍…看看哪里能找到颜料吧，我来替原作者收个尾吧。我的审美应该不差！",
+      "dir": 0,
+      "groupId": 854,
+      "id": 2479,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "使用“颜料”",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_paint",
+        ""
+      ],
+      "msg": "嗯…让我看看……",
+      "dir": 0,
+      "groupId": 855,
+      "id": 2480,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "还没找到合适的作画工具，尤其是关键的颜料，再到处看看吧。",
+      "dir": 0,
+      "groupId": 856,
+      "id": 2481,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "画上是我过去看到的那棵小树，我还记得它的模样…嗯，这样应该就没问题了，大功告成了！",
+      "dir": 0,
+      "groupId": 857,
+      "id": 2482,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "好想给原作者看看呀，不知道他会怎么想呢……",
+      "dir": 0,
+      "groupId": 857,
+      "id": 2483,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这么一看，我还挺有艺术细胞的嘛。",
+      "dir": 0,
+      "groupId": 858,
+      "id": 2484,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这里看上去像是一块纪念石碑，不过经历过那场灾难之后，已经变得破损不堪了，上面的字迹也模糊不清……",
+      "dir": 0,
+      "groupId": 859,
+      "id": 2485,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这块石碑既然能在至日广场树立，想必对阿派罗尼亚来说也有着非凡的意义吧。",
+      "dir": 0,
+      "groupId": 859,
+      "id": 2486,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "凑近看看。"
+      ],
+      "deal": [
+        "2_860"
+      ],
+      "msg": "好！我决定了，我要给这块石碑稍微修缮一下，顺便再看看周围有没有什么花朵，可以采一束花献给它。",
+      "dir": 0,
+      "groupId": 859,
+      "id": 2487,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "献上“花束”",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_stele",
+        ""
+      ],
+      "msg": "石碑的修缮应该很快，让我检查一下，看看还缺点什么……",
+      "dir": 0,
+      "groupId": 860,
+      "id": 2488,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "唔…要是有一束花就好了，先不急着修缮，到处看看吧。",
+      "dir": 0,
+      "groupId": 861,
+      "id": 2489,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "不愧是我，虽然已经不能完全复原成原本的模样了，但做到这个程度已经很厉害了。",
+      "dir": 0,
+      "groupId": 862,
+      "id": 2490,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这束花，献给阿派罗尼亚，献给在这座乌托邦生活过的每一位人。",
+      "dir": 0,
+      "groupId": 862,
+      "id": 2491,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "OK，顺利解开了，让我看看有什么。",
+      "dir": 0,
+      "groupId": 863,
+      "id": 2492,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这颗小树苗，完全被其他藤蔓给缠绕住了，这应该是它无法长大的原因吧。",
+      "dir": 0,
+      "groupId": 864,
+      "id": 2493,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "嗯？下方还有一个被杂草覆盖的小石板，我看看……",
+      "dir": 0,
+      "groupId": 864,
+      "id": 2494,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "“以此纪念阿派罗尼亚与拉斯塔商会的深厚友谊，由商会代表与布洛斯奇外交官共同种下。”",
+      "dir": 0,
+      "groupId": 864,
+      "id": 2495,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "没想到这颗小树苗还有这层意义，太可惜了…要是能在这之前，把它移种到别的地方就好了。",
+      "dir": 0,
+      "groupId": 864,
+      "id": 2496,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这应该是那颗小树苗，和先前看到的完全一模一样。",
+      "dir": 0,
+      "groupId": 865,
+      "id": 2497,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "进行“移种”",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_tree",
+        ""
+      ],
+      "msg": "虽然知道之后阿派罗尼亚会发生什么…还是把你移种到别的位置吧。",
+      "dir": 0,
+      "groupId": 865,
+      "id": 2498,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这样就可以了，但愿没问题。希望你能够好好长大噢。",
+      "dir": 0,
+      "groupId": 866,
+      "id": 2499,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "太好了，长势良好，看来我的行动没有白费。",
+      "dir": 0,
+      "groupId": 867,
+      "id": 2500,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "喷泉…喷泉它坏掉了，要是还能继续为大家演奏就好了。",
+      "dir": 0,
+      "groupId": 868,
+      "id": 2501,
+      "npcId": 4906
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "（又是一个奇怪的人……）",
+      "dir": 0,
+      "groupId": 868,
+      "id": 2502,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "啊…朋友，你也一定很遗憾吧。跋山涉水来到这里，却无法一睹至日广场喷泉的演出。",
+      "dir": 0,
+      "groupId": 868,
+      "id": 2503,
+      "npcId": 4906
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我已经在这里等待很久，很久了。始终等不到维修喷泉的工作人员，他们究竟去哪里了呢。",
+      "dir": 0,
+      "groupId": 868,
+      "id": 2504,
+      "npcId": 4906
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "可是阿派罗尼亚已经……",
+      "dir": 0,
+      "groupId": 868,
+      "id": 2505,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "朋友，我看你似乎一身都是技术装备，莫非你是专业的…管道修理工？",
+      "dir": 0,
+      "groupId": 868,
+      "id": 2506,
+      "npcId": 4906
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "喂！我才不是呢。不过如果只是让喷泉重新恢复工作的话，我可以帮你想想办法。",
+      "dir": 0,
+      "groupId": 868,
+      "id": 2507,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "是么？实在太感谢您了，我会在这里继续等待的，之后就拜托您了。",
+      "dir": 0,
+      "groupId": 868,
+      "id": 2508,
+      "npcId": 4906
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "（让喷泉恢复工作的办法…目前似乎看不太出有什么问题，或许得从别的视角检查一下。）",
+      "dir": 0,
+      "groupId": 868,
+      "id": 2509,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "检查“管线”",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_fountain",
+        ""
+      ],
+      "msg": "喷泉这里的管线似乎是有些问题，我来看看……",
+      "dir": 0,
+      "groupId": 869,
+      "id": 2510,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这样应该就修复完毕了，不过似乎还没到喷泉表演的时间？",
+      "dir": 0,
+      "groupId": 870,
+      "id": 2511,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "不知道在那一边喷泉能不能正常工作，待会回去看看吧。",
+      "dir": 0,
+      "groupId": 870,
+      "id": 2512,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这样喷泉应该就修好了，回去看看情况吧，顺便再问问那个奇怪的怪物。",
+      "dir": 0,
+      "groupId": 871,
+      "id": 2513,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "喷泉重新开始运作了，这是你的功劳吗？朋友？",
+      "dir": 0,
+      "groupId": 872,
+      "id": 2514,
+      "npcId": 4906
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "算是吧，我回到了过…没事，总之我重新修复好了喷泉下方的管线，这样就没问题了。",
+      "dir": 0,
+      "groupId": 872,
+      "id": 2515,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "实在太感谢你了，朋友。我无以为报，如果可以，我想现在为你弹奏一首乐曲以示感谢。",
+      "dir": 0,
+      "groupId": 872,
+      "id": 2516,
+      "npcId": 4906
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "可我的琴已经很久没有维护了，与其进行一场不完美的表演，那我宁愿用其他方式予以回报。",
+      "dir": 0,
+      "groupId": 872,
+      "id": 2517,
+      "npcId": 4906
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "不用不用，您太客气了，举手之劳而已！",
+      "dir": 0,
+      "groupId": 872,
+      "id": 2518,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "过去，人人都像你这般善良，可后面…后面发什么呢……",
+      "dir": 0,
+      "groupId": 872,
+      "id": 2519,
+      "npcId": 4906
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "大家都消失了，只剩下我，大家都去哪了呢……",
+      "dir": 0,
+      "groupId": 872,
+      "id": 2520,
+      "npcId": 4906
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "（他的身体渐渐变得透明，好像要消失了……）",
+      "dir": 0,
+      "groupId": 872,
+      "id": 2521,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我想，我是时候去找他们了，再会了，我的朋友。再次感谢你所做的一切。",
+      "dir": 0,
+      "groupId": 872,
+      "id": 2522,
+      "npcId": 4906
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "嗯，很高兴认识您。",
+      "dir": 0,
+      "groupId": 872,
+      "id": 2523,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "密码…密码就4880好了，这样好记……",
+      "dir": 0,
+      "groupId": 873,
+      "id": 2524,
+      "npcId": 108
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "Oei！你这家伙在做什么呢？",
+      "dir": 0,
+      "groupId": 873,
+      "id": 2525,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "啊！吓我一跳，原来是一个机器人。",
+      "dir": 0,
+      "groupId": 873,
+      "id": 2526,
+      "npcId": 108
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我在埋时光宝箱，等我长大之后，再把它挖出来。",
+      "dir": 0,
+      "groupId": 873,
+      "id": 2527,
+      "npcId": 108
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "不错诶，很有纪念意义呢！",
+      "dir": 0,
+      "groupId": 873,
+      "id": 2528,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "对吧，我把我最喜欢的宝剑和盔甲装进了宝箱，它们是我小时候最喜欢的玩具。",
+      "dir": 0,
+      "groupId": 873,
+      "id": 2529,
+      "npcId": 108
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我的理想是成为一名光荣的骑士，现在，我把小时候的这些全部装好，因为我要去参加骑士的选拔了。",
+      "dir": 0,
+      "groupId": 873,
+      "id": 2530,
+      "npcId": 108
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "真有朝气啊，我相信你一定能成功的！",
+      "dir": 0,
+      "groupId": 873,
+      "id": 2531,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "谢谢！那就借你吉言了。",
+      "dir": 0,
+      "groupId": 873,
+      "id": 2532,
+      "npcId": 108
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "（啊，是一位在写生的孩子，难道她是那副画作的……）",
+      "dir": 0,
+      "groupId": 874,
+      "id": 2533,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你好？请问你找我有什么事吗？你这样悄无声息地站在我后面盯着我看，感觉怪怪的……",
+      "dir": 0,
+      "groupId": 874,
+      "id": 2534,
+      "npcId": 109
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "啊，抱歉。我没有恶意，只是我在看你画画，画的很棒呢。",
+      "dir": 0,
+      "groupId": 874,
+      "id": 2535,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "是吗？谢谢你的夸奖！你是除了奥斯朗医生外，又一位夸我画的好的。",
+      "dir": 0,
+      "groupId": 874,
+      "id": 2536,
+      "npcId": 109
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "奥斯朗医生？",
+      "dir": 0,
+      "groupId": 874,
+      "id": 2537,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "忘了自我介绍一下，我叫艾琳，奥斯朗医生是我的主治医师。我患有一种罕见的疾病，平日可没有机会出来呢，所以我习惯在出门的日子里写生。",
+      "dir": 0,
+      "groupId": 874,
+      "id": 2538,
+      "npcId": 109
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "啊，不好，已经这个时间点了吗？待会我有一场手术，我得准备回去了。",
+      "dir": 0,
+      "groupId": 874,
+      "id": 2539,
+      "npcId": 109
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "欸？你不把画具都拿走吗？就摆在这里？",
+      "dir": 0,
+      "groupId": 874,
+      "id": 2540,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "没关系的，等手术结束，晚些时候我还会回来一趟，到时候我再把这些工具一并收走。",
+      "dir": 0,
+      "groupId": 874,
+      "id": 2541,
+      "npcId": 109
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "对了，如果你也想画画的话，这些工具你随时可以拿来用噢，请自便。",
+      "dir": 0,
+      "groupId": 874,
+      "id": 2542,
+      "npcId": 109
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "是么？那我不客气啦，谢谢你艾琳。",
+      "dir": 0,
+      "groupId": 874,
+      "id": 2543,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "画具都在这里，需要借用的话请自便噢。",
+      "dir": 0,
+      "groupId": 875,
+      "id": 2544,
+      "npcId": 109
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我看看，围栏下方有一行小字……",
+      "dir": 0,
+      "groupId": 876,
+      "id": 2545,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "“这是我们与西塞罗老师一起种下的花，如果您有需要，欢迎随时采摘。”",
+      "dir": 0,
+      "groupId": 876,
+      "id": 2546,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "是一群可爱的孩子呢，还挺浪漫的。那我就借用几朵了。",
+      "dir": 0,
+      "groupId": 876,
+      "id": 2547,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这个柱子，应该可以进行演奏。但在这个时空下，我似乎无法驱动它的功能。要不回到现实去看看吧。",
+      "dir": 0,
+      "groupId": 877,
+      "id": 2548,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "根据广场中央的石碑上的指引，如果按照指定顺序进行演奏，似乎能发生意想不到的事情。",
+      "dir": 0,
+      "groupId": 877,
+      "id": 2549,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "总之，借助怀表返回现实，然后去确认一下吧。",
+      "dir": 0,
+      "groupId": 877,
+      "id": 2550,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "一阶段引导1",
+      "dir": 0,
+      "groupId": 878,
+      "id": 2551,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "一阶段引导2",
+      "dir": 0,
+      "groupId": 879,
+      "id": 2552,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "一阶段引导3",
+      "dir": 0,
+      "groupId": 880,
+      "id": 2553,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "一阶段引导4",
+      "dir": 0,
+      "groupId": 881,
+      "id": 2554,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "一阶段引导5",
+      "dir": 0,
+      "groupId": 882,
+      "id": 2555,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "野怪触发后",
+      "dir": 0,
+      "groupId": 883,
+      "id": 2556,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "交互道具1",
+      "dir": 0,
+      "groupId": 884,
+      "id": 2557,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "交互道具2",
+      "dir": 0,
+      "groupId": 885,
+      "id": 2558,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "交互道具3",
+      "dir": 0,
+      "groupId": 886,
+      "id": 2559,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "交互道具4",
+      "dir": 0,
+      "groupId": 887,
+      "id": 2560,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "交互道具4.1",
+      "dir": 0,
+      "groupId": 888,
+      "id": 2561,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "开始游戏",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_fix",
+        ""
+      ],
+      "msg": "通用拼图游戏开启",
+      "dir": 0,
+      "groupId": 889,
+      "id": 2562,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "通用拼图游戏通关",
+      "dir": 0,
+      "groupId": 890,
+      "id": 2563,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "三阶段1",
+      "dir": 0,
+      "groupId": 891,
+      "id": 2564,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "三阶段2",
+      "dir": 0,
+      "groupId": 892,
+      "id": 2565,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "三阶段3",
+      "dir": 0,
+      "groupId": 893,
+      "id": 2566,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "未拥有指定道具且未标记状态",
+      "dir": 0,
+      "groupId": 894,
+      "id": 2567,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "开始游戏",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_fix",
+        ""
+      ],
+      "msg": "拥有指定道具且未标记状态1",
+      "dir": 0,
+      "groupId": 895,
+      "id": 2568,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "开始游戏",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_fix",
+        ""
+      ],
+      "msg": "拥有指定道具且未标记状态1",
+      "dir": 0,
+      "groupId": 896,
+      "id": 2569,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "开始游戏",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_fix",
+        ""
+      ],
+      "msg": "拥有指定道具且未标记状态1",
+      "dir": 0,
+      "groupId": 897,
+      "id": 2570,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "开始游戏",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_fix",
+        ""
+      ],
+      "msg": "拥有指定道具且未标记状态1",
+      "dir": 0,
+      "groupId": 898,
+      "id": 2571,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "拥有指定道具且标记状态",
+      "dir": 0,
+      "groupId": 899,
+      "id": 2572,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "未携带指定，进行交互1",
+      "dir": 0,
+      "groupId": 900,
+      "id": 2573,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "未携带指定，进行交互2",
+      "dir": 0,
+      "groupId": 901,
+      "id": 2574,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "未携带指定，进行交互3",
+      "dir": 0,
+      "groupId": 902,
+      "id": 2575,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "未携带指定，进行交互4",
+      "dir": 0,
+      "groupId": 903,
+      "id": 2576,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "携带指定，进行交互1",
+      "dir": 0,
+      "groupId": 904,
+      "id": 2577,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "携带指定，进行交互2",
+      "dir": 0,
+      "groupId": 905,
+      "id": 2578,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "携带指定，进行交互3",
+      "dir": 0,
+      "groupId": 906,
+      "id": 2579,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "携带指定，进行交互4",
+      "dir": 0,
+      "groupId": 907,
+      "id": 2580,
       "npcId": 11
     }
   ]

@@ -4146,6 +4146,61 @@
       "portrait": "xmdn_fg",
       "id": 377,
       "scale": 1
+    },
+    {
+      "CharacterID": "wills",
+      "emoji": "wills_01,wills_02,wills_03,wills_04",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,80",
+      "name": "薇尔诗",
+      "portrait": "wills_fg",
+      "id": 378,
+      "scale": 1
+    },
+    {
+      "CharacterID": "mhwtpifu",
+      "emoji": "mhwtpifu_01,mhwtpifu_02,mhwtpifu_03,mhwtpifu_04",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,80",
+      "name": "梅赫维特皮肤",
+      "portrait": "mhwtpifu_fg",
+      "id": 379,
+      "scale": 1
+    },
+    {
+      "CharacterID": "gangkuimsn",
+      "emoji": "gangkuimsn_01,gangkuimsn_02,gangkuimsn_03",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,110",
+      "name": "钢傀美少女",
+      "portrait": "gangkuimsn_fg",
+      "id": 380,
+      "scale": 1
+    },
+    {
+      "CharacterID": "huiecjh",
+      "emoji": "huiecjh_01,huiecjh_02",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,650",
+      "name": "灰蛾超进化",
+      "portrait": "huiecjh_fg",
+      "id": 381,
+      "scale": 1
+    },
+    {
+      "CharacterID": "aplry",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "人影",
+      "portrait": "aplry_fg",
+      "id": 382,
+      "scale": 1
     }
   ]
 }

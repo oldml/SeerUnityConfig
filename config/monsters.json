@@ -505872,6 +505872,148 @@
         "Vip": 0
       },
       {
+        "DefName": "薇尔诗",
+        "ExtraMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 38423,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 10047,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 22660,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 14897,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 22661,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 14935,
+              "LearningLv": 17,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 38420,
+              "LearningLv": 21,
+              "Rec": 1,
+              "Tag": 1
+            },
+            {
+              "ID": 22662,
+              "LearningLv": 25,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 14898,
+              "LearningLv": 29,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 22637,
+              "LearningLv": 33,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 14899,
+              "LearningLv": 37,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 22638,
+              "LearningLv": 41,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 14859,
+              "LearningLv": 45,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 29371,
+              "LearningLv": 49,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "ID": 38421,
+              "LearningLv": 53,
+              "Rec": 1,
+              "Tag": 3
+            },
+            {
+              "ID": 32106,
+              "LearningLv": 57,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 38422,
+              "LearningLv": 61,
+              "Rec": 1,
+              "Tag": 4
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 80,
+        "CharacterAttrParam": 4,
+        "Combo": 0,
+        "Def": 125,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 2,
+        "HP": 180,
+        "ID": 4000,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 2660,
+        "RealId": 0,
+        "SpAtk": 150,
+        "Spd": 140,
+        "SpDef": 125,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 223,
+        "Vip": 0
+      },
+      {
         "DefName": "无上·万魔天尊",
         "ExtraMoves": {
           "AdvMove": null,
@@ -635328,6 +635470,557 @@
         "Vip": 0
       },
       {
+        "DefName": "蕊沃尔",
+        "ExtraMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 29364,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 10086,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10412,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11959,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20030,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11960,
+              "LearningLv": 17,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 38410,
+              "LearningLv": 21,
+              "Rec": 1,
+              "Tag": 1
+            },
+            {
+              "ID": 11167,
+              "LearningLv": 25,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20955,
+              "LearningLv": 29,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11961,
+              "LearningLv": 33,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 21001,
+              "LearningLv": 37,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11962,
+              "LearningLv": 41,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 11963,
+              "LearningLv": 45,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 29362,
+              "LearningLv": 49,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "ID": 29363,
+              "LearningLv": 53,
+              "Rec": 1,
+              "Tag": 3
+            },
+            {
+              "ID": 38411,
+              "LearningLv": 61,
+              "Rec": 1,
+              "Tag": 4
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 70,
+        "CharacterAttrParam": 4,
+        "Combo": 0,
+        "Def": 114,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 2,
+        "HP": 165,
+        "ID": 4908,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 3569,
+        "RealId": 0,
+        "SpAtk": 144,
+        "Spd": 133,
+        "SpDef": 114,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 3,
+        "Vip": 0
+      },
+      {
+        "DefName": "钢傀",
+        "ExtraMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 38414,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 10086,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20889,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 13601,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20164,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10330,
+              "LearningLv": 17,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 38412,
+              "LearningLv": 21,
+              "Rec": 1,
+              "Tag": 4
+            },
+            {
+              "ID": 20355,
+              "LearningLv": 25,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10650,
+              "LearningLv": 29,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 24622,
+              "LearningLv": 33,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 34543,
+              "LearningLv": 37,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 27321,
+              "LearningLv": 41,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 34544,
+              "LearningLv": 45,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 29365,
+              "LearningLv": 49,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "ID": 29366,
+              "LearningLv": 53,
+              "Rec": 1,
+              "Tag": 3
+            },
+            {
+              "ID": 27323,
+              "LearningLv": 57,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 38413,
+              "LearningLv": 61,
+              "Rec": 1,
+              "Tag": 4
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 140,
+        "CharacterAttrParam": 4,
+        "Combo": 0,
+        "Def": 80,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 2,
+        "HP": 175,
+        "ID": 4909,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 3570,
+        "RealId": 0,
+        "SpAtk": 140,
+        "Spd": 130,
+        "SpDef": 80,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 103,
+        "Vip": 0
+      },
+      {
+        "DefName": "波动态幽魂",
+        "ExtraMoves": null,
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 10223,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20168,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10390,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20181,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10831,
+              "LearningLv": 17,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 38415,
+              "LearningLv": 21,
+              "Rec": 1,
+              "Tag": 1
+            },
+            {
+              "ID": 10392,
+              "LearningLv": 25,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10832,
+              "LearningLv": 29,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20170,
+              "LearningLv": 33,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10424,
+              "LearningLv": 37,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10833,
+              "LearningLv": 41,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20183,
+              "LearningLv": 45,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 29367,
+              "LearningLv": 49,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "ID": 29368,
+              "LearningLv": 53,
+              "Rec": 1,
+              "Tag": 3
+            },
+            {
+              "ID": 20184,
+              "LearningLv": 57,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 38416,
+              "LearningLv": 61,
+              "Rec": 1,
+              "Tag": 4
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 124,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 105,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 161,
+        "ID": 4910,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 3571,
+        "RealId": 0,
+        "SpAtk": 70,
+        "Spd": 135,
+        "SpDef": 105,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 13,
+        "Vip": 0
+      },
+      {
+        "DefName": "星光·艾欧丽娅",
+        "ExtraMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 38419,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 10001,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20177,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10361,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20618,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 14290,
+              "LearningLv": 17,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 38417,
+              "LearningLv": 21,
+              "Rec": 1,
+              "Tag": 1
+            },
+            {
+              "ID": 10218,
+              "LearningLv": 25,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20644,
+              "LearningLv": 29,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 23745,
+              "LearningLv": 33,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 30907,
+              "LearningLv": 37,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 25561,
+              "LearningLv": 41,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 30908,
+              "LearningLv": 45,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 29369,
+              "LearningLv": 49,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "ID": 29370,
+              "LearningLv": 53,
+              "Rec": 1,
+              "Tag": 3
+            },
+            {
+              "ID": 25563,
+              "LearningLv": 57,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 38418,
+              "LearningLv": 61,
+              "Rec": 1,
+              "Tag": 4
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 147,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 118,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 2,
+        "HP": 168,
+        "ID": 4911,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 3572,
+        "RealId": 0,
+        "SpAtk": 70,
+        "Spd": 139,
+        "SpDef": 118,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 91,
+        "Vip": 0
+      },
+      {
         "DefName": "圣灵谱尼",
         "ExtraMoves": {
           "AdvMove": null,
@@ -736302,6 +736995,186 @@
         "isRidePet": 0,
         "PetClass": 0,
         "RealId": 73,
+        "SpAtk": 0,
+        "Spd": 0,
+        "SpDef": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0
+      },
+      {
+        "DefName": "于生命中得见·薇尔诗",
+        "ExtraMoves": null,
+        "LearnableMoves": null,
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400837,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 0,
+        "Spd": 0,
+        "SpDef": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0
+      },
+      {
+        "DefName": "超算魅影·梅赫维特",
+        "ExtraMoves": null,
+        "LearnableMoves": null,
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400838,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 0,
+        "Spd": 0,
+        "SpDef": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0
+      },
+      {
+        "DefName": "审判天使·钢傀",
+        "ExtraMoves": null,
+        "LearnableMoves": null,
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400839,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 0,
+        "Spd": 0,
+        "SpDef": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0
+      },
+      {
+        "DefName": "星际领航员·艾欧丽娅",
+        "ExtraMoves": null,
+        "LearnableMoves": null,
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400840,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 1400812,
+        "SpAtk": 0,
+        "Spd": 0,
+        "SpDef": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0
+      },
+      {
+        "DefName": "闪耀探险家·嗒啦啦",
+        "ExtraMoves": null,
+        "LearnableMoves": null,
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400841,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 0,
+        "Spd": 0,
+        "SpDef": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0
+      },
+      {
+        "DefName": "限制解除·钢傀",
+        "ExtraMoves": null,
+        "LearnableMoves": null,
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400842,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 0,
         "SpAtk": 0,
         "Spd": 0,
         "SpDef": 0,

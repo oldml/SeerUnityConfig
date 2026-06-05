@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "tagname": "玩法说明",
+      "tagname": "基础玩法",
       "tutorialid": [
         1
       ],
       "id": 1
     },
     {
-      "tagname": "正式作战",
+      "tagname": "技能&化形",
       "tutorialid": [
         2,
         3
@@ -16,36 +16,30 @@
       "id": 2
     },
     {
-      "tagname": "作战演算",
+      "tagname": "荣光",
       "tutorialid": [
         4
       ],
       "id": 3
     },
     {
-      "tagname": "技能",
+      "tagname": "萌芽",
       "tutorialid": [
-        5,
-        6,
-        7,
-        8
+        5
       ],
       "id": 4
     },
     {
-      "tagname": "化形",
+      "tagname": "初诞",
       "tutorialid": [
-        9,
-        10,
-        11,
-        12
+        6
       ],
       "id": 5
     },
     {
-      "tagname": "战中强化",
+      "tagname": "纷争",
       "tutorialid": [
-        13
+        7
       ],
       "id": 6
     }

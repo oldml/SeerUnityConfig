@@ -131,7 +131,7 @@
       "WildBossID": null,
       "WildBossPoint": null,
       "WildBossWeight": null,
-      "enterMap": 1,
+      "enterMap": 0,
       "GroupID": 10103,
       "id": 2004,
       "MapRatio": 0,
@@ -17049,8 +17049,8 @@
       "NPCID": null,
       "NPCXYZ": null,
       "PlayerXYZ": [
-        100,
-        370
+        150,
+        390
       ],
       "WildBossID": [
         4896
@@ -17104,6 +17104,97 @@
       "id": 2172,
       "MapRatio": 1,
       "pic": 2172
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "至日广场",
+      "notes": "",
+      "sound": "APL_story3",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": [
+        240,
+        260
+      ],
+      "WildBossID": [
+        4910
+      ],
+      "WildBossPoint": [
+        90,
+        380,
+        290,
+        270,
+        520,
+        400,
+        720,
+        380,
+        890,
+        280,
+        1070,
+        330,
+        1210,
+        380,
+        1570,
+        290,
+        1370,
+        210
+      ],
+      "WildBossWeight": [
+        1
+      ],
+      "enterMap": 0,
+      "GroupID": 22005,
+      "id": 2173,
+      "MapRatio": 1,
+      "pic": 2173
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "空场景占位",
+      "notes": "",
+      "sound": "APL_story3",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": [
+        240,
+        260
+      ],
+      "WildBossID": null,
+      "WildBossPoint": null,
+      "WildBossWeight": null,
+      "enterMap": 0,
+      "GroupID": 22005,
+      "id": 2174,
+      "MapRatio": 1,
+      "pic": 2174
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "传送舱",
+      "notes": "17周年庆",
+      "sound": "BGM_151A",
+      "NPCID": [
+        28
+      ],
+      "NPCXYZ": [
+        145,
+        404
+      ],
+      "PlayerXYZ": [
+        467,
+        404
+      ],
+      "WildBossID": null,
+      "WildBossPoint": null,
+      "WildBossWeight": null,
+      "enterMap": 1,
+      "GroupID": 10103,
+      "id": 2175,
+      "MapRatio": 1,
+      "pic": 2175
     }
   ]
 }

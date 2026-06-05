@@ -3,29 +3,27 @@
     {
       "name": "来袭一",
       "elite1": [
-        123
+        101
       ],
       "elite2": [
-        124
+        102
       ],
       "enemy1": [
-        108
+        101
       ],
       "enemy2": [
-        109
+        102
       ],
-      "enemy3": [
-        110
-      ],
-      "atkRatio": 10,
-      "boss": 131,
+      "enemy3": null,
+      "atkRatio": 500,
+      "boss": 0,
       "bossCoef": 1000,
-      "elite1Coef": 500,
+      "elite1Coef": 1000,
       "elite2Coef": 1000,
       "hpIncr": 50,
-      "hpRatio": 100000,
+      "hpRatio": 500,
       "id": 1,
-      "modId": 6
+      "modId": 1
     },
     {
       "name": "来袭二",
@@ -47,7 +45,7 @@
       "atkRatio": 500,
       "boss": 0,
       "bossCoef": 1000,
-      "elite1Coef": 500,
+      "elite1Coef": 1000,
       "elite2Coef": 1000,
       "hpIncr": 50,
       "hpRatio": 600,
@@ -74,7 +72,7 @@
       "atkRatio": 500,
       "boss": 126,
       "bossCoef": 1000,
-      "elite1Coef": 500,
+      "elite1Coef": 1000,
       "elite2Coef": 1000,
       "hpIncr": 50,
       "hpRatio": 700,
@@ -101,7 +99,7 @@
       "atkRatio": 500,
       "boss": 124,
       "bossCoef": 1000,
-      "elite1Coef": 500,
+      "elite1Coef": 1000,
       "elite2Coef": 1000,
       "hpIncr": 50,
       "hpRatio": 800,
@@ -128,7 +126,7 @@
       "atkRatio": 500,
       "boss": 125,
       "bossCoef": 1000,
-      "elite1Coef": 500,
+      "elite1Coef": 1000,
       "elite2Coef": 1000,
       "hpIncr": 50,
       "hpRatio": 900,
@@ -155,7 +153,7 @@
       "atkRatio": 500,
       "boss": 127,
       "bossCoef": 1000,
-      "elite1Coef": 500,
+      "elite1Coef": 1000,
       "elite2Coef": 1000,
       "hpIncr": 50,
       "hpRatio": 1000,
@@ -182,7 +180,7 @@
       "atkRatio": 500,
       "boss": 128,
       "bossCoef": 1000,
-      "elite1Coef": 500,
+      "elite1Coef": 1000,
       "elite2Coef": 1000,
       "hpIncr": 50,
       "hpRatio": 1100,
@@ -209,7 +207,7 @@
       "atkRatio": 500,
       "boss": 129,
       "bossCoef": 1000,
-      "elite1Coef": 500,
+      "elite1Coef": 1000,
       "elite2Coef": 1000,
       "hpIncr": 50,
       "hpRatio": 1200,
@@ -236,7 +234,7 @@
       "atkRatio": 500,
       "boss": 130,
       "bossCoef": 1000,
-      "elite1Coef": 500,
+      "elite1Coef": 1000,
       "elite2Coef": 1000,
       "hpIncr": 50,
       "hpRatio": 1300,
@@ -263,7 +261,7 @@
       "atkRatio": 1000,
       "boss": 130,
       "bossCoef": 1000,
-      "elite1Coef": 500,
+      "elite1Coef": 1000,
       "elite2Coef": 1000,
       "hpIncr": 50,
       "hpRatio": 1400,
@@ -282,7 +280,7 @@
         110
       ],
       "enemy2": [
-        106
+        107
       ],
       "enemy3": [
         109
@@ -290,7 +288,7 @@
       "atkRatio": 1000,
       "boss": 131,
       "bossCoef": 1000,
-      "elite1Coef": 500,
+      "elite1Coef": 1000,
       "elite2Coef": 1000,
       "hpIncr": 50,
       "hpRatio": 1500,
@@ -317,7 +315,7 @@
       "atkRatio": 1000,
       "boss": 131,
       "bossCoef": 1000,
-      "elite1Coef": 500,
+      "elite1Coef": 1000,
       "elite2Coef": 1000,
       "hpIncr": 50,
       "hpRatio": 1600,
@@ -341,7 +339,8 @@
         118,
         121,
         122,
-        123
+        123,
+        117
       ],
       "enemy1": [
         101,
@@ -359,18 +358,18 @@
       ],
       "enemy3": [
         105,
-        106,
+        108,
         109,
         111,
         107
       ],
-      "atkRatio": 500,
+      "atkRatio": 750,
       "boss": 0,
-      "bossCoef": 6000,
+      "bossCoef": 5000,
       "elite1Coef": 1000,
       "elite2Coef": 3000,
-      "hpIncr": 100,
-      "hpRatio": 500,
+      "hpIncr": 150,
+      "hpRatio": 750,
       "id": 100,
       "modId": 5
     }

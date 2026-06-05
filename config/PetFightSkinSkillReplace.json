@@ -36,6 +36,24 @@
         },
         "petid": 0,
         "skinid": 645
+      },
+      {
+        "skill": {
+          "action": "hidemove",
+          "id": 38423,
+          "replaceId": 38423
+        },
+        "petid": 4000,
+        "skinid": 0
+      },
+      {
+        "skill": {
+          "action": "hidemove",
+          "id": 38423,
+          "replaceId": 38423
+        },
+        "petid": 0,
+        "skinid": 837
       }
     ]
   }

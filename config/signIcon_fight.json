@@ -4707,6 +4707,38 @@
         "sort": 5
       },
       {
+        "className": "*",
+        "dec": "黄金万象",
+        "Des": "自身登场时，消耗黄金万象并消除对手的回合类效果与能力提升效果，消除成功则当回合免疫受到的异常状态；己方的薇尔诗在胜负结算中视为存活",
+        "frame": null,
+        "NumDes": "",
+        "spDes": null,
+        "spicon": null,
+        "sptips": null,
+        "tips": "黄金万象",
+        "id": 178,
+        "isShowNum": 0,
+        "showmonster": 0,
+        "showtime": 0,
+        "sort": 1
+      },
+      {
+        "className": "*",
+        "dec": "异常免疫",
+        "Des": "可以帮助自身免疫受到的异常状态，下场保留",
+        "frame": null,
+        "NumDes": "剩余次数",
+        "spDes": null,
+        "spicon": null,
+        "sptips": null,
+        "tips": "异常免疫",
+        "id": 179,
+        "isShowNum": 1,
+        "showmonster": 0,
+        "showtime": 0,
+        "sort": 1
+      },
+      {
         "className": "SignBuffView_1000",
         "dec": "折叠icon",
         "Des": "",

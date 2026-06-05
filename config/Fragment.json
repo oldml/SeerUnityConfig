@@ -8050,6 +8050,20 @@
         "PetLimit": 1,
         "Rarity": 3,
         "show": 1
+      },
+      {
+        "effectId": 2095,
+        "ID": 2400579,
+        "MonsterID": 4908,
+        "MoveID": 29364,
+        "MovesConsume": 108,
+        "NeedmonID": 0,
+        "NewseConsume": 270,
+        "NewSeIdx": 6399,
+        "PetConsume": 540,
+        "PetLimit": 1,
+        "Rarity": 3,
+        "show": 1
       }
     ]
   }

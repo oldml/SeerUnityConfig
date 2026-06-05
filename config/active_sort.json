@@ -465,6 +465,24 @@
       "priority": 5,
       "truepos": 1,
       "type": 1
+    },
+    {
+      "controller": "",
+      "dest": "1061",
+      "finishtime": "2026/7/3 10:00:00",
+      "image": "17thAnniversaryPerks",
+      "name": "周年庆典",
+      "statlog": "",
+      "reddotid": null,
+      "dailyRed": 0,
+      "id": 28,
+      "iOSreviewshow": 0,
+      "isdeadline": 1,
+      "isshow": 1,
+      "jumptarget": 0,
+      "priority": 21,
+      "truepos": 1,
+      "type": 2
     }
   ]
 }

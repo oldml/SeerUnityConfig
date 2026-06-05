@@ -1579,6 +1579,26 @@
       "id": 158,
       "scale": 1,
       "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "迪利吉",
+      "portrait": "dlj_fg",
+      "CharacterID": 4892,
+      "id": 159,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "阿西列维",
+      "portrait": "axlw_fg",
+      "CharacterID": 4906,
+      "id": 160,
+      "scale": 1,
+      "silhouette": 0
     }
   ]
 }

@@ -550,6 +550,46 @@
         "price": 30,
         "productID": 200075,
         "vip": 1
+      },
+      {
+        "name": "购买精灵心愿单礼包（小）",
+        "itemID": [
+          1728183
+        ],
+        "gold": 1,
+        "price": 5,
+        "productID": 200076,
+        "vip": 1
+      },
+      {
+        "name": "购买精灵心愿单礼包（中）",
+        "itemID": [
+          1728184
+        ],
+        "gold": 1,
+        "price": 10,
+        "productID": 200077,
+        "vip": 1
+      },
+      {
+        "name": "购买精灵心愿单礼包（大）",
+        "itemID": [
+          1728185
+        ],
+        "gold": 1,
+        "price": 35,
+        "productID": 200078,
+        "vip": 1
+      },
+      {
+        "name": "购买皮肤尊享卡",
+        "itemID": [
+          1728186
+        ],
+        "gold": 1,
+        "price": 20,
+        "productID": 200079,
+        "vip": 1
       }
     ]
   }

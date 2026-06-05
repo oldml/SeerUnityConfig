@@ -9783,6 +9783,14 @@
       "id": 1225,
       "rewardtype": 1,
       "Rule": 13
+    },
+    {
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "Branch": 176,
+      "id": 1226,
+      "rewardtype": 1,
+      "Rule": 5
     }
   ]
 }

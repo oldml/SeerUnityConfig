@@ -7530,6 +7530,23 @@
       "signType": 0,
       "sorting": 6,
       "type": 9
+    },
+    {
+      "args": "Assets/Game/UI/seventeensong/seventeensong.prefab",
+      "beginning": "",
+      "ending": "",
+      "labelName": "周年庆主题曲",
+      "name": "seventeensong",
+      "channel": 0,
+      "Go": 445,
+      "helptips": 0,
+      "id": 460,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 315,
+      "signType": 0,
+      "sorting": 21,
+      "type": 8
     }
   ]
 }

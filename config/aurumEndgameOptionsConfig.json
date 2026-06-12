@@ -532,7 +532,7 @@
       "branchid": 0,
       "group": 1,
       "id": 36,
-      "maxnum": 2,
+      "maxnum": 5,
       "rarity": 1,
       "related": 0,
       "root": 1,
@@ -547,7 +547,7 @@
       "branchid": 0,
       "group": 1,
       "id": 37,
-      "maxnum": 5,
+      "maxnum": 10,
       "rarity": 2,
       "related": 0,
       "root": 1,
@@ -637,7 +637,7 @@
       "branchid": 0,
       "group": 1,
       "id": 43,
-      "maxnum": 10,
+      "maxnum": 12,
       "rarity": 1,
       "related": 0,
       "root": 2,
@@ -676,9 +676,9 @@
       "value": 2
     },
     {
-      "attritube": "spell200Heal",
-      "desc": "【技能】心耀苍生的恢复效果+12%",
-      "name": "恢复强化",
+      "attritube": "spell200CoolDown",
+      "desc": "【技能】心耀苍生的冷却时间-8%",
+      "name": "冷却缩短",
       "branchid": 0,
       "group": 1,
       "id": 46,
@@ -688,7 +688,7 @@
       "root": 2,
       "treeid": 0,
       "type": 1,
-      "value": 120
+      "value": -80
     },
     {
       "attritube": "spell200Heal",
@@ -773,7 +773,7 @@
       "group": 2,
       "id": 52,
       "maxnum": 1,
-      "rarity": 3,
+      "rarity": 2,
       "related": 0,
       "root": 2,
       "treeid": 0,
@@ -796,9 +796,9 @@
       "value": 200
     },
     {
-      "attritube": "spell300Damage",
-      "desc": "【技能】满月镰斩的伤害+35%",
-      "name": "伤害强化",
+      "attritube": "spell300CoolDown",
+      "desc": "【技能】满月镰斩的冷却时间-12%",
+      "name": "冷却缩短",
       "branchid": 0,
       "group": 1,
       "id": 54,
@@ -808,7 +808,7 @@
       "root": 3,
       "treeid": 0,
       "type": 1,
-      "value": 350
+      "value": -120
     },
     {
       "attritube": "spell300Damage",
@@ -832,7 +832,7 @@
       "branchid": 0,
       "group": 1,
       "id": 56,
-      "maxnum": 10,
+      "maxnum": 5,
       "rarity": 1,
       "related": 0,
       "root": 3,
@@ -856,13 +856,13 @@
       "value": 400
     },
     {
-      "attritube": "hx3PropSize",
-      "desc": "【化形】四叶草的大小+25%",
-      "name": "范围强化",
+      "attritube": "spell300QuickHx3",
+      "desc": "【技能】场上每存在一个初诞之形，满月镰斩的冷却时间-0.25s",
+      "name": "化形呼应",
       "branchid": 0,
       "group": 1,
       "id": 58,
-      "maxnum": 2,
+      "maxnum": 1,
       "rarity": 3,
       "related": 0,
       "root": 3,
@@ -892,7 +892,7 @@
       "branchid": 0,
       "group": 1,
       "id": 60,
-      "maxnum": 5,
+      "maxnum": 10,
       "rarity": 1,
       "related": 59,
       "root": 3,
@@ -901,9 +901,9 @@
       "value": 250
     },
     {
-      "attritube": "spell300PathDamage",
-      "desc": "【技能】满月镰斩留下的轨迹伤害+50%",
-      "name": "轨迹强化",
+      "attritube": "hx3PropSize",
+      "desc": "【化形】四叶草的大小+30%",
+      "name": "范围强化",
       "branchid": 0,
       "group": 1,
       "id": 61,
@@ -913,7 +913,7 @@
       "root": 3,
       "treeid": 0,
       "type": 1,
-      "value": 500
+      "value": 300
     },
     {
       "attritube": "hx3IsEnergyPowerUp",
@@ -946,9 +946,9 @@
       "value": 200
     },
     {
-      "attritube": "spell400Damage",
-      "desc": "【技能】集束导弹的伤害+35%",
-      "name": "伤害强化",
+      "attritube": "spell400CoolDown",
+      "desc": "【技能】集束导弹的冷却时间-12%",
+      "name": "冷却缩短",
       "branchid": 0,
       "group": 1,
       "id": 64,
@@ -958,7 +958,7 @@
       "root": 4,
       "treeid": 0,
       "type": 1,
-      "value": 350
+      "value": -120
     },
     {
       "attritube": "spell400Damage",
@@ -982,7 +982,7 @@
       "branchid": 0,
       "group": 1,
       "id": 66,
-      "maxnum": 8,
+      "maxnum": 10,
       "rarity": 1,
       "related": 0,
       "root": 4,
@@ -1006,19 +1006,19 @@
       "value": 450
     },
     {
-      "attritube": "hx4HealthUp",
-      "desc": "【化形】纷争之形的生命值+60%",
-      "name": "纷争强化",
+      "attritube": "spell400QuickHx4",
+      "desc": "【技能】场上每存在1个纷争之形，集束导弹的冷却时间-0.25s",
+      "name": "化形呼唤",
       "branchid": 0,
       "group": 1,
       "id": 68,
-      "maxnum": 2,
+      "maxnum": 1,
       "rarity": 3,
       "related": 0,
       "root": 4,
       "treeid": 0,
       "type": 1,
-      "value": 600
+      "value": 250
     },
     {
       "attritube": "hx4LaunchBulletProp",

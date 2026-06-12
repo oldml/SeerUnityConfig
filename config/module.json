@@ -5413,6 +5413,13 @@
       "isFullScreen": 1
     },
     {
+      "moduleName": "versePetSell",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 894,
+      "isFullScreen": 0
+    },
+    {
       "moduleName": "zuma",
       "resConfig": null,
       "currAppDo": 1,
@@ -5623,6 +5630,20 @@
       "isFullScreen": 0
     },
     {
+      "moduleName": "autocardFriend",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1051,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autoCardActivitycanglan",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1052,
+      "isFullScreen": 0
+    },
+    {
       "moduleName": "aurumEndgame",
       "resConfig": null,
       "currAppDo": 1,
@@ -5725,6 +5746,34 @@
       "resConfig": null,
       "currAppDo": 2,
       "id": 1108,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "theFifthBuddhaRuturn",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 1109,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "aolyTrial",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 1110,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getszyhecenter",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1111,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "UnreachableDreamSkinMegaPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1112,
       "isFullScreen": 1
     }
   ]

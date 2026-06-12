@@ -258,7 +258,7 @@
       "enemy3": [
         110
       ],
-      "atkRatio": 1000,
+      "atkRatio": 800,
       "boss": 130,
       "bossCoef": 1000,
       "elite1Coef": 1000,
@@ -287,10 +287,10 @@
       ],
       "atkRatio": 1000,
       "boss": 131,
-      "bossCoef": 1000,
+      "bossCoef": 3000,
       "elite1Coef": 1000,
       "elite2Coef": 1000,
-      "hpIncr": 50,
+      "hpIncr": 100,
       "hpRatio": 1500,
       "id": 11,
       "modId": 4
@@ -312,12 +312,12 @@
       "enemy3": [
         111
       ],
-      "atkRatio": 1000,
+      "atkRatio": 1200,
       "boss": 131,
-      "bossCoef": 1000,
+      "bossCoef": 5000,
       "elite1Coef": 1000,
-      "elite2Coef": 1000,
-      "hpIncr": 50,
+      "elite2Coef": 2000,
+      "hpIncr": 150,
       "hpRatio": 1600,
       "id": 12,
       "modId": 5
@@ -363,15 +363,15 @@
         111,
         107
       ],
-      "atkRatio": 750,
+      "atkRatio": 1500,
       "boss": 0,
-      "bossCoef": 5000,
-      "elite1Coef": 1000,
-      "elite2Coef": 3000,
-      "hpIncr": 150,
-      "hpRatio": 750,
+      "bossCoef": 10000,
+      "elite1Coef": 3000,
+      "elite2Coef": 5000,
+      "hpIncr": 250,
+      "hpRatio": 1000,
       "id": 100,
-      "modId": 5
+      "modId": 6
     }
   ]
 }

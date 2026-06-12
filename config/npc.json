@@ -1599,6 +1599,26 @@
       "id": 160,
       "scale": 1,
       "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "神秘的声音",
+      "portrait": "shadow_fg",
+      "CharacterID": 110,
+      "id": 161,
+      "scale": 1,
+      "silhouette": 1
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "夏哆",
+      "portrait": "shadow_fg",
+      "CharacterID": 4913,
+      "id": 161,
+      "scale": 1,
+      "silhouette": 0
     }
   ]
 }

@@ -25881,7 +25881,7 @@
     {
       "answer": null,
       "deal": null,
-      "msg": "一阶段引导1",
+      "msg": "这里应该就是阿派罗尼亚的博物馆了，我记得叫做“众星博物馆”。",
       "dir": 0,
       "groupId": 878,
       "id": 2551,
@@ -25890,91 +25890,388 @@
     {
       "answer": null,
       "deal": null,
-      "msg": "一阶段引导2",
+      "msg": "这里曾收藏了众多珍贵的文物，现在只剩下一片废墟了，实在太可惜……",
       "dir": 0,
-      "groupId": 879,
+      "groupId": 878,
       "id": 2552,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "一阶段引导3",
+      "msg": "居然…居然还人在吗？但这些…我还没准备好……",
       "dir": 0,
-      "groupId": 880,
+      "groupId": 878,
       "id": 2553,
-      "npcId": 11
+      "npcId": 110
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "一阶段引导4",
+      "msg": "啊？谁在说话？奇怪，有人在那边吗？你好？",
       "dir": 0,
-      "groupId": 881,
+      "groupId": 878,
       "id": 2554,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "一阶段引导5",
+      "msg": "噫！你别别别过来……",
       "dir": 0,
-      "groupId": 882,
+      "groupId": 878,
       "id": 2555,
-      "npcId": 11
+      "npcId": 110
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "野怪触发后",
+      "msg": "果然有声音…那边是不是有一个影子？我得过去检查一下。",
       "dir": 0,
-      "groupId": 883,
+      "groupId": 878,
       "id": 2556,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "交互道具1",
+      "msg": "影子…我根本够不到它。消失了，跑的好快……",
       "dir": 0,
-      "groupId": 884,
+      "groupId": 879,
       "id": 2557,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "交互道具2",
+      "msg": "但它还是留下了行动轨迹，就在前面。等着，我一定要弄清楚是什么。",
       "dir": 0,
-      "groupId": 885,
+      "groupId": 879,
       "id": 2558,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "交互道具3",
+      "msg": "跑的好快……它究竟在躲什么？",
       "dir": 0,
-      "groupId": 886,
+      "groupId": 880,
       "id": 2559,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "交互道具4",
+      "msg": "我一定要追上它。",
       "dir": 0,
-      "groupId": 887,
+      "groupId": 880,
       "id": 2560,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "交互道具4.1",
+      "msg": "彻底消失了……怎么回事……",
+      "dir": 0,
+      "groupId": 881,
+      "id": 2561,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "嗯？那边好像有一些窸窸窣窣的动静。过去看看。",
+      "dir": 0,
+      "groupId": 881,
+      "id": 2562,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "盯……",
+      "dir": 0,
+      "groupId": 882,
+      "id": 2563,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "……",
+      "dir": 0,
+      "groupId": 882,
+      "id": 2564,
+      "npcId": 110
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "再盯……",
+      "dir": 0,
+      "groupId": 882,
+      "id": 2565,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这…这位游客，本馆暂时闭馆休整中，请您有序离场。出口在您的后方，那边也有具体的指示牌引导……",
+      "dir": 0,
+      "groupId": 882,
+      "id": 2566,
+      "npcId": 110
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "唔啊！文物居然说话了！好神奇！",
+      "dir": 0,
+      "groupId": 882,
+      "id": 2567,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "欸？对…对没错，我就是本馆的镇馆文物之一，你有什么问题。",
+      "dir": 0,
+      "groupId": 882,
+      "id": 2568,
+      "npcId": 110
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "但你真的不打算现出真身吗？真当我相信文物会说话啊！",
+      "dir": 0,
+      "groupId": 882,
+      "id": 2569,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "啊！请这位游客不要生气，请不要投诉我……",
+      "dir": 0,
+      "groupId": 882,
+      "id": 2570,
+      "npcId": 110
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "那你是何方神圣？一一道来，否则就去博物馆前台投诉。（虽然我也不知道哪一堆废墟是前台了。）",
+      "dir": 0,
+      "groupId": 882,
+      "id": 2571,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "（一阵扭曲诡异的声音）……",
+      "dir": 0,
+      "groupId": 882,
+      "id": 2572,
+      "npcId": 110
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "（我是不是把这家伙吓到了，到底谁才是鬼啊……）",
+      "dir": 0,
+      "groupId": 882,
+      "id": 2573,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "（一阵哽咽的声音）呜……",
+      "dir": 0,
+      "groupId": 882,
+      "id": 2574,
+      "npcId": 110
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "诶你别别别，别这样。我给你道歉就是了，我不会投诉你的。",
+      "dir": 0,
+      "groupId": 882,
+      "id": 2575,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "真的吗？",
+      "dir": 0,
+      "groupId": 882,
+      "id": 2576,
+      "npcId": 110
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "真的真的，如果你有什么难处，我还会帮你的，请你不要这样。",
+      "dir": 0,
+      "groupId": 882,
+      "id": 2577,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "博物馆，博物馆的文物都被破坏了…我一个人完全修不好，我什么都做不到……",
+      "dir": 0,
+      "groupId": 882,
+      "id": 2578,
+      "npcId": 110
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "的确，这里的文物都有不同程度的损坏，有什么办法可以修复他们吗？",
+      "dir": 0,
+      "groupId": 882,
+      "id": 2579,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你可以帮我吗？",
+      "dir": 0,
+      "groupId": 882,
+      "id": 2580,
+      "npcId": 110
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "当然，我可是乐于助人的赛尔。只要是我力所能及的事情，我都会帮你的。",
+      "dir": 0,
+      "groupId": 882,
+      "id": 2581,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "（眼前浮现出一抹淡淡的金光，塑成了一把精致的刻刀。）",
+      "dir": 0,
+      "groupId": 882,
+      "id": 2582,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这是用来修复文物的雕刻工具，只要你收集到了相应的文物碎片，把它带回文物旁就可以进行雕刻修复。",
+      "dir": 0,
+      "groupId": 882,
+      "id": 2583,
+      "npcId": 110
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你旁边石板就压着一块文物碎片，你把它捡起来，带到这里用刻刀试试。",
+      "dir": 0,
+      "groupId": 882,
+      "id": 2584,
+      "npcId": 110
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "如果我成功帮你修好了这一切，我能见见你真实的模样吗？",
+      "dir": 0,
+      "groupId": 882,
+      "id": 2585,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "……好，我答应你。看上去你也不像是坏人。",
+      "dir": 0,
+      "groupId": 882,
+      "id": 2586,
+      "npcId": 110
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我肯定不是坏人啊！",
+      "dir": 0,
+      "groupId": 882,
+      "id": 2587,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "好，接下来就照它说的做吧：收集文物碎片，用刻刀进行修复。开动！",
+      "dir": 0,
+      "groupId": 882,
+      "id": 2588,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "狡猾的家伙，居然伪装成画作吓我，还好我技高一筹。",
+      "dir": 0,
+      "groupId": 883,
+      "id": 2589,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这应该是一块虫茧的碎片？还好石板没把它压坏，先收起来吧。",
+      "dir": 0,
+      "groupId": 884,
+      "id": 2590,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这是一颗晶莹剔透的宝石，即便沾满了灰尘，也依然闪亮，收起来吧。",
+      "dir": 0,
+      "groupId": 885,
+      "id": 2591,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这块化石挂在半空摇摇欲坠，总之先去取下来吧。",
+      "dir": 0,
+      "groupId": 886,
+      "id": 2592,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这家伙身上似乎藏着什么东西，而且也没打算放我走，看来是不可避免的一战了。",
+      "dir": 0,
+      "groupId": 887,
+      "id": 2593,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "狡猾的家伙，居然伪装成画作。不过这个水晶碎片是什么？总之先收起来吧。",
       "dir": 0,
       "groupId": 888,
-      "id": 2561,
+      "id": 2594,
       "npcId": 11
     },
     {
@@ -25986,55 +26283,217 @@
         "4_fix",
         ""
       ],
-      "msg": "通用拼图游戏开启",
+      "msg": "这把刻刀上的能量似乎开始流动了，用它应该能顺利将文物修复好。",
       "dir": 0,
       "groupId": 889,
-      "id": 2562,
+      "id": 2595,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "通用拼图游戏通关",
+      "msg": "这样应该就修复完成了，好神奇的工具。",
       "dir": 0,
       "groupId": 890,
-      "id": 2563,
+      "id": 2596,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "三阶段1",
+      "msg": "这样，博物馆里面四个关键的文物就全部修好了。",
       "dir": 0,
       "groupId": 891,
-      "id": 2564,
+      "id": 2597,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "三阶段2",
+      "msg": "你真的全部修好了，你果然是个大好人。",
+      "dir": 0,
+      "groupId": 891,
+      "id": 2598,
+      "npcId": 110
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "举手之劳而已，不用在意。",
+      "dir": 0,
+      "groupId": 891,
+      "id": 2599,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "既然你都这么努力了，我也要加把劲，博物馆很快就能全部重新开馆的。",
+      "dir": 0,
+      "groupId": 891,
+      "id": 2600,
+      "npcId": 110
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "可博物馆已经是满地废墟了，你打算怎么做？",
+      "dir": 0,
+      "groupId": 891,
+      "id": 2601,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "哼哼，你就瞧好了吧，我这就让博物馆恢复原貌。",
+      "dir": 0,
+      "groupId": 891,
+      "id": 2602,
+      "npcId": 110
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这……这是什么情况，博物馆怎么焕然一新了？",
       "dir": 0,
       "groupId": 892,
-      "id": 2565,
+      "id": 2603,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "三阶段3",
+      "msg": "也不算焕然一新吧，应该说是我用能力将博物馆给“打扫”了一下，毕竟你都帮我把文物修复好了，我可不能让它们呆在灰蒙蒙的地方。",
+      "dir": 0,
+      "groupId": 892,
+      "id": 2604,
+      "npcId": 110
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "看来你很珍惜这些文物呢？那话说回来，你究竟是谁啊？",
+      "dir": 0,
+      "groupId": 892,
+      "id": 2605,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "唔…好吧，那你到二楼来吧，就是最开始我们对话的地方，我会告诉你的。",
+      "dir": 0,
+      "groupId": 892,
+      "id": 2606,
+      "npcId": 110
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "原来这就是你的真实模样吗？一只…小幽灵？",
       "dir": 0,
       "groupId": 893,
-      "id": 2566,
+      "id": 2607,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "未拥有指定道具且未标记状态",
+      "msg": "夏哆才不是什么幽灵！我是新来众星博物馆报道的实习管理员。",
+      "dir": 0,
+      "groupId": 893,
+      "id": 2608,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "但自报道“那天”之后，我的身体突然就变成这样子了，博物馆也变得破败不堪，身边熟悉的景象全都变了。",
+      "dir": 0,
+      "groupId": 893,
+      "id": 2609,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "游客们再也没有光临博物馆，其他在博物馆一起工作的伙伴们也消失了，就剩下了我一个人。",
+      "dir": 0,
+      "groupId": 893,
+      "id": 2610,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "于是，我一个人在这里独自修缮博物馆，但我现在这个模样，根本完全做不到。",
+      "dir": 0,
+      "groupId": 893,
+      "id": 2611,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我的身体会从实体上直直的穿过去。虽然我能一口气给这些废墟给清理，但这些文物展品我却无法触碰。",
+      "dir": 0,
+      "groupId": 893,
+      "id": 2612,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "总之，谢谢你。对了，你是新型号的小珍妮吗？我还没见过这样的机器人。",
+      "dir": 0,
+      "groupId": 893,
+      "id": 2613,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我不是你们所说的珍妮啦，我是<font color=\"0xffd325\">${nick}</font>，总之你叫我赛尔就好啦。",
+      "dir": 0,
+      "groupId": 893,
+      "id": 2614,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "好的赛尔，总之，我非常非常感谢你。现在众星博物馆重新开放了，非常欢迎你和你的朋友们前来参观。",
+      "dir": 0,
+      "groupId": 893,
+      "id": 2615,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "如果有需要，你也可以让我<font color=\"0xf80909\">跟随</font>在你的身边，我会为你<font color=\"0xf80909\">讲解</font>众星博物馆的馆藏文物。",
+      "dir": 0,
+      "groupId": 893,
+      "id": 2616,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "是嘛？那我明白了，谢谢你啦夏哆~",
+      "dir": 0,
+      "groupId": 893,
+      "id": 2617,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这个文物已经损毁了，好可惜啊，要是能重新修复就好了。",
       "dir": 0,
       "groupId": 894,
-      "id": 2567,
+      "id": 2618,
       "npcId": 11
     },
     {
@@ -26049,7 +26508,7 @@
       "msg": "拥有指定道具且未标记状态1",
       "dir": 0,
       "groupId": 895,
-      "id": 2568,
+      "id": 2619,
       "npcId": 11
     },
     {
@@ -26064,7 +26523,7 @@
       "msg": "拥有指定道具且未标记状态1",
       "dir": 0,
       "groupId": 896,
-      "id": 2569,
+      "id": 2620,
       "npcId": 11
     },
     {
@@ -26079,7 +26538,7 @@
       "msg": "拥有指定道具且未标记状态1",
       "dir": 0,
       "groupId": 897,
-      "id": 2570,
+      "id": 2621,
       "npcId": 11
     },
     {
@@ -26094,89 +26553,377 @@
       "msg": "拥有指定道具且未标记状态1",
       "dir": 0,
       "groupId": 898,
-      "id": 2571,
+      "id": 2622,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "拥有指定道具且标记状态",
+      "msg": "那个修复工具果然神奇，居然真的能将文物修复好，再去别处试试吧。",
       "dir": 0,
       "groupId": 899,
-      "id": 2572,
+      "id": 2623,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "未携带指定，进行交互1",
+      "msg": "这个王冠的样式，和之前小梅在维茨洛奇坦星上带的头冠很像，似乎是那个时代的文物。",
       "dir": 0,
       "groupId": 900,
-      "id": 2573,
+      "id": 2624,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "未携带指定，进行交互2",
+      "msg": "要不喊<font color=\"0xf80909\">夏哆</font>出来，然后让她<font color=\"0xf80909\">跟随</font>在我身边为我讲解吧。",
+      "dir": 0,
+      "groupId": 900,
+      "id": 2625,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "之前没仔细看，原来这个化石居然有这么大吗？不知道它是什么时候出土的。",
       "dir": 0,
       "groupId": 901,
-      "id": 2574,
+      "id": 2626,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "未携带指定，进行交互3",
+      "msg": "要不喊<font color=\"0xf80909\">夏哆</font>出来，然后让她<font color=\"0xf80909\">跟随</font>在我身边为我讲解吧。",
+      "dir": 0,
+      "groupId": 901,
+      "id": 2627,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这个文物，似乎是一个虫茧？但我似乎还是头一次见到这种样式的虫茧，果然稀有的样式才会被收藏成文物吧。",
       "dir": 0,
       "groupId": 902,
-      "id": 2575,
+      "id": 2628,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "未携带指定，进行交互4",
+      "msg": "要不喊<font color=\"0xf80909\">夏哆</font>出来，然后让她<font color=\"0xf80909\">跟随</font>在我身边为我讲解吧。",
+      "dir": 0,
+      "groupId": 902,
+      "id": 2629,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这个水晶好漂亮，即便过了这么久的岁月，依然晶莹剔透的，不知道它有什么来头？",
       "dir": 0,
       "groupId": 903,
-      "id": 2576,
+      "id": 2630,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "携带指定，进行交互1",
+      "msg": "要不喊<font color=\"0xf80909\">夏哆</font>出来，然后让她<font color=\"0xf80909\">跟随</font>在我身边为我讲解吧。",
+      "dir": 0,
+      "groupId": 903,
+      "id": 2631,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "夏哆，方便和我介绍一下这个文物的故事吗？",
       "dir": 0,
       "groupId": 904,
-      "id": 2577,
+      "id": 2632,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "携带指定，进行交互2",
+      "msg": "当然没问题啦。这个是来自9000年前的文物，叫做“太阳王王冠”。",
+      "dir": 0,
+      "groupId": 904,
+      "id": 2633,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "它展现了阿派罗尼亚古文明时代的风貌，古代有着浓厚的太阳神信仰，因为太阳为作物生长提供了能量，所以被视为万物之主。",
+      "dir": 0,
+      "groupId": 904,
+      "id": 2634,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "而王权统治建立后，太阳也被视为一种王权的象征符号。在历史上，有多位帝王被称为“太阳王”。",
+      "dir": 0,
+      "groupId": 904,
+      "id": 2635,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "原来是这样，我了解啦。",
+      "dir": 0,
+      "groupId": 904,
+      "id": 2636,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "有问题的话记得再喊我噢~",
+      "dir": 0,
+      "groupId": 904,
+      "id": 2637,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "夏哆，方便和我介绍一下这个文物的故事吗？",
       "dir": 0,
       "groupId": 905,
-      "id": 2578,
+      "id": 2638,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "携带指定，进行交互3",
+      "msg": "我看看…这副古生物骨架化石来自于一万年前，也即是比原初时刻更早的时期。",
+      "dir": 0,
+      "groupId": 905,
+      "id": 2639,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "那时候，文明还没有形成，阿派罗尼亚就已经是一颗生机勃勃的星球了。",
+      "dir": 0,
+      "groupId": 905,
+      "id": 2640,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "据考古发现，万年以前的阿派罗尼亚植被非常茂盛，气候温暖潮湿，还有着名为“海洋”的水体结构。",
+      "dir": 0,
+      "groupId": 905,
+      "id": 2641,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这副化石所属的生物据推测应该是一只掠食性的海洋动物，我猜一定是个很厉害的掠食者。",
+      "dir": 0,
+      "groupId": 905,
+      "id": 2642,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "原来是这样，我了解啦。",
+      "dir": 0,
+      "groupId": 905,
+      "id": 2643,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "有问题的话记得再喊我噢~",
+      "dir": 0,
+      "groupId": 905,
+      "id": 2644,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "夏哆，方便和我介绍一下这个文物的故事吗？",
       "dir": 0,
       "groupId": 906,
-      "id": 2579,
+      "id": 2645,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "携带指定，进行交互4",
+      "msg": "交给我吧！这是来自过去虫族的一枚茧，而它孕生的，则是名为“自爆虫”的生物兵器。",
+      "dir": 0,
+      "groupId": 906,
+      "id": 2646,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "在战争时代，虫族进化出了各种杀伤性生物特征。",
+      "dir": 0,
+      "groupId": 906,
+      "id": 2647,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "自爆虫采用高速爬行和滚动的方式在战场上移动，并为敌人带来可怕的打击。",
+      "dir": 0,
+      "groupId": 906,
+      "id": 2648,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这种攻击方式在如今看来似乎太不人道，但迫使古代虫族进化出这种特征的人族更令人畏惧。",
+      "dir": 0,
+      "groupId": 906,
+      "id": 2649,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "所以，借这件文物展品，希望游客们能以史为鉴，从历史习得教训……",
+      "dir": 0,
+      "groupId": 906,
+      "id": 2650,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "原来是这样，我了解啦。",
+      "dir": 0,
+      "groupId": 906,
+      "id": 2651,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "有问题的话记得再喊我噢~",
+      "dir": 0,
+      "groupId": 906,
+      "id": 2652,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "夏哆，方便和我介绍一下这个文物的故事吗？",
       "dir": 0,
       "groupId": 907,
-      "id": 2580,
+      "id": 2653,
       "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我来啦~这是叫做罪人水晶的文物展品。",
+      "dir": 0,
+      "groupId": 907,
+      "id": 2654,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "黄金之光的刑罚出自奥朗姆文明最黑暗的时期，将罪无可赦的罪人意识剥离出自己的肉体，强行塞入水晶之中，判以永远思考永远流放的刑罚。",
+      "dir": 0,
+      "groupId": 907,
+      "id": 2655,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "而薇星则成为了这些水晶的格纳库。严苛的刑罚为帝国带来了空前的稳定与强盛，但最终也因失去民心而崩溃。",
+      "dir": 0,
+      "groupId": 907,
+      "id": 2656,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "好残忍，很难想象这是一块纯净无暇的水晶背后所蕴含的故事……",
+      "dir": 0,
+      "groupId": 907,
+      "id": 2657,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "总之，我了解啦。",
+      "dir": 0,
+      "groupId": 907,
+      "id": 2658,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "有问题的话记得再喊我噢~",
+      "dir": 0,
+      "groupId": 907,
+      "id": 2659,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "恭喜你，这位游客。你顺利游览了博物馆最重要的馆藏文物。",
+      "dir": 0,
+      "groupId": 908,
+      "id": 2660,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "作为奖励，夏哆将会为你颁发一枚博物馆的纪念章。",
+      "dir": 0,
+      "groupId": 908,
+      "id": 2661,
+      "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "哇，你把我当成什么游学的小孩子了吗？",
+      "dir": 0,
+      "groupId": 908,
+      "id": 2662,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "哼哼，不管怎么说，这是对好奇的嘉奖，请收下吧~",
+      "dir": 0,
+      "groupId": 908,
+      "id": 2663,
+      "npcId": 4913
     }
   ]
 }

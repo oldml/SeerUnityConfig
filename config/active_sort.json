@@ -399,7 +399,9 @@
       "image": "petTour",
       "name": "传奇扭蛋机",
       "statlog": "2026运营活动,0213新春扭蛋机,点击主界面按钮【新春扭蛋机】",
-      "reddotid": null,
+      "reddotid": [
+        342027
+      ],
       "dailyRed": 0,
       "id": 24,
       "iOSreviewshow": 0,

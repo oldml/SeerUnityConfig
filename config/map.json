@@ -17152,14 +17152,14 @@
     {
       "DeviceID": "",
       "Ename": "Destination Reached",
-      "name": "空场景占位",
+      "name": "众星博物馆",
       "notes": "",
       "sound": "APL_story3",
       "NPCID": null,
       "NPCXYZ": null,
       "PlayerXYZ": [
         240,
-        260
+        880
       ],
       "WildBossID": null,
       "WildBossPoint": null,

@@ -1505,7 +1505,7 @@
       "name": "NEO",
       "portrait": "neo_fg",
       "id": 137,
-      "scale": 1.1
+      "scale": 1
     },
     {
       "CharacterID": "zks_2",
@@ -4200,6 +4200,28 @@
       "name": "人影",
       "portrait": "aplry_fg",
       "id": 382,
+      "scale": 1
+    },
+    {
+      "CharacterID": "dewny",
+      "emoji": "dewny_01,dewny_02",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "德尔维尼亚",
+      "portrait": "dewny_fg",
+      "id": 383,
+      "scale": 1
+    },
+    {
+      "CharacterID": "hdru",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,130",
+      "name": "鲁",
+      "portrait": "hdru_fg",
+      "id": 384,
       "scale": 1
     }
   ]

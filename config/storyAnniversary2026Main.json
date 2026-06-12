@@ -872,6 +872,60 @@
       "title": 0,
       "type": 7,
       "unlock": 20
+    },
+    {
+      "field": "1",
+      "name": "天敌",
+      "id": 98,
+      "linkID": 345,
+      "title": 17,
+      "type": 1,
+      "unlock": 21
+    },
+    {
+      "field": "",
+      "name": "海盗（欧比组织）",
+      "id": 99,
+      "linkID": 12,
+      "title": 0,
+      "type": 6,
+      "unlock": 21
+    },
+    {
+      "field": "3",
+      "name": "来袭",
+      "id": 100,
+      "linkID": 346,
+      "title": 18,
+      "type": 1,
+      "unlock": 22
+    },
+    {
+      "field": "3",
+      "name": "死星战火",
+      "id": 101,
+      "linkID": 347,
+      "title": 19,
+      "type": 1,
+      "unlock": 23
+    },
+    {
+      "field": "3",
+      "name": "最后的牺牲",
+      "id": 102,
+      "linkID": 348,
+      "title": 20,
+      "type": 1,
+      "unlock": 24
+    },
+    {
+      "field": "3",
+      "name": "再见奥朗星系",
+      "id": 103,
+      "linkID": 349,
+      "title": 21,
+      "type": 1,
+      "unlock": 25
     }
   ]
 }

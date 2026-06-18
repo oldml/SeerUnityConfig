@@ -738,7 +738,7 @@
     {
       "BuffDisplay": "",
       "BuffId": "50084|50085",
-      "BuffParam": "1_30013|30013_5_5",
+      "BuffParam": "1_30013|30013_3_3",
       "effectName": "乔特鲁德",
       "effectTxt": "游戏开始时，所有玩家开局时拥有“龙蛋”（无法攻击；无法出售、觉醒、偷取、复制或移回手牌，无法成为卡牌和技能的目标）\r\n升级商店时，龙蛋获得+3/+3",
       "CountNum": 0,
@@ -753,7 +753,7 @@
     {
       "BuffDisplay": "",
       "BuffId": "50086",
-      "BuffParam": "30013_2_2",
+      "BuffParam": "30013_4_4",
       "effectName": "潜龙勿用",
       "effectTxt": "商店阶段结束时，龙蛋额外获得+4/+4",
       "CountNum": 0,

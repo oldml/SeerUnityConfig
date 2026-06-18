@@ -1,14 +1,14 @@
-[Compare](https://github.com/oldml/SeerUnityConfig/compare/5d3f1d951230b107ea2d36f07c8d406c6724a25e...main)
+[Compare](https://github.com/oldml/SeerUnityConfig/compare/9ec2e2178d3eee072fea69527f85de884cb92c45...main)
 
-![ConfigPackage](https://img.shields.io/badge/ConfigPackage-20260618125636-blue?style=flat-square)
-![DefaultPackage](https://img.shields.io/badge/DefaultPackage-20260618123854-brightgreen?style=flat-square)
+![ConfigPackage](https://img.shields.io/badge/ConfigPackage-20260618184032-blue?style=flat-square)
+![DefaultPackage](https://img.shields.io/badge/DefaultPackage-20260618192321-brightgreen?style=flat-square)
 
-> Generated at `2026-06-18 14:00:51 UTC+8` | Branch `main` | Base Commit `5d3f1d9`
+> Generated at `2026-06-18 20:00:53 UTC+8` | Branch `main` | Base Commit `9ec2e21`
 
 ```diff
-! 3 files changed
-+ 15 insertions(+)
-- 15 deletions(-)
+! 2 files changed
++ 3 insertions(+)
+- 3 deletions(-)
 ```
 
 ### Created
@@ -19,9 +19,8 @@
 ### Updated
 | Path | Diff (+/-) |
 | :--- | :--- |
-|  [Activity_ShopConfig.json](https://github.com/oldml/SeerUnityConfig/blob/main/config/Activity_ShopConfig.json) | `10+ 10-` |
-|  [effectIcon.json](https://github.com/oldml/SeerUnityConfig/blob/main/config/effectIcon.json) | `3+ 3-` |
-|  [achievements.json](https://github.com/oldml/SeerUnityConfig/blob/main/config/achievements.json) | `2+ 2-` |
+|  [autocardSeasonEffect.json](https://github.com/oldml/SeerUnityConfig/blob/main/config/autocardSeasonEffect.json) | `2+ 2-` |
+|  [autocardPlayer.json](https://github.com/oldml/SeerUnityConfig/blob/main/config/autocardPlayer.json) | `1+ 1-` |
 
 ### Removed
 | Path | Diff (+/-) |

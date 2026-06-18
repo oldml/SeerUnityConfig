@@ -133,6 +133,17 @@
       "value": 50
     },
     {
+      "describe": "累计完成5场群星牌",
+      "timeend": "0",
+      "timelimit": "0",
+      "timestart": "0",
+      "exp": 1000,
+      "id": 109,
+      "time": 2,
+      "userinfo": 20629,
+      "value": 5
+    },
+    {
       "describe": "通关4次星际迷航",
       "timeend": "0",
       "timelimit": "0",

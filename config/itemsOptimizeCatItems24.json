@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "Name": "西曼德妮因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400580,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "蕊沃尔因子",
       "catID": 24,
       "Hide": 0,

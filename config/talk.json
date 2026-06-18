@@ -26924,6 +26924,214 @@
       "groupId": 908,
       "id": 2663,
       "npcId": 4913
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "测试对话1-引导S1-1",
+      "dir": 0,
+      "groupId": 909,
+      "id": 2664,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "测试对话2-引导S2-1",
+      "dir": 0,
+      "groupId": 910,
+      "id": 2665,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "测试对话1-引导S2-2",
+      "dir": 0,
+      "groupId": 911,
+      "id": 2666,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "测试对话2-引导S2-3",
+      "dir": 0,
+      "groupId": 912,
+      "id": 2667,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "测试对话1-引导S2-4",
+      "dir": 0,
+      "groupId": 913,
+      "id": 2668,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "好的。"
+      ],
+      "deal": [
+        "2_925"
+      ],
+      "msg": "测试对话2-引导S3-1",
+      "dir": 0,
+      "groupId": 914,
+      "id": 2669,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "测试对话1-NPC循环对话",
+      "dir": 0,
+      "groupId": 915,
+      "id": 2670,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "测试对话2-NPC循环对话",
+      "dir": 0,
+      "groupId": 916,
+      "id": 2671,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "测试对话3-NPC循环对话",
+      "dir": 0,
+      "groupId": 917,
+      "id": 2672,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "测试对话4-NPC循环对话",
+      "dir": 0,
+      "groupId": 918,
+      "id": 2673,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "测试对话-先去完成当前交互",
+      "dir": 0,
+      "groupId": 919,
+      "id": 2674,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "测试对话-先去完成当前交互2",
+      "dir": 0,
+      "groupId": 920,
+      "id": 2675,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "测试对话-红圈1",
+      "dir": 0,
+      "groupId": 921,
+      "id": 2676,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "测试对话-红圈2",
+      "dir": 0,
+      "groupId": 922,
+      "id": 2677,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "测试对话-红圈3",
+      "dir": 0,
+      "groupId": 923,
+      "id": 2678,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "测试对话-红圈4",
+      "dir": 0,
+      "groupId": 924,
+      "id": 2679,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "我没问题了",
+        "我还想逛逛"
+      ],
+      "deal": [
+        "4_jumpstory",
+        ""
+      ],
+      "msg": "测试对话2-引导S3-END",
+      "dir": 0,
+      "groupId": 925,
+      "id": 2680,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "0626运营活动占位1",
+      "dir": 0,
+      "groupId": 926,
+      "id": 2681,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "0626运营活动占位2",
+      "dir": 0,
+      "groupId": 927,
+      "id": 2682,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "0626运营活动占位3",
+      "dir": 0,
+      "groupId": 928,
+      "id": 2683,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "0626运营活动占位4",
+      "dir": 0,
+      "groupId": 929,
+      "id": 2684,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "0626运营活动占位5",
+      "dir": 0,
+      "groupId": 930,
+      "id": 2685,
+      "npcId": 11
     }
   ]
 }

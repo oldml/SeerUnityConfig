@@ -1414,8 +1414,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4912,
-            "ImageID": 4912,
+            "ID": 4915,
+            "ImageID": 4915,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1425,32 +1425,10 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4913,
-            "ImageID": 4913,
+            "ID": 848,
+            "ImageID": 1400848,
             "Label": 0,
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 4914,
-            "ImageID": 4914,
-            "Label": 0,
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 843,
-            "ImageID": 1400843,
-            "Label": 0,
-            "monID": 3940,
+            "monID": 4915,
             "type": 1
           },
           {
@@ -1458,43 +1436,10 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 844,
-            "ImageID": 1400844,
+            "ID": 849,
+            "ImageID": 1400849,
             "Label": 0,
-            "monID": 4912,
-            "type": 1
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 845,
-            "ImageID": 1400845,
-            "Label": 0,
-            "monID": 4911,
-            "type": 1
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 846,
-            "ImageID": 1400846,
-            "Label": 0,
-            "monID": 4911,
-            "type": 1
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 847,
-            "ImageID": 1400846,
-            "Label": 0,
-            "monID": 4911,
+            "monID": 4908,
             "type": 1
           }
         ]
@@ -15898,7 +15843,7 @@
       {
         "DefName": "斯摩亚蒂",
         "Features": "魔灵王的最终形态，强化后的他不仅仅只有外表得到了强化，似乎连他的侄子夜魔之神布莱克也不是他的对手。",
-        "Target": "",
+        "Target": "150130",
         "ID": 2409
       },
       {
@@ -22450,7 +22395,7 @@
       {
         "DefName": "斯摩亚蒂斯",
         "Features": "斯摩亚蒂的超进化形态，是宇宙中作恶多端的大坏蛋，卷土重来打开了逝者巨樽，宇宙又将陷入一场浩劫！",
-        "Target": "",
+        "Target": "150129",
         "ID": 3518
       },
       {
@@ -30780,6 +30725,12 @@
         "Features": "狡猾的家伙，居然伪装成画像来偷袭探险的正义伙伴，必须狠狠修理一番！",
         "Target": "400025",
         "ID": 4914
+      },
+      {
+        "DefName": "西曼德妮",
+        "Features": "阿派罗尼亚的首席先驱，以渊博的学识与才华为阿派罗尼亚奠基繁荣。",
+        "Target": "153201/931",
+        "ID": 4915
       }
     ],
     "RecMintmark": {

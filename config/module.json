@@ -5413,10 +5413,17 @@
       "isFullScreen": 1
     },
     {
-      "moduleName": "versePetSell",
+      "moduleName": "starAiouSkin",
       "resConfig": null,
       "currAppDo": 0,
       "id": 894,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "RweSkinPanel",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 895,
       "isFullScreen": 0
     },
     {
@@ -5616,7 +5623,7 @@
       "isFullScreen": 1
     },
     {
-      "moduleName": "AutoCardLvPop",
+      "moduleName": "autocardBP",
       "resConfig": null,
       "currAppDo": 1,
       "id": 1049,
@@ -5625,7 +5632,7 @@
     {
       "moduleName": "autocardSeasonSettlePop",
       "resConfig": null,
-      "currAppDo": 1,
+      "currAppDo": 2,
       "id": 1050,
       "isFullScreen": 0
     },
@@ -5641,6 +5648,13 @@
       "resConfig": null,
       "currAppDo": 1,
       "id": 1052,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autocardItemAward",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 1053,
       "isFullScreen": 0
     },
     {
@@ -5683,6 +5697,62 @@
       "resConfig": null,
       "currAppDo": 1,
       "id": 1065,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getxmdnskin",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1066,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "autocardCollectionHreo",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1070,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autocardHandbookEntrancePanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1071,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autoCardDiduo",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1072,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "autoCardDiduo",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1073,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "autocardSubscribe",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1074,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "autoCardBattleActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1075,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "atuocardPublicity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1076,
       "isFullScreen": 1
     },
     {
@@ -5774,6 +5844,48 @@
       "resConfig": null,
       "currAppDo": 1,
       "id": 1112,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "goldentrailActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1113,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "masterMind",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1114,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "goldenChurchUp",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1115,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "simoyadisMegaPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1116,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "simoyadMainPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1117,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "rayGaiaPetSkinRe2026",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1118,
       "isFullScreen": 1
     }
   ]

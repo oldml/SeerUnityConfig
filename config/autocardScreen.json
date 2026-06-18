@@ -7,7 +7,7 @@
       "endTime": 1781748000,
       "id": 1,
       "jumpTo": 510002,
-      "sort": 2,
+      "sort": 1,
       "startTime": 1772294400
     },
     {
@@ -17,18 +17,58 @@
       "endTime": 1781748000,
       "id": 2,
       "jumpTo": 0,
-      "sort": 3,
+      "sort": 2,
       "startTime": 1772294400
     },
     {
       "jumpToLink": "",
-      "source": "activity_1",
+      "source": "s1start",
       "duration": 5,
-      "endTime": 1781748000,
+      "endTime": 1789092000,
       "id": 3,
-      "jumpTo": 510003,
-      "sort": 1,
-      "startTime": 1772294400
+      "jumpTo": 0,
+      "sort": 3,
+      "startTime": 1781748000
+    },
+    {
+      "jumpToLink": "",
+      "source": "diduo",
+      "duration": 5,
+      "endTime": 1789092000,
+      "id": 4,
+      "jumpTo": 520004,
+      "sort": 4,
+      "startTime": 1781748000
+    },
+    {
+      "jumpToLink": "",
+      "source": "battlepass",
+      "duration": 5,
+      "endTime": 1789092000,
+      "id": 5,
+      "jumpTo": 520001,
+      "sort": 5,
+      "startTime": 1781748000
+    },
+    {
+      "jumpToLink": "",
+      "source": "cardAlbum",
+      "duration": 5,
+      "endTime": 1789092000,
+      "id": 6,
+      "jumpTo": 520002,
+      "sort": 6,
+      "startTime": 1781748000
+    },
+    {
+      "jumpToLink": "",
+      "source": "cardRank",
+      "duration": 5,
+      "endTime": 1789092000,
+      "id": 7,
+      "jumpTo": 520003,
+      "sort": 7,
+      "startTime": 1781748000
     }
   ]
 }

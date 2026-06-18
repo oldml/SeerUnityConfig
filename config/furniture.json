@@ -4319,6 +4319,78 @@
       "id": 540099,
       "type": 2,
       "vipOnly": 0
+    },
+    {
+      "funcParam": "",
+      "name": "黄金教廷勋章·莱布缇",
+      "func": 0,
+      "funcIdentity": 0,
+      "id": 500912,
+      "type": 1,
+      "vipOnly": 0
+    },
+    {
+      "funcParam": "",
+      "name": "黄金教廷勋章·西曼德妮",
+      "func": 0,
+      "funcIdentity": 0,
+      "id": 500913,
+      "type": 1,
+      "vipOnly": 0
+    },
+    {
+      "funcParam": "",
+      "name": "黄金教廷勋章·埃斯宾诺",
+      "func": 0,
+      "funcIdentity": 0,
+      "id": 500914,
+      "type": 1,
+      "vipOnly": 0
+    },
+    {
+      "funcParam": "",
+      "name": "黄金教廷勋章·安瑟伦",
+      "func": 0,
+      "funcIdentity": 0,
+      "id": 500915,
+      "type": 1,
+      "vipOnly": 0
+    },
+    {
+      "funcParam": "",
+      "name": "黄金教廷勋章·托勒斯",
+      "func": 0,
+      "funcIdentity": 0,
+      "id": 500916,
+      "type": 1,
+      "vipOnly": 0
+    },
+    {
+      "funcParam": "",
+      "name": "黄金教廷勋章·康迪亚克",
+      "func": 0,
+      "funcIdentity": 0,
+      "id": 500917,
+      "type": 1,
+      "vipOnly": 0
+    },
+    {
+      "funcParam": "",
+      "name": "黄金教廷勋章·蕊沃尔",
+      "func": 0,
+      "funcIdentity": 0,
+      "id": 500918,
+      "type": 1,
+      "vipOnly": 0
+    },
+    {
+      "funcParam": "",
+      "name": "黄金教廷勋章·西西弗",
+      "func": 0,
+      "funcIdentity": 0,
+      "id": 500919,
+      "type": 1,
+      "vipOnly": 0
     }
   ]
 }

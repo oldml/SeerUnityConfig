@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "Name": "元素王座·一星卡包",
+      "Bean": 0,
+      "catID": 27,
+      "Hide": 0,
+      "ID": 2700006,
+      "IsMidle": 0,
+      "Max": 999999,
+      "purpose": 0,
+      "Sort": 29,
+      "Tradability": 0,
+      "VipTradability": 0,
+      "wd": 1
+    },
+    {
+      "Name": "元素王座·二星卡包",
+      "Bean": 0,
+      "catID": 27,
+      "Hide": 0,
+      "ID": 2700005,
+      "IsMidle": 0,
+      "Max": 999999,
+      "purpose": 0,
+      "Sort": 29,
+      "Tradability": 0,
+      "VipTradability": 0,
+      "wd": 1
+    },
+    {
+      "Name": "元素王座·三星卡包",
+      "Bean": 0,
+      "catID": 27,
+      "Hide": 0,
+      "ID": 2700004,
+      "IsMidle": 0,
+      "Max": 999999,
+      "purpose": 0,
+      "Sort": 29,
+      "Tradability": 0,
+      "VipTradability": 0,
+      "wd": 1
+    },
+    {
+      "Name": "元素王座·四星卡包",
+      "Bean": 0,
+      "catID": 27,
+      "Hide": 0,
+      "ID": 2700003,
+      "IsMidle": 0,
+      "Max": 999999,
+      "purpose": 0,
+      "Sort": 29,
+      "Tradability": 0,
+      "VipTradability": 0,
+      "wd": 1
+    },
+    {
+      "Name": "元素王座·五星卡包",
+      "Bean": 0,
+      "catID": 27,
+      "Hide": 0,
+      "ID": 2700002,
+      "IsMidle": 0,
+      "Max": 999999,
+      "purpose": 0,
+      "Sort": 29,
+      "Tradability": 0,
+      "VipTradability": 0,
+      "wd": 1
+    },
+    {
+      "Name": "蓝海汐风卡包",
+      "Bean": 0,
+      "catID": 27,
+      "Hide": 0,
+      "ID": 2700001,
+      "IsMidle": 0,
+      "Max": 999999,
+      "purpose": 0,
+      "Sort": 29,
+      "Tradability": 0,
+      "VipTradability": 0,
+      "wd": 1
+    }
+  ]
+}

@@ -528330,6 +528330,76 @@
           "Type": 8
         },
         {
+          "info": "开始免疫并反弹受到的异常状态了；开始限制对手的切换了；受到的攻击伤害减少了",
+          "Name": "高维干涉",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1932,
+            1510,
+            1300
+          ],
+          "SideEffectArg": [
+            4,
+            32,
+            3,
+            100,
+            1,
+            3,
+            50,
+            300,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29378,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；开始恢复体力了；攻击变得更凌厉了；出手变得更快了",
+          "Name": "不竭灵感",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1001,
+            1067,
+            681,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            4,
+            3,
+            2,
+            3,
+            2,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29379,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
           "info": "",
           "Name": "千星死魂灭",
           "FriendSideEffect": null,
@@ -762084,6 +762154,101 @@
           "Power": 0,
           "Priority": 0,
           "Type": 10
+        },
+        {
+          "info": "",
+          "Name": "构造",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1978,
+            1876
+          ],
+          "SideEffectArg": [
+            100,
+            7,
+            3,
+            1
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38431,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Type": 16
+        },
+        {
+          "info": "",
+          "Name": "变量清除",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            494,
+            2145,
+            1686,
+            1821
+          ],
+          "SideEffectArg": [
+            2,
+            50,
+            50,
+            2
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38432,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 16
+        },
+        {
+          "info": "",
+          "Name": "创·黄金纪元",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1956,
+            2034,
+            1680,
+            1163
+          ],
+          "SideEffectArg": [
+            100,
+            7,
+            2,
+            50,
+            200,
+            20,
+            10,
+            40
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38433,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 16
         },
         {
           "info": "恢复自身一定体力",

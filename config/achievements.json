@@ -8526,6 +8526,20 @@
                     "ID": 13,
                     "proicon": 1498,
                     "SpeNameBonus": 595
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "创造之化身",
+                    "Desc": "通关S-西曼德妮【地狱难度】关卡获得",
+                    "Threshold": "14",
+                    "title": "创造之化身",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 14,
+                    "proicon": 1500,
+                    "SpeNameBonus": 597
                   }
                 ],
                 "ID": 172,
@@ -8752,6 +8766,48 @@
                     "ID": 1,
                     "proicon": 1476,
                     "SpeNameBonus": 578
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "s1赛季群星牌专家",
+                    "Desc": "s1赛季群星牌首次达到专家段位",
+                    "Threshold": "2",
+                    "title": "",
+                    "titleColor": "",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 0,
+                    "hide": 0,
+                    "ID": 2,
+                    "proicon": 1501,
+                    "SpeNameBonus": 0
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "s1赛季群星牌传奇",
+                    "Desc": "s1赛季群星牌首次达到传奇段位",
+                    "Threshold": "3",
+                    "title": "",
+                    "titleColor": "",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 0,
+                    "hide": 0,
+                    "ID": 3,
+                    "proicon": 1502,
+                    "SpeNameBonus": 0
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "s1赛季群星牌群星之巅",
+                    "Desc": "s1赛季群星牌首次达到群星之巅段位",
+                    "Threshold": "4",
+                    "title": "",
+                    "titleColor": "",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 0,
+                    "hide": 0,
+                    "ID": 4,
+                    "proicon": 1503,
+                    "SpeNameBonus": 0
                   }
                 ],
                 "ID": 175,

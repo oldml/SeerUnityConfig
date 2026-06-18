@@ -24717,13 +24717,15 @@
       "recommendTime": "",
       "statlog": "H5精灵因子关卡系统功能,埃斯宾诺,点击进入关卡_点击兑换",
       "upgradeHide": "",
-      "upgradeNew": "",
+      "upgradeNew": "2026_07_03 10:00:00",
       "isrecommend": null,
       "menutype": [
         1
       ],
       "petTag": null,
-      "upgrade": null,
+      "upgrade": [
+        2
+      ],
       "difficult": 0,
       "fightType": 1,
       "id": 839,
@@ -24731,7 +24733,7 @@
       "monsterid": 4866,
       "sort": 100,
       "upgradeSort": 0,
-      "upgradeSource": 0,
+      "upgradeSource": 5,
       "weekly": 0,
       "weeklyAdd": 0,
       "showTag": false
@@ -24885,13 +24887,15 @@
       "recommendTime": "",
       "statlog": "H5精灵因子关卡系统功能,康迪亚克,点击进入关卡_点击兑换",
       "upgradeHide": "",
-      "upgradeNew": "",
+      "upgradeNew": "2026_07_03 10:00:00",
       "isrecommend": null,
       "menutype": [
         1
       ],
       "petTag": null,
-      "upgrade": null,
+      "upgrade": [
+        2
+      ],
       "difficult": 0,
       "fightType": 1,
       "id": 845,
@@ -24899,7 +24903,7 @@
       "monsterid": 4870,
       "sort": 100,
       "upgradeSort": 0,
-      "upgradeSource": 0,
+      "upgradeSource": 5,
       "weekly": 0,
       "weeklyAdd": 0,
       "showTag": false
@@ -24935,7 +24939,7 @@
     {
       "hide": "",
       "image": "4872",
-      "isnew": "1",
+      "isnew": "",
       "param": "",
       "quality": "",
       "recommendTime": "",
@@ -24964,7 +24968,7 @@
     {
       "hide": "",
       "image": "4875",
-      "isnew": "1",
+      "isnew": "",
       "param": "",
       "quality": "",
       "recommendTime": "",
@@ -25791,13 +25795,15 @@
       "recommendTime": "",
       "statlog": "H5精灵因子关卡系统功能,托勒斯,点击进入关卡_点击兑换",
       "upgradeHide": "",
-      "upgradeNew": "",
+      "upgradeNew": "2026_07_03 10:00:00",
       "isrecommend": null,
       "menutype": [
         1
       ],
       "petTag": null,
-      "upgrade": null,
+      "upgrade": [
+        2
+      ],
       "difficult": 0,
       "fightType": 1,
       "id": 877,
@@ -25805,7 +25811,7 @@
       "monsterid": 4887,
       "sort": 100,
       "upgradeSort": 0,
-      "upgradeSource": 0,
+      "upgradeSource": 5,
       "weekly": 0,
       "weeklyAdd": 0,
       "showTag": false
@@ -26038,13 +26044,15 @@
       "recommendTime": "",
       "statlog": "H5精灵因子关卡系统功能,安瑟伦,点击进入关卡_点击兑换",
       "upgradeHide": "",
-      "upgradeNew": "",
+      "upgradeNew": "2026_07_03 10:00:00",
       "isrecommend": null,
       "menutype": [
         1
       ],
       "petTag": null,
-      "upgrade": null,
+      "upgrade": [
+        2
+      ],
       "difficult": 0,
       "fightType": 1,
       "id": 886,
@@ -26052,7 +26060,7 @@
       "monsterid": 4894,
       "sort": 100,
       "upgradeSort": 0,
-      "upgradeSource": 0,
+      "upgradeSource": 5,
       "weekly": 0,
       "weeklyAdd": 0,
       "showTag": false
@@ -26790,7 +26798,7 @@
       "recommendTime": "",
       "statlog": "",
       "upgradeHide": "",
-      "upgradeNew": "2026_06_26 10:00:00",
+      "upgradeNew": "2026_06_18 10:00:00",
       "isrecommend": null,
       "menutype": [
         3
@@ -26822,13 +26830,15 @@
       "recommendTime": "",
       "statlog": "H5精灵因子关卡系统功能,莱布缇,点击进入关卡_点击兑换",
       "upgradeHide": "",
-      "upgradeNew": "",
+      "upgradeNew": "2026_07_03 10:00:00",
       "isrecommend": null,
       "menutype": [
         1
       ],
       "petTag": null,
-      "upgrade": null,
+      "upgrade": [
+        2
+      ],
       "difficult": 0,
       "fightType": 1,
       "id": 914,
@@ -26836,7 +26846,7 @@
       "monsterid": 4902,
       "sort": 100,
       "upgradeSort": 0,
-      "upgradeSource": 0,
+      "upgradeSource": 5,
       "weekly": 0,
       "weeklyAdd": 0,
       "showTag": false
@@ -26934,13 +26944,15 @@
       "recommendTime": "",
       "statlog": "H5精灵因子关卡系统功能,西西弗,点击进入关卡_点击兑换",
       "upgradeHide": "",
-      "upgradeNew": "",
+      "upgradeNew": "2026_07_03 10:00:00",
       "isrecommend": null,
       "menutype": [
         1
       ],
       "petTag": null,
-      "upgrade": null,
+      "upgrade": [
+        2
+      ],
       "difficult": 0,
       "fightType": 1,
       "id": 918,
@@ -26948,7 +26960,7 @@
       "monsterid": 4905,
       "sort": 100,
       "upgradeSort": 0,
-      "upgradeSource": 0,
+      "upgradeSource": 5,
       "weekly": 0,
       "weeklyAdd": 0,
       "showTag": false
@@ -27074,13 +27086,15 @@
       "recommendTime": "",
       "statlog": "H5精灵因子关卡系统功能,蕊沃尔,点击进入关卡_点击兑换",
       "upgradeHide": "",
-      "upgradeNew": "",
+      "upgradeNew": "2026_07_03 10:00:00",
       "isrecommend": null,
       "menutype": [
         1
       ],
       "petTag": null,
-      "upgrade": null,
+      "upgrade": [
+        2
+      ],
       "difficult": 0,
       "fightType": 1,
       "id": 923,
@@ -27088,7 +27102,7 @@
       "monsterid": 4908,
       "sort": 100,
       "upgradeSort": 0,
-      "upgradeSource": 0,
+      "upgradeSource": 5,
       "weekly": 0,
       "weeklyAdd": 0,
       "showTag": false
@@ -27174,7 +27188,7 @@
     {
       "hide": "2026_07_03 10:00:00",
       "image": "4912",
-      "isnew": "1",
+      "isnew": "",
       "param": "",
       "quality": "",
       "recommendTime": "",
@@ -27202,7 +27216,7 @@
     {
       "hide": "",
       "image": "4913",
-      "isnew": "1",
+      "isnew": "",
       "param": "",
       "quality": "",
       "recommendTime": "",
@@ -27228,7 +27242,7 @@
     {
       "hide": "",
       "image": "4914",
-      "isnew": "1",
+      "isnew": "",
       "param": "",
       "quality": "",
       "recommendTime": "",
@@ -27247,6 +27261,64 @@
       "sort": 4,
       "upgradeSort": 0,
       "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "3518",
+      "isnew": "",
+      "param": "",
+      "quality": "",
+      "recommendTime": "",
+      "statlog": "",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        3
+      ],
+      "petTag": null,
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 0,
+      "id": 930,
+      "moduleid": -150129,
+      "monsterid": 3518,
+      "sort": 100,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4915",
+      "isnew": "1",
+      "param": "{Design:248}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精灵因子关卡系统功能,西曼德妮,点击进入关卡_点击兑换",
+      "upgradeHide": "",
+      "upgradeNew": "2026_07_03 10:00:00",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": null,
+      "upgrade": [
+        2
+      ],
+      "difficult": 0,
+      "fightType": 1,
+      "id": 931,
+      "moduleid": 151,
+      "monsterid": 4915,
+      "sort": 100,
+      "upgradeSort": 0,
+      "upgradeSource": 5,
       "weekly": 0,
       "weeklyAdd": 0,
       "showTag": false

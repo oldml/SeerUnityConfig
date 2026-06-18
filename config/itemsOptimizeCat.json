@@ -139,6 +139,13 @@
       "DbCatID": 1,
       "ID": 26,
       "Max": 99999999
+    },
+    {
+      "Name": "群星牌卡册",
+      "url": "Assets/Art/Ui/assets/item/doodle/icon/",
+      "DbCatID": 1,
+      "ID": 27,
+      "Max": 99999999
     }
   ]
 }

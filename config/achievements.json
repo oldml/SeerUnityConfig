@@ -8769,8 +8769,8 @@
                   },
                   {
                     "abtext": "",
-                    "achName": "s1赛季群星牌专家",
-                    "Desc": "s1赛季群星牌首次达到专家段位",
+                    "achName": "S1赛季群星牌专家",
+                    "Desc": "S1赛季群星牌首次达到专家段位",
                     "Threshold": "2",
                     "title": "",
                     "titleColor": "",
@@ -8783,8 +8783,8 @@
                   },
                   {
                     "abtext": "",
-                    "achName": "s1赛季群星牌传奇",
-                    "Desc": "s1赛季群星牌首次达到传奇段位",
+                    "achName": "S1赛季群星牌传奇",
+                    "Desc": "S1赛季群星牌首次达到传奇段位",
                     "Threshold": "3",
                     "title": "",
                     "titleColor": "",
@@ -8797,8 +8797,8 @@
                   },
                   {
                     "abtext": "",
-                    "achName": "s1赛季群星牌群星之巅",
-                    "Desc": "s1赛季群星牌首次达到群星之巅段位",
+                    "achName": "S1赛季群星牌群星之巅",
+                    "Desc": "S1赛季群星牌首次达到群星之巅段位",
                     "Threshold": "4",
                     "title": "",
                     "titleColor": "",
@@ -18226,10 +18226,10 @@
                   },
                   {
                     "abtext": "防御+20，特防+20，速度+20，体力+90",
-                    "achName": "岁业祓除",
+                    "achName": "岁业拔除",
                     "Desc": "2026年春节活动中，购买妙时天女至尊礼包获得",
                     "Threshold": "29",
-                    "title": "岁业祓除",
+                    "title": "岁业拔除",
                     "titleColor": "0xFFFFFF",
                     "AbilityTitle": 1,
                     "AchievementPoint": 10,
@@ -18647,6 +18647,20 @@
                     "ID": 10,
                     "proicon": 1497,
                     "SpeNameBonus": 594
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "手册观察员",
+                    "Desc": "虽然只是值班官，但你对航行手册的了解明显超出岗位需求。",
+                    "Threshold": "11",
+                    "title": "手册观察员",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 11,
+                    "proicon": 1504,
+                    "SpeNameBonus": 598
                   }
                 ],
                 "ID": 176,

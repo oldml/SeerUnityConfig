@@ -4835,6 +4835,38 @@
         "sort": 1
       },
       {
+        "className": "*",
+        "dec": "血月",
+        "Des": "回合结束时，转移至在场精灵体力较高的一方，然后若血月与寒月位于同一方，则3回合内本条效果失效；己方在场精灵不能成为场下精灵的效果目标",
+        "frame": null,
+        "NumDes": "",
+        "spDes": null,
+        "spicon": null,
+        "sptips": null,
+        "tips": "血月",
+        "id": 186,
+        "isShowNum": 0,
+        "showmonster": 0,
+        "showtime": 0,
+        "sort": 1
+      },
+      {
+        "className": "*",
+        "dec": "寒月",
+        "Des": "回合开始时，转移至在场精灵体力较低的一方，然后若血月与寒月位于同一方，则3回合内本条效果失效；己方精灵概率不高于50%的异常状态附加效果概率归0",
+        "frame": null,
+        "NumDes": "",
+        "spDes": null,
+        "spicon": null,
+        "sptips": null,
+        "tips": "寒月",
+        "id": 187,
+        "isShowNum": 0,
+        "showmonster": 0,
+        "showtime": 0,
+        "sort": 1
+      },
+      {
         "className": "SignBuffView_1000",
         "dec": "折叠icon",
         "Des": "",

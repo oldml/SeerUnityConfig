@@ -600,6 +600,16 @@
         "price": 38,
         "productID": 200080,
         "vip": 1
+      },
+      {
+        "name": "限时秒杀月冕史诗皮肤",
+        "itemID": [
+          1728238
+        ],
+        "gold": 1,
+        "price": 8.8,
+        "productID": 200081,
+        "vip": 1
       }
     ]
   }

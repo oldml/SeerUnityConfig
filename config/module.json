@@ -5427,6 +5427,13 @@
       "isFullScreen": 0
     },
     {
+      "moduleName": "17yearKeyin",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 896,
+      "isFullScreen": 0
+    },
+    {
       "moduleName": "zuma",
       "resConfig": null,
       "currAppDo": 1,
@@ -5886,6 +5893,55 @@
       "resConfig": null,
       "currAppDo": 1,
       "id": 1118,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "simoyadKingMega",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1119,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "simoyadKingMega",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1120,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "giftFarFrom",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1121,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getFL",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1122,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "seerShipChooseGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1123,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "xuanwuRenascorActivitycenter",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1124,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "gettxjsmain",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1125,
       "isFullScreen": 1
     }
   ]

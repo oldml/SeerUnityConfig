@@ -17199,14 +17199,14 @@
     {
       "DeviceID": "",
       "Ename": "Destination Reached",
-      "name": "0626场景占位",
+      "name": "凯旋殿堂",
       "notes": "",
       "sound": "1",
       "NPCID": null,
       "NPCXYZ": null,
       "PlayerXYZ": [
         780,
-        430
+        431
       ],
       "WildBossID": null,
       "WildBossPoint": null,

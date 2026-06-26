@@ -239843,6 +239843,96 @@
         "price": 100,
         "productID": 262565,
         "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得精灵【若兰】",
+        "itemID": [
+          1728239
+        ],
+        "price": 598,
+        "productID": 262566,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买每日挑战次数（若兰）",
+        "itemID": [
+          1728240
+        ],
+        "price": 30,
+        "productID": 262567,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡简单关卡（若兰）",
+        "itemID": [
+          1728241
+        ],
+        "price": 20,
+        "productID": 262568,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡困难关卡（若兰）",
+        "itemID": [
+          1728242
+        ],
+        "price": 30,
+        "productID": 262569,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡地狱关卡（若兰）",
+        "itemID": [
+          1728243
+        ],
+        "price": 40,
+        "productID": 262570,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买获得若兰因子",
+        "itemID": [
+          1728244
+        ],
+        "price": 2,
+        "productID": 262571,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "获取《赛尔的一日舰长》游戏次数",
+        "itemID": [
+          1728245
+        ],
+        "price": 10,
+        "productID": 262572,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "0703占位商品",
+        "itemID": [
+          1728247
+        ],
+        "price": 1,
+        "productID": 262573,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "0703占位商品1",
+        "itemID": [
+          1728248
+        ],
+        "price": 10,
+        "productID": 262574,
+        "vip": 1
       }
     ]
   }

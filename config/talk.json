@@ -26928,209 +26928,1138 @@
     {
       "answer": null,
       "deal": null,
-      "msg": "测试对话1-引导S1-1",
+      "msg": "大家快看！赛尔号的大英雄已经来到我们面前！",
       "dir": 0,
       "groupId": 909,
       "id": 2664,
-      "npcId": 11
+      "npcId": 28
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "测试对话2-引导S2-1",
+      "msg": "在失去外部联系，孤立无援的情况下，赛尔凭借自己的机智与勇谋拯救了整个奥朗星系！",
       "dir": 0,
-      "groupId": 910,
+      "groupId": 909,
       "id": 2665,
-      "npcId": 11
+      "npcId": 28
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "测试对话1-引导S2-2",
+      "msg": "（哪有那么夸张，纽斯这家伙又开始添油加醋了……）",
       "dir": 0,
-      "groupId": 911,
+      "groupId": 909,
       "id": 2666,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "测试对话2-引导S2-3",
+      "msg": "今天的凯旋殿堂不仅有赞美和掌声，这里还有象征赛尔号最高荣耀的四个“荣誉勋章”，它们都能代表赛尔所展现的风貌！",
       "dir": 0,
-      "groupId": 912,
+      "groupId": 909,
       "id": 2667,
-      "npcId": 11
+      "npcId": 28
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "测试对话1-引导S2-4",
+      "msg": "赛尔！请在万众瞩目下，走过这条荣誉之路，亲手点亮它们吧！让全体船员都见证你这一路的伟大行迹！",
       "dir": 0,
-      "groupId": 913,
+      "groupId": 909,
       "id": 2668,
-      "npcId": 11
+      "npcId": 28
     },
     {
-      "answer": [
-        "好的。"
-      ],
-      "deal": [
-        "2_925"
-      ],
-      "msg": "测试对话2-引导S3-1",
+      "answer": null,
+      "deal": null,
+      "msg": "哎呀呀，大家太热情了。好吧好吧，就让我来一一点亮它们！",
       "dir": 0,
-      "groupId": 914,
+      "groupId": 909,
       "id": 2669,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "测试对话1-NPC循环对话",
+      "msg": "有请赛尔来到第一个荣誉勋章——团结勋章前，它在舞台的<font color=\"0xf80909\">左侧</font>。主播纽斯将在现场实时为大家转播！",
       "dir": 0,
-      "groupId": 915,
+      "groupId": 909,
       "id": 2670,
-      "npcId": 11
+      "npcId": 28
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "测试对话2-NPC循环对话",
+      "msg": "第一个，团结勋章——代表着“伙伴”！它记录着赛尔与船员们最真挚的友谊。",
       "dir": 0,
-      "groupId": 916,
+      "groupId": 910,
       "id": 2671,
-      "npcId": 11
+      "npcId": 28
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "测试对话3-NPC循环对话",
+      "msg": "在冰冷的宇宙深处，正因为有着彼此信任、生死相依的伙伴，我们赛尔号才能一次次渡过难关，化险为夷！",
       "dir": 0,
-      "groupId": 917,
+      "groupId": 910,
       "id": 2672,
-      "npcId": 11
+      "npcId": 28
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "测试对话4-NPC循环对话",
+      "msg": "干得不错！记住，不论你飞得多远，赛尔号永远是你最坚实的后盾，我们都将永远支持你！",
       "dir": 0,
-      "groupId": 918,
+      "groupId": 910,
       "id": 2673,
-      "npcId": 11
+      "npcId": 29
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "测试对话-先去完成当前交互",
+      "msg": "谢谢大家，大家言重了！没有你们在后方的支持，我绝对无法走到今天。",
       "dir": 0,
-      "groupId": 919,
+      "groupId": 910,
       "id": 2674,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "测试对话-先去完成当前交互2",
+      "msg": "事不宜迟，有请赛尔来到第二个荣誉勋章——同行勋章前，它在舞台的<font color=\"0xf80909\">右侧</font>。",
       "dir": 0,
-      "groupId": 920,
+      "groupId": 910,
       "id": 2675,
-      "npcId": 11
+      "npcId": 28
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "测试对话-红圈1",
+      "msg": "第二个，同行勋章——代表着“精灵”！它撰写出赛尔与宇宙中无数精灵之间，那超越种族的深厚羁绊。",
       "dir": 0,
-      "groupId": 921,
+      "groupId": 911,
       "id": 2676,
-      "npcId": 11
+      "npcId": 28
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "测试对话-红圈2",
+      "msg": "互帮互助，共同成长。赛尔用温柔与勇气赢得了精灵们的信任，精灵们是赛尔最忠实的战斗伙伴，也是最温暖的家人！",
       "dir": 0,
-      "groupId": 922,
+      "groupId": 911,
       "id": 2677,
-      "npcId": 11
+      "npcId": 28
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "测试对话-红圈3",
+      "msg": "精灵们的心灵是最纯粹的，它们愿意与你并肩，正是因为感受到了赛尔那颗炽热的信念啊。",
       "dir": 0,
-      "groupId": 923,
+      "groupId": 911,
       "id": 2678,
-      "npcId": 11
+      "npcId": 33
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "测试对话-红圈4",
+      "msg": "没错，这一路上，多亏了大家的陪伴，应该是我感谢他们才是。未来的路，大家也要一起走下去！",
       "dir": 0,
-      "groupId": 924,
+      "groupId": 911,
       "id": 2679,
       "npcId": 11
     },
     {
-      "answer": [
-        "我没问题了",
-        "我还想逛逛"
-      ],
-      "deal": [
-        "4_jumpstory",
-        ""
-      ],
-      "msg": "测试对话2-引导S3-END",
+      "answer": null,
+      "deal": null,
+      "msg": "实在是太动人了！但时间有限，接下来，有请赛尔来到第三个荣誉勋章——开拓勋章前。它在舞台的<font color=\"0xf80909\">右侧</font>。",
       "dir": 0,
-      "groupId": 925,
+      "groupId": 911,
       "id": 2680,
-      "npcId": 11
+      "npcId": 28
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "0626运营活动占位1",
+      "msg": "第三个，开拓勋章——代表着“探索”！它铭刻着赛尔号永不停歇的探索精神！",
       "dir": 0,
-      "groupId": 926,
+      "groupId": 912,
       "id": 2681,
-      "npcId": 11
+      "npcId": 28
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "0626运营活动占位2",
+      "msg": "面对未知的星空，面对未知的危险，赛尔从未退缩。他的每一步，都在为赛尔号的未来开辟新的航路！",
       "dir": 0,
-      "groupId": 927,
+      "groupId": 912,
       "id": 2682,
-      "npcId": 11
+      "npcId": 28
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "0626运营活动占位3",
+      "msg": "宇宙的边界不是我们的极限！赛尔，你的探索精神，可是我研发新装备的最大动力啊！",
       "dir": 0,
-      "groupId": 928,
+      "groupId": 912,
       "id": 2683,
-      "npcId": 11
+      "npcId": 26
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "0626运营活动占位4",
+      "msg": "（肖恩博士，您还是少捣鼓些稀奇古怪的装备吧……）",
       "dir": 0,
-      "groupId": 929,
+      "groupId": 912,
       "id": 2684,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "0626运营活动占位5",
+      "msg": "咳咳，不错！ 星辰大海才是我们的征途。无论前方是怎样的困难险阻，我们探索的脚步绝不会停下！",
+      "dir": 0,
+      "groupId": 912,
+      "id": 2685,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "说的太好了！我已经开始期待赛尔号新的冒险了！还有最后一个荣誉勋章，它在舞台的<font color=\"0xf80909\">左侧</font>。来吧，赛尔！",
+      "dir": 0,
+      "groupId": 912,
+      "id": 2686,
+      "npcId": 28
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "最后一个，英雄勋章——代表着“荣耀”！这是对赛尔无数次拯救危机、建立不朽功勋的至高嘉奖！",
+      "dir": 0,
+      "groupId": 913,
+      "id": 2687,
+      "npcId": 28
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "从帕诺星系到奥朗星系，你的名字已经成为了宇宙中正义与希望的代名词！这份功勋，当之无愧！",
+      "dir": 0,
+      "groupId": 913,
+      "id": 2688,
+      "npcId": 28
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我曾为无数赛尔授勋，但你的故事，无疑是其中最璀璨、最震撼人心的一篇！",
+      "dir": 0,
+      "groupId": 913,
+      "id": 2689,
+      "npcId": 25
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这些功勋，属于我，也属于每一个为了正义而战的船员与伙伴！",
+      "dir": 0,
+      "groupId": 913,
+      "id": 2690,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "接下来，请赛尔来到罗杰船长面前，接受这至高的荣誉时刻！",
+      "dir": 0,
+      "groupId": 913,
+      "id": 2691,
+      "npcId": 28
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我代表赛尔号全体成员，正式授予你“赛尔号探索先驱”的荣誉。这枚纪念勋章的光芒，永远照亮你前行的道路。",
+      "dir": 0,
+      "groupId": 914,
+      "id": 2692,
+      "npcId": 27
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "谢谢船长，谢谢大家！我一定会带着这份荣誉，继续守护赛尔号，守护这个宇宙！",
+      "dir": 0,
+      "groupId": 914,
+      "id": 2693,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "获得这份荣誉，也意味着赛尔号将为你开放更多的权限。未来，大家都会更加坚定的支持你。",
+      "dir": 0,
+      "groupId": 914,
+      "id": 2694,
+      "npcId": 27
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "从即刻开始，赛尔号的资源调遣将向你倾斜，你所做的决断都将被赋予极高的权重，不必事事向我们汇报。",
+      "dir": 0,
+      "groupId": 914,
+      "id": 2695,
+      "npcId": 27
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "赛尔，你需要为自己的行动负责。当然，我会坚定地相信你的选择。这一路以来的经历大家都尽收眼里。有什么想做的，就大胆去做吧。",
+      "dir": 0,
+      "groupId": 914,
+      "id": 2696,
+      "npcId": 27
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "好样的！今晚尽情享受属于你的荣耀吧！",
+      "dir": 0,
+      "groupId": 914,
+      "id": 2697,
+      "npcId": 29
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "真是了不起啊，赛尔。",
+      "dir": 0,
+      "groupId": 914,
+      "id": 2698,
+      "npcId": 26
+    },
+    {
+      "answer": [
+        "交给我吧。"
+      ],
+      "deal": [
+        "2_925"
+      ],
+      "msg": "谢谢船长，谢谢大家！我一定会带着这份荣耀，继续守护我们的赛尔号，守护这个宇宙！",
+      "dir": 0,
+      "groupId": 914,
+      "id": 2699,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "谢谢罗杰船长。"
+      ],
+      "deal": [
+        "2_925"
+      ],
+      "msg": "你做的很好，我已经对你越来越期待了，希望你能再接再厉，赛尔号的未来可少不了你这位功臣。",
+      "dir": 0,
+      "groupId": 915,
+      "id": 2700,
+      "npcId": 27
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "嚯嚯嚯，今天你可是我们的主角，没有说未来不是的意思。",
+      "dir": 0,
+      "groupId": 916,
+      "id": 2701,
+      "npcId": 28
+    },
+    {
+      "answer": [
+        "那也得讲究真实性吧！"
+      ],
+      "deal": null,
+      "msg": "如果又有什么新的冒险故事，记得第一时间和我讲，我绝对会对你进行全宇宙最好的报道。",
+      "dir": 0,
+      "groupId": 916,
+      "id": 2702,
+      "npcId": 28
+    },
+    {
+      "answer": [
+        "希望靠谱。"
+      ],
+      "deal": null,
+      "msg": "不错啊赛尔，如果有什么需要打造新装备的需求，除了找茜茜，肖恩我也是会为你倾囊相助的。",
+      "dir": 0,
+      "groupId": 917,
+      "id": 2703,
+      "npcId": 26
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "见到你的成长真是欣慰，我会号召全体赛尔向你学习，以你为榜样。",
+      "dir": 0,
+      "groupId": 918,
+      "id": 2704,
+      "npcId": 29
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你可要加把劲，别被后来的新兵们赶上了。",
+      "dir": 0,
+      "groupId": 918,
+      "id": 2705,
+      "npcId": 29
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "哼哼，那就让他们见识见识榜样的力量吧",
+      "dir": 0,
+      "groupId": 918,
+      "id": 2706,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "纽斯就在那边，先去找他看看吧。",
+      "dir": 0,
+      "groupId": 919,
+      "id": 2707,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "先完成庆功宴的流程，再去看看其他地方吧。",
+      "dir": 0,
+      "groupId": 920,
+      "id": 2708,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这是团结勋章，象征着我与其他船员伙伴们的友谊。我这一路走来，可离不开大家的支持。",
+      "dir": 0,
+      "groupId": 921,
+      "id": 2709,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这个同行勋章，象征着我与精灵们结下的深厚羁绊。他们不仅是伙伴，更是支持我的“家人”。",
+      "dir": 0,
+      "groupId": 922,
+      "id": 2710,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "之后的冒险，我也要带他们一起，去见识更广袤的宇宙。",
+      "dir": 0,
+      "groupId": 922,
+      "id": 2711,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这个开拓勋章，象征着探索。不仅是我的冒险故事，也记录着赛尔号这一路来的探索之旅。",
+      "dir": 0,
+      "groupId": 923,
+      "id": 2712,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我已经开始期待还会发生什么新的故事了。",
+      "dir": 0,
+      "groupId": 923,
+      "id": 2713,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这个荣誉勋章，象征着属于我的荣耀。整座凯旋殿堂，这根荣誉勋章单独为我设立。",
+      "dir": 0,
+      "groupId": 924,
+      "id": 2714,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "虽然我的确帮助大家解决了各式各样的难题，但单独为我设立，仔细想想还是太夸张了吧！",
+      "dir": 0,
+      "groupId": 924,
+      "id": 2715,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "我想出去透透气",
+        "我还想再逛逛"
+      ],
+      "deal": [
+        "4_jumpstory",
+        ""
+      ],
+      "msg": "庆功宴还将持续一段时间后，赛尔，不妨去和老朋友们叙叙旧吧。",
+      "dir": 0,
+      "groupId": 925,
+      "id": 2716,
+      "npcId": 27
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "身份识别通过，雷达干扰开启，反侦察力场全功率展开…很好，万无一失。",
+      "dir": 0,
+      "groupId": 926,
+      "id": 2717,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "博士，其实您没必要这么紧张。作为组织的最高绝密计划，只有我们几个相关的科研人员参与。",
+      "dir": 0,
+      "groupId": 926,
+      "id": 2718,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "噗妞！你也知道这是绝密计划！我们必须保持谨慎。上头把这么重要的调查交给我们，我们可不能懈怠了。",
+      "dir": 0,
+      "groupId": 926,
+      "id": 2719,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "纠正一下，组织是把调查任务拆分成了多个阶段。我们当前进行的仅是玄武“肉体”素材的调查课题。",
+      "dir": 0,
+      "groupId": 926,
+      "id": 2720,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "那也是最核心的一环！神兽的再度降临需要完美的躯体！",
+      "dir": 0,
+      "groupId": 926,
+      "id": 2721,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "瞧瞧那些小家伙，这可是玄武分离出的珍贵样本！接下来，我们将从戈拉身上窥见神兽的终极奥秘！",
+      "dir": 0,
+      "groupId": 926,
+      "id": 2722,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这将是一场持久战。根据目前的规划，这项调查会持续相当长的一段时间。",
+      "dir": 0,
+      "groupId": 926,
+      "id": 2723,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我们必须按部就班地推进，直到完成所有的调查目标，才能进入计划的下一阶段。",
+      "dir": 0,
+      "groupId": 926,
+      "id": 2724,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "不错，科学的道路总是漫长的，我已经迫不及待要开始研究了！快，启动扫描仪，让我看看先从哪里下手！",
+      "dir": 0,
+      "groupId": 926,
+      "id": 2725,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "噢~瞧瞧这坚硬的颅骨，完美的视觉曲线…毋庸置疑！这绝对是玄武分离而来的智慧结晶！",
+      "dir": 0,
+      "groupId": 927,
+      "id": 2726,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "博士，从精灵生物学的角度来看，这看起来就是一块长了草的铁块。",
+      "dir": 0,
+      "groupId": 927,
+      "id": 2727,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "肤浅！你懂什么？这根草绝对不简单，我推测是某种高频生物雷达，用来接收来自宇宙深处的神兽电波的！",
+      "dir": 0,
+      "groupId": 927,
+      "id": 2728,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "（抗拒的意思）戈拉戈拉。",
+      "dir": 0,
+      "groupId": 927,
+      "id": 2729,
+      "npcId": 3598
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "（戳了戳）报告博士，这个雷达好像有点枯了，叶片边缘出现脱水症状，需要浇点水吗？",
+      "dir": 0,
+      "groupId": 927,
+      "id": 2730,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你怎么还上手了？算了，正事要紧…快，快拿我的特制高能营养液来。",
+      "dir": 0,
+      "groupId": 927,
+      "id": 2731,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "（兴奋的意思）戈拉戈拉！",
+      "dir": 0,
+      "groupId": 927,
+      "id": 2732,
+      "npcId": 3598
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "等等……它怎么在啃我的营养液试管？！快！记录下来：该生物具有极强的攻击性！",
+      "dir": 0,
+      "groupId": 927,
+      "id": 2733,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "正在上传云端…记录：头部为机械质地，头顶附着普通寄生植物。此外，该精灵目前可能只是饿了。",
+      "dir": 0,
+      "groupId": 927,
+      "id": 2734,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "推导记录：考虑到戈拉将直接参与玄武复活计划，为此需要准备大量的能量储备。",
+      "dir": 0,
+      "groupId": 927,
+      "id": 2735,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "根据我的生物动力学推演，这双由未知岩石和金属构成的手臂，肯定蕴含着足以撼动星球的怪力！",
+      "dir": 0,
+      "groupId": 928,
+      "id": 2736,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "可是博士，它现在正用这双“撼动星球”的手臂在玩翻花绳。",
+      "dir": 0,
+      "groupId": 928,
+      "id": 2737,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "瞎讲！这明明是在进行复杂的多维空间几何运算！这充分验证了戈拉作为独立的个体，也继承玄武的智慧。",
+      "dir": 0,
+      "groupId": 928,
+      "id": 2738,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "（开心的意思）戈拉戈拉。",
+      "dir": 0,
+      "groupId": 928,
+      "id": 2739,
+      "npcId": 3598
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "把那个最高硬度的合金测试球丢过去，好好看着，它将如何展现真正的破坏力！",
+      "dir": 0,
+      "groupId": 928,
+      "id": 2740,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "（丢过去）它接住了。",
+      "dir": 0,
+      "groupId": 928,
+      "id": 2741,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "（疑惑的意思）戈拉戈拉？",
+      "dir": 0,
+      "groupId": 928,
+      "id": 2742,
+      "npcId": 3598
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "看好了！它马上就要发力了！合金球马上就要被捏成粉末了！……等等，它在干什么？",
+      "dir": 0,
+      "groupId": 928,
+      "id": 2743,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "（认真的意思）戈拉戈拉。",
+      "dir": 0,
+      "groupId": 928,
+      "id": 2744,
+      "npcId": 3598
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "报告博士，钛合金球在它的手中高速旋转……合金球…合金球被它盘包浆了。",
+      "dir": 0,
+      "groupId": 928,
+      "id": 2745,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "……",
+      "dir": 0,
+      "groupId": 928,
+      "id": 2746,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "正在上传云端…记录：手臂由高密度岩石与伴生金属构成，关节异常灵活，非常适合盘核桃。",
+      "dir": 0,
+      "groupId": 928,
+      "id": 2747,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "最后一句删掉！关于玄武的调查报告怎么能这样写！",
+      "dir": 0,
+      "groupId": 928,
+      "id": 2748,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "补充一句：戈拉的双臂极其坚硬，考虑其作为玄武的分离个体，此点能充分映射玄武的生物特征。",
+      "dir": 0,
+      "groupId": 928,
+      "id": 2749,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "终于到了最关键的部位！这颗腹部的水晶，绝对是玄武本体分离出来的纯粹能量核心！",
+      "dir": 0,
+      "groupId": 929,
+      "id": 2750,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "光谱分析显示它的能量辐射非常平稳，温暖宜人。提议，此热源适合用来烹饪美食。",
+      "dir": 0,
+      "groupId": 929,
+      "id": 2751,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "住手！那是高纯度的能量！玄武的复活，与这颗水晶里蕴含的生命代码密不可分，你怎么能用它来做饭！",
+      "dir": 0,
+      "groupId": 929,
+      "id": 2752,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "（打了个嗝）嗝————",
+      "dir": 0,
+      "groupId": 929,
+      "id": 2753,
+      "npcId": 3598
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "可是博士，它刚才打了个饱嗝，水晶的光好像暗了一点。",
+      "dir": 0,
+      "groupId": 929,
+      "id": 2754,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "咳咳，能量潮汐波动是正常的生物学现象！",
+      "dir": 0,
+      "groupId": 929,
+      "id": 2755,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "噗妞，把这段时间观测的数据汇总。虽然过程有些…“曲折”，但我们离复活玄武又近了一大步。",
+      "dir": 0,
+      "groupId": 929,
+      "id": 2756,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "收到，正在上传云端…记录：戈拉腹部的水晶为高纯度能量聚合体，或与玄武本体存在同频共鸣。",
+      "dir": 0,
+      "groupId": 929,
+      "id": 2757,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "推导记录：戈拉是玄武复活计划的关键所在。",
+      "dir": 0,
+      "groupId": 929,
+      "id": 2758,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "天呐！戈拉身上的苔藓竟然构成了一个微型的独立生态循环系统！这一定是玄武分离出来的“生物”装甲！",
       "dir": 0,
       "groupId": 930,
-      "id": 2685,
+      "id": 2759,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "（难受的意思）戈拉戈拉。",
+      "dir": 0,
+      "groupId": 930,
+      "id": 2760,
+      "npcId": 3598
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "博士，我刚刚采集了一些样本进行分析，里面好像只有几只蚜虫在蠕行。",
+      "dir": 0,
+      "groupId": 930,
+      "id": 2761,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "那是共生防御部队！只要敌人靠近，这些苔藓就会发生激烈地反应，释放出强烈的致幻孢子…阿嚏！",
+      "dir": 0,
+      "groupId": 930,
+      "id": 2762,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "博士，这孢子好像只对花粉过敏的人有效。",
+      "dir": 0,
+      "groupId": 930,
+      "id": 2763,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "（捂住口鼻）快给我防毒面具！噗妞你也把内循环系统打开。别让有害气体进入体内了！",
+      "dir": 0,
+      "groupId": 930,
+      "id": 2764,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "正在上传云端…记录：背部覆盖着富含水分的苔藓类植物，具备良好的微型生态循环。",
+      "dir": 0,
+      "groupId": 930,
+      "id": 2765,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "推导记录：玄武本体可能具有强大的兼容性，能够平衡多元素的特质。",
+      "dir": 0,
+      "groupId": 930,
+      "id": 2766,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "终于，四个阶段的体征数据全部收集完毕，我们离复活玄武又近了一步！",
+      "dir": 0,
+      "groupId": 931,
+      "id": 2767,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "数据汇总已完成。虽然其中包含了大量它啃食试管、盘合金球以及打嗝等无效数据……",
+      "dir": 0,
+      "groupId": 931,
+      "id": 2768,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "等等，博士，戈拉正在朝你靠近。",
+      "dir": 0,
+      "groupId": 931,
+      "id": 2769,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "（开心的意思）戈拉戈拉。",
+      "dir": 0,
+      "groupId": 931,
+      "id": 2770,
+      "npcId": 3598
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "什么？！难道是调查结束后的应激反应？它要释放来自玄武的力量了吗？！快退后！退退退!",
+      "dir": 0,
+      "groupId": 931,
+      "id": 2771,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "报告博士，戈拉没有攻击意图。它刚刚……从那边拿来了一样东西。",
+      "dir": 0,
+      "groupId": 931,
+      "id": 2772,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "扫描结果显示：这是一块内部蕴含奇特能量、被打磨已久的岩石造物。",
+      "dir": 0,
+      "groupId": 931,
+      "id": 2773,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "岩石造物？不，这绝对不是岩石造物那么简单。这一定是凝结了玄武精华的圣物！",
+      "dir": 0,
+      "groupId": 931,
+      "id": 2774,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "补充说明，根据精灵行为学分析，这通常是精灵表达友好的方式。",
+      "dir": 0,
+      "groupId": 931,
+      "id": 2775,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "经过这段时间的相处，戈拉确认了我们不是坏人，所以决定把它最喜欢的东西作为礼物送给我们。",
+      "dir": 0,
+      "groupId": 931,
+      "id": 2776,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "礼物？不，这是跨越物种的羁绊！是神兽对我们严谨科研精神的最高认可！",
+      "dir": 0,
+      "groupId": 931,
+      "id": 2777,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "呜呜呜……噗妞！我们这段时间进行的调查，简直太有意义了！",
+      "dir": 0,
+      "groupId": 931,
+      "id": 2778,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "正在上传云端…记录：目标样本展现出初步的社交信任行为，并赠予了友谊的信物。",
+      "dir": 0,
+      "groupId": 931,
+      "id": 2779,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "大墟泽与石碑交互对话占位。",
+      "dir": 0,
+      "groupId": 932,
+      "id": 2780,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "大墟泽与墟婆交互对话占位。",
+      "dir": 0,
+      "groupId": 933,
+      "id": 2781,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "大墟泽与树交互对话占位。",
+      "dir": 0,
+      "groupId": 934,
+      "id": 2782,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "大墟泽与蜡烛互对话占位。",
+      "dir": 0,
+      "groupId": 935,
+      "id": 2783,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "离开场景",
+        "继续在场景中探索"
+      ],
+      "deal": [
+        "4_jumpstory",
+        ""
+      ],
+      "msg": "大墟泽第二次与墟婆交互占位。",
+      "dir": 0,
+      "groupId": 936,
+      "id": 2784,
+      "npcId": 11
+    },
+    {
+      "answer": [
+        "离开场景",
+        "继续在场景中探索"
+      ],
+      "deal": [
+        "4_jumpstory",
+        ""
+      ],
+      "msg": "大墟泽第三次与墟婆交互占位。",
+      "dir": 0,
+      "groupId": 937,
+      "id": 2785,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "玄武运营活动2占位",
+      "dir": 0,
+      "groupId": 938,
+      "id": 2786,
       "npcId": 11
     }
   ]

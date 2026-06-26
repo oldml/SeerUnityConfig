@@ -2082,6 +2082,16 @@
         "monster": 4030,
         "moves": 29337,
         "movetype": 2
+      },
+      {
+        "itemname": "月鬼面",
+        "movesname": "月·天囚影",
+        "id": 121,
+        "item": 1728246,
+        "itemnumber": 1,
+        "monster": 4147,
+        "moves": 38437,
+        "movetype": 1
       }
     ]
   }

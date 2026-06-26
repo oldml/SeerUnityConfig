@@ -13196,6 +13196,18 @@
         "petId": 4915
       },
       {
+        "moveName1": "冰结",
+        "moveName2": "飞羽击",
+        "moveId": 38436,
+        "petId": 4916
+      },
+      {
+        "moveName1": "月",
+        "moveName2": "天囚影",
+        "moveId": 38437,
+        "petId": 4147
+      },
+      {
         "moveName1": "神灵",
         "moveName2": "救世光",
         "moveId": 31143,

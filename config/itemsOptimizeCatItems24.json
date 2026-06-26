@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "Name": "环·回响因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400583,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "环·木心因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400582,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "若兰因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400581,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "西曼德妮因子",
       "catID": 24,
       "Hide": 0,

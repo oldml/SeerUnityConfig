@@ -4171,14 +4171,14 @@
     },
     {
       "CharacterID": "gangkuimsn",
-      "emoji": "gangkuimsn_01,gangkuimsn_02,gangkuimsn_03",
+      "emoji": "gangkuimsn_01,gangkuimsn_02,gangkuimsn_03,gangkuimsn_04,gangkuimsn_05",
       "emojixy": "",
       "head": "",
-      "initialposition": "0,110",
+      "initialposition": "-29,120",
       "name": "钢傀美少女",
       "portrait": "gangkuimsn_fg",
       "id": 380,
-      "scale": 1
+      "scale": 1.1
     },
     {
       "CharacterID": "huiecjh",
@@ -4222,6 +4222,28 @@
       "name": "鲁",
       "portrait": "hdru_fg",
       "id": 384,
+      "scale": 1
+    },
+    {
+      "CharacterID": "xiaomei",
+      "emoji": "mhwtpifu_01,mhwtpifu_02,mhwtpifu_03,mhwtpifu_04",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-92,75",
+      "name": "梅赫维特",
+      "portrait": "xiaomei_fg",
+      "id": 385,
+      "scale": 1
+    },
+    {
+      "CharacterID": "ruolan",
+      "emoji": "ruolan_fg",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-53,65",
+      "name": "若兰",
+      "portrait": "ruolan_fg",
+      "id": 386,
       "scale": 1
     }
   ]

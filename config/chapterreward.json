@@ -988,7 +988,7 @@
       "item": "1_300405_2",
       "chapterid": 1017,
       "id": 124,
-      "open": 0,
+      "open": 1,
       "order": 1,
       "param": 4
     },
@@ -999,6 +999,14 @@
       "open": 1,
       "order": 1,
       "param": 4
+    },
+    {
+      "item": "1_300405_2",
+      "chapterid": 1025,
+      "id": 126,
+      "open": 1,
+      "order": 1,
+      "param": 3
     }
   ]
 }

@@ -8078,6 +8078,48 @@
         "PetLimit": 1,
         "Rarity": 3,
         "show": 1
+      },
+      {
+        "effectId": 2109,
+        "ID": 2400581,
+        "MonsterID": 4916,
+        "MoveID": 38436,
+        "MovesConsume": 100,
+        "NeedmonID": 0,
+        "NewseConsume": 200,
+        "NewSeIdx": 6410,
+        "PetConsume": 400,
+        "PetLimit": 1,
+        "Rarity": 2,
+        "show": 1
+      },
+      {
+        "effectId": 1302,
+        "ID": 2400582,
+        "MonsterID": 4054,
+        "MoveID": 34229,
+        "MovesConsume": 100,
+        "NeedmonID": 0,
+        "NewseConsume": 200,
+        "NewSeIdx": 5573,
+        "PetConsume": 400,
+        "PetLimit": 1,
+        "Rarity": 2,
+        "show": 1
+      },
+      {
+        "effectId": 1296,
+        "ID": 2400583,
+        "MonsterID": 4043,
+        "MoveID": 34180,
+        "MovesConsume": 100,
+        "NeedmonID": 0,
+        "NewseConsume": 200,
+        "NewSeIdx": 5567,
+        "PetConsume": 400,
+        "PetLimit": 1,
+        "Rarity": 2,
+        "show": 1
       }
     ]
   }

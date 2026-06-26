@@ -19314,8 +19314,12 @@
       "statlog": "",
       "upgradeHide": "",
       "upgradeNew": "",
-      "isrecommend": null,
-      "menutype": null,
+      "isrecommend": [
+        1
+      ],
+      "menutype": [
+        3
+      ],
       "petTag": null,
       "upgrade": [
         3
@@ -19323,9 +19327,9 @@
       "difficult": 0,
       "fightType": 0,
       "id": 651,
-      "moduleid": 0,
+      "moduleid": -150131,
       "monsterid": 3541,
-      "sort": 0,
+      "sort": 3,
       "upgradeSort": 10,
       "upgradeSource": 3,
       "weekly": 0,
@@ -26316,7 +26320,7 @@
     {
       "hide": "",
       "image": "3541",
-      "isnew": "",
+      "isnew": "1",
       "param": "",
       "quality": "",
       "recommendTime": "",
@@ -26324,7 +26328,9 @@
       "upgradeHide": "",
       "upgradeNew": "2026_05_29 10:00:00",
       "isrecommend": null,
-      "menutype": null,
+      "menutype": [
+        3
+      ],
       "petTag": null,
       "upgrade": [
         3
@@ -26332,9 +26338,9 @@
       "difficult": 0,
       "fightType": 0,
       "id": 896,
-      "moduleid": 0,
+      "moduleid": -150131,
       "monsterid": 3541,
-      "sort": 0,
+      "sort": 3,
       "upgradeSort": 0,
       "upgradeSource": 3,
       "weekly": 0,
@@ -27296,7 +27302,7 @@
     {
       "hide": "",
       "image": "4915",
-      "isnew": "1",
+      "isnew": "",
       "param": "{Design:248}",
       "quality": "s",
       "recommendTime": "",
@@ -27317,6 +27323,64 @@
       "moduleid": 151,
       "monsterid": 4915,
       "sort": 100,
+      "upgradeSort": 0,
+      "upgradeSource": 5,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4061",
+      "isnew": "1",
+      "param": "",
+      "quality": "",
+      "recommendTime": "",
+      "statlog": "",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        3
+      ],
+      "petTag": null,
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 0,
+      "id": 932,
+      "moduleid": -150132,
+      "monsterid": 4061,
+      "sort": 2,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4916",
+      "isnew": "1",
+      "param": "{Design:249}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精灵因子关卡系统功能,若兰,点击进入关卡_点击兑换",
+      "upgradeHide": "",
+      "upgradeNew": "2026_07_03 10:00:00",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": null,
+      "upgrade": [
+        2
+      ],
+      "difficult": 0,
+      "fightType": 1,
+      "id": 933,
+      "moduleid": 151,
+      "monsterid": 4916,
+      "sort": 1,
       "upgradeSort": 0,
       "upgradeSource": 5,
       "weekly": 0,

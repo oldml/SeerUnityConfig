@@ -131927,6 +131927,42 @@
         "Type": 3
       },
       {
+        "Des": "17闪耀",
+        "EffectDes": "攻击4/45,防御3/34,特防3/34,速度3/32,体力13/135",
+        "Arg": null,
+        "BaseAttriValue": [
+          4,
+          3,
+          0,
+          3,
+          3,
+          13
+        ],
+        "ExtraAttriValue": null,
+        "MaxAttriValue": [
+          45,
+          34,
+          0,
+          34,
+          32,
+          135
+        ],
+        "MonsterID": null,
+        "MoveID": null,
+        "Connect": 0,
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42714,
+        "Level": 100,
+        "Max": 99,
+        "MintmarkClass": 11,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
         "Des": "十年·筑梦",
         "EffectDes": "体力8/87,攻击4/48,防御2/28,特防2/28,速度3/39",
         "Arg": null,

@@ -534,8 +534,8 @@
     {
       "effectIcon": "2",
       "object": "卡牌",
-      "param": "a_b",
-      "paramDes": "阵亡：使同排的己方精灵获得+a/+b",
+      "param": "a_b_c",
+      "paramDes": "阵亡：使同排的己方a(0:任意)系精灵获得+b/+c",
       "id": 10066,
       "IsDeathEffect": 1,
       "IsPlaceEffect": 0
@@ -1210,7 +1210,7 @@
       "effectIcon": "1",
       "object": "卡牌",
       "param": "a_b",
-      "paramDes": "商店阶段结束时，移除商店所有a系精灵并获得这些精灵b/2的永久攻击、永久血量",
+      "paramDes": "商店阶段结束时，获得商店所有a系精灵b/2的永久攻击、永久血量",
       "id": 10141,
       "IsDeathEffect": 0,
       "IsPlaceEffect": 0
@@ -1425,8 +1425,8 @@
     {
       "effectIcon": "2",
       "object": "卡牌",
-      "param": "a",
-      "paramDes": "阵亡：随机召唤本场战斗中已阵亡且具有阵亡效果的a只精灵的原始复制",
+      "param": "a_b",
+      "paramDes": "阵亡：随机召唤本场战斗中已阵亡且具有阵亡效果的a只b系精灵的原始复制",
       "id": 10165,
       "IsDeathEffect": 0,
       "IsPlaceEffect": 0
@@ -1734,6 +1734,24 @@
       "param": "a",
       "paramDes": "技能和法术牌不可被选中",
       "id": 10199,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "2",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "阵亡：使同排a(0:任意)系己方精灵获得护盾",
+      "id": 10200,
+      "IsDeathEffect": 1,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "击败对手时，使自身永久获得+a/+b",
+      "id": 10201,
       "IsDeathEffect": 0,
       "IsPlaceEffect": 0
     },
@@ -2469,8 +2487,8 @@
     {
       "effectIcon": "",
       "object": "赛季效果",
-      "param": "a_b_c_d",
-      "paramDes": "商店阶段开始时，若上场战斗连胜或连败被终结，则随机获得a张等级b(0:任意等级\\>0指定等级)的c(0:所有系)系精灵牌(是否当前商店等级及以下(d))",
+      "param": "a_b_c",
+      "paramDes": "商店阶段开始时，若上场战斗连胜或连败被终结时达到a场，则随机获得b张当前商店等级的c(0:所有系)系精灵牌",
       "id": 50046,
       "IsDeathEffect": 0,
       "IsPlaceEffect": 0

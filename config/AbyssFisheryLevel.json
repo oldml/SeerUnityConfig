@@ -1,0 +1,5604 @@
+{
+  "data": [
+    {
+      "exp": 5,
+      "id": 1,
+      "rank": 1,
+      "rare": 1,
+      "star": 1,
+      "value": 100
+    },
+    {
+      "exp": 15,
+      "id": 2,
+      "rank": 2,
+      "rare": 1,
+      "star": 1,
+      "value": 112
+    },
+    {
+      "exp": 26,
+      "id": 3,
+      "rank": 3,
+      "rare": 1,
+      "star": 1,
+      "value": 124
+    },
+    {
+      "exp": 40,
+      "id": 4,
+      "rank": 4,
+      "rare": 1,
+      "star": 1,
+      "value": 136
+    },
+    {
+      "exp": 56,
+      "id": 5,
+      "rank": 5,
+      "rare": 1,
+      "star": 1,
+      "value": 148
+    },
+    {
+      "exp": 74,
+      "id": 6,
+      "rank": 6,
+      "rare": 1,
+      "star": 1,
+      "value": 160
+    },
+    {
+      "exp": 93,
+      "id": 7,
+      "rank": 7,
+      "rare": 1,
+      "star": 1,
+      "value": 172
+    },
+    {
+      "exp": 114,
+      "id": 8,
+      "rank": 8,
+      "rare": 1,
+      "star": 1,
+      "value": 184
+    },
+    {
+      "exp": 135,
+      "id": 9,
+      "rank": 9,
+      "rare": 1,
+      "star": 1,
+      "value": 196
+    },
+    {
+      "exp": 159,
+      "id": 10,
+      "rank": 10,
+      "rare": 1,
+      "star": 1,
+      "value": 208
+    },
+    {
+      "exp": 183,
+      "id": 11,
+      "rank": 11,
+      "rare": 1,
+      "star": 1,
+      "value": 220
+    },
+    {
+      "exp": 208,
+      "id": 12,
+      "rank": 12,
+      "rare": 1,
+      "star": 1,
+      "value": 232
+    },
+    {
+      "exp": 235,
+      "id": 13,
+      "rank": 13,
+      "rare": 1,
+      "star": 1,
+      "value": 244
+    },
+    {
+      "exp": 262,
+      "id": 14,
+      "rank": 14,
+      "rare": 1,
+      "star": 1,
+      "value": 256
+    },
+    {
+      "exp": 291,
+      "id": 15,
+      "rank": 15,
+      "rare": 1,
+      "star": 1,
+      "value": 268
+    },
+    {
+      "exp": 320,
+      "id": 16,
+      "rank": 16,
+      "rare": 1,
+      "star": 1,
+      "value": 280
+    },
+    {
+      "exp": 351,
+      "id": 17,
+      "rank": 17,
+      "rare": 1,
+      "star": 1,
+      "value": 292
+    },
+    {
+      "exp": 382,
+      "id": 18,
+      "rank": 18,
+      "rare": 1,
+      "star": 1,
+      "value": 304
+    },
+    {
+      "exp": 415,
+      "id": 19,
+      "rank": 19,
+      "rare": 1,
+      "star": 1,
+      "value": 316
+    },
+    {
+      "exp": 448,
+      "id": 20,
+      "rank": 20,
+      "rare": 1,
+      "star": 1,
+      "value": 328
+    },
+    {
+      "exp": 482,
+      "id": 21,
+      "rank": 21,
+      "rare": 1,
+      "star": 1,
+      "value": 340
+    },
+    {
+      "exp": 516,
+      "id": 22,
+      "rank": 22,
+      "rare": 1,
+      "star": 1,
+      "value": 352
+    },
+    {
+      "exp": 552,
+      "id": 23,
+      "rank": 23,
+      "rare": 1,
+      "star": 1,
+      "value": 364
+    },
+    {
+      "exp": 588,
+      "id": 24,
+      "rank": 24,
+      "rare": 1,
+      "star": 1,
+      "value": 376
+    },
+    {
+      "exp": 625,
+      "id": 25,
+      "rank": 25,
+      "rare": 1,
+      "star": 1,
+      "value": 388
+    },
+    {
+      "exp": 663,
+      "id": 26,
+      "rank": 26,
+      "rare": 1,
+      "star": 1,
+      "value": 400
+    },
+    {
+      "exp": 702,
+      "id": 27,
+      "rank": 27,
+      "rare": 1,
+      "star": 1,
+      "value": 412
+    },
+    {
+      "exp": 741,
+      "id": 28,
+      "rank": 28,
+      "rare": 1,
+      "star": 1,
+      "value": 424
+    },
+    {
+      "exp": 781,
+      "id": 29,
+      "rank": 29,
+      "rare": 1,
+      "star": 1,
+      "value": 436
+    },
+    {
+      "exp": 822,
+      "id": 30,
+      "rank": 30,
+      "rare": 1,
+      "star": 1,
+      "value": 448
+    },
+    {
+      "exp": 864,
+      "id": 31,
+      "rank": 31,
+      "rare": 1,
+      "star": 1,
+      "value": 460
+    },
+    {
+      "exp": 906,
+      "id": 32,
+      "rank": 32,
+      "rare": 1,
+      "star": 1,
+      "value": 472
+    },
+    {
+      "exp": 948,
+      "id": 33,
+      "rank": 33,
+      "rare": 1,
+      "star": 1,
+      "value": 484
+    },
+    {
+      "exp": 992,
+      "id": 34,
+      "rank": 34,
+      "rare": 1,
+      "star": 1,
+      "value": 496
+    },
+    {
+      "exp": 1036,
+      "id": 35,
+      "rank": 35,
+      "rare": 1,
+      "star": 1,
+      "value": 508
+    },
+    {
+      "exp": 1080,
+      "id": 36,
+      "rank": 36,
+      "rare": 1,
+      "star": 1,
+      "value": 520
+    },
+    {
+      "exp": 1126,
+      "id": 37,
+      "rank": 37,
+      "rare": 1,
+      "star": 1,
+      "value": 532
+    },
+    {
+      "exp": 1172,
+      "id": 38,
+      "rank": 38,
+      "rare": 1,
+      "star": 1,
+      "value": 544
+    },
+    {
+      "exp": 1218,
+      "id": 39,
+      "rank": 39,
+      "rare": 1,
+      "star": 1,
+      "value": 556
+    },
+    {
+      "exp": 1265,
+      "id": 40,
+      "rank": 40,
+      "rare": 1,
+      "star": 1,
+      "value": 568
+    },
+    {
+      "exp": 1313,
+      "id": 41,
+      "rank": 41,
+      "rare": 1,
+      "star": 1,
+      "value": 580
+    },
+    {
+      "exp": 1361,
+      "id": 42,
+      "rank": 42,
+      "rare": 1,
+      "star": 1,
+      "value": 592
+    },
+    {
+      "exp": 1410,
+      "id": 43,
+      "rank": 43,
+      "rare": 1,
+      "star": 1,
+      "value": 604
+    },
+    {
+      "exp": 1460,
+      "id": 44,
+      "rank": 44,
+      "rare": 1,
+      "star": 1,
+      "value": 616
+    },
+    {
+      "exp": 1510,
+      "id": 45,
+      "rank": 45,
+      "rare": 1,
+      "star": 1,
+      "value": 628
+    },
+    {
+      "exp": 1560,
+      "id": 46,
+      "rank": 46,
+      "rare": 1,
+      "star": 1,
+      "value": 640
+    },
+    {
+      "exp": 1612,
+      "id": 47,
+      "rank": 47,
+      "rare": 1,
+      "star": 1,
+      "value": 652
+    },
+    {
+      "exp": 1663,
+      "id": 48,
+      "rank": 48,
+      "rare": 1,
+      "star": 1,
+      "value": 664
+    },
+    {
+      "exp": 1715,
+      "id": 49,
+      "rank": 49,
+      "rare": 1,
+      "star": 1,
+      "value": 676
+    },
+    {
+      "exp": 0,
+      "id": 50,
+      "rank": 50,
+      "rare": 1,
+      "star": 1,
+      "value": 688
+    },
+    {
+      "exp": 8,
+      "id": 51,
+      "rank": 1,
+      "rare": 2,
+      "star": 1,
+      "value": 250
+    },
+    {
+      "exp": 25,
+      "id": 52,
+      "rank": 2,
+      "rare": 2,
+      "star": 1,
+      "value": 275
+    },
+    {
+      "exp": 47,
+      "id": 53,
+      "rank": 3,
+      "rare": 2,
+      "star": 1,
+      "value": 300
+    },
+    {
+      "exp": 74,
+      "id": 54,
+      "rank": 4,
+      "rare": 2,
+      "star": 1,
+      "value": 325
+    },
+    {
+      "exp": 106,
+      "id": 55,
+      "rank": 5,
+      "rare": 2,
+      "star": 1,
+      "value": 350
+    },
+    {
+      "exp": 141,
+      "id": 56,
+      "rank": 6,
+      "rare": 2,
+      "star": 1,
+      "value": 375
+    },
+    {
+      "exp": 180,
+      "id": 57,
+      "rank": 7,
+      "rare": 2,
+      "star": 1,
+      "value": 400
+    },
+    {
+      "exp": 223,
+      "id": 58,
+      "rank": 8,
+      "rare": 2,
+      "star": 1,
+      "value": 425
+    },
+    {
+      "exp": 270,
+      "id": 59,
+      "rank": 9,
+      "rare": 2,
+      "star": 1,
+      "value": 450
+    },
+    {
+      "exp": 319,
+      "id": 60,
+      "rank": 10,
+      "rare": 2,
+      "star": 1,
+      "value": 475
+    },
+    {
+      "exp": 371,
+      "id": 61,
+      "rank": 11,
+      "rare": 2,
+      "star": 1,
+      "value": 500
+    },
+    {
+      "exp": 427,
+      "id": 62,
+      "rank": 12,
+      "rare": 2,
+      "star": 1,
+      "value": 525
+    },
+    {
+      "exp": 485,
+      "id": 63,
+      "rank": 13,
+      "rare": 2,
+      "star": 1,
+      "value": 550
+    },
+    {
+      "exp": 546,
+      "id": 64,
+      "rank": 14,
+      "rare": 2,
+      "star": 1,
+      "value": 575
+    },
+    {
+      "exp": 610,
+      "id": 65,
+      "rank": 15,
+      "rare": 2,
+      "star": 1,
+      "value": 600
+    },
+    {
+      "exp": 676,
+      "id": 66,
+      "rank": 16,
+      "rare": 2,
+      "star": 1,
+      "value": 625
+    },
+    {
+      "exp": 745,
+      "id": 67,
+      "rank": 17,
+      "rare": 2,
+      "star": 1,
+      "value": 650
+    },
+    {
+      "exp": 816,
+      "id": 68,
+      "rank": 18,
+      "rare": 2,
+      "star": 1,
+      "value": 675
+    },
+    {
+      "exp": 890,
+      "id": 69,
+      "rank": 19,
+      "rare": 2,
+      "star": 1,
+      "value": 700
+    },
+    {
+      "exp": 966,
+      "id": 70,
+      "rank": 20,
+      "rare": 2,
+      "star": 1,
+      "value": 725
+    },
+    {
+      "exp": 1044,
+      "id": 71,
+      "rank": 21,
+      "rare": 2,
+      "star": 1,
+      "value": 750
+    },
+    {
+      "exp": 1125,
+      "id": 72,
+      "rank": 22,
+      "rare": 2,
+      "star": 1,
+      "value": 775
+    },
+    {
+      "exp": 1208,
+      "id": 73,
+      "rank": 23,
+      "rare": 2,
+      "star": 1,
+      "value": 800
+    },
+    {
+      "exp": 1293,
+      "id": 74,
+      "rank": 24,
+      "rare": 2,
+      "star": 1,
+      "value": 825
+    },
+    {
+      "exp": 1380,
+      "id": 75,
+      "rank": 25,
+      "rare": 2,
+      "star": 1,
+      "value": 850
+    },
+    {
+      "exp": 1470,
+      "id": 76,
+      "rank": 26,
+      "rare": 2,
+      "star": 1,
+      "value": 875
+    },
+    {
+      "exp": 1561,
+      "id": 77,
+      "rank": 27,
+      "rare": 2,
+      "star": 1,
+      "value": 900
+    },
+    {
+      "exp": 1655,
+      "id": 78,
+      "rank": 28,
+      "rare": 2,
+      "star": 1,
+      "value": 925
+    },
+    {
+      "exp": 1750,
+      "id": 79,
+      "rank": 29,
+      "rare": 2,
+      "star": 1,
+      "value": 950
+    },
+    {
+      "exp": 1848,
+      "id": 80,
+      "rank": 30,
+      "rare": 2,
+      "star": 1,
+      "value": 975
+    },
+    {
+      "exp": 1947,
+      "id": 81,
+      "rank": 31,
+      "rare": 2,
+      "star": 1,
+      "value": 1000
+    },
+    {
+      "exp": 2049,
+      "id": 82,
+      "rank": 32,
+      "rare": 2,
+      "star": 1,
+      "value": 1025
+    },
+    {
+      "exp": 2152,
+      "id": 83,
+      "rank": 33,
+      "rare": 2,
+      "star": 1,
+      "value": 1050
+    },
+    {
+      "exp": 2257,
+      "id": 84,
+      "rank": 34,
+      "rare": 2,
+      "star": 1,
+      "value": 1075
+    },
+    {
+      "exp": 2364,
+      "id": 85,
+      "rank": 35,
+      "rare": 2,
+      "star": 1,
+      "value": 1100
+    },
+    {
+      "exp": 2473,
+      "id": 86,
+      "rank": 36,
+      "rare": 2,
+      "star": 1,
+      "value": 1125
+    },
+    {
+      "exp": 2584,
+      "id": 87,
+      "rank": 37,
+      "rare": 2,
+      "star": 1,
+      "value": 1150
+    },
+    {
+      "exp": 2697,
+      "id": 88,
+      "rank": 38,
+      "rare": 2,
+      "star": 1,
+      "value": 1175
+    },
+    {
+      "exp": 2811,
+      "id": 89,
+      "rank": 39,
+      "rare": 2,
+      "star": 1,
+      "value": 1200
+    },
+    {
+      "exp": 0,
+      "id": 90,
+      "rank": 40,
+      "rare": 2,
+      "star": 1,
+      "value": 1225
+    },
+    {
+      "exp": 12,
+      "id": 91,
+      "rank": 1,
+      "rare": 3,
+      "star": 1,
+      "value": 600
+    },
+    {
+      "exp": 39,
+      "id": 92,
+      "rank": 2,
+      "rare": 3,
+      "star": 1,
+      "value": 648
+    },
+    {
+      "exp": 78,
+      "id": 93,
+      "rank": 3,
+      "rare": 3,
+      "star": 1,
+      "value": 696
+    },
+    {
+      "exp": 127,
+      "id": 94,
+      "rank": 4,
+      "rare": 3,
+      "star": 1,
+      "value": 744
+    },
+    {
+      "exp": 186,
+      "id": 95,
+      "rank": 5,
+      "rare": 3,
+      "star": 1,
+      "value": 792
+    },
+    {
+      "exp": 253,
+      "id": 96,
+      "rank": 6,
+      "rare": 3,
+      "star": 1,
+      "value": 840
+    },
+    {
+      "exp": 328,
+      "id": 97,
+      "rank": 7,
+      "rare": 3,
+      "star": 1,
+      "value": 888
+    },
+    {
+      "exp": 412,
+      "id": 98,
+      "rank": 8,
+      "rare": 3,
+      "star": 1,
+      "value": 936
+    },
+    {
+      "exp": 503,
+      "id": 99,
+      "rank": 9,
+      "rare": 3,
+      "star": 1,
+      "value": 984
+    },
+    {
+      "exp": 602,
+      "id": 100,
+      "rank": 10,
+      "rare": 3,
+      "star": 1,
+      "value": 1032
+    },
+    {
+      "exp": 708,
+      "id": 101,
+      "rank": 11,
+      "rare": 3,
+      "star": 1,
+      "value": 1080
+    },
+    {
+      "exp": 820,
+      "id": 102,
+      "rank": 12,
+      "rare": 3,
+      "star": 1,
+      "value": 1128
+    },
+    {
+      "exp": 940,
+      "id": 103,
+      "rank": 13,
+      "rare": 3,
+      "star": 1,
+      "value": 1176
+    },
+    {
+      "exp": 1066,
+      "id": 104,
+      "rank": 14,
+      "rare": 3,
+      "star": 1,
+      "value": 1224
+    },
+    {
+      "exp": 1199,
+      "id": 105,
+      "rank": 15,
+      "rare": 3,
+      "star": 1,
+      "value": 1272
+    },
+    {
+      "exp": 1338,
+      "id": 106,
+      "rank": 16,
+      "rare": 3,
+      "star": 1,
+      "value": 1320
+    },
+    {
+      "exp": 1483,
+      "id": 107,
+      "rank": 17,
+      "rare": 3,
+      "star": 1,
+      "value": 1368
+    },
+    {
+      "exp": 1634,
+      "id": 108,
+      "rank": 18,
+      "rare": 3,
+      "star": 1,
+      "value": 1416
+    },
+    {
+      "exp": 1791,
+      "id": 109,
+      "rank": 19,
+      "rare": 3,
+      "star": 1,
+      "value": 1464
+    },
+    {
+      "exp": 1955,
+      "id": 110,
+      "rank": 20,
+      "rare": 3,
+      "star": 1,
+      "value": 1512
+    },
+    {
+      "exp": 2124,
+      "id": 111,
+      "rank": 21,
+      "rare": 3,
+      "star": 1,
+      "value": 1560
+    },
+    {
+      "exp": 2298,
+      "id": 112,
+      "rank": 22,
+      "rare": 3,
+      "star": 1,
+      "value": 1608
+    },
+    {
+      "exp": 2479,
+      "id": 113,
+      "rank": 23,
+      "rare": 3,
+      "star": 1,
+      "value": 1656
+    },
+    {
+      "exp": 2665,
+      "id": 114,
+      "rank": 24,
+      "rare": 3,
+      "star": 1,
+      "value": 1704
+    },
+    {
+      "exp": 2856,
+      "id": 115,
+      "rank": 25,
+      "rare": 3,
+      "star": 1,
+      "value": 1752
+    },
+    {
+      "exp": 3053,
+      "id": 116,
+      "rank": 26,
+      "rare": 3,
+      "star": 1,
+      "value": 1800
+    },
+    {
+      "exp": 3255,
+      "id": 117,
+      "rank": 27,
+      "rare": 3,
+      "star": 1,
+      "value": 1848
+    },
+    {
+      "exp": 3463,
+      "id": 118,
+      "rank": 28,
+      "rare": 3,
+      "star": 1,
+      "value": 1896
+    },
+    {
+      "exp": 3676,
+      "id": 119,
+      "rank": 29,
+      "rare": 3,
+      "star": 1,
+      "value": 1944
+    },
+    {
+      "exp": 0,
+      "id": 120,
+      "rank": 30,
+      "rare": 3,
+      "star": 1,
+      "value": 1992
+    },
+    {
+      "exp": 20,
+      "id": 121,
+      "rank": 1,
+      "rare": 4,
+      "star": 1,
+      "value": 1500
+    },
+    {
+      "exp": 70,
+      "id": 122,
+      "rank": 2,
+      "rare": 4,
+      "star": 1,
+      "value": 1590
+    },
+    {
+      "exp": 145,
+      "id": 123,
+      "rank": 3,
+      "rare": 4,
+      "star": 1,
+      "value": 1680
+    },
+    {
+      "exp": 243,
+      "id": 124,
+      "rank": 4,
+      "rare": 4,
+      "star": 1,
+      "value": 1770
+    },
+    {
+      "exp": 363,
+      "id": 125,
+      "rank": 5,
+      "rare": 4,
+      "star": 1,
+      "value": 1860
+    },
+    {
+      "exp": 504,
+      "id": 126,
+      "rank": 6,
+      "rare": 4,
+      "star": 1,
+      "value": 1950
+    },
+    {
+      "exp": 665,
+      "id": 127,
+      "rank": 7,
+      "rare": 4,
+      "star": 1,
+      "value": 2040
+    },
+    {
+      "exp": 845,
+      "id": 128,
+      "rank": 8,
+      "rare": 4,
+      "star": 1,
+      "value": 2130
+    },
+    {
+      "exp": 1044,
+      "id": 129,
+      "rank": 9,
+      "rare": 4,
+      "star": 1,
+      "value": 2220
+    },
+    {
+      "exp": 1262,
+      "id": 130,
+      "rank": 10,
+      "rare": 4,
+      "star": 1,
+      "value": 2310
+    },
+    {
+      "exp": 1499,
+      "id": 131,
+      "rank": 11,
+      "rare": 4,
+      "star": 1,
+      "value": 2400
+    },
+    {
+      "exp": 1753,
+      "id": 132,
+      "rank": 12,
+      "rare": 4,
+      "star": 1,
+      "value": 2490
+    },
+    {
+      "exp": 2024,
+      "id": 133,
+      "rank": 13,
+      "rare": 4,
+      "star": 1,
+      "value": 2580
+    },
+    {
+      "exp": 2313,
+      "id": 134,
+      "rank": 14,
+      "rare": 4,
+      "star": 1,
+      "value": 2670
+    },
+    {
+      "exp": 2619,
+      "id": 135,
+      "rank": 15,
+      "rare": 4,
+      "star": 1,
+      "value": 2760
+    },
+    {
+      "exp": 2941,
+      "id": 136,
+      "rank": 16,
+      "rare": 4,
+      "star": 1,
+      "value": 2850
+    },
+    {
+      "exp": 3280,
+      "id": 137,
+      "rank": 17,
+      "rare": 4,
+      "star": 1,
+      "value": 2940
+    },
+    {
+      "exp": 3636,
+      "id": 138,
+      "rank": 18,
+      "rare": 4,
+      "star": 1,
+      "value": 3030
+    },
+    {
+      "exp": 4007,
+      "id": 139,
+      "rank": 19,
+      "rare": 4,
+      "star": 1,
+      "value": 3120
+    },
+    {
+      "exp": 0,
+      "id": 140,
+      "rank": 20,
+      "rare": 4,
+      "star": 1,
+      "value": 3210
+    },
+    {
+      "exp": 10,
+      "id": 141,
+      "rank": 1,
+      "rare": 1,
+      "star": 2,
+      "value": 300
+    },
+    {
+      "exp": 29,
+      "id": 142,
+      "rank": 2,
+      "rare": 1,
+      "star": 2,
+      "value": 336
+    },
+    {
+      "exp": 52,
+      "id": 143,
+      "rank": 3,
+      "rare": 1,
+      "star": 2,
+      "value": 372
+    },
+    {
+      "exp": 80,
+      "id": 144,
+      "rank": 4,
+      "rare": 1,
+      "star": 2,
+      "value": 408
+    },
+    {
+      "exp": 112,
+      "id": 145,
+      "rank": 5,
+      "rare": 1,
+      "star": 2,
+      "value": 444
+    },
+    {
+      "exp": 147,
+      "id": 146,
+      "rank": 6,
+      "rare": 1,
+      "star": 2,
+      "value": 480
+    },
+    {
+      "exp": 186,
+      "id": 147,
+      "rank": 7,
+      "rare": 1,
+      "star": 2,
+      "value": 516
+    },
+    {
+      "exp": 227,
+      "id": 148,
+      "rank": 8,
+      "rare": 1,
+      "star": 2,
+      "value": 552
+    },
+    {
+      "exp": 270,
+      "id": 149,
+      "rank": 9,
+      "rare": 1,
+      "star": 2,
+      "value": 588
+    },
+    {
+      "exp": 317,
+      "id": 150,
+      "rank": 10,
+      "rare": 1,
+      "star": 2,
+      "value": 624
+    },
+    {
+      "exp": 365,
+      "id": 151,
+      "rank": 11,
+      "rare": 1,
+      "star": 2,
+      "value": 660
+    },
+    {
+      "exp": 416,
+      "id": 152,
+      "rank": 12,
+      "rare": 1,
+      "star": 2,
+      "value": 696
+    },
+    {
+      "exp": 469,
+      "id": 153,
+      "rank": 13,
+      "rare": 1,
+      "star": 2,
+      "value": 732
+    },
+    {
+      "exp": 524,
+      "id": 154,
+      "rank": 14,
+      "rare": 1,
+      "star": 2,
+      "value": 768
+    },
+    {
+      "exp": 581,
+      "id": 155,
+      "rank": 15,
+      "rare": 1,
+      "star": 2,
+      "value": 804
+    },
+    {
+      "exp": 640,
+      "id": 156,
+      "rank": 16,
+      "rare": 1,
+      "star": 2,
+      "value": 840
+    },
+    {
+      "exp": 701,
+      "id": 157,
+      "rank": 17,
+      "rare": 1,
+      "star": 2,
+      "value": 876
+    },
+    {
+      "exp": 764,
+      "id": 158,
+      "rank": 18,
+      "rare": 1,
+      "star": 2,
+      "value": 912
+    },
+    {
+      "exp": 829,
+      "id": 159,
+      "rank": 19,
+      "rare": 1,
+      "star": 2,
+      "value": 948
+    },
+    {
+      "exp": 895,
+      "id": 160,
+      "rank": 20,
+      "rare": 1,
+      "star": 2,
+      "value": 984
+    },
+    {
+      "exp": 963,
+      "id": 161,
+      "rank": 21,
+      "rare": 1,
+      "star": 2,
+      "value": 1020
+    },
+    {
+      "exp": 1032,
+      "id": 162,
+      "rank": 22,
+      "rare": 1,
+      "star": 2,
+      "value": 1056
+    },
+    {
+      "exp": 1104,
+      "id": 163,
+      "rank": 23,
+      "rare": 1,
+      "star": 2,
+      "value": 1092
+    },
+    {
+      "exp": 1176,
+      "id": 164,
+      "rank": 24,
+      "rare": 1,
+      "star": 2,
+      "value": 1128
+    },
+    {
+      "exp": 1250,
+      "id": 165,
+      "rank": 25,
+      "rare": 1,
+      "star": 2,
+      "value": 1164
+    },
+    {
+      "exp": 1326,
+      "id": 166,
+      "rank": 26,
+      "rare": 1,
+      "star": 2,
+      "value": 1200
+    },
+    {
+      "exp": 1403,
+      "id": 167,
+      "rank": 27,
+      "rare": 1,
+      "star": 2,
+      "value": 1236
+    },
+    {
+      "exp": 1482,
+      "id": 168,
+      "rank": 28,
+      "rare": 1,
+      "star": 2,
+      "value": 1272
+    },
+    {
+      "exp": 1562,
+      "id": 169,
+      "rank": 29,
+      "rare": 1,
+      "star": 2,
+      "value": 1308
+    },
+    {
+      "exp": 1644,
+      "id": 170,
+      "rank": 30,
+      "rare": 1,
+      "star": 2,
+      "value": 1344
+    },
+    {
+      "exp": 1727,
+      "id": 171,
+      "rank": 31,
+      "rare": 1,
+      "star": 2,
+      "value": 1380
+    },
+    {
+      "exp": 1811,
+      "id": 172,
+      "rank": 32,
+      "rare": 1,
+      "star": 2,
+      "value": 1416
+    },
+    {
+      "exp": 1896,
+      "id": 173,
+      "rank": 33,
+      "rare": 1,
+      "star": 2,
+      "value": 1452
+    },
+    {
+      "exp": 1983,
+      "id": 174,
+      "rank": 34,
+      "rare": 1,
+      "star": 2,
+      "value": 1488
+    },
+    {
+      "exp": 2071,
+      "id": 175,
+      "rank": 35,
+      "rare": 1,
+      "star": 2,
+      "value": 1524
+    },
+    {
+      "exp": 2160,
+      "id": 176,
+      "rank": 36,
+      "rare": 1,
+      "star": 2,
+      "value": 1560
+    },
+    {
+      "exp": 2251,
+      "id": 177,
+      "rank": 37,
+      "rare": 1,
+      "star": 2,
+      "value": 1596
+    },
+    {
+      "exp": 2343,
+      "id": 178,
+      "rank": 38,
+      "rare": 1,
+      "star": 2,
+      "value": 1632
+    },
+    {
+      "exp": 2436,
+      "id": 179,
+      "rank": 39,
+      "rare": 1,
+      "star": 2,
+      "value": 1668
+    },
+    {
+      "exp": 2530,
+      "id": 180,
+      "rank": 40,
+      "rare": 1,
+      "star": 2,
+      "value": 1704
+    },
+    {
+      "exp": 2626,
+      "id": 181,
+      "rank": 41,
+      "rare": 1,
+      "star": 2,
+      "value": 1740
+    },
+    {
+      "exp": 2722,
+      "id": 182,
+      "rank": 42,
+      "rare": 1,
+      "star": 2,
+      "value": 1776
+    },
+    {
+      "exp": 2820,
+      "id": 183,
+      "rank": 43,
+      "rare": 1,
+      "star": 2,
+      "value": 1812
+    },
+    {
+      "exp": 2919,
+      "id": 184,
+      "rank": 44,
+      "rare": 1,
+      "star": 2,
+      "value": 1848
+    },
+    {
+      "exp": 3019,
+      "id": 185,
+      "rank": 45,
+      "rare": 1,
+      "star": 2,
+      "value": 1884
+    },
+    {
+      "exp": 3120,
+      "id": 186,
+      "rank": 46,
+      "rare": 1,
+      "star": 2,
+      "value": 1920
+    },
+    {
+      "exp": 3223,
+      "id": 187,
+      "rank": 47,
+      "rare": 1,
+      "star": 2,
+      "value": 1956
+    },
+    {
+      "exp": 3326,
+      "id": 188,
+      "rank": 48,
+      "rare": 1,
+      "star": 2,
+      "value": 1992
+    },
+    {
+      "exp": 3430,
+      "id": 189,
+      "rank": 49,
+      "rare": 1,
+      "star": 2,
+      "value": 2028
+    },
+    {
+      "exp": 0,
+      "id": 190,
+      "rank": 50,
+      "rare": 1,
+      "star": 2,
+      "value": 2064
+    },
+    {
+      "exp": 16,
+      "id": 191,
+      "rank": 1,
+      "rare": 2,
+      "star": 2,
+      "value": 750
+    },
+    {
+      "exp": 49,
+      "id": 192,
+      "rank": 2,
+      "rare": 2,
+      "star": 2,
+      "value": 825
+    },
+    {
+      "exp": 93,
+      "id": 193,
+      "rank": 3,
+      "rare": 2,
+      "star": 2,
+      "value": 900
+    },
+    {
+      "exp": 148,
+      "id": 194,
+      "rank": 4,
+      "rare": 2,
+      "star": 2,
+      "value": 975
+    },
+    {
+      "exp": 211,
+      "id": 195,
+      "rank": 5,
+      "rare": 2,
+      "star": 2,
+      "value": 1050
+    },
+    {
+      "exp": 282,
+      "id": 196,
+      "rank": 6,
+      "rare": 2,
+      "star": 2,
+      "value": 1125
+    },
+    {
+      "exp": 360,
+      "id": 197,
+      "rank": 7,
+      "rare": 2,
+      "star": 2,
+      "value": 1200
+    },
+    {
+      "exp": 446,
+      "id": 198,
+      "rank": 8,
+      "rare": 2,
+      "star": 2,
+      "value": 1275
+    },
+    {
+      "exp": 539,
+      "id": 199,
+      "rank": 9,
+      "rare": 2,
+      "star": 2,
+      "value": 1350
+    },
+    {
+      "exp": 637,
+      "id": 200,
+      "rank": 10,
+      "rare": 2,
+      "star": 2,
+      "value": 1425
+    },
+    {
+      "exp": 742,
+      "id": 201,
+      "rank": 11,
+      "rare": 2,
+      "star": 2,
+      "value": 1500
+    },
+    {
+      "exp": 853,
+      "id": 202,
+      "rank": 12,
+      "rare": 2,
+      "star": 2,
+      "value": 1575
+    },
+    {
+      "exp": 970,
+      "id": 203,
+      "rank": 13,
+      "rare": 2,
+      "star": 2,
+      "value": 1650
+    },
+    {
+      "exp": 1092,
+      "id": 204,
+      "rank": 14,
+      "rare": 2,
+      "star": 2,
+      "value": 1725
+    },
+    {
+      "exp": 1219,
+      "id": 205,
+      "rank": 15,
+      "rare": 2,
+      "star": 2,
+      "value": 1800
+    },
+    {
+      "exp": 1352,
+      "id": 206,
+      "rank": 16,
+      "rare": 2,
+      "star": 2,
+      "value": 1875
+    },
+    {
+      "exp": 1489,
+      "id": 207,
+      "rank": 17,
+      "rare": 2,
+      "star": 2,
+      "value": 1950
+    },
+    {
+      "exp": 1632,
+      "id": 208,
+      "rank": 18,
+      "rare": 2,
+      "star": 2,
+      "value": 2025
+    },
+    {
+      "exp": 1779,
+      "id": 209,
+      "rank": 19,
+      "rare": 2,
+      "star": 2,
+      "value": 2100
+    },
+    {
+      "exp": 1931,
+      "id": 210,
+      "rank": 20,
+      "rare": 2,
+      "star": 2,
+      "value": 2175
+    },
+    {
+      "exp": 2088,
+      "id": 211,
+      "rank": 21,
+      "rare": 2,
+      "star": 2,
+      "value": 2250
+    },
+    {
+      "exp": 2250,
+      "id": 212,
+      "rank": 22,
+      "rare": 2,
+      "star": 2,
+      "value": 2325
+    },
+    {
+      "exp": 2415,
+      "id": 213,
+      "rank": 23,
+      "rare": 2,
+      "star": 2,
+      "value": 2400
+    },
+    {
+      "exp": 2585,
+      "id": 214,
+      "rank": 24,
+      "rare": 2,
+      "star": 2,
+      "value": 2475
+    },
+    {
+      "exp": 2760,
+      "id": 215,
+      "rank": 25,
+      "rare": 2,
+      "star": 2,
+      "value": 2550
+    },
+    {
+      "exp": 2939,
+      "id": 216,
+      "rank": 26,
+      "rare": 2,
+      "star": 2,
+      "value": 2625
+    },
+    {
+      "exp": 3122,
+      "id": 217,
+      "rank": 27,
+      "rare": 2,
+      "star": 2,
+      "value": 2700
+    },
+    {
+      "exp": 3309,
+      "id": 218,
+      "rank": 28,
+      "rare": 2,
+      "star": 2,
+      "value": 2775
+    },
+    {
+      "exp": 3500,
+      "id": 219,
+      "rank": 29,
+      "rare": 2,
+      "star": 2,
+      "value": 2850
+    },
+    {
+      "exp": 3695,
+      "id": 220,
+      "rank": 30,
+      "rare": 2,
+      "star": 2,
+      "value": 2925
+    },
+    {
+      "exp": 3894,
+      "id": 221,
+      "rank": 31,
+      "rare": 2,
+      "star": 2,
+      "value": 3000
+    },
+    {
+      "exp": 4097,
+      "id": 222,
+      "rank": 32,
+      "rare": 2,
+      "star": 2,
+      "value": 3075
+    },
+    {
+      "exp": 4303,
+      "id": 223,
+      "rank": 33,
+      "rare": 2,
+      "star": 2,
+      "value": 3150
+    },
+    {
+      "exp": 4514,
+      "id": 224,
+      "rank": 34,
+      "rare": 2,
+      "star": 2,
+      "value": 3225
+    },
+    {
+      "exp": 4728,
+      "id": 225,
+      "rank": 35,
+      "rare": 2,
+      "star": 2,
+      "value": 3300
+    },
+    {
+      "exp": 4946,
+      "id": 226,
+      "rank": 36,
+      "rare": 2,
+      "star": 2,
+      "value": 3375
+    },
+    {
+      "exp": 5168,
+      "id": 227,
+      "rank": 37,
+      "rare": 2,
+      "star": 2,
+      "value": 3450
+    },
+    {
+      "exp": 5393,
+      "id": 228,
+      "rank": 38,
+      "rare": 2,
+      "star": 2,
+      "value": 3525
+    },
+    {
+      "exp": 5622,
+      "id": 229,
+      "rank": 39,
+      "rare": 2,
+      "star": 2,
+      "value": 3600
+    },
+    {
+      "exp": 0,
+      "id": 230,
+      "rank": 40,
+      "rare": 2,
+      "star": 2,
+      "value": 3675
+    },
+    {
+      "exp": 24,
+      "id": 231,
+      "rank": 1,
+      "rare": 3,
+      "star": 2,
+      "value": 1800
+    },
+    {
+      "exp": 78,
+      "id": 232,
+      "rank": 2,
+      "rare": 3,
+      "star": 2,
+      "value": 1944
+    },
+    {
+      "exp": 156,
+      "id": 233,
+      "rank": 3,
+      "rare": 3,
+      "star": 2,
+      "value": 2088
+    },
+    {
+      "exp": 254,
+      "id": 234,
+      "rank": 4,
+      "rare": 3,
+      "star": 2,
+      "value": 2232
+    },
+    {
+      "exp": 371,
+      "id": 235,
+      "rank": 5,
+      "rare": 3,
+      "star": 2,
+      "value": 2376
+    },
+    {
+      "exp": 505,
+      "id": 236,
+      "rank": 6,
+      "rare": 3,
+      "star": 2,
+      "value": 2520
+    },
+    {
+      "exp": 656,
+      "id": 237,
+      "rank": 7,
+      "rare": 3,
+      "star": 2,
+      "value": 2664
+    },
+    {
+      "exp": 824,
+      "id": 238,
+      "rank": 8,
+      "rare": 3,
+      "star": 2,
+      "value": 2808
+    },
+    {
+      "exp": 1006,
+      "id": 239,
+      "rank": 9,
+      "rare": 3,
+      "star": 2,
+      "value": 2952
+    },
+    {
+      "exp": 1203,
+      "id": 240,
+      "rank": 10,
+      "rare": 3,
+      "star": 2,
+      "value": 3096
+    },
+    {
+      "exp": 1415,
+      "id": 241,
+      "rank": 11,
+      "rare": 3,
+      "star": 2,
+      "value": 3240
+    },
+    {
+      "exp": 1640,
+      "id": 242,
+      "rank": 12,
+      "rare": 3,
+      "star": 2,
+      "value": 3384
+    },
+    {
+      "exp": 1879,
+      "id": 243,
+      "rank": 13,
+      "rare": 3,
+      "star": 2,
+      "value": 3528
+    },
+    {
+      "exp": 2132,
+      "id": 244,
+      "rank": 14,
+      "rare": 3,
+      "star": 2,
+      "value": 3672
+    },
+    {
+      "exp": 2397,
+      "id": 245,
+      "rank": 15,
+      "rare": 3,
+      "star": 2,
+      "value": 3816
+    },
+    {
+      "exp": 2675,
+      "id": 246,
+      "rank": 16,
+      "rare": 3,
+      "star": 2,
+      "value": 3960
+    },
+    {
+      "exp": 2965,
+      "id": 247,
+      "rank": 17,
+      "rare": 3,
+      "star": 2,
+      "value": 4104
+    },
+    {
+      "exp": 3268,
+      "id": 248,
+      "rank": 18,
+      "rare": 3,
+      "star": 2,
+      "value": 4248
+    },
+    {
+      "exp": 3582,
+      "id": 249,
+      "rank": 19,
+      "rare": 3,
+      "star": 2,
+      "value": 4392
+    },
+    {
+      "exp": 3909,
+      "id": 250,
+      "rank": 20,
+      "rare": 3,
+      "star": 2,
+      "value": 4536
+    },
+    {
+      "exp": 4247,
+      "id": 251,
+      "rank": 21,
+      "rare": 3,
+      "star": 2,
+      "value": 4680
+    },
+    {
+      "exp": 4596,
+      "id": 252,
+      "rank": 22,
+      "rare": 3,
+      "star": 2,
+      "value": 4824
+    },
+    {
+      "exp": 4957,
+      "id": 253,
+      "rank": 23,
+      "rare": 3,
+      "star": 2,
+      "value": 4968
+    },
+    {
+      "exp": 5329,
+      "id": 254,
+      "rank": 24,
+      "rare": 3,
+      "star": 2,
+      "value": 5112
+    },
+    {
+      "exp": 5711,
+      "id": 255,
+      "rank": 25,
+      "rare": 3,
+      "star": 2,
+      "value": 5256
+    },
+    {
+      "exp": 6105,
+      "id": 256,
+      "rank": 26,
+      "rare": 3,
+      "star": 2,
+      "value": 5400
+    },
+    {
+      "exp": 6510,
+      "id": 257,
+      "rank": 27,
+      "rare": 3,
+      "star": 2,
+      "value": 5544
+    },
+    {
+      "exp": 6925,
+      "id": 258,
+      "rank": 28,
+      "rare": 3,
+      "star": 2,
+      "value": 5688
+    },
+    {
+      "exp": 7351,
+      "id": 259,
+      "rank": 29,
+      "rare": 3,
+      "star": 2,
+      "value": 5832
+    },
+    {
+      "exp": 0,
+      "id": 260,
+      "rank": 30,
+      "rare": 3,
+      "star": 2,
+      "value": 5976
+    },
+    {
+      "exp": 40,
+      "id": 261,
+      "rank": 1,
+      "rare": 4,
+      "star": 2,
+      "value": 4500
+    },
+    {
+      "exp": 140,
+      "id": 262,
+      "rank": 2,
+      "rare": 4,
+      "star": 2,
+      "value": 4770
+    },
+    {
+      "exp": 289,
+      "id": 263,
+      "rank": 3,
+      "rare": 4,
+      "star": 2,
+      "value": 5040
+    },
+    {
+      "exp": 486,
+      "id": 264,
+      "rank": 4,
+      "rare": 4,
+      "star": 2,
+      "value": 5310
+    },
+    {
+      "exp": 725,
+      "id": 265,
+      "rank": 5,
+      "rare": 4,
+      "star": 2,
+      "value": 5580
+    },
+    {
+      "exp": 1007,
+      "id": 266,
+      "rank": 6,
+      "rare": 4,
+      "star": 2,
+      "value": 5850
+    },
+    {
+      "exp": 1329,
+      "id": 267,
+      "rank": 7,
+      "rare": 4,
+      "star": 2,
+      "value": 6120
+    },
+    {
+      "exp": 1689,
+      "id": 268,
+      "rank": 8,
+      "rare": 4,
+      "star": 2,
+      "value": 6390
+    },
+    {
+      "exp": 2088,
+      "id": 269,
+      "rank": 9,
+      "rare": 4,
+      "star": 2,
+      "value": 6660
+    },
+    {
+      "exp": 2524,
+      "id": 270,
+      "rank": 10,
+      "rare": 4,
+      "star": 2,
+      "value": 6930
+    },
+    {
+      "exp": 2997,
+      "id": 271,
+      "rank": 11,
+      "rare": 4,
+      "star": 2,
+      "value": 7200
+    },
+    {
+      "exp": 3505,
+      "id": 272,
+      "rank": 12,
+      "rare": 4,
+      "star": 2,
+      "value": 7470
+    },
+    {
+      "exp": 4048,
+      "id": 273,
+      "rank": 13,
+      "rare": 4,
+      "star": 2,
+      "value": 7740
+    },
+    {
+      "exp": 4625,
+      "id": 274,
+      "rank": 14,
+      "rare": 4,
+      "star": 2,
+      "value": 8010
+    },
+    {
+      "exp": 5237,
+      "id": 275,
+      "rank": 15,
+      "rare": 4,
+      "star": 2,
+      "value": 8280
+    },
+    {
+      "exp": 5882,
+      "id": 276,
+      "rank": 16,
+      "rare": 4,
+      "star": 2,
+      "value": 8550
+    },
+    {
+      "exp": 6560,
+      "id": 277,
+      "rank": 17,
+      "rare": 4,
+      "star": 2,
+      "value": 8820
+    },
+    {
+      "exp": 7271,
+      "id": 278,
+      "rank": 18,
+      "rare": 4,
+      "star": 2,
+      "value": 9090
+    },
+    {
+      "exp": 8014,
+      "id": 279,
+      "rank": 19,
+      "rare": 4,
+      "star": 2,
+      "value": 9360
+    },
+    {
+      "exp": 0,
+      "id": 280,
+      "rank": 20,
+      "rare": 4,
+      "star": 2,
+      "value": 9630
+    },
+    {
+      "exp": 20,
+      "id": 281,
+      "rank": 1,
+      "rare": 1,
+      "star": 3,
+      "value": 900
+    },
+    {
+      "exp": 57,
+      "id": 282,
+      "rank": 2,
+      "rare": 1,
+      "star": 3,
+      "value": 1008
+    },
+    {
+      "exp": 104,
+      "id": 283,
+      "rank": 3,
+      "rare": 1,
+      "star": 3,
+      "value": 1116
+    },
+    {
+      "exp": 160,
+      "id": 284,
+      "rank": 4,
+      "rare": 1,
+      "star": 3,
+      "value": 1224
+    },
+    {
+      "exp": 224,
+      "id": 285,
+      "rank": 5,
+      "rare": 1,
+      "star": 3,
+      "value": 1332
+    },
+    {
+      "exp": 294,
+      "id": 286,
+      "rank": 6,
+      "rare": 1,
+      "star": 3,
+      "value": 1440
+    },
+    {
+      "exp": 371,
+      "id": 287,
+      "rank": 7,
+      "rare": 1,
+      "star": 3,
+      "value": 1548
+    },
+    {
+      "exp": 453,
+      "id": 288,
+      "rank": 8,
+      "rare": 1,
+      "star": 3,
+      "value": 1656
+    },
+    {
+      "exp": 540,
+      "id": 289,
+      "rank": 9,
+      "rare": 1,
+      "star": 3,
+      "value": 1764
+    },
+    {
+      "exp": 633,
+      "id": 290,
+      "rank": 10,
+      "rare": 1,
+      "star": 3,
+      "value": 1872
+    },
+    {
+      "exp": 730,
+      "id": 291,
+      "rank": 11,
+      "rare": 1,
+      "star": 3,
+      "value": 1980
+    },
+    {
+      "exp": 832,
+      "id": 292,
+      "rank": 12,
+      "rare": 1,
+      "star": 3,
+      "value": 2088
+    },
+    {
+      "exp": 938,
+      "id": 293,
+      "rank": 13,
+      "rare": 1,
+      "star": 3,
+      "value": 2196
+    },
+    {
+      "exp": 1048,
+      "id": 294,
+      "rank": 14,
+      "rare": 1,
+      "star": 3,
+      "value": 2304
+    },
+    {
+      "exp": 1162,
+      "id": 295,
+      "rank": 15,
+      "rare": 1,
+      "star": 3,
+      "value": 2412
+    },
+    {
+      "exp": 1280,
+      "id": 296,
+      "rank": 16,
+      "rare": 1,
+      "star": 3,
+      "value": 2520
+    },
+    {
+      "exp": 1402,
+      "id": 297,
+      "rank": 17,
+      "rare": 1,
+      "star": 3,
+      "value": 2628
+    },
+    {
+      "exp": 1528,
+      "id": 298,
+      "rank": 18,
+      "rare": 1,
+      "star": 3,
+      "value": 2736
+    },
+    {
+      "exp": 1657,
+      "id": 299,
+      "rank": 19,
+      "rare": 1,
+      "star": 3,
+      "value": 2844
+    },
+    {
+      "exp": 1789,
+      "id": 300,
+      "rank": 20,
+      "rare": 1,
+      "star": 3,
+      "value": 2952
+    },
+    {
+      "exp": 1925,
+      "id": 301,
+      "rank": 21,
+      "rare": 1,
+      "star": 3,
+      "value": 3060
+    },
+    {
+      "exp": 2064,
+      "id": 302,
+      "rank": 22,
+      "rare": 1,
+      "star": 3,
+      "value": 3168
+    },
+    {
+      "exp": 2207,
+      "id": 303,
+      "rank": 23,
+      "rare": 1,
+      "star": 3,
+      "value": 3276
+    },
+    {
+      "exp": 2352,
+      "id": 304,
+      "rank": 24,
+      "rare": 1,
+      "star": 3,
+      "value": 3384
+    },
+    {
+      "exp": 2500,
+      "id": 305,
+      "rank": 25,
+      "rare": 1,
+      "star": 3,
+      "value": 3492
+    },
+    {
+      "exp": 2652,
+      "id": 306,
+      "rank": 26,
+      "rare": 1,
+      "star": 3,
+      "value": 3600
+    },
+    {
+      "exp": 2806,
+      "id": 307,
+      "rank": 27,
+      "rare": 1,
+      "star": 3,
+      "value": 3708
+    },
+    {
+      "exp": 2964,
+      "id": 308,
+      "rank": 28,
+      "rare": 1,
+      "star": 3,
+      "value": 3816
+    },
+    {
+      "exp": 3124,
+      "id": 309,
+      "rank": 29,
+      "rare": 1,
+      "star": 3,
+      "value": 3924
+    },
+    {
+      "exp": 3287,
+      "id": 310,
+      "rank": 30,
+      "rare": 1,
+      "star": 3,
+      "value": 4032
+    },
+    {
+      "exp": 3453,
+      "id": 311,
+      "rank": 31,
+      "rare": 1,
+      "star": 3,
+      "value": 4140
+    },
+    {
+      "exp": 3621,
+      "id": 312,
+      "rank": 32,
+      "rare": 1,
+      "star": 3,
+      "value": 4248
+    },
+    {
+      "exp": 3792,
+      "id": 313,
+      "rank": 33,
+      "rare": 1,
+      "star": 3,
+      "value": 4356
+    },
+    {
+      "exp": 3966,
+      "id": 314,
+      "rank": 34,
+      "rare": 1,
+      "star": 3,
+      "value": 4464
+    },
+    {
+      "exp": 4142,
+      "id": 315,
+      "rank": 35,
+      "rare": 1,
+      "star": 3,
+      "value": 4572
+    },
+    {
+      "exp": 4320,
+      "id": 316,
+      "rank": 36,
+      "rare": 1,
+      "star": 3,
+      "value": 4680
+    },
+    {
+      "exp": 4502,
+      "id": 317,
+      "rank": 37,
+      "rare": 1,
+      "star": 3,
+      "value": 4788
+    },
+    {
+      "exp": 4685,
+      "id": 318,
+      "rank": 38,
+      "rare": 1,
+      "star": 3,
+      "value": 4896
+    },
+    {
+      "exp": 4872,
+      "id": 319,
+      "rank": 39,
+      "rare": 1,
+      "star": 3,
+      "value": 5004
+    },
+    {
+      "exp": 5060,
+      "id": 320,
+      "rank": 40,
+      "rare": 1,
+      "star": 3,
+      "value": 5112
+    },
+    {
+      "exp": 5251,
+      "id": 321,
+      "rank": 41,
+      "rare": 1,
+      "star": 3,
+      "value": 5220
+    },
+    {
+      "exp": 5444,
+      "id": 322,
+      "rank": 42,
+      "rare": 1,
+      "star": 3,
+      "value": 5328
+    },
+    {
+      "exp": 5640,
+      "id": 323,
+      "rank": 43,
+      "rare": 1,
+      "star": 3,
+      "value": 5436
+    },
+    {
+      "exp": 5838,
+      "id": 324,
+      "rank": 44,
+      "rare": 1,
+      "star": 3,
+      "value": 5544
+    },
+    {
+      "exp": 6038,
+      "id": 325,
+      "rank": 45,
+      "rare": 1,
+      "star": 3,
+      "value": 5652
+    },
+    {
+      "exp": 6240,
+      "id": 326,
+      "rank": 46,
+      "rare": 1,
+      "star": 3,
+      "value": 5760
+    },
+    {
+      "exp": 6445,
+      "id": 327,
+      "rank": 47,
+      "rare": 1,
+      "star": 3,
+      "value": 5868
+    },
+    {
+      "exp": 6652,
+      "id": 328,
+      "rank": 48,
+      "rare": 1,
+      "star": 3,
+      "value": 5976
+    },
+    {
+      "exp": 6860,
+      "id": 329,
+      "rank": 49,
+      "rare": 1,
+      "star": 3,
+      "value": 6084
+    },
+    {
+      "exp": 0,
+      "id": 330,
+      "rank": 50,
+      "rare": 1,
+      "star": 3,
+      "value": 6192
+    },
+    {
+      "exp": 32,
+      "id": 331,
+      "rank": 1,
+      "rare": 2,
+      "star": 3,
+      "value": 2250
+    },
+    {
+      "exp": 98,
+      "id": 332,
+      "rank": 2,
+      "rare": 2,
+      "star": 3,
+      "value": 2475
+    },
+    {
+      "exp": 186,
+      "id": 333,
+      "rank": 3,
+      "rare": 2,
+      "star": 3,
+      "value": 2700
+    },
+    {
+      "exp": 295,
+      "id": 334,
+      "rank": 4,
+      "rare": 2,
+      "star": 3,
+      "value": 2925
+    },
+    {
+      "exp": 421,
+      "id": 335,
+      "rank": 5,
+      "rare": 2,
+      "star": 3,
+      "value": 3150
+    },
+    {
+      "exp": 563,
+      "id": 336,
+      "rank": 6,
+      "rare": 2,
+      "star": 3,
+      "value": 3375
+    },
+    {
+      "exp": 720,
+      "id": 337,
+      "rank": 7,
+      "rare": 2,
+      "star": 3,
+      "value": 3600
+    },
+    {
+      "exp": 892,
+      "id": 338,
+      "rank": 8,
+      "rare": 2,
+      "star": 3,
+      "value": 3825
+    },
+    {
+      "exp": 1077,
+      "id": 339,
+      "rank": 9,
+      "rare": 2,
+      "star": 3,
+      "value": 4050
+    },
+    {
+      "exp": 1274,
+      "id": 340,
+      "rank": 10,
+      "rare": 2,
+      "star": 3,
+      "value": 4275
+    },
+    {
+      "exp": 1484,
+      "id": 341,
+      "rank": 11,
+      "rare": 2,
+      "star": 3,
+      "value": 4500
+    },
+    {
+      "exp": 1706,
+      "id": 342,
+      "rank": 12,
+      "rare": 2,
+      "star": 3,
+      "value": 4725
+    },
+    {
+      "exp": 1939,
+      "id": 343,
+      "rank": 13,
+      "rare": 2,
+      "star": 3,
+      "value": 4950
+    },
+    {
+      "exp": 2183,
+      "id": 344,
+      "rank": 14,
+      "rare": 2,
+      "star": 3,
+      "value": 5175
+    },
+    {
+      "exp": 2438,
+      "id": 345,
+      "rank": 15,
+      "rare": 2,
+      "star": 3,
+      "value": 5400
+    },
+    {
+      "exp": 2703,
+      "id": 346,
+      "rank": 16,
+      "rare": 2,
+      "star": 3,
+      "value": 5625
+    },
+    {
+      "exp": 2978,
+      "id": 347,
+      "rank": 17,
+      "rare": 2,
+      "star": 3,
+      "value": 5850
+    },
+    {
+      "exp": 3263,
+      "id": 348,
+      "rank": 18,
+      "rare": 2,
+      "star": 3,
+      "value": 6075
+    },
+    {
+      "exp": 3558,
+      "id": 349,
+      "rank": 19,
+      "rare": 2,
+      "star": 3,
+      "value": 6300
+    },
+    {
+      "exp": 3862,
+      "id": 350,
+      "rank": 20,
+      "rare": 2,
+      "star": 3,
+      "value": 6525
+    },
+    {
+      "exp": 4176,
+      "id": 351,
+      "rank": 21,
+      "rare": 2,
+      "star": 3,
+      "value": 6750
+    },
+    {
+      "exp": 4499,
+      "id": 352,
+      "rank": 22,
+      "rare": 2,
+      "star": 3,
+      "value": 6975
+    },
+    {
+      "exp": 4830,
+      "id": 353,
+      "rank": 23,
+      "rare": 2,
+      "star": 3,
+      "value": 7200
+    },
+    {
+      "exp": 5170,
+      "id": 354,
+      "rank": 24,
+      "rare": 2,
+      "star": 3,
+      "value": 7425
+    },
+    {
+      "exp": 5519,
+      "id": 355,
+      "rank": 25,
+      "rare": 2,
+      "star": 3,
+      "value": 7650
+    },
+    {
+      "exp": 5877,
+      "id": 356,
+      "rank": 26,
+      "rare": 2,
+      "star": 3,
+      "value": 7875
+    },
+    {
+      "exp": 6243,
+      "id": 357,
+      "rank": 27,
+      "rare": 2,
+      "star": 3,
+      "value": 8100
+    },
+    {
+      "exp": 6617,
+      "id": 358,
+      "rank": 28,
+      "rare": 2,
+      "star": 3,
+      "value": 8325
+    },
+    {
+      "exp": 6999,
+      "id": 359,
+      "rank": 29,
+      "rare": 2,
+      "star": 3,
+      "value": 8550
+    },
+    {
+      "exp": 7389,
+      "id": 360,
+      "rank": 30,
+      "rare": 2,
+      "star": 3,
+      "value": 8775
+    },
+    {
+      "exp": 7787,
+      "id": 361,
+      "rank": 31,
+      "rare": 2,
+      "star": 3,
+      "value": 9000
+    },
+    {
+      "exp": 8193,
+      "id": 362,
+      "rank": 32,
+      "rare": 2,
+      "star": 3,
+      "value": 9225
+    },
+    {
+      "exp": 8606,
+      "id": 363,
+      "rank": 33,
+      "rare": 2,
+      "star": 3,
+      "value": 9450
+    },
+    {
+      "exp": 9027,
+      "id": 364,
+      "rank": 34,
+      "rare": 2,
+      "star": 3,
+      "value": 9675
+    },
+    {
+      "exp": 9455,
+      "id": 365,
+      "rank": 35,
+      "rare": 2,
+      "star": 3,
+      "value": 9900
+    },
+    {
+      "exp": 9891,
+      "id": 366,
+      "rank": 36,
+      "rare": 2,
+      "star": 3,
+      "value": 10125
+    },
+    {
+      "exp": 10335,
+      "id": 367,
+      "rank": 37,
+      "rare": 2,
+      "star": 3,
+      "value": 10350
+    },
+    {
+      "exp": 10785,
+      "id": 368,
+      "rank": 38,
+      "rare": 2,
+      "star": 3,
+      "value": 10575
+    },
+    {
+      "exp": 11243,
+      "id": 369,
+      "rank": 39,
+      "rare": 2,
+      "star": 3,
+      "value": 10800
+    },
+    {
+      "exp": 0,
+      "id": 370,
+      "rank": 40,
+      "rare": 2,
+      "star": 3,
+      "value": 11025
+    },
+    {
+      "exp": 48,
+      "id": 371,
+      "rank": 1,
+      "rare": 3,
+      "star": 3,
+      "value": 5400
+    },
+    {
+      "exp": 156,
+      "id": 372,
+      "rank": 2,
+      "rare": 3,
+      "star": 3,
+      "value": 5832
+    },
+    {
+      "exp": 311,
+      "id": 373,
+      "rank": 3,
+      "rare": 3,
+      "star": 3,
+      "value": 6264
+    },
+    {
+      "exp": 507,
+      "id": 374,
+      "rank": 4,
+      "rare": 3,
+      "star": 3,
+      "value": 6696
+    },
+    {
+      "exp": 741,
+      "id": 375,
+      "rank": 5,
+      "rare": 3,
+      "star": 3,
+      "value": 7128
+    },
+    {
+      "exp": 1010,
+      "id": 376,
+      "rank": 6,
+      "rare": 3,
+      "star": 3,
+      "value": 7560
+    },
+    {
+      "exp": 1312,
+      "id": 377,
+      "rank": 7,
+      "rare": 3,
+      "star": 3,
+      "value": 7992
+    },
+    {
+      "exp": 1647,
+      "id": 378,
+      "rank": 8,
+      "rare": 3,
+      "star": 3,
+      "value": 8424
+    },
+    {
+      "exp": 2012,
+      "id": 379,
+      "rank": 9,
+      "rare": 3,
+      "star": 3,
+      "value": 8856
+    },
+    {
+      "exp": 2406,
+      "id": 380,
+      "rank": 10,
+      "rare": 3,
+      "star": 3,
+      "value": 9288
+    },
+    {
+      "exp": 2829,
+      "id": 381,
+      "rank": 11,
+      "rare": 3,
+      "star": 3,
+      "value": 9720
+    },
+    {
+      "exp": 3280,
+      "id": 382,
+      "rank": 12,
+      "rare": 3,
+      "star": 3,
+      "value": 10152
+    },
+    {
+      "exp": 3758,
+      "id": 383,
+      "rank": 13,
+      "rare": 3,
+      "star": 3,
+      "value": 10584
+    },
+    {
+      "exp": 4263,
+      "id": 384,
+      "rank": 14,
+      "rare": 3,
+      "star": 3,
+      "value": 11016
+    },
+    {
+      "exp": 4793,
+      "id": 385,
+      "rank": 15,
+      "rare": 3,
+      "star": 3,
+      "value": 11448
+    },
+    {
+      "exp": 5349,
+      "id": 386,
+      "rank": 16,
+      "rare": 3,
+      "star": 3,
+      "value": 11880
+    },
+    {
+      "exp": 5930,
+      "id": 387,
+      "rank": 17,
+      "rare": 3,
+      "star": 3,
+      "value": 12312
+    },
+    {
+      "exp": 6535,
+      "id": 388,
+      "rank": 18,
+      "rare": 3,
+      "star": 3,
+      "value": 12744
+    },
+    {
+      "exp": 7164,
+      "id": 389,
+      "rank": 19,
+      "rare": 3,
+      "star": 3,
+      "value": 13176
+    },
+    {
+      "exp": 7817,
+      "id": 390,
+      "rank": 20,
+      "rare": 3,
+      "star": 3,
+      "value": 13608
+    },
+    {
+      "exp": 8493,
+      "id": 391,
+      "rank": 21,
+      "rare": 3,
+      "star": 3,
+      "value": 14040
+    },
+    {
+      "exp": 9191,
+      "id": 392,
+      "rank": 22,
+      "rare": 3,
+      "star": 3,
+      "value": 14472
+    },
+    {
+      "exp": 9913,
+      "id": 393,
+      "rank": 23,
+      "rare": 3,
+      "star": 3,
+      "value": 14904
+    },
+    {
+      "exp": 10657,
+      "id": 394,
+      "rank": 24,
+      "rare": 3,
+      "star": 3,
+      "value": 15336
+    },
+    {
+      "exp": 11422,
+      "id": 395,
+      "rank": 25,
+      "rare": 3,
+      "star": 3,
+      "value": 15768
+    },
+    {
+      "exp": 12210,
+      "id": 396,
+      "rank": 26,
+      "rare": 3,
+      "star": 3,
+      "value": 16200
+    },
+    {
+      "exp": 13019,
+      "id": 397,
+      "rank": 27,
+      "rare": 3,
+      "star": 3,
+      "value": 16632
+    },
+    {
+      "exp": 13849,
+      "id": 398,
+      "rank": 28,
+      "rare": 3,
+      "star": 3,
+      "value": 17064
+    },
+    {
+      "exp": 14701,
+      "id": 399,
+      "rank": 29,
+      "rare": 3,
+      "star": 3,
+      "value": 17496
+    },
+    {
+      "exp": 0,
+      "id": 400,
+      "rank": 30,
+      "rare": 3,
+      "star": 3,
+      "value": 17928
+    },
+    {
+      "exp": 80,
+      "id": 401,
+      "rank": 1,
+      "rare": 4,
+      "star": 3,
+      "value": 13500
+    },
+    {
+      "exp": 279,
+      "id": 402,
+      "rank": 2,
+      "rare": 4,
+      "star": 3,
+      "value": 14310
+    },
+    {
+      "exp": 578,
+      "id": 403,
+      "rank": 3,
+      "rare": 4,
+      "star": 3,
+      "value": 15120
+    },
+    {
+      "exp": 971,
+      "id": 404,
+      "rank": 4,
+      "rare": 4,
+      "star": 3,
+      "value": 15930
+    },
+    {
+      "exp": 1450,
+      "id": 405,
+      "rank": 5,
+      "rare": 4,
+      "star": 3,
+      "value": 16740
+    },
+    {
+      "exp": 2013,
+      "id": 406,
+      "rank": 6,
+      "rare": 4,
+      "star": 3,
+      "value": 17550
+    },
+    {
+      "exp": 2657,
+      "id": 407,
+      "rank": 7,
+      "rare": 4,
+      "star": 3,
+      "value": 18360
+    },
+    {
+      "exp": 3378,
+      "id": 408,
+      "rank": 8,
+      "rare": 4,
+      "star": 3,
+      "value": 19170
+    },
+    {
+      "exp": 4176,
+      "id": 409,
+      "rank": 9,
+      "rare": 4,
+      "star": 3,
+      "value": 19980
+    },
+    {
+      "exp": 5048,
+      "id": 410,
+      "rank": 10,
+      "rare": 4,
+      "star": 3,
+      "value": 20790
+    },
+    {
+      "exp": 5993,
+      "id": 411,
+      "rank": 11,
+      "rare": 4,
+      "star": 3,
+      "value": 21600
+    },
+    {
+      "exp": 7009,
+      "id": 412,
+      "rank": 12,
+      "rare": 4,
+      "star": 3,
+      "value": 22410
+    },
+    {
+      "exp": 8095,
+      "id": 413,
+      "rank": 13,
+      "rare": 4,
+      "star": 3,
+      "value": 23220
+    },
+    {
+      "exp": 9250,
+      "id": 414,
+      "rank": 14,
+      "rare": 4,
+      "star": 3,
+      "value": 24030
+    },
+    {
+      "exp": 10473,
+      "id": 415,
+      "rank": 15,
+      "rare": 4,
+      "star": 3,
+      "value": 24840
+    },
+    {
+      "exp": 11763,
+      "id": 416,
+      "rank": 16,
+      "rare": 4,
+      "star": 3,
+      "value": 25650
+    },
+    {
+      "exp": 13119,
+      "id": 417,
+      "rank": 17,
+      "rare": 4,
+      "star": 3,
+      "value": 26460
+    },
+    {
+      "exp": 14541,
+      "id": 418,
+      "rank": 18,
+      "rare": 4,
+      "star": 3,
+      "value": 27270
+    },
+    {
+      "exp": 16027,
+      "id": 419,
+      "rank": 19,
+      "rare": 4,
+      "star": 3,
+      "value": 28080
+    },
+    {
+      "exp": 0,
+      "id": 420,
+      "rank": 20,
+      "rare": 4,
+      "star": 3,
+      "value": 28890
+    },
+    {
+      "exp": 40,
+      "id": 421,
+      "rank": 1,
+      "rare": 1,
+      "star": 4,
+      "value": 2700
+    },
+    {
+      "exp": 114,
+      "id": 422,
+      "rank": 2,
+      "rare": 1,
+      "star": 4,
+      "value": 3024
+    },
+    {
+      "exp": 208,
+      "id": 423,
+      "rank": 3,
+      "rare": 1,
+      "star": 4,
+      "value": 3348
+    },
+    {
+      "exp": 320,
+      "id": 424,
+      "rank": 4,
+      "rare": 1,
+      "star": 4,
+      "value": 3672
+    },
+    {
+      "exp": 448,
+      "id": 425,
+      "rank": 5,
+      "rare": 1,
+      "star": 4,
+      "value": 3996
+    },
+    {
+      "exp": 588,
+      "id": 426,
+      "rank": 6,
+      "rare": 1,
+      "star": 4,
+      "value": 4320
+    },
+    {
+      "exp": 741,
+      "id": 427,
+      "rank": 7,
+      "rare": 1,
+      "star": 4,
+      "value": 4644
+    },
+    {
+      "exp": 906,
+      "id": 428,
+      "rank": 8,
+      "rare": 1,
+      "star": 4,
+      "value": 4968
+    },
+    {
+      "exp": 1080,
+      "id": 429,
+      "rank": 9,
+      "rare": 1,
+      "star": 4,
+      "value": 5292
+    },
+    {
+      "exp": 1265,
+      "id": 430,
+      "rank": 10,
+      "rare": 1,
+      "star": 4,
+      "value": 5616
+    },
+    {
+      "exp": 1460,
+      "id": 431,
+      "rank": 11,
+      "rare": 1,
+      "star": 4,
+      "value": 5940
+    },
+    {
+      "exp": 1663,
+      "id": 432,
+      "rank": 12,
+      "rare": 1,
+      "star": 4,
+      "value": 6264
+    },
+    {
+      "exp": 1875,
+      "id": 433,
+      "rank": 13,
+      "rare": 1,
+      "star": 4,
+      "value": 6588
+    },
+    {
+      "exp": 2096,
+      "id": 434,
+      "rank": 14,
+      "rare": 1,
+      "star": 4,
+      "value": 6912
+    },
+    {
+      "exp": 2324,
+      "id": 435,
+      "rank": 15,
+      "rare": 1,
+      "star": 4,
+      "value": 7236
+    },
+    {
+      "exp": 2560,
+      "id": 436,
+      "rank": 16,
+      "rare": 1,
+      "star": 4,
+      "value": 7560
+    },
+    {
+      "exp": 2804,
+      "id": 437,
+      "rank": 17,
+      "rare": 1,
+      "star": 4,
+      "value": 7884
+    },
+    {
+      "exp": 3055,
+      "id": 438,
+      "rank": 18,
+      "rare": 1,
+      "star": 4,
+      "value": 8208
+    },
+    {
+      "exp": 3313,
+      "id": 439,
+      "rank": 19,
+      "rare": 1,
+      "star": 4,
+      "value": 8532
+    },
+    {
+      "exp": 3578,
+      "id": 440,
+      "rank": 20,
+      "rare": 1,
+      "star": 4,
+      "value": 8856
+    },
+    {
+      "exp": 3850,
+      "id": 441,
+      "rank": 21,
+      "rare": 1,
+      "star": 4,
+      "value": 9180
+    },
+    {
+      "exp": 4128,
+      "id": 442,
+      "rank": 22,
+      "rare": 1,
+      "star": 4,
+      "value": 9504
+    },
+    {
+      "exp": 4413,
+      "id": 443,
+      "rank": 23,
+      "rare": 1,
+      "star": 4,
+      "value": 9828
+    },
+    {
+      "exp": 4704,
+      "id": 444,
+      "rank": 24,
+      "rare": 1,
+      "star": 4,
+      "value": 10152
+    },
+    {
+      "exp": 5000,
+      "id": 445,
+      "rank": 25,
+      "rare": 1,
+      "star": 4,
+      "value": 10476
+    },
+    {
+      "exp": 5303,
+      "id": 446,
+      "rank": 26,
+      "rare": 1,
+      "star": 4,
+      "value": 10800
+    },
+    {
+      "exp": 5612,
+      "id": 447,
+      "rank": 27,
+      "rare": 1,
+      "star": 4,
+      "value": 11124
+    },
+    {
+      "exp": 5927,
+      "id": 448,
+      "rank": 28,
+      "rare": 1,
+      "star": 4,
+      "value": 11448
+    },
+    {
+      "exp": 6247,
+      "id": 449,
+      "rank": 29,
+      "rare": 1,
+      "star": 4,
+      "value": 11772
+    },
+    {
+      "exp": 6573,
+      "id": 450,
+      "rank": 30,
+      "rare": 1,
+      "star": 4,
+      "value": 12096
+    },
+    {
+      "exp": 6905,
+      "id": 451,
+      "rank": 31,
+      "rare": 1,
+      "star": 4,
+      "value": 12420
+    },
+    {
+      "exp": 7241,
+      "id": 452,
+      "rank": 32,
+      "rare": 1,
+      "star": 4,
+      "value": 12744
+    },
+    {
+      "exp": 7583,
+      "id": 453,
+      "rank": 33,
+      "rare": 1,
+      "star": 4,
+      "value": 13068
+    },
+    {
+      "exp": 7931,
+      "id": 454,
+      "rank": 34,
+      "rare": 1,
+      "star": 4,
+      "value": 13392
+    },
+    {
+      "exp": 8283,
+      "id": 455,
+      "rank": 35,
+      "rare": 1,
+      "star": 4,
+      "value": 13716
+    },
+    {
+      "exp": 8640,
+      "id": 456,
+      "rank": 36,
+      "rare": 1,
+      "star": 4,
+      "value": 14040
+    },
+    {
+      "exp": 9003,
+      "id": 457,
+      "rank": 37,
+      "rare": 1,
+      "star": 4,
+      "value": 14364
+    },
+    {
+      "exp": 9370,
+      "id": 458,
+      "rank": 38,
+      "rare": 1,
+      "star": 4,
+      "value": 14688
+    },
+    {
+      "exp": 9743,
+      "id": 459,
+      "rank": 39,
+      "rare": 1,
+      "star": 4,
+      "value": 15012
+    },
+    {
+      "exp": 10120,
+      "id": 460,
+      "rank": 40,
+      "rare": 1,
+      "star": 4,
+      "value": 15336
+    },
+    {
+      "exp": 10502,
+      "id": 461,
+      "rank": 41,
+      "rare": 1,
+      "star": 4,
+      "value": 15660
+    },
+    {
+      "exp": 10888,
+      "id": 462,
+      "rank": 42,
+      "rare": 1,
+      "star": 4,
+      "value": 15984
+    },
+    {
+      "exp": 11279,
+      "id": 463,
+      "rank": 43,
+      "rare": 1,
+      "star": 4,
+      "value": 16308
+    },
+    {
+      "exp": 11675,
+      "id": 464,
+      "rank": 44,
+      "rare": 1,
+      "star": 4,
+      "value": 16632
+    },
+    {
+      "exp": 12075,
+      "id": 465,
+      "rank": 45,
+      "rare": 1,
+      "star": 4,
+      "value": 16956
+    },
+    {
+      "exp": 12480,
+      "id": 466,
+      "rank": 46,
+      "rare": 1,
+      "star": 4,
+      "value": 17280
+    },
+    {
+      "exp": 12889,
+      "id": 467,
+      "rank": 47,
+      "rare": 1,
+      "star": 4,
+      "value": 17604
+    },
+    {
+      "exp": 13303,
+      "id": 468,
+      "rank": 48,
+      "rare": 1,
+      "star": 4,
+      "value": 17928
+    },
+    {
+      "exp": 13720,
+      "id": 469,
+      "rank": 49,
+      "rare": 1,
+      "star": 4,
+      "value": 18252
+    },
+    {
+      "exp": 0,
+      "id": 470,
+      "rank": 50,
+      "rare": 1,
+      "star": 4,
+      "value": 18576
+    },
+    {
+      "exp": 64,
+      "id": 471,
+      "rank": 1,
+      "rare": 2,
+      "star": 4,
+      "value": 6750
+    },
+    {
+      "exp": 195,
+      "id": 472,
+      "rank": 2,
+      "rare": 2,
+      "star": 4,
+      "value": 7425
+    },
+    {
+      "exp": 372,
+      "id": 473,
+      "rank": 3,
+      "rare": 2,
+      "star": 4,
+      "value": 8100
+    },
+    {
+      "exp": 589,
+      "id": 474,
+      "rank": 4,
+      "rare": 2,
+      "star": 4,
+      "value": 8775
+    },
+    {
+      "exp": 841,
+      "id": 475,
+      "rank": 5,
+      "rare": 2,
+      "star": 4,
+      "value": 9450
+    },
+    {
+      "exp": 1126,
+      "id": 476,
+      "rank": 6,
+      "rare": 2,
+      "star": 4,
+      "value": 10125
+    },
+    {
+      "exp": 1440,
+      "id": 477,
+      "rank": 7,
+      "rare": 2,
+      "star": 4,
+      "value": 10800
+    },
+    {
+      "exp": 1783,
+      "id": 478,
+      "rank": 8,
+      "rare": 2,
+      "star": 4,
+      "value": 11475
+    },
+    {
+      "exp": 2153,
+      "id": 479,
+      "rank": 9,
+      "rare": 2,
+      "star": 4,
+      "value": 12150
+    },
+    {
+      "exp": 2548,
+      "id": 480,
+      "rank": 10,
+      "rare": 2,
+      "star": 4,
+      "value": 12825
+    },
+    {
+      "exp": 2968,
+      "id": 481,
+      "rank": 11,
+      "rare": 2,
+      "star": 4,
+      "value": 13500
+    },
+    {
+      "exp": 3411,
+      "id": 482,
+      "rank": 12,
+      "rare": 2,
+      "star": 4,
+      "value": 14175
+    },
+    {
+      "exp": 3877,
+      "id": 483,
+      "rank": 13,
+      "rare": 2,
+      "star": 4,
+      "value": 14850
+    },
+    {
+      "exp": 4366,
+      "id": 484,
+      "rank": 14,
+      "rare": 2,
+      "star": 4,
+      "value": 15525
+    },
+    {
+      "exp": 4875,
+      "id": 485,
+      "rank": 15,
+      "rare": 2,
+      "star": 4,
+      "value": 16200
+    },
+    {
+      "exp": 5405,
+      "id": 486,
+      "rank": 16,
+      "rare": 2,
+      "star": 4,
+      "value": 16875
+    },
+    {
+      "exp": 5956,
+      "id": 487,
+      "rank": 17,
+      "rare": 2,
+      "star": 4,
+      "value": 17550
+    },
+    {
+      "exp": 6526,
+      "id": 488,
+      "rank": 18,
+      "rare": 2,
+      "star": 4,
+      "value": 18225
+    },
+    {
+      "exp": 7116,
+      "id": 489,
+      "rank": 19,
+      "rare": 2,
+      "star": 4,
+      "value": 18900
+    },
+    {
+      "exp": 7724,
+      "id": 490,
+      "rank": 20,
+      "rare": 2,
+      "star": 4,
+      "value": 19575
+    },
+    {
+      "exp": 8351,
+      "id": 491,
+      "rank": 21,
+      "rare": 2,
+      "star": 4,
+      "value": 20250
+    },
+    {
+      "exp": 8997,
+      "id": 492,
+      "rank": 22,
+      "rare": 2,
+      "star": 4,
+      "value": 20925
+    },
+    {
+      "exp": 9660,
+      "id": 493,
+      "rank": 23,
+      "rare": 2,
+      "star": 4,
+      "value": 21600
+    },
+    {
+      "exp": 10340,
+      "id": 494,
+      "rank": 24,
+      "rare": 2,
+      "star": 4,
+      "value": 22275
+    },
+    {
+      "exp": 11038,
+      "id": 495,
+      "rank": 25,
+      "rare": 2,
+      "star": 4,
+      "value": 22950
+    },
+    {
+      "exp": 11753,
+      "id": 496,
+      "rank": 26,
+      "rare": 2,
+      "star": 4,
+      "value": 23625
+    },
+    {
+      "exp": 12485,
+      "id": 497,
+      "rank": 27,
+      "rare": 2,
+      "star": 4,
+      "value": 24300
+    },
+    {
+      "exp": 13233,
+      "id": 498,
+      "rank": 28,
+      "rare": 2,
+      "star": 4,
+      "value": 24975
+    },
+    {
+      "exp": 13997,
+      "id": 499,
+      "rank": 29,
+      "rare": 2,
+      "star": 4,
+      "value": 25650
+    },
+    {
+      "exp": 14777,
+      "id": 500,
+      "rank": 30,
+      "rare": 2,
+      "star": 4,
+      "value": 26325
+    },
+    {
+      "exp": 15573,
+      "id": 501,
+      "rank": 31,
+      "rare": 2,
+      "star": 4,
+      "value": 27000
+    },
+    {
+      "exp": 16385,
+      "id": 502,
+      "rank": 32,
+      "rare": 2,
+      "star": 4,
+      "value": 27675
+    },
+    {
+      "exp": 17211,
+      "id": 503,
+      "rank": 33,
+      "rare": 2,
+      "star": 4,
+      "value": 28350
+    },
+    {
+      "exp": 18053,
+      "id": 504,
+      "rank": 34,
+      "rare": 2,
+      "star": 4,
+      "value": 29025
+    },
+    {
+      "exp": 18910,
+      "id": 505,
+      "rank": 35,
+      "rare": 2,
+      "star": 4,
+      "value": 29700
+    },
+    {
+      "exp": 19782,
+      "id": 506,
+      "rank": 36,
+      "rare": 2,
+      "star": 4,
+      "value": 30375
+    },
+    {
+      "exp": 20669,
+      "id": 507,
+      "rank": 37,
+      "rare": 2,
+      "star": 4,
+      "value": 31050
+    },
+    {
+      "exp": 21570,
+      "id": 508,
+      "rank": 38,
+      "rare": 2,
+      "star": 4,
+      "value": 31725
+    },
+    {
+      "exp": 22485,
+      "id": 509,
+      "rank": 39,
+      "rare": 2,
+      "star": 4,
+      "value": 32400
+    },
+    {
+      "exp": 0,
+      "id": 510,
+      "rank": 40,
+      "rare": 2,
+      "star": 4,
+      "value": 33075
+    },
+    {
+      "exp": 96,
+      "id": 511,
+      "rank": 1,
+      "rare": 3,
+      "star": 4,
+      "value": 16200
+    },
+    {
+      "exp": 312,
+      "id": 512,
+      "rank": 2,
+      "rare": 3,
+      "star": 4,
+      "value": 17496
+    },
+    {
+      "exp": 622,
+      "id": 513,
+      "rank": 3,
+      "rare": 3,
+      "star": 4,
+      "value": 18792
+    },
+    {
+      "exp": 1014,
+      "id": 514,
+      "rank": 4,
+      "rare": 3,
+      "star": 4,
+      "value": 20088
+    },
+    {
+      "exp": 1481,
+      "id": 515,
+      "rank": 5,
+      "rare": 3,
+      "star": 4,
+      "value": 21384
+    },
+    {
+      "exp": 2019,
+      "id": 516,
+      "rank": 6,
+      "rare": 3,
+      "star": 4,
+      "value": 22680
+    },
+    {
+      "exp": 2624,
+      "id": 517,
+      "rank": 7,
+      "rare": 3,
+      "star": 4,
+      "value": 23976
+    },
+    {
+      "exp": 3293,
+      "id": 518,
+      "rank": 8,
+      "rare": 3,
+      "star": 4,
+      "value": 25272
+    },
+    {
+      "exp": 4023,
+      "id": 519,
+      "rank": 9,
+      "rare": 3,
+      "star": 4,
+      "value": 26568
+    },
+    {
+      "exp": 4812,
+      "id": 520,
+      "rank": 10,
+      "rare": 3,
+      "star": 4,
+      "value": 27864
+    },
+    {
+      "exp": 5658,
+      "id": 521,
+      "rank": 11,
+      "rare": 3,
+      "star": 4,
+      "value": 29160
+    },
+    {
+      "exp": 6560,
+      "id": 522,
+      "rank": 12,
+      "rare": 3,
+      "star": 4,
+      "value": 30456
+    },
+    {
+      "exp": 7516,
+      "id": 523,
+      "rank": 13,
+      "rare": 3,
+      "star": 4,
+      "value": 31752
+    },
+    {
+      "exp": 8525,
+      "id": 524,
+      "rank": 14,
+      "rare": 3,
+      "star": 4,
+      "value": 33048
+    },
+    {
+      "exp": 9586,
+      "id": 525,
+      "rank": 15,
+      "rare": 3,
+      "star": 4,
+      "value": 34344
+    },
+    {
+      "exp": 10698,
+      "id": 526,
+      "rank": 16,
+      "rare": 3,
+      "star": 4,
+      "value": 35640
+    },
+    {
+      "exp": 11859,
+      "id": 527,
+      "rank": 17,
+      "rare": 3,
+      "star": 4,
+      "value": 36936
+    },
+    {
+      "exp": 13069,
+      "id": 528,
+      "rank": 18,
+      "rare": 3,
+      "star": 4,
+      "value": 38232
+    },
+    {
+      "exp": 14327,
+      "id": 529,
+      "rank": 19,
+      "rare": 3,
+      "star": 4,
+      "value": 39528
+    },
+    {
+      "exp": 15633,
+      "id": 530,
+      "rank": 20,
+      "rare": 3,
+      "star": 4,
+      "value": 40824
+    },
+    {
+      "exp": 16985,
+      "id": 531,
+      "rank": 21,
+      "rare": 3,
+      "star": 4,
+      "value": 42120
+    },
+    {
+      "exp": 18382,
+      "id": 532,
+      "rank": 22,
+      "rare": 3,
+      "star": 4,
+      "value": 43416
+    },
+    {
+      "exp": 19825,
+      "id": 533,
+      "rank": 23,
+      "rare": 3,
+      "star": 4,
+      "value": 44712
+    },
+    {
+      "exp": 21313,
+      "id": 534,
+      "rank": 24,
+      "rare": 3,
+      "star": 4,
+      "value": 46008
+    },
+    {
+      "exp": 22844,
+      "id": 535,
+      "rank": 25,
+      "rare": 3,
+      "star": 4,
+      "value": 47304
+    },
+    {
+      "exp": 24419,
+      "id": 536,
+      "rank": 26,
+      "rare": 3,
+      "star": 4,
+      "value": 48600
+    },
+    {
+      "exp": 26037,
+      "id": 537,
+      "rank": 27,
+      "rare": 3,
+      "star": 4,
+      "value": 49896
+    },
+    {
+      "exp": 27698,
+      "id": 538,
+      "rank": 28,
+      "rare": 3,
+      "star": 4,
+      "value": 51192
+    },
+    {
+      "exp": 29401,
+      "id": 539,
+      "rank": 29,
+      "rare": 3,
+      "star": 4,
+      "value": 52488
+    },
+    {
+      "exp": 0,
+      "id": 540,
+      "rank": 30,
+      "rare": 3,
+      "star": 4,
+      "value": 53784
+    },
+    {
+      "exp": 160,
+      "id": 541,
+      "rank": 1,
+      "rare": 4,
+      "star": 4,
+      "value": 40500
+    },
+    {
+      "exp": 558,
+      "id": 542,
+      "rank": 2,
+      "rare": 4,
+      "star": 4,
+      "value": 42930
+    },
+    {
+      "exp": 1156,
+      "id": 543,
+      "rank": 3,
+      "rare": 4,
+      "star": 4,
+      "value": 45360
+    },
+    {
+      "exp": 1941,
+      "id": 544,
+      "rank": 4,
+      "rare": 4,
+      "star": 4,
+      "value": 47790
+    },
+    {
+      "exp": 2900,
+      "id": 545,
+      "rank": 5,
+      "rare": 4,
+      "star": 4,
+      "value": 50220
+    },
+    {
+      "exp": 4026,
+      "id": 546,
+      "rank": 6,
+      "rare": 4,
+      "star": 4,
+      "value": 52650
+    },
+    {
+      "exp": 5313,
+      "id": 547,
+      "rank": 7,
+      "rare": 4,
+      "star": 4,
+      "value": 55080
+    },
+    {
+      "exp": 6756,
+      "id": 548,
+      "rank": 8,
+      "rare": 4,
+      "star": 4,
+      "value": 57510
+    },
+    {
+      "exp": 8352,
+      "id": 549,
+      "rank": 9,
+      "rare": 4,
+      "star": 4,
+      "value": 59940
+    },
+    {
+      "exp": 10096,
+      "id": 550,
+      "rank": 10,
+      "rare": 4,
+      "star": 4,
+      "value": 62370
+    },
+    {
+      "exp": 11985,
+      "id": 551,
+      "rank": 11,
+      "rare": 4,
+      "star": 4,
+      "value": 64800
+    },
+    {
+      "exp": 14017,
+      "id": 552,
+      "rank": 12,
+      "rare": 4,
+      "star": 4,
+      "value": 67230
+    },
+    {
+      "exp": 16189,
+      "id": 553,
+      "rank": 13,
+      "rare": 4,
+      "star": 4,
+      "value": 69660
+    },
+    {
+      "exp": 18500,
+      "id": 554,
+      "rank": 14,
+      "rare": 4,
+      "star": 4,
+      "value": 72090
+    },
+    {
+      "exp": 20946,
+      "id": 555,
+      "rank": 15,
+      "rare": 4,
+      "star": 4,
+      "value": 74520
+    },
+    {
+      "exp": 23526,
+      "id": 556,
+      "rank": 16,
+      "rare": 4,
+      "star": 4,
+      "value": 76950
+    },
+    {
+      "exp": 26238,
+      "id": 557,
+      "rank": 17,
+      "rare": 4,
+      "star": 4,
+      "value": 79380
+    },
+    {
+      "exp": 29082,
+      "id": 558,
+      "rank": 18,
+      "rare": 4,
+      "star": 4,
+      "value": 81810
+    },
+    {
+      "exp": 32054,
+      "id": 559,
+      "rank": 19,
+      "rare": 4,
+      "star": 4,
+      "value": 84240
+    },
+    {
+      "exp": 0,
+      "id": 560,
+      "rank": 20,
+      "rare": 4,
+      "star": 4,
+      "value": 86670
+    },
+    {
+      "exp": 75,
+      "id": 561,
+      "rank": 1,
+      "rare": 1,
+      "star": 5,
+      "value": 8000
+    },
+    {
+      "exp": 213,
+      "id": 562,
+      "rank": 2,
+      "rare": 1,
+      "star": 5,
+      "value": 8960
+    },
+    {
+      "exp": 390,
+      "id": 563,
+      "rank": 3,
+      "rare": 1,
+      "star": 5,
+      "value": 9920
+    },
+    {
+      "exp": 600,
+      "id": 564,
+      "rank": 4,
+      "rare": 1,
+      "star": 5,
+      "value": 10880
+    },
+    {
+      "exp": 839,
+      "id": 565,
+      "rank": 5,
+      "rare": 1,
+      "star": 5,
+      "value": 11840
+    },
+    {
+      "exp": 1103,
+      "id": 566,
+      "rank": 6,
+      "rare": 1,
+      "star": 5,
+      "value": 12800
+    },
+    {
+      "exp": 1390,
+      "id": 567,
+      "rank": 7,
+      "rare": 1,
+      "star": 5,
+      "value": 13760
+    },
+    {
+      "exp": 1698,
+      "id": 568,
+      "rank": 8,
+      "rare": 1,
+      "star": 5,
+      "value": 14720
+    },
+    {
+      "exp": 2025,
+      "id": 569,
+      "rank": 9,
+      "rare": 1,
+      "star": 5,
+      "value": 15680
+    },
+    {
+      "exp": 2372,
+      "id": 570,
+      "rank": 10,
+      "rare": 1,
+      "star": 5,
+      "value": 16640
+    },
+    {
+      "exp": 2737,
+      "id": 571,
+      "rank": 11,
+      "rare": 1,
+      "star": 5,
+      "value": 17600
+    },
+    {
+      "exp": 3118,
+      "id": 572,
+      "rank": 12,
+      "rare": 1,
+      "star": 5,
+      "value": 18560
+    },
+    {
+      "exp": 3516,
+      "id": 573,
+      "rank": 13,
+      "rare": 1,
+      "star": 5,
+      "value": 19520
+    },
+    {
+      "exp": 3929,
+      "id": 574,
+      "rank": 14,
+      "rare": 1,
+      "star": 5,
+      "value": 20480
+    },
+    {
+      "exp": 4358,
+      "id": 575,
+      "rank": 15,
+      "rare": 1,
+      "star": 5,
+      "value": 21440
+    },
+    {
+      "exp": 4800,
+      "id": 576,
+      "rank": 16,
+      "rare": 1,
+      "star": 5,
+      "value": 22400
+    },
+    {
+      "exp": 5257,
+      "id": 577,
+      "rank": 17,
+      "rare": 1,
+      "star": 5,
+      "value": 23360
+    },
+    {
+      "exp": 5728,
+      "id": 578,
+      "rank": 18,
+      "rare": 1,
+      "star": 5,
+      "value": 24320
+    },
+    {
+      "exp": 6212,
+      "id": 579,
+      "rank": 19,
+      "rare": 1,
+      "star": 5,
+      "value": 25280
+    },
+    {
+      "exp": 6709,
+      "id": 580,
+      "rank": 20,
+      "rare": 1,
+      "star": 5,
+      "value": 26240
+    },
+    {
+      "exp": 7218,
+      "id": 581,
+      "rank": 21,
+      "rare": 1,
+      "star": 5,
+      "value": 27200
+    },
+    {
+      "exp": 7740,
+      "id": 582,
+      "rank": 22,
+      "rare": 1,
+      "star": 5,
+      "value": 28160
+    },
+    {
+      "exp": 8273,
+      "id": 583,
+      "rank": 23,
+      "rare": 1,
+      "star": 5,
+      "value": 29120
+    },
+    {
+      "exp": 8819,
+      "id": 584,
+      "rank": 24,
+      "rare": 1,
+      "star": 5,
+      "value": 30080
+    },
+    {
+      "exp": 9375,
+      "id": 585,
+      "rank": 25,
+      "rare": 1,
+      "star": 5,
+      "value": 31040
+    },
+    {
+      "exp": 9944,
+      "id": 586,
+      "rank": 26,
+      "rare": 1,
+      "star": 5,
+      "value": 32000
+    },
+    {
+      "exp": 10523,
+      "id": 587,
+      "rank": 27,
+      "rare": 1,
+      "star": 5,
+      "value": 32960
+    },
+    {
+      "exp": 11113,
+      "id": 588,
+      "rank": 28,
+      "rare": 1,
+      "star": 5,
+      "value": 33920
+    },
+    {
+      "exp": 11713,
+      "id": 589,
+      "rank": 29,
+      "rare": 1,
+      "star": 5,
+      "value": 34880
+    },
+    {
+      "exp": 12324,
+      "id": 590,
+      "rank": 30,
+      "rare": 1,
+      "star": 5,
+      "value": 35840
+    },
+    {
+      "exp": 12946,
+      "id": 591,
+      "rank": 31,
+      "rare": 1,
+      "star": 5,
+      "value": 36800
+    },
+    {
+      "exp": 13577,
+      "id": 592,
+      "rank": 32,
+      "rare": 1,
+      "star": 5,
+      "value": 37760
+    },
+    {
+      "exp": 14218,
+      "id": 593,
+      "rank": 33,
+      "rare": 1,
+      "star": 5,
+      "value": 38720
+    },
+    {
+      "exp": 14869,
+      "id": 594,
+      "rank": 34,
+      "rare": 1,
+      "star": 5,
+      "value": 39680
+    },
+    {
+      "exp": 15530,
+      "id": 595,
+      "rank": 35,
+      "rare": 1,
+      "star": 5,
+      "value": 40640
+    },
+    {
+      "exp": 16200,
+      "id": 596,
+      "rank": 36,
+      "rare": 1,
+      "star": 5,
+      "value": 41600
+    },
+    {
+      "exp": 16880,
+      "id": 597,
+      "rank": 37,
+      "rare": 1,
+      "star": 5,
+      "value": 42560
+    },
+    {
+      "exp": 17569,
+      "id": 598,
+      "rank": 38,
+      "rare": 1,
+      "star": 5,
+      "value": 43520
+    },
+    {
+      "exp": 18267,
+      "id": 599,
+      "rank": 39,
+      "rare": 1,
+      "star": 5,
+      "value": 44480
+    },
+    {
+      "exp": 18974,
+      "id": 600,
+      "rank": 40,
+      "rare": 1,
+      "star": 5,
+      "value": 45440
+    },
+    {
+      "exp": 19690,
+      "id": 601,
+      "rank": 41,
+      "rare": 1,
+      "star": 5,
+      "value": 46400
+    },
+    {
+      "exp": 20415,
+      "id": 602,
+      "rank": 42,
+      "rare": 1,
+      "star": 5,
+      "value": 47360
+    },
+    {
+      "exp": 21148,
+      "id": 603,
+      "rank": 43,
+      "rare": 1,
+      "star": 5,
+      "value": 48320
+    },
+    {
+      "exp": 21890,
+      "id": 604,
+      "rank": 44,
+      "rare": 1,
+      "star": 5,
+      "value": 49280
+    },
+    {
+      "exp": 22641,
+      "id": 605,
+      "rank": 45,
+      "rare": 1,
+      "star": 5,
+      "value": 50240
+    },
+    {
+      "exp": 23400,
+      "id": 606,
+      "rank": 46,
+      "rare": 1,
+      "star": 5,
+      "value": 51200
+    },
+    {
+      "exp": 24167,
+      "id": 607,
+      "rank": 47,
+      "rare": 1,
+      "star": 5,
+      "value": 52160
+    },
+    {
+      "exp": 24942,
+      "id": 608,
+      "rank": 48,
+      "rare": 1,
+      "star": 5,
+      "value": 53120
+    },
+    {
+      "exp": 25725,
+      "id": 609,
+      "rank": 49,
+      "rare": 1,
+      "star": 5,
+      "value": 54080
+    },
+    {
+      "exp": 0,
+      "id": 610,
+      "rank": 50,
+      "rare": 1,
+      "star": 5,
+      "value": 55040
+    },
+    {
+      "exp": 120,
+      "id": 611,
+      "rank": 1,
+      "rare": 2,
+      "star": 5,
+      "value": 20000
+    },
+    {
+      "exp": 364,
+      "id": 612,
+      "rank": 2,
+      "rare": 2,
+      "star": 5,
+      "value": 22000
+    },
+    {
+      "exp": 696,
+      "id": 613,
+      "rank": 3,
+      "rare": 2,
+      "star": 5,
+      "value": 24000
+    },
+    {
+      "exp": 1103,
+      "id": 614,
+      "rank": 4,
+      "rare": 2,
+      "star": 5,
+      "value": 26000
+    },
+    {
+      "exp": 1576,
+      "id": 615,
+      "rank": 5,
+      "rare": 2,
+      "star": 5,
+      "value": 28000
+    },
+    {
+      "exp": 2110,
+      "id": 616,
+      "rank": 6,
+      "rare": 2,
+      "star": 5,
+      "value": 30000
+    },
+    {
+      "exp": 2700,
+      "id": 617,
+      "rank": 7,
+      "rare": 2,
+      "star": 5,
+      "value": 32000
+    },
+    {
+      "exp": 3343,
+      "id": 618,
+      "rank": 8,
+      "rare": 2,
+      "star": 5,
+      "value": 34000
+    },
+    {
+      "exp": 4037,
+      "id": 619,
+      "rank": 9,
+      "rare": 2,
+      "star": 5,
+      "value": 36000
+    },
+    {
+      "exp": 4778,
+      "id": 620,
+      "rank": 10,
+      "rare": 2,
+      "star": 5,
+      "value": 38000
+    },
+    {
+      "exp": 5565,
+      "id": 621,
+      "rank": 11,
+      "rare": 2,
+      "star": 5,
+      "value": 40000
+    },
+    {
+      "exp": 6396,
+      "id": 622,
+      "rank": 12,
+      "rare": 2,
+      "star": 5,
+      "value": 42000
+    },
+    {
+      "exp": 7270,
+      "id": 623,
+      "rank": 13,
+      "rare": 2,
+      "star": 5,
+      "value": 44000
+    },
+    {
+      "exp": 8185,
+      "id": 624,
+      "rank": 14,
+      "rare": 2,
+      "star": 5,
+      "value": 46000
+    },
+    {
+      "exp": 9140,
+      "id": 625,
+      "rank": 15,
+      "rare": 2,
+      "star": 5,
+      "value": 48000
+    },
+    {
+      "exp": 10134,
+      "id": 626,
+      "rank": 16,
+      "rare": 2,
+      "star": 5,
+      "value": 50000
+    },
+    {
+      "exp": 11167,
+      "id": 627,
+      "rank": 17,
+      "rare": 2,
+      "star": 5,
+      "value": 52000
+    },
+    {
+      "exp": 12236,
+      "id": 628,
+      "rank": 18,
+      "rare": 2,
+      "star": 5,
+      "value": 54000
+    },
+    {
+      "exp": 13341,
+      "id": 629,
+      "rank": 19,
+      "rare": 2,
+      "star": 5,
+      "value": 56000
+    },
+    {
+      "exp": 14483,
+      "id": 630,
+      "rank": 20,
+      "rare": 2,
+      "star": 5,
+      "value": 58000
+    },
+    {
+      "exp": 15658,
+      "id": 631,
+      "rank": 21,
+      "rare": 2,
+      "star": 5,
+      "value": 60000
+    },
+    {
+      "exp": 16868,
+      "id": 632,
+      "rank": 22,
+      "rare": 2,
+      "star": 5,
+      "value": 62000
+    },
+    {
+      "exp": 18112,
+      "id": 633,
+      "rank": 23,
+      "rare": 2,
+      "star": 5,
+      "value": 64000
+    },
+    {
+      "exp": 19388,
+      "id": 634,
+      "rank": 24,
+      "rare": 2,
+      "star": 5,
+      "value": 66000
+    },
+    {
+      "exp": 20696,
+      "id": 635,
+      "rank": 25,
+      "rare": 2,
+      "star": 5,
+      "value": 68000
+    },
+    {
+      "exp": 22037,
+      "id": 636,
+      "rank": 26,
+      "rare": 2,
+      "star": 5,
+      "value": 70000
+    },
+    {
+      "exp": 23408,
+      "id": 637,
+      "rank": 27,
+      "rare": 2,
+      "star": 5,
+      "value": 72000
+    },
+    {
+      "exp": 24811,
+      "id": 638,
+      "rank": 28,
+      "rare": 2,
+      "star": 5,
+      "value": 74000
+    },
+    {
+      "exp": 26244,
+      "id": 639,
+      "rank": 29,
+      "rare": 2,
+      "star": 5,
+      "value": 76000
+    },
+    {
+      "exp": 27707,
+      "id": 640,
+      "rank": 30,
+      "rare": 2,
+      "star": 5,
+      "value": 78000
+    },
+    {
+      "exp": 29199,
+      "id": 641,
+      "rank": 31,
+      "rare": 2,
+      "star": 5,
+      "value": 80000
+    },
+    {
+      "exp": 30721,
+      "id": 642,
+      "rank": 32,
+      "rare": 2,
+      "star": 5,
+      "value": 82000
+    },
+    {
+      "exp": 32271,
+      "id": 643,
+      "rank": 33,
+      "rare": 2,
+      "star": 5,
+      "value": 84000
+    },
+    {
+      "exp": 33850,
+      "id": 644,
+      "rank": 34,
+      "rare": 2,
+      "star": 5,
+      "value": 86000
+    },
+    {
+      "exp": 35457,
+      "id": 645,
+      "rank": 35,
+      "rare": 2,
+      "star": 5,
+      "value": 88000
+    },
+    {
+      "exp": 37091,
+      "id": 646,
+      "rank": 36,
+      "rare": 2,
+      "star": 5,
+      "value": 90000
+    },
+    {
+      "exp": 38753,
+      "id": 647,
+      "rank": 37,
+      "rare": 2,
+      "star": 5,
+      "value": 92000
+    },
+    {
+      "exp": 40443,
+      "id": 648,
+      "rank": 38,
+      "rare": 2,
+      "star": 5,
+      "value": 94000
+    },
+    {
+      "exp": 42159,
+      "id": 649,
+      "rank": 39,
+      "rare": 2,
+      "star": 5,
+      "value": 96000
+    },
+    {
+      "exp": 0,
+      "id": 650,
+      "rank": 40,
+      "rare": 2,
+      "star": 5,
+      "value": 98000
+    },
+    {
+      "exp": 180,
+      "id": 651,
+      "rank": 1,
+      "rare": 3,
+      "star": 5,
+      "value": 48000
+    },
+    {
+      "exp": 585,
+      "id": 652,
+      "rank": 2,
+      "rare": 3,
+      "star": 5,
+      "value": 51840
+    },
+    {
+      "exp": 1166,
+      "id": 653,
+      "rank": 3,
+      "rare": 3,
+      "star": 5,
+      "value": 55680
+    },
+    {
+      "exp": 1901,
+      "id": 654,
+      "rank": 4,
+      "rare": 3,
+      "star": 5,
+      "value": 59520
+    },
+    {
+      "exp": 2777,
+      "id": 655,
+      "rank": 5,
+      "rare": 3,
+      "star": 5,
+      "value": 63360
+    },
+    {
+      "exp": 3786,
+      "id": 656,
+      "rank": 6,
+      "rare": 3,
+      "star": 5,
+      "value": 67200
+    },
+    {
+      "exp": 4920,
+      "id": 657,
+      "rank": 7,
+      "rare": 3,
+      "star": 5,
+      "value": 71040
+    },
+    {
+      "exp": 6174,
+      "id": 658,
+      "rank": 8,
+      "rare": 3,
+      "star": 5,
+      "value": 74880
+    },
+    {
+      "exp": 7542,
+      "id": 659,
+      "rank": 9,
+      "rare": 3,
+      "star": 5,
+      "value": 78720
+    },
+    {
+      "exp": 9022,
+      "id": 660,
+      "rank": 10,
+      "rare": 3,
+      "star": 5,
+      "value": 82560
+    },
+    {
+      "exp": 10609,
+      "id": 661,
+      "rank": 11,
+      "rare": 3,
+      "star": 5,
+      "value": 86400
+    },
+    {
+      "exp": 12300,
+      "id": 662,
+      "rank": 12,
+      "rare": 3,
+      "star": 5,
+      "value": 90240
+    },
+    {
+      "exp": 14093,
+      "id": 663,
+      "rank": 13,
+      "rare": 3,
+      "star": 5,
+      "value": 94080
+    },
+    {
+      "exp": 15985,
+      "id": 664,
+      "rank": 14,
+      "rare": 3,
+      "star": 5,
+      "value": 97920
+    },
+    {
+      "exp": 17974,
+      "id": 665,
+      "rank": 15,
+      "rare": 3,
+      "star": 5,
+      "value": 101760
+    },
+    {
+      "exp": 20058,
+      "id": 666,
+      "rank": 16,
+      "rare": 3,
+      "star": 5,
+      "value": 105600
+    },
+    {
+      "exp": 22235,
+      "id": 667,
+      "rank": 17,
+      "rare": 3,
+      "star": 5,
+      "value": 109440
+    },
+    {
+      "exp": 24504,
+      "id": 668,
+      "rank": 18,
+      "rare": 3,
+      "star": 5,
+      "value": 113280
+    },
+    {
+      "exp": 26863,
+      "id": 669,
+      "rank": 19,
+      "rare": 3,
+      "star": 5,
+      "value": 117120
+    },
+    {
+      "exp": 29311,
+      "id": 670,
+      "rank": 20,
+      "rare": 3,
+      "star": 5,
+      "value": 120960
+    },
+    {
+      "exp": 31846,
+      "id": 671,
+      "rank": 21,
+      "rare": 3,
+      "star": 5,
+      "value": 124800
+    },
+    {
+      "exp": 34467,
+      "id": 672,
+      "rank": 22,
+      "rare": 3,
+      "star": 5,
+      "value": 128640
+    },
+    {
+      "exp": 37172,
+      "id": 673,
+      "rank": 23,
+      "rare": 3,
+      "star": 5,
+      "value": 132480
+    },
+    {
+      "exp": 39961,
+      "id": 674,
+      "rank": 24,
+      "rare": 3,
+      "star": 5,
+      "value": 136320
+    },
+    {
+      "exp": 42833,
+      "id": 675,
+      "rank": 25,
+      "rare": 3,
+      "star": 5,
+      "value": 140160
+    },
+    {
+      "exp": 45786,
+      "id": 676,
+      "rank": 26,
+      "rare": 3,
+      "star": 5,
+      "value": 144000
+    },
+    {
+      "exp": 48820,
+      "id": 677,
+      "rank": 27,
+      "rare": 3,
+      "star": 5,
+      "value": 147840
+    },
+    {
+      "exp": 51933,
+      "id": 678,
+      "rank": 28,
+      "rare": 3,
+      "star": 5,
+      "value": 151680
+    },
+    {
+      "exp": 55126,
+      "id": 679,
+      "rank": 29,
+      "rare": 3,
+      "star": 5,
+      "value": 155520
+    },
+    {
+      "exp": 0,
+      "id": 680,
+      "rank": 30,
+      "rare": 3,
+      "star": 5,
+      "value": 159360
+    },
+    {
+      "exp": 300,
+      "id": 681,
+      "rank": 1,
+      "rare": 4,
+      "star": 5,
+      "value": 120000
+    },
+    {
+      "exp": 1045,
+      "id": 682,
+      "rank": 2,
+      "rare": 4,
+      "star": 5,
+      "value": 127200
+    },
+    {
+      "exp": 2168,
+      "id": 683,
+      "rank": 3,
+      "rare": 4,
+      "star": 5,
+      "value": 134400
+    },
+    {
+      "exp": 3638,
+      "id": 684,
+      "rank": 4,
+      "rare": 4,
+      "star": 5,
+      "value": 141600
+    },
+    {
+      "exp": 5436,
+      "id": 685,
+      "rank": 5,
+      "rare": 4,
+      "star": 5,
+      "value": 148800
+    },
+    {
+      "exp": 7548,
+      "id": 686,
+      "rank": 6,
+      "rare": 4,
+      "star": 5,
+      "value": 156000
+    },
+    {
+      "exp": 9961,
+      "id": 687,
+      "rank": 7,
+      "rare": 4,
+      "star": 5,
+      "value": 163200
+    },
+    {
+      "exp": 12668,
+      "id": 688,
+      "rank": 8,
+      "rare": 4,
+      "star": 5,
+      "value": 170400
+    },
+    {
+      "exp": 15659,
+      "id": 689,
+      "rank": 9,
+      "rare": 4,
+      "star": 5,
+      "value": 177600
+    },
+    {
+      "exp": 18929,
+      "id": 690,
+      "rank": 10,
+      "rare": 4,
+      "star": 5,
+      "value": 184800
+    },
+    {
+      "exp": 22472,
+      "id": 691,
+      "rank": 11,
+      "rare": 4,
+      "star": 5,
+      "value": 192000
+    },
+    {
+      "exp": 26282,
+      "id": 692,
+      "rank": 12,
+      "rare": 4,
+      "star": 5,
+      "value": 199200
+    },
+    {
+      "exp": 30355,
+      "id": 693,
+      "rank": 13,
+      "rare": 4,
+      "star": 5,
+      "value": 206400
+    },
+    {
+      "exp": 34686,
+      "id": 694,
+      "rank": 14,
+      "rare": 4,
+      "star": 5,
+      "value": 213600
+    },
+    {
+      "exp": 39273,
+      "id": 695,
+      "rank": 15,
+      "rare": 4,
+      "star": 5,
+      "value": 220800
+    },
+    {
+      "exp": 44111,
+      "id": 696,
+      "rank": 16,
+      "rare": 4,
+      "star": 5,
+      "value": 228000
+    },
+    {
+      "exp": 49196,
+      "id": 697,
+      "rank": 17,
+      "rare": 4,
+      "star": 5,
+      "value": 235200
+    },
+    {
+      "exp": 54528,
+      "id": 698,
+      "rank": 18,
+      "rare": 4,
+      "star": 5,
+      "value": 242400
+    },
+    {
+      "exp": 60101,
+      "id": 699,
+      "rank": 19,
+      "rare": 4,
+      "star": 5,
+      "value": 249600
+    },
+    {
+      "exp": 0,
+      "id": 700,
+      "rank": 20,
+      "rare": 4,
+      "star": 5,
+      "value": 256800
+    }
+  ]
+}

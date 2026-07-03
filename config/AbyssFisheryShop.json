@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "des": "描述1",
+      "name": "装饰1",
+      "functiontype": 1,
+      "functionvalue": 20,
+      "id": 1,
+      "price": 100,
+      "subtype": 1,
+      "type": 1
+    },
+    {
+      "des": "描述2",
+      "name": "装饰2",
+      "functiontype": 1,
+      "functionvalue": 30,
+      "id": 2,
+      "price": 101,
+      "subtype": 1,
+      "type": 1
+    },
+    {
+      "des": "描述3",
+      "name": "装饰3",
+      "functiontype": 2,
+      "functionvalue": 1,
+      "id": 3,
+      "price": 102,
+      "subtype": 2,
+      "type": 1
+    },
+    {
+      "des": "描述4",
+      "name": "装饰4",
+      "functiontype": 3,
+      "functionvalue": 2,
+      "id": 4,
+      "price": 103,
+      "subtype": 3,
+      "type": 1
+    },
+    {
+      "des": "描述5",
+      "name": "装饰5",
+      "functiontype": 3,
+      "functionvalue": 2,
+      "id": 5,
+      "price": 104,
+      "subtype": 4,
+      "type": 1
+    },
+    {
+      "des": "描述6",
+      "name": "装饰6",
+      "functiontype": 3,
+      "functionvalue": 2,
+      "id": 6,
+      "price": 105,
+      "subtype": 5,
+      "type": 1
+    },
+    {
+      "des": "描述7",
+      "name": "点击1",
+      "functiontype": 4,
+      "functionvalue": 1,
+      "id": 101,
+      "price": 106,
+      "subtype": 0,
+      "type": 3
+    },
+    {
+      "des": "描述8",
+      "name": "点击2",
+      "functiontype": 4,
+      "functionvalue": 5,
+      "id": 102,
+      "price": 107,
+      "subtype": 0,
+      "type": 3
+    },
+    {
+      "des": "描述9",
+      "name": "点击3",
+      "functiontype": 4,
+      "functionvalue": 10,
+      "id": 103,
+      "price": 108,
+      "subtype": 0,
+      "type": 3
+    },
+    {
+      "des": "描述10",
+      "name": "点击4",
+      "functiontype": 4,
+      "functionvalue": 15,
+      "id": 104,
+      "price": 109,
+      "subtype": 0,
+      "type": 3
+    },
+    {
+      "des": "描述11",
+      "name": "抽卡1",
+      "functiontype": 0,
+      "functionvalue": 0,
+      "id": 1001,
+      "price": 110,
+      "subtype": 0,
+      "type": 2
+    },
+    {
+      "des": "描述12",
+      "name": "抽卡2",
+      "functiontype": 0,
+      "functionvalue": 0,
+      "id": 1002,
+      "price": 111,
+      "subtype": 0,
+      "type": 2
+    },
+    {
+      "des": "描述13",
+      "name": "抽卡3",
+      "functiontype": 0,
+      "functionvalue": 0,
+      "id": 1003,
+      "price": 112,
+      "subtype": 0,
+      "type": 2
+    },
+    {
+      "des": "描述14",
+      "name": "抽卡4",
+      "functiontype": 0,
+      "functionvalue": 0,
+      "id": 1004,
+      "price": 113,
+      "subtype": 0,
+      "type": 2
+    },
+    {
+      "des": "描述15",
+      "name": "抽卡5",
+      "functiontype": 0,
+      "functionvalue": 0,
+      "id": 1005,
+      "price": 114,
+      "subtype": 0,
+      "type": 2
+    }
+  ]
+}

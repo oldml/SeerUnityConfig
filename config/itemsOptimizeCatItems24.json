@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "Name": "影行者因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400584,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "环·回响因子",
       "catID": 24,
       "Hide": 0,

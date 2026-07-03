@@ -174,9 +174,9 @@
           "shopkind": 1
         },
         {
-          "productName": "鬼剑罗刹",
+          "productName": "墨甲·霸下",
           "productID": [
-            3923,
+            2791,
             34174,
             5566,
             41817
@@ -187,13 +187,13 @@
           "forever": 125053,
           "ID": 10002,
           "Opentime": 20260102,
-          "productPrice": 40,
+          "productPrice": 15,
           "shopkind": 1
         },
         {
-          "productName": "德马斯克",
+          "productName": "晶甲·暴岩",
           "productID": [
-            3653,
+            2799,
             34174,
             5566,
             41817
@@ -204,7 +204,7 @@
           "forever": 125054,
           "ID": 10003,
           "Opentime": 20260102,
-          "productPrice": 40,
+          "productPrice": 15,
           "shopkind": 1
         },
         {
@@ -263,81 +263,6 @@
           "exchangeId": 13729,
           "forever": 0,
           "ID": 20242,
-          "Opentime": 20220114,
-          "productPrice": 1,
-          "shopkind": 5
-        },
-        {
-          "productName": "怨恚魂王因子*40",
-          "productID": [
-            2400506,
-            3785
-          ],
-          "batch": 20,
-          "Endtime": 20261231,
-          "exchangeId": 14007,
-          "forever": 0,
-          "ID": 20248,
-          "Opentime": 20220114,
-          "productPrice": 1,
-          "shopkind": 5
-        },
-        {
-          "productName": "米修莉因子*35",
-          "productID": [
-            2400509,
-            3700
-          ],
-          "batch": 20,
-          "Endtime": 20261231,
-          "exchangeId": 14010,
-          "forever": 0,
-          "ID": 20251,
-          "Opentime": 20220114,
-          "productPrice": 1,
-          "shopkind": 5
-        },
-        {
-          "productName": "糖果儿因子*35",
-          "productID": [
-            2400510,
-            3712
-          ],
-          "batch": 20,
-          "Endtime": 20261231,
-          "exchangeId": 14011,
-          "forever": 0,
-          "ID": 20252,
-          "Opentime": 20220114,
-          "productPrice": 1,
-          "shopkind": 5
-        },
-        {
-          "productName": "狐小媚因子*35",
-          "productID": [
-            2400511,
-            3717
-          ],
-          "batch": 20,
-          "Endtime": 20261231,
-          "exchangeId": 14012,
-          "forever": 0,
-          "ID": 20253,
-          "Opentime": 20220114,
-          "productPrice": 1,
-          "shopkind": 5
-        },
-        {
-          "productName": "苍天歌因子*35",
-          "productID": [
-            2400512,
-            3735
-          ],
-          "batch": 20,
-          "Endtime": 20261231,
-          "exchangeId": 14013,
-          "forever": 0,
-          "ID": 20254,
           "Opentime": 20220114,
           "productPrice": 1,
           "shopkind": 5
@@ -793,9 +718,9 @@
           "shopkind": 5
         }
       ],
-      "Endday": "7/3",
-      "Endtime": "2026/7/3",
-      "Openday": "5/22"
+      "Endday": "8/7",
+      "Endtime": "2026/8/7",
+      "Openday": "7/3"
     }
   }
 }

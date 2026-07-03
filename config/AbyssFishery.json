@@ -1,0 +1,404 @@
+{
+  "data": [
+    {
+      "des": "描述1",
+      "name": "利牙鱼",
+      "gameid": 33,
+      "id": 1,
+      "rare": 1,
+      "scale": 1,
+      "showtype": 1,
+      "star": 1
+    },
+    {
+      "des": "描述2",
+      "name": "贝尔",
+      "gameid": 30,
+      "id": 2,
+      "rare": 1,
+      "scale": 1,
+      "showtype": 2,
+      "star": 1
+    },
+    {
+      "des": "描述3",
+      "name": "小鳍鱼",
+      "gameid": 198,
+      "id": 3,
+      "rare": 1,
+      "scale": 1,
+      "showtype": 1,
+      "star": 1
+    },
+    {
+      "des": "描述4",
+      "name": "伊优",
+      "gameid": 4,
+      "id": 4,
+      "rare": 2,
+      "scale": 1,
+      "showtype": 2,
+      "star": 1
+    },
+    {
+      "des": "描述5",
+      "name": "约西",
+      "gameid": 298,
+      "id": 5,
+      "rare": 2,
+      "scale": 1,
+      "showtype": 1,
+      "star": 1
+    },
+    {
+      "des": "描述6",
+      "name": "约西",
+      "gameid": 298,
+      "id": 6,
+      "rare": 3,
+      "scale": 1,
+      "showtype": 1,
+      "star": 1
+    },
+    {
+      "des": "描述7",
+      "name": "约西",
+      "gameid": 298,
+      "id": 7,
+      "rare": 3,
+      "scale": 1,
+      "showtype": 1,
+      "star": 1
+    },
+    {
+      "des": "描述8",
+      "name": "约西",
+      "gameid": 298,
+      "id": 8,
+      "rare": 4,
+      "scale": 1,
+      "showtype": 1,
+      "star": 1
+    },
+    {
+      "des": "描述9",
+      "name": "约西",
+      "gameid": 298,
+      "id": 9,
+      "rare": 1,
+      "scale": 1,
+      "showtype": 1,
+      "star": 2
+    },
+    {
+      "des": "描述10",
+      "name": "约西",
+      "gameid": 298,
+      "id": 10,
+      "rare": 1,
+      "scale": 1,
+      "showtype": 1,
+      "star": 2
+    },
+    {
+      "des": "描述11",
+      "name": "约西",
+      "gameid": 298,
+      "id": 11,
+      "rare": 1,
+      "scale": 1,
+      "showtype": 1,
+      "star": 2
+    },
+    {
+      "des": "描述12",
+      "name": "约西",
+      "gameid": 298,
+      "id": 12,
+      "rare": 2,
+      "scale": 1,
+      "showtype": 1,
+      "star": 2
+    },
+    {
+      "des": "描述13",
+      "name": "约西",
+      "gameid": 298,
+      "id": 13,
+      "rare": 2,
+      "scale": 1,
+      "showtype": 1,
+      "star": 2
+    },
+    {
+      "des": "描述14",
+      "name": "约西",
+      "gameid": 298,
+      "id": 14,
+      "rare": 3,
+      "scale": 1,
+      "showtype": 1,
+      "star": 2
+    },
+    {
+      "des": "描述15",
+      "name": "约西",
+      "gameid": 298,
+      "id": 15,
+      "rare": 3,
+      "scale": 1,
+      "showtype": 1,
+      "star": 2
+    },
+    {
+      "des": "描述16",
+      "name": "约西",
+      "gameid": 298,
+      "id": 16,
+      "rare": 4,
+      "scale": 1,
+      "showtype": 1,
+      "star": 2
+    },
+    {
+      "des": "描述17",
+      "name": "约西",
+      "gameid": 298,
+      "id": 17,
+      "rare": 1,
+      "scale": 1,
+      "showtype": 1,
+      "star": 3
+    },
+    {
+      "des": "描述18",
+      "name": "约西",
+      "gameid": 298,
+      "id": 18,
+      "rare": 1,
+      "scale": 1,
+      "showtype": 1,
+      "star": 3
+    },
+    {
+      "des": "描述19",
+      "name": "约西",
+      "gameid": 298,
+      "id": 19,
+      "rare": 1,
+      "scale": 1,
+      "showtype": 1,
+      "star": 3
+    },
+    {
+      "des": "描述20",
+      "name": "约西",
+      "gameid": 298,
+      "id": 20,
+      "rare": 2,
+      "scale": 1,
+      "showtype": 1,
+      "star": 3
+    },
+    {
+      "des": "描述21",
+      "name": "约西",
+      "gameid": 298,
+      "id": 21,
+      "rare": 2,
+      "scale": 1,
+      "showtype": 1,
+      "star": 3
+    },
+    {
+      "des": "描述22",
+      "name": "约西",
+      "gameid": 298,
+      "id": 22,
+      "rare": 3,
+      "scale": 1,
+      "showtype": 1,
+      "star": 3
+    },
+    {
+      "des": "描述23",
+      "name": "约西",
+      "gameid": 298,
+      "id": 23,
+      "rare": 3,
+      "scale": 1,
+      "showtype": 1,
+      "star": 3
+    },
+    {
+      "des": "描述24",
+      "name": "约西",
+      "gameid": 298,
+      "id": 24,
+      "rare": 4,
+      "scale": 1,
+      "showtype": 1,
+      "star": 3
+    },
+    {
+      "des": "描述25",
+      "name": "约西",
+      "gameid": 298,
+      "id": 25,
+      "rare": 1,
+      "scale": 1,
+      "showtype": 1,
+      "star": 4
+    },
+    {
+      "des": "描述26",
+      "name": "约西",
+      "gameid": 298,
+      "id": 26,
+      "rare": 1,
+      "scale": 1,
+      "showtype": 1,
+      "star": 4
+    },
+    {
+      "des": "描述27",
+      "name": "约西",
+      "gameid": 298,
+      "id": 27,
+      "rare": 1,
+      "scale": 1,
+      "showtype": 1,
+      "star": 4
+    },
+    {
+      "des": "描述28",
+      "name": "约西",
+      "gameid": 298,
+      "id": 28,
+      "rare": 2,
+      "scale": 1,
+      "showtype": 1,
+      "star": 4
+    },
+    {
+      "des": "描述29",
+      "name": "约西",
+      "gameid": 298,
+      "id": 29,
+      "rare": 2,
+      "scale": 1,
+      "showtype": 1,
+      "star": 4
+    },
+    {
+      "des": "描述30",
+      "name": "约西",
+      "gameid": 298,
+      "id": 30,
+      "rare": 3,
+      "scale": 1,
+      "showtype": 1,
+      "star": 4
+    },
+    {
+      "des": "描述31",
+      "name": "约西",
+      "gameid": 298,
+      "id": 31,
+      "rare": 3,
+      "scale": 1,
+      "showtype": 1,
+      "star": 4
+    },
+    {
+      "des": "描述32",
+      "name": "约西",
+      "gameid": 298,
+      "id": 32,
+      "rare": 4,
+      "scale": 1,
+      "showtype": 1,
+      "star": 4
+    },
+    {
+      "des": "描述33",
+      "name": "约西",
+      "gameid": 298,
+      "id": 33,
+      "rare": 1,
+      "scale": 1,
+      "showtype": 1,
+      "star": 5
+    },
+    {
+      "des": "描述34",
+      "name": "约西",
+      "gameid": 298,
+      "id": 34,
+      "rare": 1,
+      "scale": 1,
+      "showtype": 1,
+      "star": 5
+    },
+    {
+      "des": "描述35",
+      "name": "约西",
+      "gameid": 298,
+      "id": 35,
+      "rare": 1,
+      "scale": 1,
+      "showtype": 1,
+      "star": 5
+    },
+    {
+      "des": "描述36",
+      "name": "约西",
+      "gameid": 298,
+      "id": 36,
+      "rare": 2,
+      "scale": 1,
+      "showtype": 1,
+      "star": 5
+    },
+    {
+      "des": "描述37",
+      "name": "约西",
+      "gameid": 298,
+      "id": 37,
+      "rare": 2,
+      "scale": 1,
+      "showtype": 1,
+      "star": 5
+    },
+    {
+      "des": "描述38",
+      "name": "约西",
+      "gameid": 298,
+      "id": 38,
+      "rare": 3,
+      "scale": 1,
+      "showtype": 1,
+      "star": 5
+    },
+    {
+      "des": "描述39",
+      "name": "约西",
+      "gameid": 298,
+      "id": 39,
+      "rare": 3,
+      "scale": 1,
+      "showtype": 1,
+      "star": 5
+    },
+    {
+      "des": "描述40",
+      "name": "约西",
+      "gameid": 298,
+      "id": 40,
+      "rare": 4,
+      "scale": 1,
+      "showtype": 1,
+      "star": 5
+    }
+  ]
+}

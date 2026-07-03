@@ -131,7 +131,7 @@
       "WildBossID": null,
       "WildBossPoint": null,
       "WildBossWeight": null,
-      "enterMap": 0,
+      "enterMap": 1,
       "GroupID": 10103,
       "id": 2004,
       "MapRatio": 0,
@@ -17190,7 +17190,7 @@
       "WildBossID": null,
       "WildBossPoint": null,
       "WildBossWeight": null,
-      "enterMap": 1,
+      "enterMap": 0,
       "GroupID": 10103,
       "id": 2175,
       "MapRatio": 1,
@@ -17237,6 +17237,27 @@
       "id": 2177,
       "MapRatio": 1,
       "pic": 2177
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "β场景占位",
+      "notes": "",
+      "sound": "1",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": [
+        467,
+        404
+      ],
+      "WildBossID": null,
+      "WildBossPoint": null,
+      "WildBossWeight": null,
+      "enterMap": 0,
+      "GroupID": 0,
+      "id": 2178,
+      "MapRatio": 1,
+      "pic": 2178
     }
   ]
 }

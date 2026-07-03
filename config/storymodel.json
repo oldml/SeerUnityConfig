@@ -9,7 +9,7 @@
       "name": "奥菲利娅",
       "portrait": "oph_fg",
       "id": 1,
-      "scale": 1
+      "scale": 1.05
     },
     {
       "CharacterID": "eld",
@@ -4244,6 +4244,72 @@
       "name": "若兰",
       "portrait": "ruolan_fg",
       "id": 386,
+      "scale": 1
+    },
+    {
+      "CharacterID": "drmilo",
+      "emoji": "drmilo_01,drmilo_02,drmilo_03,drmilo_04",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "米罗博士",
+      "portrait": "drmilo_fg",
+      "id": 387,
+      "scale": 1
+    },
+    {
+      "CharacterID": "crow",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "功勋官克罗",
+      "portrait": "crow_fg",
+      "id": 388,
+      "scale": 1
+    },
+    {
+      "CharacterID": "clear",
+      "emoji": "clear_01,clear_02,clear_03",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "克里L尔",
+      "portrait": "clear_fg",
+      "id": 389,
+      "scale": 1.1
+    },
+    {
+      "CharacterID": "babuk",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "巴布B克",
+      "portrait": "babuk_fg",
+      "id": 390,
+      "scale": 1
+    },
+    {
+      "CharacterID": "puniu",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "噗妞",
+      "portrait": "puniu_fg",
+      "id": 391,
+      "scale": 1
+    },
+    {
+      "CharacterID": "shadowrunner",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-49,475",
+      "name": "影行者",
+      "portrait": "shadowrunner_fg",
+      "id": 392,
       "scale": 1
     }
   ]

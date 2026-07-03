@@ -3,6 +3,29 @@
     {
       "ExchangeOutCnt": "",
       "ExchangeOutId": "",
+      "Name": "海沫星贝",
+      "UseEnd": "",
+      "Bean": 0,
+      "catID": 17,
+      "ExchangeId": 0,
+      "ExchangeType": 0,
+      "Hide": 0,
+      "hideNum": 0,
+      "ID": 1728266,
+      "ItemType": 0,
+      "LifeTime": 0,
+      "Max": 9999,
+      "Price": 0,
+      "purpose": 0,
+      "Rarity": 5,
+      "SkinId": 0,
+      "Sort": 29,
+      "TargetId": 0,
+      "wd": 1
+    },
+    {
+      "ExchangeOutCnt": "",
+      "ExchangeOutId": "",
       "Name": "0710占位物品",
       "UseEnd": "",
       "Bean": 0,
@@ -25643,7 +25666,7 @@
       "SkinId": 0,
       "Sort": 29,
       "TargetId": 0,
-      "wd": 0
+      "wd": 1
     },
     {
       "ExchangeOutCnt": "",
@@ -25666,7 +25689,7 @@
       "SkinId": 0,
       "Sort": 29,
       "TargetId": 0,
-      "wd": 0
+      "wd": 1
     },
     {
       "ExchangeOutCnt": "",
@@ -25689,7 +25712,7 @@
       "SkinId": 0,
       "Sort": 29,
       "TargetId": 0,
-      "wd": 0
+      "wd": 1
     },
     {
       "ExchangeOutCnt": "",
@@ -25712,7 +25735,7 @@
       "SkinId": 0,
       "Sort": 29,
       "TargetId": 0,
-      "wd": 0
+      "wd": 1
     },
     {
       "ExchangeOutCnt": "",
@@ -25735,7 +25758,7 @@
       "SkinId": 0,
       "Sort": 29,
       "TargetId": 0,
-      "wd": 0
+      "wd": 1
     },
     {
       "ExchangeOutCnt": "",
@@ -25758,7 +25781,7 @@
       "SkinId": 0,
       "Sort": 29,
       "TargetId": 0,
-      "wd": 0
+      "wd": 1
     },
     {
       "ExchangeOutCnt": "",
@@ -25781,7 +25804,7 @@
       "SkinId": 0,
       "Sort": 29,
       "TargetId": 0,
-      "wd": 0
+      "wd": 1
     },
     {
       "ExchangeOutCnt": "",
@@ -25804,7 +25827,7 @@
       "SkinId": 0,
       "Sort": 29,
       "TargetId": 0,
-      "wd": 0
+      "wd": 1
     },
     {
       "ExchangeOutCnt": "",
@@ -25827,7 +25850,7 @@
       "SkinId": 0,
       "Sort": 29,
       "TargetId": 0,
-      "wd": 0
+      "wd": 1
     },
     {
       "ExchangeOutCnt": "",
@@ -25850,7 +25873,7 @@
       "SkinId": 0,
       "Sort": 29,
       "TargetId": 0,
-      "wd": 0
+      "wd": 1
     },
     {
       "ExchangeOutCnt": "",

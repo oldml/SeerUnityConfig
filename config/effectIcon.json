@@ -55470,6 +55470,56 @@
         "target": 111311,
         "to": 0,
         "type": 1
+      },
+      {
+        "analyze": "[sprite name=dot4]自身先出手时[color=#52a5f2]当回合[/color]攻击技能必定打出[color=#57c975]致命一击[/color]，属性技能[color=#52a5f2]吸取[/color]对手300点体力；自身被[color=#57c975]击败[/color]时，本场战斗自身每[color=#52a5f2]出战[/color]1次，为对手附加300点[color=#52a5f2]固定伤害[/color]",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身先出手时当回合攻击技能必定打出致命一击，属性技能吸取对手300点体力；自身被击败时，本场战斗自身每出战1次，为对手附加300点固定伤害（boss无效）",
+        "kind": [
+          14
+        ],
+        "petId": [
+          4917
+        ],
+        "specificId": null,
+        "effectId": 2524,
+        "iconId": 2113,
+        "Id": 2113,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]登场时[/color]，自身减少体力上限的50%，若减少的体力上限大于200点则下次受到[color=#52a5f2]致死伤害[/color]时[color=#52a5f2]保留[/color]全部体力",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "登场时，自身减少体力上限的50%，若减少的体力上限大于200点则下次受到致死伤害时保留全部体力 （boss无效）",
+        "kind": [
+          2
+        ],
+        "petId": [
+          4918
+        ],
+        "specificId": null,
+        "effectId": 2523,
+        "iconId": 2114,
+        "Id": 2114,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
       }
     ]
   }

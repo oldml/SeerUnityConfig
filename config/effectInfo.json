@@ -22603,6 +22603,161 @@
         "argsNum": 0,
         "id": 2507,
         "type": 0
+      },
+      {
+        "analyze": "",
+        "info": "消除对手回合类效果并{0}%令自身{1}，触发成功则额外令对手{2}",
+        "key": "",
+        "param": [
+          1,
+          1,
+          1,
+          1,
+          2,
+          2
+        ],
+        "argsNum": 3,
+        "id": 2508,
+        "type": 0
+      },
+      {
+        "analyze": "",
+        "info": "对手每剩余{0}%体力对手{1}回合内体力恢复效果减少{2}%",
+        "key": "",
+        "param": [
+          33,
+          1,
+          1
+        ],
+        "argsNum": 3,
+        "id": 2509,
+        "type": 0
+      },
+      {
+        "analyze": "",
+        "info": "对手处于能力提升状态时先制+3且命中时复制对手的能力提升，复制成功则对手{0}回合内属性技能命中效果失效，对手不处于能力提升状态时令双方全属性+{1}",
+        "key": "",
+        "param": null,
+        "argsNum": 2,
+        "id": 2510,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent]使用时，下次附加概率高于70%的异常状态附加概率提升5%，若对手对此异常状态的抗性不高于5%则额外忽略5%",
+        "info": "使用时，下次附加概率高于70%的异常状态附加概率提升5%，若对手对此异常状态的抗性不高于5%则额外忽略5%",
+        "key": "",
+        "param": null,
+        "argsNum": 0,
+        "id": 2511,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent]使用时，下次附加概率高于65%的异常状态附加概率提升10%，若对手对此异常状态的抗性不高于10%则额外忽略10%",
+        "info": "使用时，下次附加概率高于65%的异常状态附加概率提升10%，若对手对此异常状态的抗性不高于10%则额外忽略10%",
+        "key": "",
+        "param": null,
+        "argsNum": 0,
+        "id": 2512,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent]使用时，下次附加概率高于65%的异常状态附加概率提升15%，若对手对此异常状态的抗性不高于15%则额外忽略15%",
+        "info": "使用时，下次附加概率高于60%的异常状态附加概率提升15%，若对手对此异常状态的抗性不高于15%则额外忽略15%",
+        "key": "",
+        "param": null,
+        "argsNum": 0,
+        "id": 2513,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent]使用时，下次附加概率高于65%的异常状态附加概率提升20%，若对手对此异常状态的抗性不高于20%则额外忽略20%",
+        "info": "使用时，下次附加概率高于55%的异常状态附加概率提升20%，若对手对此异常状态的抗性不高于20%则额外忽略20%",
+        "key": "",
+        "param": null,
+        "argsNum": 0,
+        "id": 2514,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent]使用时，下次附加概率高于65%的异常状态附加概率提升25%，若对手对此异常状态的抗性不高于25%则额外忽略25%",
+        "info": "使用时，下次附加概率高于50%的异常状态附加概率提升25%，若对手对此异常状态的抗性不高于25%则额外忽略25%",
+        "key": "",
+        "param": null,
+        "argsNum": 0,
+        "id": 2515,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]对手每处于1级能力下降状态，当回合对手造成的攻击伤害减少{0}%，最高{1}%",
+        "info": "对手每处于1级能力下降状态，当回合对手造成的攻击伤害减少{0}%，最高{1}%",
+        "key": "",
+        "param": null,
+        "argsNum": 2,
+        "id": 2516,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent]自身每次在场的前1回合，此技能PP值被清除时，50%保留1点PP值",
+        "info": "自身每次在场的前1回合，此技能PP值被清除时，50%保留1点PP值",
+        "key": "",
+        "param": null,
+        "argsNum": 0,
+        "id": 2517,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent]自身每次在场的前1回合，此技能PP值被清除时，70%保留1点PP值",
+        "info": "自身每次在场的前1回合，此技能PP值被清除时，70%保留1点PP值",
+        "key": "",
+        "param": null,
+        "argsNum": 0,
+        "id": 2518,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent]自身每次在场的前1回合，此技能PP值被清除时，100%保留1点PP值",
+        "info": "自身每次在场的前1回合，此技能PP值被清除时，100%保留1点PP值",
+        "key": "",
+        "param": null,
+        "argsNum": 0,
+        "id": 2519,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent]自身每次在场的前1回合，此技能PP值被清除时，100%保留2点PP值",
+        "info": "自身每次在场的前1回合，此技能PP值被清除时，100%保留2点PP值",
+        "key": "",
+        "param": null,
+        "argsNum": 0,
+        "id": 2520,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent]自身每次在场的前2回合，此技能PP值被清除时，100%保留2点PP值",
+        "info": "自身每次在场的前2回合，此技能PP值被清除时，100%保留2点PP值",
+        "key": "",
+        "param": null,
+        "argsNum": 0,
+        "id": 2521,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]获得自身上回合失去[color=#57c975]护盾[/color]的{0}%，最高{1}点",
+        "info": "获得自身上回合失去护盾的{0}%，最高{1}点",
+        "key": "",
+        "param": null,
+        "argsNum": 2,
+        "id": 2522,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]获得自身上回合失去[color=#57c975]护罩[/color]的{0}%，最高{1}点",
+        "info": "获得自身上回合失去护罩的{0}%，最高{1}点",
+        "key": "",
+        "param": null,
+        "argsNum": 2,
+        "id": 2523,
+        "type": 0
       }
     ],
     "ParamType": [
@@ -22737,6 +22892,10 @@
       {
         "params": "|弱|中|强",
         "id": 32
+      },
+      {
+        "params": "|一|二|三|四|五",
+        "id": 33
       }
     ]
   }

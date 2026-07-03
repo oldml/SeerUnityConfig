@@ -5943,6 +5943,55 @@
       "currAppDo": 1,
       "id": 1125,
       "isFullScreen": 1
+    },
+    {
+      "moduleName": "numbergame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1126,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "dayDream",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1127,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "minstonesaleActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1128,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "daanheitianMainPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1129,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "daanheitianMainPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1130,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "getSgglr",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1131,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getSgglr",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1132,
+      "isFullScreen": 1
     }
   ]
 }

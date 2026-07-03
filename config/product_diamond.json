@@ -239916,7 +239916,7 @@
       },
       {
         "icon": "",
-        "name": "0703占位商品",
+        "name": "获得大暗黑天能力突破单价",
         "itemID": [
           1728247
         ],
@@ -239926,12 +239926,182 @@
       },
       {
         "icon": "",
-        "name": "0703占位商品1",
+        "name": "购买游戏次数",
         "itemID": [
           1728248
         ],
         "price": 10,
         "productID": 262574,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得精灵【影行者】",
+        "itemID": [
+          1728250
+        ],
+        "price": 598,
+        "productID": 262575,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买每日挑战次数（影行者）",
+        "itemID": [
+          1728251
+        ],
+        "price": 30,
+        "productID": 262576,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡简单关卡（影行者）",
+        "itemID": [
+          1728252
+        ],
+        "price": 20,
+        "productID": 262577,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡困难关卡（影行者）",
+        "itemID": [
+          1728253
+        ],
+        "price": 30,
+        "productID": 262578,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡地狱关卡（影行者）",
+        "itemID": [
+          1728254
+        ],
+        "price": 40,
+        "productID": 262579,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买获得影行者因子",
+        "itemID": [
+          1728255
+        ],
+        "price": 2,
+        "productID": 262580,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买新二代刻印宝石组合礼包",
+        "itemID": [
+          1728256
+        ],
+        "price": 1790,
+        "productID": 262581,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买秘咒宝石I",
+        "itemID": [
+          1728257
+        ],
+        "price": 398,
+        "productID": 262582,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买失力宝石I",
+        "itemID": [
+          1728258
+        ],
+        "price": 398,
+        "productID": 262583,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买活力保留宝石I",
+        "itemID": [
+          1728259
+        ],
+        "price": 398,
+        "productID": 262584,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买护盾回溯宝石I",
+        "itemID": [
+          1728260
+        ],
+        "price": 398,
+        "productID": 262585,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买护罩回溯宝石I",
+        "itemID": [
+          1728261
+        ],
+        "price": 398,
+        "productID": 262586,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "石之砂普通礼包",
+        "itemID": [
+          1728262
+        ],
+        "price": 80,
+        "productID": 262587,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "石之砂稀有礼包",
+        "itemID": [
+          1728263
+        ],
+        "price": 218,
+        "productID": 262588,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "石之砂豪华礼包",
+        "itemID": [
+          1728264
+        ],
+        "price": 398,
+        "productID": 262589,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "石之砂至尊礼包",
+        "itemID": [
+          1728265
+        ],
+        "price": 500,
+        "productID": 262590,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买海沫星贝",
+        "itemID": [
+          1728267
+        ],
+        "price": 1,
+        "productID": 262591,
         "vip": 1
       }
     ]

@@ -8540,6 +8540,20 @@
                     "ID": 14,
                     "proicon": 1500,
                     "SpeNameBonus": 597
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "虚空战士",
+                    "Desc": "通关S-卡鲁维德【地狱难度】关卡获得",
+                    "Threshold": "15",
+                    "title": "虚空战士",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 15,
+                    "proicon": 1505,
+                    "SpeNameBonus": 599
                   }
                 ],
                 "ID": 172,

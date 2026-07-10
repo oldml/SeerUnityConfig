@@ -5434,6 +5434,13 @@
       "isFullScreen": 0
     },
     {
+      "moduleName": "summer26",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 897,
+      "isFullScreen": 1
+    },
+    {
       "moduleName": "zuma",
       "resConfig": null,
       "currAppDo": 1,
@@ -5991,6 +5998,55 @@
       "resConfig": null,
       "currAppDo": 1,
       "id": 1132,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "oceanCleanupPlan",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1133,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "dragonOfParadiseSalePanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1134,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "AbyssFisheryActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1135,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "oceanfish",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1136,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "seaFoamShop",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1137,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "xingliSkin",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1138,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "AbyssFisheryGameMain",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1139,
       "isFullScreen": 1
     }
   ]

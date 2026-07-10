@@ -17258,6 +17258,27 @@
       "id": 2178,
       "MapRatio": 1,
       "pic": 2178
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "大墟泽",
+      "notes": "",
+      "sound": "BGM_438",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": [
+        820,
+        370
+      ],
+      "WildBossID": null,
+      "WildBossPoint": null,
+      "WildBossWeight": null,
+      "enterMap": 0,
+      "GroupID": 20115,
+      "id": 2179,
+      "MapRatio": 1,
+      "pic": 2179
     }
   ]
 }

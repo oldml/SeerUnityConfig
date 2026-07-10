@@ -4311,6 +4311,61 @@
       "portrait": "shadowrunner_fg",
       "id": 392,
       "scale": 1
+    },
+    {
+      "CharacterID": "klwd",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,136",
+      "name": "卡鲁维德",
+      "portrait": "klwd_fg",
+      "id": 393,
+      "scale": 1
+    },
+    {
+      "CharacterID": "mysterymen",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,115",
+      "name": "？？？",
+      "portrait": "mysterymen_fg",
+      "id": 394,
+      "scale": 1
+    },
+    {
+      "CharacterID": "xupo",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-62,628",
+      "name": "墟婆",
+      "portrait": "xupo_fg",
+      "id": 395,
+      "scale": 1
+    },
+    {
+      "CharacterID": "suobilate",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "黯魂·索比拉特",
+      "portrait": "suobilate_fg",
+      "id": 396,
+      "scale": 1
+    },
+    {
+      "CharacterID": "gela",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,-115",
+      "name": "戈拉",
+      "portrait": "gela_fg",
+      "id": 397,
+      "scale": 1
     }
   ]
 }

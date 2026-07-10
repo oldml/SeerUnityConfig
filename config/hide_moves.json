@@ -13220,6 +13220,36 @@
         "petId": 4918
       },
       {
+        "moveName1": "崩灭",
+        "moveName2": "极突刺",
+        "moveId": 38446,
+        "petId": 4919
+      },
+      {
+        "moveName1": "冰火",
+        "moveName2": "破灭弹",
+        "moveId": 38449,
+        "petId": 4920
+      },
+      {
+        "moveName1": "八荒",
+        "moveName2": "极龙赦",
+        "moveId": 38452,
+        "petId": 4921
+      },
+      {
+        "moveName1": "魂",
+        "moveName2": "罪恶支骸",
+        "moveId": 38455,
+        "petId": 3847
+      },
+      {
+        "moveName1": "邪",
+        "moveName2": "天壤残火",
+        "moveId": 38456,
+        "petId": 3979
+      },
+      {
         "moveName1": "神灵",
         "moveName2": "救世光",
         "moveId": 31143,

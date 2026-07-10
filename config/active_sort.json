@@ -487,6 +487,24 @@
       "priority": 21,
       "truepos": 1,
       "type": 2
+    },
+    {
+      "controller": "",
+      "dest": "897",
+      "finishtime": "2026/8/7 10:00:00",
+      "image": "summer26seasonPanel_entrance",
+      "name": "幻海之旅",
+      "statlog": "",
+      "reddotid": null,
+      "dailyRed": 0,
+      "id": 29,
+      "iOSreviewshow": 0,
+      "isdeadline": 1,
+      "isshow": 1,
+      "jumptarget": 0,
+      "priority": 22,
+      "truepos": 1,
+      "type": 2
     }
   ]
 }

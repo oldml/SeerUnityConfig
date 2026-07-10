@@ -89,7 +89,7 @@
         "id": 5,
         "isShowNum": 1,
         "showmonster": 0,
-        "showtime": 2,
+        "showtime": 1,
         "sort": 5
       },
       {
@@ -1226,7 +1226,7 @@
       {
         "className": "*",
         "dec": "圣告",
-        "Des": " ",
+        "Des": "",
         "frame": null,
         "NumDes": "当前层数",
         "spDes": [
@@ -1246,7 +1246,7 @@
       {
         "className": "*",
         "dec": "邪诲",
-        "Des": " ",
+        "Des": "",
         "frame": null,
         "NumDes": "当前层数",
         "spDes": [
@@ -1298,7 +1298,7 @@
       {
         "className": "*",
         "dec": "天霆之律",
-        "Des": " ",
+        "Des": "",
         "frame": null,
         "NumDes": "当前道数",
         "spDes": [
@@ -1350,7 +1350,7 @@
       {
         "className": "*",
         "dec": "命起",
-        "Des": " ",
+        "Des": "",
         "frame": [
           "0_0",
           "1_1",
@@ -1377,7 +1377,7 @@
       {
         "className": "*",
         "dec": "魂落",
-        "Des": " ",
+        "Des": "",
         "frame": [
           "0_0",
           "1_0",
@@ -1436,7 +1436,7 @@
       {
         "className": "*",
         "dec": "碧叶猛毒",
-        "Des": " ",
+        "Des": "",
         "frame": null,
         "NumDes": "当前层数",
         "spDes": [
@@ -1465,7 +1465,7 @@
       {
         "className": "*",
         "dec": "烛",
-        "Des": " ",
+        "Des": "",
         "frame": [
           "1_1",
           "2_2"
@@ -1493,7 +1493,7 @@
       {
         "className": "*",
         "dec": "灵茉之芯",
-        "Des": " ",
+        "Des": "",
         "frame": [
           "0_0",
           "1_1",
@@ -1687,7 +1687,7 @@
       {
         "className": "*",
         "dec": "德莱赫默",
-        "Des": " ",
+        "Des": "",
         "frame": [
           "1_1",
           "2_2",
@@ -1885,7 +1885,7 @@
         "dec": "浪潮聚焦",
         "Des": "对手为鲸沫或自身天敌时，其攻击技能必定打出致命一击，触发后消失",
         "frame": null,
-        "NumDes": " ",
+        "NumDes": "",
         "spDes": null,
         "spicon": null,
         "sptips": null,
@@ -1963,7 +1963,7 @@
       {
         "className": "*",
         "dec": "命运晨星",
-        "Des": " ",
+        "Des": "",
         "frame": null,
         "NumDes": "当前层数",
         "spDes": [
@@ -2599,7 +2599,7 @@
       {
         "className": "*",
         "dec": "赛博共振器",
-        "Des": " ",
+        "Des": "",
         "frame": null,
         "NumDes": "",
         "spDes": [
@@ -2721,7 +2721,11 @@
         "className": "*",
         "dec": "金祖之龍",
         "Des": "",
-        "frame": null,
+        "frame": [
+          "0_0",
+          "1_1",
+          "2_2"
+        ],
         "NumDes": "",
         "spDes": [
           "0_己方失去了金祖之龍",
@@ -2741,7 +2745,11 @@
         "className": "*",
         "dec": "玄源之㡣",
         "Des": "",
-        "frame": null,
+        "frame": [
+          "0_0",
+          "1_1",
+          "2_2"
+        ],
         "NumDes": "",
         "spDes": [
           "0_己方失去了玄源之㡣",
@@ -4865,6 +4873,46 @@
         "showmonster": 0,
         "showtime": 0,
         "sort": 1
+      },
+      {
+        "className": "*",
+        "dec": "四象门",
+        "Des": "",
+        "frame": null,
+        "NumDes": "",
+        "spDes": [
+          "1_萨尔蒙专属特性中的效果每回合共享1次触发时点；己方出战4只系别无相交的其他精灵后，转化为六芒阵",
+          "2_萨尔蒙专属特性中的效果每回合共享1次触发时点；萨尔蒙在场时双方进入的异常状态转化为全属性-1；萨尔蒙能力等级达到36级时升阶为八方圻",
+          "3_萨尔蒙专属特性中的效果每回合共享1次触发时点；萨尔蒙在场时双方进入的异常状态转化为全属性-1；对方的能力提升消除效果视为失败"
+        ],
+        "spicon": null,
+        "sptips": [
+          "1_四象门",
+          "2_六芒阵",
+          "3_八方圻"
+        ],
+        "tips": "四象门",
+        "id": 188,
+        "isShowNum": 0,
+        "showmonster": 0,
+        "showtime": 0,
+        "sort": 4
+      },
+      {
+        "className": "*",
+        "dec": "咽咎尸骸",
+        "Des": "阵亡的邪灵系额外精灵；魂帝每剥离1项对手的系别，本场战斗咒骸魂契附加的伤害提升50点；魂帝每回合首次造成致死伤害时，所有能力值提升50点；魂帝行动阶段结束时，若对手所处的异常状态达到6种，则消耗1具并秒杀对手；下场保留",
+        "frame": null,
+        "NumDes": "",
+        "spDes": null,
+        "spicon": null,
+        "sptips": null,
+        "tips": "咽咎尸骸",
+        "id": 189,
+        "isShowNum": 1,
+        "showmonster": 0,
+        "showtime": 0,
+        "sort": 4
       },
       {
         "className": "SignBuffView_1000",

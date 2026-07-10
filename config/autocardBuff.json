@@ -1757,6 +1757,15 @@
     },
     {
       "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "被视为拥有所有系别(可移除)",
+      "id": 10202,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
       "object": "魔法",
       "param": "a",
       "paramDes": "获得a枚金币",

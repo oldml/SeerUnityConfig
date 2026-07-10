@@ -2092,6 +2092,56 @@
         "monster": 4147,
         "moves": 38437,
         "movetype": 1
+      },
+      {
+        "itemname": "御世八芒",
+        "movesname": "繁苍解道",
+        "id": 122,
+        "item": 1728275,
+        "itemnumber": 1,
+        "monster": 3549,
+        "moves": 29392,
+        "movetype": 2
+      },
+      {
+        "itemname": "月淬之坠",
+        "movesname": "隐华截生",
+        "id": 123,
+        "item": 1728276,
+        "itemnumber": 1,
+        "monster": 4114,
+        "moves": 38453,
+        "movetype": 2
+      },
+      {
+        "itemname": "咎者焚卷",
+        "movesname": "魂·罪恶支骸",
+        "id": 124,
+        "item": 1728277,
+        "itemnumber": 1,
+        "monster": 3847,
+        "moves": 38455,
+        "movetype": 1
+      },
+      {
+        "itemname": "熔碑之泪",
+        "movesname": "邪·天壤残火",
+        "id": 125,
+        "item": 1728278,
+        "itemnumber": 1,
+        "monster": 3979,
+        "moves": 38456,
+        "movetype": 1
+      },
+      {
+        "itemname": "燃辉之冠",
+        "movesname": "天破百战",
+        "id": 126,
+        "item": 1728279,
+        "itemnumber": 1,
+        "monster": 4216,
+        "moves": 38454,
+        "movetype": 2
       }
     ]
   }

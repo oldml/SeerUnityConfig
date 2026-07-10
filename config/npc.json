@@ -1649,6 +1649,26 @@
       "id": 165,
       "scale": 1,
       "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "-32,-131",
+      "name": "墟婆",
+      "portrait": "xupo_fg",
+      "CharacterID": 4922,
+      "id": 166,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "0,-71",
+      "name": "若兰",
+      "portrait": "ruolan_fg",
+      "CharacterID": 4916,
+      "id": 167,
+      "scale": 1,
+      "silhouette": 0
     }
   ]
 }

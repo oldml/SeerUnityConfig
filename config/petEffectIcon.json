@@ -2721,7 +2721,7 @@
       "petid": 3864
     },
     {
-      "Desc": "<indent=0><sprite=0><indent=16>触发效果：\r\n<indent=16><sprite=3><indent=32>若对手连续使用同一技能则：\r\n<indent=32><sprite=4><indent=48>当回合战斗阶段结束时<color=#64F9FA>吸取</color>对手250点<b>体力</b>\r\n<indent=32><sprite=4><indent=48>25%令所使用技能<color=#64F9FA>无效</color>\r\n\r\n<indent=0><sprite=0><indent=16>常驻效果：\r\n<indent=16><sprite=3><indent=32>自身每击败一只精灵本场战斗10%<color=#64F9FA>打出致命一击</color>、10%<color=#64F9FA>闪避</color>受到的<b>攻击</b>\r\n\r\n<indent=0><sprite=0><indent=16>回合开始效果：\r\n<indent=16><sprite=3><indent=32>回合开始时，若自身体力高于对手则令对手<color=#64F9FA>全属性-1</color>且当回合自身所有技能<b>先制</b>+1",
+      "Desc": "<indent=0><sprite=0><indent=16>触发效果：\r\n<indent=16><sprite=3><indent=32>若对手连续使用同一技能则：\r\n<indent=32><sprite=4><indent=48>当回合战斗阶段结束时<color=#64F9FA>吸取</color>对手300点<b>体力</b>\r\n<indent=32><sprite=4><indent=48>30%令所使用技能<color=#64F9FA>无效</color>\r\n\r\n<indent=0><sprite=0><indent=16>常驻效果：\r\n<indent=16><sprite=3><indent=32>自身每击败一只精灵本场战斗10%<color=#64F9FA>打出致命一击</color>、10%<color=#64F9FA>闪避</color>受到的<b>攻击</b>\r\n\r\n<indent=0><sprite=0><indent=16>回合开始效果：\r\n<indent=16><sprite=3><indent=32>回合开始时，若自身体力高于对手则令对手<color=#64F9FA>全属性-1</color>且当回合自身所有技能<b>先制</b>+1",
       "affectedBoss": 0,
       "effecticonid": 1137,
       "id": 341,
@@ -4201,7 +4201,7 @@
       "petid": 4048
     },
     {
-      "Desc": "<indent=0><sprite=0><indent=16>限定效果（每场战斗限1次）：\r\n<indent=16><sprite=3><indent=32>自身受到的固定伤害或百分比伤害≥自身当前体力值时触发群星逆转：\r\n<indent=32><sprite=4><indent=48><color=#64F9FA>免疫</color>本次受到的伤害并将其150%<color=#64F9FA>转化</color>为自身<b>体力</b>值\r\n<indent=32><sprite=4><indent=48>下3回合自身<b>致命一击率</b>提升至100%\r\n\r\n<indent=0><sprite=0><indent=16>技能额外效果：\r\n<indent=16><sprite=3><indent=32>自身攻击技能命中后<color=#64F9FA>吸取</color>对手最大体力的25%\r\n<indent=32><sprite=4><indent=48>每次使用攻击技能后本场战斗中上述效果提升5%，最高40%",
+      "Desc": "<indent=0><sprite=0><indent=16>限定效果（每场战斗限1次）：\r\n<indent=16><sprite=3><indent=32>自身受到的固定伤害或百分比伤害≥自身当前体力值时触发群星逆转：\r\n<indent=32><sprite=4><indent=48><color=#64F9FA>免疫</color>本次受到的伤害并将其150%<color=#64F9FA>转化</color>为自身<b>体力</b>值\r\n<indent=32><sprite=4><indent=48>下3回合自身<b>致命一击率</b>提升至100%\r\n\r\n<indent=0><sprite=0><indent=16>技能额外效果：\r\n<indent=16><sprite=3><indent=32>自身攻击技能命中后<color=#64F9FA>吸取</color>对手最大体力的25%\r\n<indent=32><sprite=4><indent=48>每次使用攻击技能后本场战斗中上述效果提升5%，最高40%\r\n<indent=16><sprite=3><indent=32>自身属性技能命中后下回合受到的<b>攻击伤害</b><color=#64F9FA>减少</color>25%\r\n<indent=32><sprite=4><indent=48>每次使用属性技能后本场战斗中上述效果提升5%，最高40%",
       "affectedBoss": 0,
       "effecticonid": 1542,
       "id": 526,

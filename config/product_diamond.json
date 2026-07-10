@@ -240103,6 +240103,86 @@
         "price": 1,
         "productID": 262591,
         "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得精灵【卡鲁维德】",
+        "itemID": [
+          1728268
+        ],
+        "price": 798,
+        "productID": 262592,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买每日挑战次数（卡鲁维德）",
+        "itemID": [
+          1728269
+        ],
+        "price": 30,
+        "productID": 262593,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡简单关卡（卡鲁维德）",
+        "itemID": [
+          1728270
+        ],
+        "price": 20,
+        "productID": 262594,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡困难关卡（卡鲁维德）",
+        "itemID": [
+          1728271
+        ],
+        "price": 30,
+        "productID": 262595,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡地狱关卡（卡鲁维德）",
+        "itemID": [
+          1728272
+        ],
+        "price": 40,
+        "productID": 262596,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买获得卡鲁维德因子",
+        "itemID": [
+          1728273
+        ],
+        "price": 2,
+        "productID": 262597,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "夏日特惠购买珍珠泡泡·星礼",
+        "itemID": [
+          1728274
+        ],
+        "price": 398,
+        "productID": 262598,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得天堂极龙兽",
+        "itemID": [
+          1728280
+        ],
+        "price": 798,
+        "productID": 262599,
+        "vip": 1
       }
     ]
   }

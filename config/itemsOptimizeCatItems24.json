@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "Name": "弗勒克斯因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400586,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "卡鲁维德因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400585,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "影行者因子",
       "catID": 24,
       "Hide": 0,

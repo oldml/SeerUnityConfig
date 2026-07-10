@@ -15266,8 +15266,8 @@
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "森语·月冕",
         "SkinKind": [
           {
@@ -15279,13 +15279,13 @@
           }
         ],
         "ID": 850,
-        "Jumptarget": 114017,
+        "Jumptarget": 0,
         "MonID": 4147,
         "Type": 2
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "吉尼亚斯",
         "SkinKind": [
           {
@@ -15297,9 +15297,45 @@
           }
         ],
         "ID": 851,
-        "Jumptarget": 2,
+        "Jumptarget": 0,
         "MonID": 4709,
         "Type": 0
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "风起流沙·阿莱克托",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 852,
+        "Jumptarget": 2,
+        "MonID": 4200,
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "珍珠泡泡·星礼",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 853,
+        "Jumptarget": 114106,
+        "MonID": 4840,
+        "Type": 3
       }
     ]
   }

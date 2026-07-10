@@ -755,6 +755,18 @@
       "id": 64,
       "moduleId": 508,
       "state": 1
+    },
+    {
+      "actionName": "幻海之旅",
+      "controller": "AutoOpenLocalDaily",
+      "endTime": "2026_08_07 10:00:00",
+      "param1": "Summer2026",
+      "param2": "",
+      "param3": "",
+      "startTime": "2026_07_10 10:00:00",
+      "id": 65,
+      "moduleId": 897,
+      "state": 1
     }
   ]
 }

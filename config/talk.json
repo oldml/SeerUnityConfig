@@ -20964,7 +20964,7 @@
     {
       "answer": null,
       "deal": null,
-      "msg": "这个骨头大概是凯莫兽的头骨吧。竟然死在了绿洲边上，明明就差一点了，好可怜。\n不过它也不一定是渴死的吧？",
+      "msg": "这个骨头大概是凯莫兽的头骨吧。竟然死在了绿洲边上，明明就差一点了，好可怜。\r\n不过它也不一定是渴死的吧？",
       "dir": 0,
       "groupId": 639,
       "id": 2036,
@@ -22117,7 +22117,7 @@
     {
       "answer": null,
       "deal": null,
-      "msg": "嗯！家人们一溜烟就不见了，赛尔赛尔，帮帮我嘛！<font color=\"0xffd325\">一共有8只米鲁藏起来了，我已经搜集到了一些情报，如果没有头绪，就来找我聊聊吧！</font>\n如果能找到大家的话，人家就把精心制作的手作送给你！",
+      "msg": "嗯！家人们一溜烟就不见了，赛尔赛尔，帮帮我嘛！<font color=\"0xffd325\">一共有8只米鲁藏起来了，我已经搜集到了一些情报，如果没有头绪，就来找我聊聊吧！</font>\r\n如果能找到大家的话，人家就把精心制作的手作送给你！",
       "dir": 0,
       "groupId": 700,
       "id": 2148,
@@ -22146,7 +22146,7 @@
     {
       "answer": null,
       "deal": null,
-      "msg": "嗯！家人们一溜烟就不见了，赛尔赛尔，帮帮我嘛！<font color=\"0xffd325\">一共有8只米鲁藏起来了，我已经搜集到了一些情报，如果没有头绪，就来找人家聊聊吧！</font>\n如果能找到大家的话，人家就把精心制作的手作送给你！",
+      "msg": "嗯！家人们一溜烟就不见了，赛尔赛尔，帮帮我嘛！<font color=\"0xffd325\">一共有8只米鲁藏起来了，我已经搜集到了一些情报，如果没有头绪，就来找人家聊聊吧！</font>\r\n如果能找到大家的话，人家就把精心制作的手作送给你！",
       "dir": 0,
       "groupId": 701,
       "id": 2151,
@@ -27990,76 +27990,607 @@
     {
       "answer": null,
       "deal": null,
-      "msg": "大墟泽与石碑交互对话占位。",
+      "msg": "真是壮观，这是什么？",
       "dir": 0,
       "groupId": 932,
       "id": 2780,
-      "npcId": 11
+      "npcId": 4916
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "大墟泽与墟婆交互对话占位。",
+      "msg": "我看看——",
       "dir": 0,
-      "groupId": 933,
+      "groupId": 932,
       "id": 2781,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "大墟泽与树交互对话占位。",
+      "msg": "“玄武大人，您的背甲曾是整片星系的屏障，我们永远铭记。”",
       "dir": 0,
-      "groupId": 934,
+      "groupId": 932,
       "id": 2782,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "大墟泽与蜡烛互对话占位。",
+      "msg": "“我们没有亲历您守护的那个时代，却因那个时代的故事而颤抖。”",
       "dir": 0,
-      "groupId": 935,
+      "groupId": 932,
       "id": 2783,
       "npcId": 11
     },
     {
-      "answer": [
-        "离开场景",
-        "继续在场景中探索"
-      ],
-      "deal": [
-        "4_jumpstory",
-        ""
-      ],
-      "msg": "大墟泽第二次与墟婆交互占位。",
+      "answer": null,
+      "deal": null,
+      "msg": "“世间的英雄都会凋零，但有些名字不该被风吹散。您的名字，不该。”",
       "dir": 0,
-      "groupId": 936,
+      "groupId": 932,
       "id": 2784,
       "npcId": 11
     },
     {
-      "answer": [
-        "离开场景",
-        "继续在场景中探索"
-      ],
-      "deal": [
-        "4_jumpstory",
-        ""
-      ],
-      "msg": "大墟泽第三次与墟婆交互占位。",
+      "answer": null,
+      "deal": null,
+      "msg": "“每当星云旋转，我们总以为能看见您那厚重的身影。”",
       "dir": 0,
-      "groupId": 937,
+      "groupId": 932,
       "id": 2785,
       "npcId": 11
     },
     {
       "answer": null,
       "deal": null,
-      "msg": "玄武运营活动2占位",
+      "msg": "“我们堆起这座丰碑，只是不想让这个世界忘记——曾经有这样一位大人。”",
+      "dir": 0,
+      "groupId": 932,
+      "id": 2786,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "“纵使我们渺小如尘，也愿继承您的遗志，守护这片天地。”",
+      "dir": 0,
+      "groupId": 932,
+      "id": 2787,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "“神灵也会死，这让我们悲痛，却也让我们明白：伟大从来不靠永生来证明。”",
+      "dir": 0,
+      "groupId": 932,
+      "id": 2788,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "“玄武大人，您是这片星系最初的守望者，也将是最后被遗忘的名字——永远不会。”",
+      "dir": 0,
+      "groupId": 932,
+      "id": 2789,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这似乎是精灵们所刻写的对玄武的悼念与怀思。",
+      "dir": 0,
+      "groupId": 932,
+      "id": 2790,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "玄武大人……",
+      "dir": 0,
+      "groupId": 932,
+      "id": 2791,
+      "npcId": 4916
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "对于帕诺星系的精灵们来说，你究竟意味着什么呢？",
+      "dir": 0,
+      "groupId": 932,
+      "id": 2792,
+      "npcId": 4916
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "让我们也献上悼念吧……",
+      "dir": 0,
+      "groupId": 932,
+      "id": 2793,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "“希望我们还能重逢。”",
+      "dir": 0,
+      "groupId": 932,
+      "id": 2794,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你这样写道。",
+      "dir": 0,
+      "groupId": 932,
+      "id": 2795,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "诶呀，有新的祭拜者吗？",
+      "dir": 0,
+      "groupId": 933,
+      "id": 2796,
+      "npcId": 4922
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "祭拜者？这里是什么地方啊？",
+      "dir": 0,
+      "groupId": 933,
+      "id": 2797,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "不是祭拜者吗？连这里是什么地方都不知道就过来了。",
+      "dir": 0,
+      "groupId": 933,
+      "id": 2798,
+      "npcId": 4922
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "啊，我明白了，是戈拉带你们过来的吧？",
+      "dir": 0,
+      "groupId": 933,
+      "id": 2799,
+      "npcId": 4922
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "突然叨扰，实在是不好意思。",
+      "dir": 0,
+      "groupId": 933,
+      "id": 2800,
+      "npcId": 4916
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "无妨，既然戈拉愿意带你们过来，那自然算不上叨扰。",
+      "dir": 0,
+      "groupId": 933,
+      "id": 2801,
+      "npcId": 4922
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这里是大墟泽，是我和戈拉们为了纪念玄武大人而建立的墟冢。你们可以称呼我为“墟婆”。",
+      "dir": 0,
+      "groupId": 933,
+      "id": 2802,
+      "npcId": 4922
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "墟冢？",
+      "dir": 0,
+      "groupId": 933,
+      "id": 2803,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "玄武大人没有留下尸身，因此这墟冢虽然被称作“冢”，但是实际上更接近一座神殿。有不少精灵偶尔都会过来缅怀玄武大人，权当是为生者建立的精神寄托罢了。",
+      "dir": 0,
+      "groupId": 933,
+      "id": 2804,
+      "npcId": 4922
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "既然你们已经来到了这里，就去那边的树上挂一条祭铃吧。",
+      "dir": 0,
+      "groupId": 933,
+      "id": 2805,
+      "npcId": 4922
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "好。",
+      "dir": 0,
+      "groupId": 933,
+      "id": 2806,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这树上已经都挂了好多了，想必会有很多的精灵来祭拜吧。",
+      "dir": 0,
+      "groupId": 934,
+      "id": 2807,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "唉，星系守护者。唉，玄武……",
+      "dir": 0,
+      "groupId": 934,
+      "id": 2808,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你看这些祭铃，每一个都一尘不染，被仔细的擦过。维护这里的人，一定重视玄武大人吧。",
+      "dir": 0,
+      "groupId": 934,
+      "id": 2809,
+      "npcId": 4916
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "没有足够的虔诚，是做不到这种程度的。",
+      "dir": 0,
+      "groupId": 934,
+      "id": 2810,
+      "npcId": 4916
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "就算是为了这些祭拜者，我们也一定要想办法复活玄武。还帕诺星系一个安宁。",
+      "dir": 0,
+      "groupId": 934,
+      "id": 2811,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "……",
+      "dir": 0,
+      "groupId": 934,
+      "id": 2812,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "若兰，帮我一下。这树太高了，我够不到。",
+      "dir": 0,
+      "groupId": 934,
+      "id": 2813,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "好。",
+      "dir": 0,
+      "groupId": 934,
+      "id": 2814,
+      "npcId": 4916
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "来都来了，点一支蜡烛吧。",
+      "dir": 0,
+      "groupId": 935,
+      "id": 2815,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "（你拿出点火器，小心翼翼的将一支蜡烛点燃。不知道那蜡烛用的什么材料，一抹小小的蓝色火苗静静地燃烧着。）",
+      "dir": 0,
+      "groupId": 935,
+      "id": 2816,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我们会把你从地狱带回来的，玄武。",
+      "dir": 0,
+      "groupId": 935,
+      "id": 2817,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "等着我们。",
+      "dir": 0,
+      "groupId": 935,
+      "id": 2818,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "辛苦了，玄武大人会看到你们的祭拜的。",
+      "dir": 0,
+      "groupId": 936,
+      "id": 2819,
+      "npcId": 4922
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "这里的维护得真的很好，而且神殿建筑也很壮观。你们一定付出了超乎想象的努力。",
+      "dir": 0,
+      "groupId": 936,
+      "id": 2820,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "玄武大人不只是帕诺星系的守护者，也是我们格朗德星原住民的信仰对象。玄武大人身殒之后，大家都失去了信念，陷入了一片混乱。",
+      "dir": 0,
+      "groupId": 936,
+      "id": 2821,
+      "npcId": 4922
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我们总得做点什么，就算是为了还活着的人也好，我得让人们能够打起精神继续生活下去。同时，也是为了教导新生的精灵，格朗德星何以存在。",
+      "dir": 0,
+      "groupId": 936,
+      "id": 2822,
+      "npcId": 4922
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "如果，我们已经有了复活玄武的计划，你会支持我们吗？我们需要尽可能多的伙伴的帮助。",
+      "dir": 0,
+      "groupId": 936,
+      "id": 2823,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "复活玄武大人？",
+      "dir": 0,
+      "groupId": 936,
+      "id": 2824,
+      "npcId": 4922
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "何其疯狂的想法，就算是那些觊觎玄武大人的遗产的骗子都不敢有这样的提议……",
+      "dir": 0,
+      "groupId": 936,
+      "id": 2825,
+      "npcId": 4922
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "不过，我确实也能理解为什么戈拉们会带你们来这里了。",
+      "dir": 0,
+      "groupId": 936,
+      "id": 2826,
+      "npcId": 4922
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你们靠近一些，我需要对你们的言与心进行审视。",
+      "dir": 0,
+      "groupId": 936,
+      "id": 2827,
+      "npcId": 4922
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "审视言与心？",
+      "dir": 0,
+      "groupId": 936,
+      "id": 2828,
+      "npcId": 11
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我是这大墟泽的墟婆，还是有一些占卜与预言能力的。自然也能洞悉欺骗与虚妄。",
+      "dir": 0,
+      "groupId": 936,
+      "id": 2829,
+      "npcId": 4922
+    },
+    {
+      "answer": [
+        "我们准备好了（继续剧情）",
+        "继续在场景中探索"
+      ],
+      "deal": [
+        "4_jumpstory",
+        ""
+      ],
+      "msg": "你们准备好了就过来吧。",
+      "dir": 0,
+      "groupId": 936,
+      "id": 2830,
+      "npcId": 4922
+    },
+    {
+      "answer": [
+        "我们准备好了（继续剧情）",
+        "继续在场景中探索"
+      ],
+      "deal": [
+        "4_jumpstory",
+        ""
+      ],
+      "msg": "你们准备好了就过来吧。",
+      "dir": 0,
+      "groupId": 937,
+      "id": 2831,
+      "npcId": 4922
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "终于完成了…噗妞！你现在所看到的，是足以载入组织内部纪闻的伟大发明——“灵魂共振罗盘”！",
       "dir": 0,
       "groupId": 938,
-      "id": 2786,
+      "id": 2832,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "统计：用时三天，使用五十一根能量管线、两块合金盘和一张这里随地捡的大石板拼出来的。",
+      "dir": 0,
+      "groupId": 938,
+      "id": 2833,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "那叫因地制宜！关键在于原理——戈拉身上孕育的玄武珠，每一颗内部都残留着着玄武的灵魂残片。",
+      "dir": 0,
+      "groupId": 938,
+      "id": 2834,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "当这些玄武珠在罗盘上按照特定位置排列，形成共鸣回路时，那些灵魂残片就能短暂汇聚成具象。",
+      "dir": 0,
+      "groupId": 938,
+      "id": 2835,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "省流：将玄武珠摆在罗盘的正确位置上，形成特定的图案或路径，就能诱发灵魂残片的共振。",
+      "dir": 0,
+      "groupId": 938,
+      "id": 2836,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "你很缺那一点数据流量吗？就不能学学我多说几句？真是没有一点科学的浪漫感。",
+      "dir": 0,
+      "groupId": 938,
+      "id": 2837,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "哦对，目前我们手里已经收集到了几颗！就是上次做体征调查的时候，从戈拉身上无创提取的。",
+      "dir": 0,
+      "groupId": 938,
+      "id": 2838,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "似乎从戈拉身上提取玄武珠，并不会影响其生理特征。噗妞，这点记录下来了吗？",
+      "dir": 0,
+      "groupId": 938,
+      "id": 2839,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "已记录。同步确认，四颗玄武珠已完成编号，已放置在罗盘上。但数量尚无法触发共振，玄武珠待继续补充。",
+      "dir": 0,
+      "groupId": 938,
+      "id": 2840,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "简单，我们接着从戈拉那里提取就好！反正过程是无害提取，它们现在见到我，只会过来讨营养液喝，完全不设防。",
+      "dir": 0,
+      "groupId": 938,
+      "id": 2841,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "……记录：样本与博士之间的信任度持续上升中。",
+      "dir": 0,
+      "groupId": 938,
+      "id": 2842,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "好了，一切准备就绪。现在，来试试看罗盘的效果吧。我们一定能让玄武重现于世的！",
+      "dir": 0,
+      "groupId": 938,
+      "id": 2843,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "提示：当前罗盘重心不稳，博士，建议您找一些石头垫至罗盘底部。",
+      "dir": 0,
+      "groupId": 938,
+      "id": 2844,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "祭铃已经挂好，我们现在去找墟婆吧。",
+      "dir": 0,
+      "groupId": 939,
+      "id": 2845,
       "npcId": 11
     }
   ]

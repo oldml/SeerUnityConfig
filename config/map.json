@@ -2284,7 +2284,7 @@
         1
       ],
       "enterMap": 0,
-      "GroupID": 20115,
+      "GroupID": 20113,
       "id": 3050,
       "MapRatio": 0,
       "pic": 1278
@@ -17200,7 +17200,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "凯旋殿堂",
-      "notes": "",
+      "notes": "剧情场景",
       "sound": "1",
       "NPCID": null,
       "NPCXYZ": null,
@@ -17263,7 +17263,7 @@
       "DeviceID": "",
       "Ename": "Destination Reached",
       "name": "大墟泽",
-      "notes": "",
+      "notes": "剧情场景",
       "sound": "BGM_438",
       "NPCID": null,
       "NPCXYZ": null,
@@ -17275,10 +17275,56 @@
       "WildBossPoint": null,
       "WildBossWeight": null,
       "enterMap": 0,
-      "GroupID": 20115,
+      "GroupID": 0,
       "id": 2179,
       "MapRatio": 1,
       "pic": 2179
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "大墟泽",
+      "notes": "真实场景",
+      "sound": "BGM_438",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": [
+        820,
+        370
+      ],
+      "WildBossID": [
+        3598
+      ],
+      "WildBossPoint": [
+        60,
+        410,
+        130,
+        390,
+        170,
+        430,
+        230,
+        400,
+        360,
+        380,
+        450,
+        430,
+        560,
+        400,
+        650,
+        390,
+        770,
+        410,
+        830,
+        400
+      ],
+      "WildBossWeight": [
+        1
+      ],
+      "enterMap": 0,
+      "GroupID": 20113,
+      "id": 2180,
+      "MapRatio": 1,
+      "pic": 2180
     }
   ]
 }

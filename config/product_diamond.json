@@ -240183,6 +240183,116 @@
         "price": 798,
         "productID": 262599,
         "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "VIP限时返场紫嫣",
+        "itemID": [
+          1728281
+        ],
+        "price": 98,
+        "productID": 262600,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "VIP限时返场伽楼儿",
+        "itemID": [
+          1728282
+        ],
+        "price": 198,
+        "productID": 262601,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "VIP限时返场方块公主",
+        "itemID": [
+          1728283
+        ],
+        "price": 198,
+        "productID": 262602,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得精灵【墟婆】",
+        "itemID": [
+          1728284
+        ],
+        "price": 598,
+        "productID": 262603,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买每日挑战次数（墟婆）",
+        "itemID": [
+          1728285
+        ],
+        "price": 30,
+        "productID": 262604,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡简单关卡（墟婆）",
+        "itemID": [
+          1728286
+        ],
+        "price": 20,
+        "productID": 262605,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡困难关卡（墟婆）",
+        "itemID": [
+          1728287
+        ],
+        "price": 30,
+        "productID": 262606,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡地狱关卡（墟婆）",
+        "itemID": [
+          1728288
+        ],
+        "price": 40,
+        "productID": 262607,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买获得墟婆因子",
+        "itemID": [
+          1728289
+        ],
+        "price": 2,
+        "productID": 262608,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "激活龙渊镇座皮肤部件",
+        "itemID": [
+          1728290
+        ],
+        "price": 30,
+        "productID": 262609,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买游戏次数",
+        "itemID": [
+          1728296
+        ],
+        "price": 10,
+        "productID": 262610,
+        "vip": 1
       }
     ]
   }

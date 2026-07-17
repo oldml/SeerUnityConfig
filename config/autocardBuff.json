@@ -1426,7 +1426,7 @@
       "effectIcon": "2",
       "object": "卡牌",
       "param": "a_b",
-      "paramDes": "阵亡：随机召唤本场战斗中已阵亡且具有阵亡效果的a只b系精灵的原始复制",
+      "paramDes": "阵亡：随机召唤不超过当期商店等级具有阵亡效果的a只b系精灵，召唤时同名的精灵最多召唤1只，使其具有原始属性",
       "id": 10165,
       "IsDeathEffect": 0,
       "IsPlaceEffect": 0
@@ -1605,8 +1605,8 @@
     {
       "effectIcon": "1",
       "object": "卡牌",
-      "param": "a",
-      "paramDes": "攻击时，本局游戏内己方核心升级效果提升a倍",
+      "param": "a_b",
+      "paramDes": "攻击时，本局游戏内己方核心升级效果提升a倍，每回合最多提升b次",
       "id": 10185,
       "IsDeathEffect": 0,
       "IsPlaceEffect": 0
@@ -1761,6 +1761,24 @@
       "param": "a",
       "paramDes": "被视为拥有所有系别(可移除)",
       "id": 10202,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "自身在场时，己方a系精灵每回合前b次失去强毒时获得1次强毒",
+      "id": 10206,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b_c_d_e",
+      "paramDes": "卡牌a在场时，使用b系精灵牌后，使己方场上的c系精灵永久获得+d/+e",
+      "id": 10207,
       "IsDeathEffect": 0,
       "IsPlaceEffect": 0
     },

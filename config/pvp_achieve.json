@@ -1,33 +1,33 @@
 {
   "data": [
     {
-      "describe": "玩家在S10赛季竞技/狂野模式中首次达到猛将段位",
-      "rewardinfo": "1483_174_5",
-      "title": "S10赛季猛将",
+      "describe": "玩家在S11赛季竞技/狂野模式中首次达到猛将段位",
+      "rewardinfo": "1506_174_9",
+      "title": "S11赛季猛将",
       "foreverType": 1,
       "id": 1,
       "value": 1
     },
     {
-      "describe": "玩家在S10赛季竞技/狂野模式中首次达到天骄段位",
-      "rewardinfo": "1484_174_6",
-      "title": "S10赛季天骄",
+      "describe": "玩家在S11赛季竞技/狂野模式中首次达到天骄段位",
+      "rewardinfo": "1507_174_10",
+      "title": "S11赛季天骄",
       "foreverType": 1,
       "id": 2,
       "value": 2
     },
     {
-      "describe": "玩家在S10赛季竞技/狂野模式中首次达到王者段位",
-      "rewardinfo": "1485_174_7",
-      "title": "S10赛季王者",
+      "describe": "玩家在S11赛季竞技/狂野模式中首次达到王者段位",
+      "rewardinfo": "1508_174_11",
+      "title": "S11赛季王者",
       "foreverType": 1,
       "id": 3,
       "value": 3
     },
     {
-      "describe": "玩家在S10赛季竞技/狂野模式中首次达到圣皇段位",
-      "rewardinfo": "1486_174_8",
-      "title": "S10赛季圣皇",
+      "describe": "玩家在S11赛季竞技/狂野模式中首次达到圣皇段位",
+      "rewardinfo": "1509_174_12",
+      "title": "S11赛季圣皇",
       "foreverType": 1,
       "id": 4,
       "value": 4

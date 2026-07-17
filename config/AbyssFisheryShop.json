@@ -221,6 +221,72 @@
       "type": 1
     },
     {
+      "des": "多条糖果色软枝随水流轻轻摇晃，黄绿与薄荷绿交织出甜软弧度。",
+      "functiondes": "提升精灵5%的收益",
+      "name": "糖果海藤",
+      "functiontype": 1,
+      "functionvalue": 5,
+      "id": 21,
+      "price": 350000,
+      "subtype": 3,
+      "type": 1
+    },
+    {
+      "des": "紫蓝藤蔓与青叶在海流中缓缓交缠，节点凝着细碎星点光粒。",
+      "functiondes": "提升2小时挂机时长",
+      "name": "星潮藤蔓",
+      "functiontype": 3,
+      "functionvalue": 2,
+      "id": 22,
+      "price": 500000,
+      "subtype": 3,
+      "type": 1
+    },
+    {
+      "des": "黄橙紫三色珊瑚成簇而立，托着统一的绿色小底座，照亮整片海床。",
+      "functiondes": "提升精灵5%的收益",
+      "name": "彩虹珊瑚丛",
+      "functiontype": 1,
+      "functionvalue": 5,
+      "id": 23,
+      "price": 350000,
+      "subtype": 2,
+      "type": 1
+    },
+    {
+      "des": "白蓝渐变的软珊瑚层叠如花瓣，被月光柔光温柔包裹。",
+      "functiondes": "提升2小时挂机时长",
+      "name": "月光软珊瑚",
+      "functiontype": 3,
+      "functionvalue": 2,
+      "id": 24,
+      "price": 500000,
+      "subtype": 2,
+      "type": 1
+    },
+    {
+      "des": "圆润石柱环成古老阵型，中心金蓝微光缓缓流转。",
+      "functiondes": "提升精灵5%的收益",
+      "name": "古潮圆石阵",
+      "functiontype": 1,
+      "functionvalue": 5,
+      "id": 25,
+      "price": 500000,
+      "subtype": 4,
+      "type": 1
+    },
+    {
+      "des": "圆形礁石铺满星砂微光，几枚小贝壳静静散落，是海渊里最安静的展台。",
+      "functiondes": "提升精灵5%的收益",
+      "name": "星砂礁座",
+      "functiontype": 1,
+      "functionvalue": 5,
+      "id": 26,
+      "price": 500000,
+      "subtype": 1,
+      "type": 1
+    },
+    {
       "des": "每次点击时，获取1枚渔场币",
       "functiondes": "1枚币/点击",
       "name": "海潮瓶",
@@ -316,6 +382,17 @@
       "functionvalue": 0,
       "id": 1004,
       "price": 10000,
+      "subtype": 0,
+      "type": 2
+    },
+    {
+      "des": "幻光海域的终极礼赞，金辉礼盒开启之际，传说之鱼跃然而出。用于在5星鱼塘中获取精灵。",
+      "functiondes": "用于在5星鱼塘中获取精灵。",
+      "name": "金辉鱼粮袋",
+      "functiontype": 0,
+      "functionvalue": 0,
+      "id": 1005,
+      "price": 50000,
       "subtype": 0,
       "type": 2
     }

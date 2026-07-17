@@ -2142,6 +2142,56 @@
         "monster": 4216,
         "moves": 38454,
         "movetype": 2
+      },
+      {
+        "itemname": "英灵之镜",
+        "movesname": "流弧幻迹",
+        "id": 127,
+        "item": 1728292,
+        "itemnumber": 1,
+        "monster": 4184,
+        "moves": 38461,
+        "movetype": 2
+      },
+      {
+        "itemname": "星占之眼",
+        "movesname": "魂源嘘古",
+        "id": 128,
+        "item": 1728293,
+        "itemnumber": 1,
+        "monster": 4187,
+        "moves": 29399,
+        "movetype": 2
+      },
+      {
+        "itemname": "坏世歧角",
+        "movesname": "八歧坏世",
+        "id": 129,
+        "item": 1728294,
+        "itemnumber": 1,
+        "monster": 3814,
+        "moves": 29400,
+        "movetype": 2
+      },
+      {
+        "itemname": "焕生之痴",
+        "movesname": "神恩永怀",
+        "id": 130,
+        "item": 1728295,
+        "itemnumber": 1,
+        "monster": 3455,
+        "moves": 29401,
+        "movetype": 2
+      },
+      {
+        "itemname": "双源魂蒂",
+        "movesname": "黄泉妖偈",
+        "id": 131,
+        "item": 1728296,
+        "itemnumber": 1,
+        "monster": 3488,
+        "moves": 29402,
+        "movetype": 2
       }
     ]
   }

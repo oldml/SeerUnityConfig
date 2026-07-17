@@ -6048,6 +6048,48 @@
       "currAppDo": 1,
       "id": 1139,
       "isFullScreen": 1
+    },
+    {
+      "moduleName": "boboGetEnergy",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1140,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getdzjsmain",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1141,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "gertrudeSkin",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1142,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getljysmain",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1143,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "seerInterstellarPassportActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1144,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "oceantreasureActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1145,
+      "isFullScreen": 0
     }
   ]
 }

@@ -647,7 +647,7 @@
       "name": "悠悠",
       "portrait": "yoyomeng_fg",
       "id": 59,
-      "scale": 1
+      "scale": 0.7
     },
     {
       "CharacterID": "ykls",
@@ -1073,7 +1073,7 @@
       "emojixy": "",
       "head": "",
       "initialposition": "-8,-30",
-      "name": "艾利逊（经典）",
+      "name": "艾利逊",
       "portrait": "allison1_fg",
       "id": 98,
       "scale": 0.9
@@ -2282,11 +2282,11 @@
       "emoji": "",
       "emojixy": "",
       "head": "",
-      "initialposition": "",
+      "initialposition": "-166.8,0",
       "name": "星光·鲁斯王",
       "portrait": "monster_4648_fg",
       "id": 208,
-      "scale": 1
+      "scale": 1.4
     },
     {
       "CharacterID": "monster_13",
@@ -4350,8 +4350,8 @@
       "emoji": "",
       "emojixy": "",
       "head": "",
-      "initialposition": "",
-      "name": "黯魂·索比拉特",
+      "initialposition": "0,106",
+      "name": "索比拉特",
       "portrait": "suobilate_fg",
       "id": 396,
       "scale": 1
@@ -4366,6 +4366,28 @@
       "portrait": "gela_fg",
       "id": 397,
       "scale": 1
+    },
+    {
+      "CharacterID": "puniusp",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "超级噗纽",
+      "portrait": "puniusp_fg",
+      "id": 398,
+      "scale": 1
+    },
+    {
+      "CharacterID": "akexiya",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-76,0",
+      "name": "阿克希亚",
+      "portrait": "akexiya_fg",
+      "id": 399,
+      "scale": 1.25
     }
   ]
 }

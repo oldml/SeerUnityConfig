@@ -22785,6 +22785,181 @@
         "argsNum": 0,
         "id": 2526,
         "type": 0
+      },
+      {
+        "analyze": "",
+        "info": "1",
+        "key": "",
+        "param": null,
+        "argsNum": 2,
+        "id": 2527,
+        "type": 0
+      },
+      {
+        "analyze": "",
+        "info": "1",
+        "key": "",
+        "param": null,
+        "argsNum": 2,
+        "id": 2528,
+        "type": 0
+      },
+      {
+        "analyze": "",
+        "info": "1",
+        "key": "",
+        "param": null,
+        "argsNum": 2,
+        "id": 2529,
+        "type": 0
+      },
+      {
+        "analyze": "",
+        "info": "1",
+        "key": "",
+        "param": null,
+        "argsNum": 2,
+        "id": 2530,
+        "type": 0
+      },
+      {
+        "analyze": "",
+        "info": "1",
+        "key": "",
+        "param": null,
+        "argsNum": 1,
+        "id": 2531,
+        "type": 0
+      },
+      {
+        "analyze": "",
+        "info": "1",
+        "key": "",
+        "param": null,
+        "argsNum": 3,
+        "id": 2532,
+        "type": 0
+      },
+      {
+        "analyze": "",
+        "info": "1",
+        "key": "",
+        "param": null,
+        "argsNum": 3,
+        "id": 2533,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent][color=#52a5f2]己方[/color]拥有[color=#f35555]蜃都之序[/color]时，若[color=#52a5f2]己方[/color][color=#f35555]蜃都之序[/color]的转化顺序位于[color=#f35555]蜃都之理[/color]之后则[color=#57c975]不受PP值限制[/color]",
+        "info": "己方拥有蜃都之序时，若己方蜃都之序的转化顺序位于蜃都之理之后则不受PP值限制",
+        "key": "",
+        "param": null,
+        "argsNum": 0,
+        "id": 2534,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent][color=#52a5f2]己方[/color]拥有[color=#f35555]蜃都之源[/color]时，若[color=#52a5f2]己方[/color][color=#f35555]蜃都之源[/color]的转化顺序位于[color=#f35555]蜃都之序[/color]之后则此[color=#52a5f2]技能先制[/color]+1",
+        "info": "己方拥有蜃都之源时，若己方蜃都之源的转化顺序位于蜃都之序之后则先制+1",
+        "key": "",
+        "param": null,
+        "argsNum": 0,
+        "id": 2535,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit][color=#52a5f2]己方[/color]拥有[color=#f35555]蜃都之逐[/color]时，若[color=#52a5f2]己方[/color][color=#f35555]蜃都之逐[/color]的转化顺序位于[color=#f35555]蜃都之源[/color]之后则令对手[color=#57c975]冻伤[/color]",
+        "info": "己方拥有蜃都之逐时，若己方蜃都之逐的转化顺序位于蜃都之源之后则令对手冻伤",
+        "key": "",
+        "param": null,
+        "argsNum": 0,
+        "id": 2536,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent][color=#52a5f2]己方[/color]拥有[color=#f35555]蜃都之理[/color]时，若[color=#52a5f2]己方[/color][color=#f35555]蜃都之理[/color]的转化顺序位于[color=#f35555]蜃都之逐[/color]之后则此技能克制系数至少为1",
+        "info": "己方拥有蜃都之理时，若己方蜃都之理的转化顺序位于蜃都之逐之后则克制系数至少为1",
+        "key": "",
+        "param": null,
+        "argsNum": 0,
+        "id": 2537,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit][color=#52a5f2]己方[/color]同时拥有[color=#f35555]蜃都之序[/color]、[color=#f35555]蜃都之源[/color]、[color=#f35555]蜃都之逐[/color]、[color=#f35555]蜃都之理[/color]时，对手4回合内无法[color=#52a5f2]主动切换[/color]精灵",
+        "info": "己方同时拥有蜃都之序、蜃都之源、蜃都之逐、蜃都之理时，对手4回合内无法主动切换精灵",
+        "key": "",
+        "param": null,
+        "argsNum": 0,
+        "id": 2538,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent]自身处于领域效果时使用技能不受PP值限制，对手无法通过技能恢复PP值",
+        "info": "自身处于领域效果时使用技能不受PP值限制，对手无法通过技能恢复PP值",
+        "key": "",
+        "param": null,
+        "argsNum": 0,
+        "id": 2539,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]双方每有1方[color=#52a5f2]精灵先制[/color]为{0}，对手{1}下回合[color=#52a5f2]技能先制[/color]-{2}",
+        "info": "双方每有1方精灵先制为{0}，对手{1}下回合所有技能先制-{2}",
+        "key": "",
+        "param": null,
+        "argsNum": 3,
+        "id": 2540,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]附加2种非限制类异常状态，[color=#52a5f2]然后[/color]若对手不处于控制类异常状态则重置自身的[color=#52a5f2]登场[/color]次数并获得1层[color=#f35555]命世之岐[/color]",
+        "info": "附加2种非限制类异常状态，然后若对手不处于控制类异常状态则重置自身的登场次数并获得1层命世之岐",
+        "key": "",
+        "param": null,
+        "argsNum": 0,
+        "id": 2541,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]获得{0}点[color=#57c975]护盾[/color]，此[color=#57c975]护盾[/color]存在时自身进入的异常状态[color=#52a5f2]转化[/color]为{1}回合[color=#57c975]{2}[/color]",
+        "info": "获得{0}点护盾，此护盾存在时自身进入的异常状态转化为{1}回合{2}",
+        "key": "",
+        "param": [
+          1,
+          2,
+          2
+        ],
+        "argsNum": 3,
+        "id": 2542,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]下次下场时，将上述护盾转移给下只精灵",
+        "info": "下次下场时，将上述护盾转移给下只精灵",
+        "key": "",
+        "param": null,
+        "argsNum": 1,
+        "id": 2543,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent]自身[color=#57c975]登场时[/color]，若[color=#52a5f2]己方[/color]精灵中存在索伦森，则将自身的[color=#57c975]信仰对象[/color]改为索伦森；自身位于场下时，为自身的[color=#57c975]信仰对象[/color]提供[color=#57c975]支援[/color][color=#f35555]魂歌报丧[/color]",
+        "info": "自身登场时，若己方精灵中存在索伦森，则将自身的信仰对象改为索伦森；自身位于场下时，为自身的信仰对象提供支援魂歌报丧",
+        "key": "",
+        "param": null,
+        "argsNum": 0,
+        "id": 2544,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent]自身[color=#52a5f2]登场时[/color]，若自身携带了芳华寂灭则剥离自身的神秘系[color=#52a5f2]以[/color]获得[color=#f35555]冥妖之悼[/color]，若自身携带了幽冥鬼甲则剥离自身的邪灵系[color=#52a5f2]以[/color]获得[color=#f35555]幽迹之秘[/color]，同时携带时此效果失效",
+        "info": "自身登场时，若自身携带了芳华寂灭则剥离自身的神秘系以获得冥妖之悼，若自身携带了幽冥鬼甲则剥离自身的邪灵系以获得幽迹之秘，同时携带时此效果失效",
+        "key": "",
+        "param": null,
+        "argsNum": 0,
+        "id": 2545,
+        "type": 0
       }
     ],
     "ParamType": [

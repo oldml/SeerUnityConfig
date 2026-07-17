@@ -614,8 +614,8 @@
     },
     {
       "args": "",
-      "beginning": "2026_04_17 10:00:00",
-      "ending": "2026_04_30 10:00:00",
+      "beginning": "2026_07_17 10:00:00",
+      "ending": "2026_07_31 10:00:00",
       "labelName": "备战新赛季",
       "name": "NewSeasonCompletePanel",
       "channel": 0,
@@ -1969,7 +1969,7 @@
       "isShow": 1,
       "redbadge": 74,
       "signType": 2,
-      "sorting": 5,
+      "sorting": 8,
       "type": 1
     },
     {
@@ -4745,8 +4745,8 @@
     },
     {
       "args": "",
-      "beginning": "2026_04_17 10:00:00",
-      "ending": "2026_07_17 00:00:00",
+      "beginning": "2026_07_17 10:00:00",
+      "ending": "2026_10_16 00:00:00",
       "labelName": "刻印进阶激励",
       "name": "mintmarkElevareReward",
       "channel": 0,
@@ -6873,7 +6873,7 @@
       "beginning": "",
       "ending": "",
       "labelName": "17周年",
-      "name": "\r\nzhounianbanner0508",
+      "name": "\nzhounianbanner0508",
       "channel": 0,
       "Go": 445,
       "helptips": 0,
@@ -7917,7 +7917,7 @@
       "id": 485,
       "iOSreviewshow": 1,
       "isShow": 1,
-      "redbadge": 336,
+      "redbadge": 355,
       "signType": 0,
       "sorting": 1,
       "type": 9
@@ -8038,7 +8038,7 @@
       "isShow": 1,
       "redbadge": 342,
       "signType": 0,
-      "sorting": 2,
+      "sorting": 9,
       "type": 1
     },
     {
@@ -8154,7 +8154,7 @@
       "helptips": 0,
       "id": 500,
       "iOSreviewshow": 1,
-      "isShow": 1,
+      "isShow": 0,
       "redbadge": 0,
       "signType": 0,
       "sorting": 15,
@@ -8174,7 +8174,7 @@
       "isShow": 1,
       "redbadge": 351,
       "signType": 0,
-      "sorting": 3,
+      "sorting": 4,
       "type": 1
     },
     {
@@ -8227,6 +8227,74 @@
       "signType": 0,
       "sorting": 6,
       "type": 9
+    },
+    {
+      "args": "",
+      "beginning": "2026_07_17 10:00:00",
+      "ending": "2026_08_07 10:00:00",
+      "labelName": "深海捕鱼团",
+      "name": "oceanfishActivity",
+      "channel": 0,
+      "Go": 1136,
+      "helptips": 0,
+      "id": 505,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 353,
+      "signType": 0,
+      "sorting": 2,
+      "type": 1
+    },
+    {
+      "args": "",
+      "beginning": "",
+      "ending": "",
+      "labelName": "地葬界神",
+      "name": "getdzjsmain",
+      "channel": 0,
+      "Go": 1141,
+      "helptips": 0,
+      "id": 506,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 0,
+      "signType": 0,
+      "sorting": 7,
+      "type": 1
+    },
+    {
+      "args": "",
+      "beginning": "2026_07_10 10:00:00",
+      "ending": "2026_08_07 10:00:00",
+      "labelName": "龙渊镇座",
+      "name": "gertrudeSkin",
+      "channel": 0,
+      "Go": 1142,
+      "helptips": 0,
+      "id": 507,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 354,
+      "signType": 0,
+      "sorting": 3,
+      "type": 1
+    },
+    {
+      "args": "",
+      "beginning": "2026_07_17 10:00:00",
+      "ending": "2026_10_16 00:00:00",
+      "labelName": "星际通行证",
+      "name": "BattlePassPanel",
+      "channel": 0,
+      "Go": 1144,
+      "helptips": 0,
+      "id": 508,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 356,
+      "signType": 0,
+      "sorting": 6,
+      "type": 1
     }
   ]
 }

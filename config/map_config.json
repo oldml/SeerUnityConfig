@@ -8915,6 +8915,11 @@
               "targetID": 1278,
               "x": 103,
               "y": 493
+            },
+            {
+              "targetID": 2180,
+              "x": 830,
+              "y": 440
             }
           ]
         },
@@ -8933,6 +8938,19 @@
         },
         "Entries": null,
         "id": 1278
+      },
+      {
+        "changeMapComp": {
+          "component": [
+            {
+              "targetID": 1093,
+              "x": 60,
+              "y": 400
+            }
+          ]
+        },
+        "Entries": null,
+        "id": 2180
       },
       {
         "changeMapComp": {

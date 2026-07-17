@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "Name": "星际礼盒",
+      "catID": 26,
+      "ID": 2600069,
+      "Max": 99999,
+      "purpose": 1,
+      "Rarity": 0,
+      "Sort": 35,
+      "UseMax": 99,
+      "wd": 1
+    },
+    {
       "Name": "特性晶片自选礼箱α",
       "catID": 26,
       "ID": 2600068,

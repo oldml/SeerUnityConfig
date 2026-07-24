@@ -240293,6 +240293,126 @@
         "price": 10,
         "productID": 262610,
         "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买挑战次数",
+        "itemID": [
+          1728298
+        ],
+        "price": 10,
+        "productID": 262611,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买【啵啵蓄能湾】游戏次数",
+        "itemID": [
+          1728299
+        ],
+        "price": 10,
+        "productID": 262612,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "至尊获得精灵【米罗博士】",
+        "itemID": [
+          1728300
+        ],
+        "price": 798,
+        "productID": 262613,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买每日挑战次数（米罗博士）",
+        "itemID": [
+          1728301
+        ],
+        "price": 30,
+        "productID": 262614,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡简单关卡（米罗博士）",
+        "itemID": [
+          1728302
+        ],
+        "price": 20,
+        "productID": 262615,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡困难关卡（米罗博士）",
+        "itemID": [
+          1728303
+        ],
+        "price": 30,
+        "productID": 262616,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "付费扫荡地狱关卡（米罗博士）",
+        "itemID": [
+          1728304
+        ],
+        "price": 40,
+        "productID": 262617,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买获得米罗博士因子",
+        "itemID": [
+          1728305
+        ],
+        "price": 2,
+        "productID": 262618,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买皮肤：深渊诡影·克劳里菲",
+        "itemID": [
+          1728306
+        ],
+        "price": 498,
+        "productID": 262619,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买光影碎片",
+        "itemID": [
+          1728308
+        ],
+        "price": 2,
+        "productID": 262620,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "购买圣雷结晶",
+        "itemID": [
+          1728311
+        ],
+        "price": 1,
+        "productID": 262621,
+        "vip": 1
+      },
+      {
+        "icon": "",
+        "name": "一键觉醒圣光格劳瑞",
+        "itemID": [
+          1728312
+        ],
+        "price": 598,
+        "productID": 262622,
+        "vip": 1
       }
     ]
   }

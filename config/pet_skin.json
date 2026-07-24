@@ -15408,6 +15408,42 @@
         "Jumptarget": 410000,
         "MonID": 3488,
         "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "深渊诡影·克劳里菲",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 858,
+        "Jumptarget": 114108,
+        "MonID": 4633,
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "波塞冬",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 859,
+        "Jumptarget": 2,
+        "MonID": 3506,
+        "Type": 0
       }
     ]
   }

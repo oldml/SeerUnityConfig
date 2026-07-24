@@ -274,8 +274,8 @@
     },
     {
       "args": "",
-      "beginning": "2026_07_10 10:00:00",
-      "ending": "2026_07_24 10:00:00",
+      "beginning": "2026_07_24 10:00:00",
+      "ending": "2026_08_07 10:00:00",
       "labelName": "兑钻奖励",
       "name": "ExchangeDiamond",
       "channel": 0,
@@ -626,7 +626,7 @@
       "isShow": 1,
       "redbadge": 19,
       "signType": 1,
-      "sorting": 5,
+      "sorting": 9,
       "type": 1
     },
     {
@@ -1022,8 +1022,8 @@
     },
     {
       "args": "",
-      "beginning": "2026_06_26 10:00:00",
-      "ending": "2026_07_17 10:00:00",
+      "beginning": "2026_07_24 10:00:00",
+      "ending": "2026_08_14 10:00:00",
       "labelName": "叠加域激励",
       "name": "limitedAdastraActivity",
       "channel": 0,
@@ -1787,8 +1787,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_07_11 10:00:00",
-      "ending": "2025_07_18 10:00:00",
+      "beginning": "2026_07_24 10:00:00",
+      "ending": "2026_08_07 10:00:00",
       "labelName": "盛夏谧语",
       "name": "dihuangzhiyuSummerSkinSell",
       "channel": 0,
@@ -1797,10 +1797,10 @@
       "id": 110,
       "iOSreviewshow": 1,
       "isShow": 1,
-      "redbadge": 69,
+      "redbadge": 359,
       "signType": 1,
-      "sorting": 1,
-      "type": 6
+      "sorting": 5,
+      "type": 1
     },
     {
       "args": "Assets/Game/UI/oceanPlanetNoma/oceanPlanetNoma.prefab",
@@ -1958,7 +1958,7 @@
     {
       "args": "",
       "beginning": "2026_07_10 10:00:00",
-      "ending": "2026_08_14 00:00:00",
+      "ending": "2026_08_14 10:00:00",
       "labelName": "暑假签到",
       "name": "summerHolidaySign",
       "channel": 0,
@@ -6873,7 +6873,7 @@
       "beginning": "",
       "ending": "",
       "labelName": "17周年",
-      "name": "\nzhounianbanner0508",
+      "name": "\r\nzhounianbanner0508",
       "channel": 0,
       "Go": 445,
       "helptips": 0,
@@ -7288,7 +7288,7 @@
       "id": 445,
       "iOSreviewshow": 0,
       "isShow": 0,
-      "redbadge": 302,
+      "redbadge": 0,
       "signType": 0,
       "sorting": 30,
       "type": 8
@@ -8191,7 +8191,7 @@
       "isShow": 1,
       "redbadge": 350,
       "signType": 0,
-      "sorting": 4,
+      "sorting": 8,
       "type": 1
     },
     {
@@ -8242,7 +8242,7 @@
       "isShow": 1,
       "redbadge": 353,
       "signType": 0,
-      "sorting": 2,
+      "sorting": 10,
       "type": 1
     },
     {
@@ -8256,7 +8256,7 @@
       "helptips": 0,
       "id": 506,
       "iOSreviewshow": 1,
-      "isShow": 1,
+      "isShow": 0,
       "redbadge": 0,
       "signType": 0,
       "sorting": 7,
@@ -8276,7 +8276,7 @@
       "isShow": 1,
       "redbadge": 354,
       "signType": 0,
-      "sorting": 3,
+      "sorting": 8,
       "type": 1
     },
     {
@@ -8294,6 +8294,74 @@
       "redbadge": 356,
       "signType": 0,
       "sorting": 6,
+      "type": 1
+    },
+    {
+      "args": "",
+      "beginning": "2026_07_24 10:00:00",
+      "ending": "2026_08_07 10:00:00",
+      "labelName": "啵啵蓄能湾",
+      "name": "boboGetEnergyPanel",
+      "channel": 0,
+      "Go": 1140,
+      "helptips": 0,
+      "id": 509,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 357,
+      "signType": 0,
+      "sorting": 2,
+      "type": 1
+    },
+    {
+      "args": "",
+      "beginning": "2026_07_24 10:00:00",
+      "ending": "2026_08_07 10:00:00",
+      "labelName": "宝藏守卫战",
+      "name": "oceantreasureActivity",
+      "channel": 0,
+      "Go": 1145,
+      "helptips": 0,
+      "id": 510,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 358,
+      "signType": 0,
+      "sorting": 3,
+      "type": 1
+    },
+    {
+      "args": "Assets/Game/UI/getljysActivity/getljyscenter.prefab",
+      "beginning": "",
+      "ending": "",
+      "labelName": "六界御神",
+      "name": "getljysmain",
+      "channel": 0,
+      "Go": 445,
+      "helptips": 0,
+      "id": 511,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 0,
+      "signType": 0,
+      "sorting": 7,
+      "type": 1
+    },
+    {
+      "args": "",
+      "beginning": "2026_07_10 10:00:00",
+      "ending": "2026_08_07 10:00:00",
+      "labelName": "深渊诡影",
+      "name": "claudiusSkinPanel",
+      "channel": 0,
+      "Go": 1146,
+      "helptips": 0,
+      "id": 512,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 360,
+      "signType": 0,
+      "sorting": 4,
       "type": 1
     }
   ]

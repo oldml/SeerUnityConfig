@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "Name": "环·圣芒因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400592,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "环·龙裔因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400591,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "米罗博士因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400590,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "鲜血女王·蔻缇雅因子",
       "catID": 24,
       "Hide": 0,

@@ -5441,6 +5441,13 @@
       "isFullScreen": 1
     },
     {
+      "moduleName": "getGLW",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 898,
+      "isFullScreen": 1
+    },
+    {
       "moduleName": "zuma",
       "resConfig": null,
       "currAppDo": 1,
@@ -6090,6 +6097,48 @@
       "currAppDo": 1,
       "id": 1145,
       "isFullScreen": 0
+    },
+    {
+      "moduleName": "claudiusSkinPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1146,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "peakJihadCostMode",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1180,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "filmgame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1181,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "jellyfishJumpActivityCenterPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1182,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "autocardXuanwu",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1183,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "autocardYoyo",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1184,
+      "isFullScreen": 1
     }
   ]
 }

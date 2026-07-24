@@ -400580,6 +400580,7 @@
             50,
             3,
             200,
+            0,
             5
           ],
           "Accuracy": 100,
@@ -409987,7 +409988,8 @@
             60,
             100,
             3,
-            200
+            200,
+            0
           ],
           "Accuracy": 100,
           "AtkNum": 0,
@@ -411495,6 +411497,7 @@
             4,
             3,
             250,
+            0,
             3,
             6,
             3
@@ -415106,7 +415109,8 @@
             6,
             2,
             3,
-            200
+            200,
+            0
           ],
           "Accuracy": 100,
           "AtkNum": 0,
@@ -416510,6 +416514,7 @@
             4,
             3,
             200,
+            0,
             1
           ],
           "Accuracy": 100,
@@ -418133,7 +418138,8 @@
             80,
             1,
             3,
-            200
+            200,
+            0
           ],
           "Accuracy": 100,
           "AtkNum": 0,
@@ -425268,7 +425274,8 @@
             7,
             3,
             3,
-            200
+            200,
+            0
           ],
           "Accuracy": 100,
           "AtkNum": 0,
@@ -430132,6 +430139,7 @@
             4,
             3,
             200,
+            0,
             2,
             2
           ],
@@ -431076,6 +431084,7 @@
             1,
             3,
             200,
+            0,
             2,
             2
           ],
@@ -432590,7 +432599,8 @@
             4,
             3,
             3,
-            200
+            200,
+            0
           ],
           "Accuracy": 100,
           "AtkNum": 0,
@@ -432785,6 +432795,7 @@
             4,
             3,
             200,
+            0,
             1
           ],
           "Accuracy": 100,
@@ -434977,6 +434988,7 @@
             4,
             3,
             200,
+            0,
             3,
             50,
             1,
@@ -436406,6 +436418,7 @@
             4,
             3,
             200,
+            0,
             400,
             200,
             1
@@ -445704,6 +445717,7 @@
             4,
             3,
             200,
+            0,
             2,
             2
           ],
@@ -451798,7 +451812,8 @@
             50,
             27,
             3,
-            200
+            200,
+            0
           ],
           "Accuracy": 95,
           "AtkNum": 0,
@@ -453733,6 +453748,7 @@
             2,
             3,
             200,
+            0,
             2,
             2
           ],
@@ -455699,6 +455715,7 @@
             4,
             3,
             200,
+            0,
             1,
             2,
             2
@@ -457958,6 +457975,7 @@
             4,
             3,
             200,
+            0,
             1
           ],
           "Accuracy": 95,
@@ -461439,6 +461457,7 @@
             3,
             3,
             200,
+            0,
             3,
             100,
             30
@@ -464033,6 +464052,7 @@
             4,
             3,
             150,
+            0,
             2,
             1
           ],
@@ -469540,7 +469560,8 @@
             3,
             50,
             3,
-            200
+            200,
+            0
           ],
           "Accuracy": 95,
           "AtkNum": 0,
@@ -481003,7 +481024,8 @@
           "SideEffectArg": [
             100,
             3,
-            200
+            200,
+            0
           ],
           "Accuracy": 95,
           "AtkNum": 0,
@@ -484933,6 +484955,7 @@
             1,
             3,
             200,
+            0,
             2,
             2,
             2
@@ -485365,6 +485388,7 @@
             4,
             3,
             200,
+            0,
             2
           ],
           "Accuracy": 95,
@@ -497844,6 +497868,7 @@
             6,
             4,
             150,
+            0,
             2,
             2
           ],
@@ -504472,7 +504497,8 @@
             1,
             300,
             4,
-            220
+            220,
+            0
           ],
           "Accuracy": 95,
           "AtkNum": 0,
@@ -504928,7 +504954,8 @@
             5,
             1,
             3,
-            200
+            200,
+            0
           ],
           "Accuracy": 95,
           "AtkNum": 0,
@@ -508212,7 +508239,8 @@
             1,
             1,
             3,
-            240
+            240,
+            0
           ],
           "Accuracy": 95,
           "AtkNum": 0,
@@ -511380,6 +511408,7 @@
             4,
             3,
             200,
+            0,
             1,
             300
           ],
@@ -514567,6 +514596,7 @@
             2,
             4,
             200,
+            0,
             2,
             2
           ],
@@ -516708,6 +516738,7 @@
             4,
             3,
             200,
+            0,
             3,
             80,
             2
@@ -522091,6 +522122,7 @@
             4,
             4,
             200,
+            0,
             1
           ],
           "Accuracy": 95,
@@ -529277,6 +529309,195 @@
           "MaxPP": 10,
           "MonID": 0,
           "MustHit": 0,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "开始免疫并反弹受到的异常状态了；开始闪避对手的攻击了；攻击变得更犀利了",
+          "Name": "信息秘素",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            191,
+            426,
+            1475,
+            693
+          ],
+          "SideEffectArg": [
+            4,
+            2,
+            100,
+            3,
+            40,
+            2,
+            100
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29407,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；开始无效对手的属性技能了；开始吸取对手的体力了；出手变得更快了；",
+          "Name": "简式出装",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            962,
+            478,
+            597,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            2,
+            4,
+            3,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29408,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "使用了太古遗留的科技",
+          "Name": "太古的至宝",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            2546
+          ],
+          "SideEffectArg": [
+            1
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29409,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 1,
+          "Type": 8
+        },
+        {
+          "info": "对手变得不酷了",
+          "Name": "酷威慑",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            48,
+            749
+          ],
+          "SideEffectArg": [
+            3,
+            100,
+            1
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29410,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "自身的攻击、速度变得酷、更酷，最酷了",
+          "Name": "酷移动",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            126,
+            84
+          ],
+          "SideEffectArg": [
+            3,
+            2,
+            3,
+            50
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29411,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性+1；开始恢复自身体力了；开始附加百分比伤害了；出手更快了",
+          "Name": "辉荣不泯",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            993,
+            927,
+            1154,
+            2550,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            0,
+            4,
+            2,
+            2,
+            4,
+            20,
+            1,
+            1,
+            2,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29412,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
           "ordinary": 0,
           "Power": 0,
           "Priority": 0,
@@ -576287,7 +576508,8 @@
           ],
           "SideEffectArg": [
             3,
-            250
+            250,
+            0
           ],
           "Accuracy": 90,
           "AtkNum": 0,
@@ -592386,7 +592608,8 @@
           ],
           "SideEffectArg": [
             3,
-            200
+            200,
+            0
           ],
           "Accuracy": 92,
           "AtkNum": 0,
@@ -610270,7 +610493,8 @@
             100,
             6,
             3,
-            200
+            200,
+            0
           ],
           "Accuracy": 95,
           "AtkNum": 0,
@@ -616650,7 +616874,8 @@
           ],
           "SideEffectArg": [
             3,
-            200
+            200,
+            0
           ],
           "Accuracy": 99,
           "AtkNum": 0,
@@ -703478,7 +703703,8 @@
           ],
           "SideEffectArg": [
             3,
-            100
+            100,
+            0
           ],
           "Accuracy": 95,
           "AtkNum": 0,
@@ -746551,7 +746777,8 @@
             240,
             4,
             3,
-            240
+            240,
+            0
           ],
           "Accuracy": 100,
           "AtkNum": 0,
@@ -764138,6 +764365,224 @@
           "Type": 37
         },
         {
+          "info": "",
+          "Name": "探耽求究",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            970,
+            2547
+          ],
+          "SideEffectArg": [
+            3,
+            100,
+            8
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38466,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Type": 21
+        },
+        {
+          "info": "",
+          "Name": "尘下史诗",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            879,
+            1024,
+            1962,
+            1963
+          ],
+          "SideEffectArg": [
+            3,
+            50,
+            100
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38467,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 21
+        },
+        {
+          "info": "",
+          "Name": "酷攻",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            959
+          ],
+          "SideEffectArg": [
+            1
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38468,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Type": 119
+        },
+        {
+          "info": "",
+          "Name": "酷头槌",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            20
+          ],
+          "SideEffectArg": [
+            50,
+            1
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38469,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 119
+        },
+        {
+          "info": "",
+          "Name": "酷牙击",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1395
+          ],
+          "SideEffectArg": null,
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38470,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 119
+        },
+        {
+          "info": "",
+          "Name": "神驰万钧",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1167,
+            994,
+            2549
+          ],
+          "SideEffectArg": [
+            1,
+            3,
+            100,
+            0,
+            70
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38471,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Type": 80
+        },
+        {
+          "info": "启动了天奉",
+          "Name": "王·天冕奉世",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            2553
+          ],
+          "SideEffectArg": null,
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38472,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 3,
+          "Type": 80
+        },
+        {
+          "info": "",
+          "Name": "王·圣鸣净界",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            760,
+            942,
+            2548,
+            2552,
+            2551
+          ],
+          "SideEffectArg": [
+            3,
+            35,
+            35,
+            30
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38473,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 80
+        },
+        {
           "info": "恢复自身一定体力",
           "Name": "浓尘翻涌",
           "FriendSideEffect": null,
@@ -764168,9 +764613,10 @@
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
-            2464
+            2528
           ],
           "SideEffectArg": [
+            1,
             100
           ],
           "Accuracy": 100,
@@ -764193,10 +764639,11 @@
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
-            2465
+            2529
           ],
           "SideEffectArg": [
-            3
+            3,
+            1
           ],
           "Accuracy": 100,
           "AtkNum": 0,
@@ -764218,9 +764665,12 @@
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
-            2466
+            2530
           ],
-          "SideEffectArg": null,
+          "SideEffectArg": [
+            100,
+            0
+          ],
           "Accuracy": 100,
           "AtkNum": 0,
           "AtkType": 3,
@@ -764241,10 +764691,12 @@
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
-            2467
+            2532
           ],
           "SideEffectArg": [
-            3
+            1,
+            1,
+            50
           ],
           "Accuracy": 95,
           "AtkNum": 0,
@@ -764266,9 +764718,13 @@
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
-            2470
+            2533
           ],
-          "SideEffectArg": null,
+          "SideEffectArg": [
+            100,
+            0,
+            2
+          ],
           "Accuracy": 95,
           "AtkNum": 0,
           "AtkType": 0,

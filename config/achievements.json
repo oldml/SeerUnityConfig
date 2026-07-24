@@ -8554,6 +8554,20 @@
                     "ID": 15,
                     "proicon": 1505,
                     "SpeNameBonus": 599
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "古文明专家",
+                    "Desc": "通关S-米罗博士【地狱难度】关卡获得",
+                    "Threshold": "16",
+                    "title": "古文明专家",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 16,
+                    "proicon": 1510,
+                    "SpeNameBonus": 600
                   }
                 ],
                 "ID": 172,

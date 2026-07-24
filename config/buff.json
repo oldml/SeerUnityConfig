@@ -8713,6 +8713,36 @@
       "id": 885
     },
     {
+      "Desc": "{0}回合受到的攻击伤害减少{1}%",
+      "desc_tag": "",
+      "Tag": "减伤",
+      "icon": [
+        29
+      ],
+      "icontype": 0,
+      "id": 886
+    },
+    {
+      "Desc": "{roundnext[0]}攻击必定打出致命一击",
+      "desc_tag": "roundnext",
+      "Tag": "致命一击",
+      "icon": [
+        36
+      ],
+      "icontype": 0,
+      "id": 887
+    },
+    {
+      "Desc": "{0}回合内使用技能附加{1}%对手最大体力的百分比伤害，若自身体力低于对手则效果翻倍",
+      "desc_tag": "",
+      "Tag": "附加伤害",
+      "icon": [
+        34
+      ],
+      "icontype": 0,
+      "id": 888
+    },
+    {
       "Desc": "免疫能力下降",
       "desc_tag": "",
       "Tag": "免疫弱化",
@@ -33899,6 +33929,54 @@
       ],
       "icontype": 0,
       "id": 4588
+    },
+    {
+      "Desc": "{roundnext[0]}所有技能先制+{1}",
+      "desc_tag": "roundnext",
+      "Tag": "先制",
+      "icon": [
+        6
+      ],
+      "icontype": 0,
+      "id": 4589
+    },
+    {
+      "Desc": "对手下{0}次使用属性技能时令对手麻痹1回合",
+      "desc_tag": "",
+      "Tag": "施加异常",
+      "icon": [
+        14
+      ],
+      "icontype": 0,
+      "id": 4590
+    },
+    {
+      "Desc": "对手下{0}个未使用技能的回合结束时令对手下回合攻击技能先制无法高于0",
+      "desc_tag": "",
+      "Tag": "诱发效果",
+      "icon": [
+        13
+      ],
+      "icontype": 0,
+      "id": 4591
+    },
+    {
+      "Desc": "{roundnext[0]}令对手攻击技能先制无法高于0",
+      "desc_tag": "roundnext",
+      "Tag": "先制降低",
+      "icon": [
+        42
+      ],
+      "icontype": 0,
+      "id": 4592
+    },
+    {
+      "Desc": "下{0}次攻击造成的伤害提升50%",
+      "desc_tag": "",
+      "Tag": "增伤",
+      "icon": null,
+      "icontype": 0,
+      "id": 4593
     }
   ]
 }

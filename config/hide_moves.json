@@ -13262,6 +13262,24 @@
         "petId": 4923
       },
       {
+        "moveName1": "太古的",
+        "moveName2": "至宝",
+        "moveId": 29409,
+        "petId": 4925
+      },
+      {
+        "moveName1": "酷",
+        "moveName2": "牙击",
+        "moveId": 38470,
+        "petId": 4926
+      },
+      {
+        "moveName1": "王",
+        "moveName2": "圣鸣净界",
+        "moveId": 38473,
+        "petId": 4004
+      },
+      {
         "moveName1": "神灵",
         "moveName2": "救世光",
         "moveId": 31143,

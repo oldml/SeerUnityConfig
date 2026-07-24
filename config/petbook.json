@@ -1414,8 +1414,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4922,
-            "ImageID": 4922,
+            "ID": 4925,
+            "ImageID": 4925,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1425,8 +1425,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4923,
-            "ImageID": 4923,
+            "ID": 4926,
+            "ImageID": 4926,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1436,10 +1436,10 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 854,
-            "ImageID": 1400854,
+            "ID": 858,
+            "ImageID": 1400858,
             "Label": 0,
-            "monID": 4186,
+            "monID": 4633,
             "type": 1
           },
           {
@@ -1447,32 +1447,10 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 855,
-            "ImageID": 1400855,
+            "ID": 859,
+            "ImageID": 1400859,
             "Label": 0,
-            "monID": 4923,
-            "type": 1
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 856,
-            "ImageID": 1400856,
-            "Label": 0,
-            "monID": 4657,
-            "type": 1
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 857,
-            "ImageID": 1400857,
-            "Label": 0,
-            "monID": 3488,
+            "monID": 3506,
             "type": 1
           }
         ]
@@ -25476,7 +25454,7 @@
       {
         "DefName": "六界御神",
         "Features": "六界神王完全体，挥动圣芒之剑、闪耀审判之光！",
-        "Target": "",
+        "Target": "150136",
         "ID": 4032
       },
       {
@@ -30812,6 +30790,18 @@
         "Features": "魔盒的预言，似乎否定了她的价值、她的一切。但若是因此而退却，此后的半生便与走肉无异。这座都市不会只是泡影，纵使终会直面一切的坍塌，至少，让这片钢铁的森林成为指向云端之上的天枪。",
         "Target": "200000",
         "ID": 4923
+      },
+      {
+        "DefName": "米罗博士",
+        "Features": "Λ组织二号舰穆宁号的驻舰科学官，超古代文明遗迹专家，奉命支援三号舰的玄武复活计划。她的科研空间站位于赫尔卡星的同步轨道，是玄武复活计划的核心人员之一。",
+        "Target": "153201/953",
+        "ID": 4925
+      },
+      {
+        "DefName": "酷酷鲨",
+        "Features": "没错，酷酷鲨真的很酷。",
+        "Target": "114105",
+        "ID": 4926
       }
     ],
     "RecMintmark": {

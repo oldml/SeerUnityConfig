@@ -51,7 +51,7 @@
       "value": 10
     },
     {
-      "describe": "在5场群星牌中获得前四名",
+      "describe": "以前四名的成绩完成5场群星牌",
       "exp": 500,
       "id": 102,
       "rewardbit": 2,
@@ -61,7 +61,7 @@
       "value": 5
     },
     {
-      "describe": "在10场群星牌中获得前四名",
+      "describe": "以前四名的成绩完成10场群星牌",
       "exp": 1000,
       "id": 103,
       "rewardbit": 3,
@@ -71,14 +71,14 @@
       "value": 10
     },
     {
-      "describe": "淘汰30名对手",
+      "describe": "淘汰10名对手",
       "exp": 500,
       "id": 104,
       "rewardbit": 4,
       "rewarduserinfo": 20739,
       "time": 2,
       "userinfo": 20733,
-      "value": 30
+      "value": 10
     },
     {
       "describe": "觉醒卡牌达到50次",

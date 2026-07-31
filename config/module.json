@@ -6139,6 +6139,27 @@
       "currAppDo": 1,
       "id": 1184,
       "isFullScreen": 1
+    },
+    {
+      "moduleName": "treasureOfKukuSharkPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1185,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getthirteenskins",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1186,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "autoCardActivityKaijia",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1187,
+      "isFullScreen": 1
     }
   ]
 }

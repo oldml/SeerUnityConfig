@@ -440,16 +440,16 @@
           4900,
           4906,
           4918,
-          0,
+          4928,
           0,
           0,
           0,
           0
         ],
-        "CurMonth": 7,
+        "CurMonth": 8,
         "CurYear": 2026,
         "ID": 11,
-        "MonsterID": 4918
+        "MonsterID": 4928
       }
     ]
   }

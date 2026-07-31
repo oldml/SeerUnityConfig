@@ -8,10 +8,10 @@
       "paytype": 0
     },
     {
-      "freereward": "14_250_1",
+      "freereward": "14_251_1",
       "exp": 1000,
       "id": 2,
-      "mainreward": 1,
+      "mainreward": 0,
       "paytype": 1
     },
     {
@@ -71,10 +71,10 @@
       "paytype": 1
     },
     {
-      "freereward": "16_8_0",
+      "freereward": "16_9_0",
       "exp": 1000,
       "id": 11,
-      "mainreward": 1,
+      "mainreward": 0,
       "paytype": 0
     },
     {
@@ -134,7 +134,7 @@
       "paytype": 0
     },
     {
-      "freereward": "16_6_0",
+      "freereward": "16_5_0",
       "exp": 1000,
       "id": 20,
       "mainreward": 1,

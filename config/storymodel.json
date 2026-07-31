@@ -3207,7 +3207,7 @@
       "emojixy": "",
       "head": "",
       "initialposition": "",
-      "name": "蘑菇怪？",
+      "name": "星光·蘑菇怪",
       "portrait": "moguguai_hpx_fg",
       "id": 292,
       "scale": 1
@@ -4226,7 +4226,7 @@
     },
     {
       "CharacterID": "xiaomei",
-      "emoji": "mhwtpifu_01,mhwtpifu_02,mhwtpifu_03,mhwtpifu_04",
+      "emoji": "mhwtpifu_01,mhwtpifu_02,mhwtpifu_03,mhwtpifu_04,mhwtpifu_05",
       "emojixy": "",
       "head": "",
       "initialposition": "-92,75",
@@ -4284,11 +4284,11 @@
       "emoji": "",
       "emojixy": "",
       "head": "",
-      "initialposition": "",
+      "initialposition": "-35.5,57",
       "name": "巴布B克",
       "portrait": "babuk_fg",
       "id": 390,
-      "scale": 1
+      "scale": 1.2
     },
     {
       "CharacterID": "puniu",
@@ -4388,6 +4388,39 @@
       "portrait": "akexiya_fg",
       "id": 399,
       "scale": 1.25
+    },
+    {
+      "CharacterID": "liaosi_xg",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,110",
+      "name": "里奥斯",
+      "portrait": "liaosi_xg_fg",
+      "id": 400,
+      "scale": 1.2
+    },
+    {
+      "CharacterID": "moshidly",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-65,65",
+      "name": "魔狮迪露",
+      "portrait": "moshidly_fg",
+      "id": 401,
+      "scale": 1
+    },
+    {
+      "CharacterID": "yabalantuo",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-184,161",
+      "name": "亚巴兰托",
+      "portrait": "yabalantuo_fg",
+      "id": 402,
+      "scale": 1
     }
   ]
 }

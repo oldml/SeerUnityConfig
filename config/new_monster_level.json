@@ -28104,7 +28104,7 @@
       "upgradeNew": "",
       "isrecommend": null,
       "menutype": [
-        3
+        1
       ],
       "petTag": null,
       "upgrade": null,
@@ -28151,7 +28151,7 @@
     {
       "hide": "2026_09_04 10:00:00",
       "image": "4930",
-      "isnew": "1",
+      "isnew": "2026_09_04 10:00:00",
       "param": "",
       "quality": "",
       "recommendTime": "",
@@ -28160,7 +28160,8 @@
       "upgradeNew": "",
       "isrecommend": null,
       "menutype": [
-        1
+        4,
+        2
       ],
       "petTag": null,
       "upgrade": null,

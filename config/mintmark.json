@@ -131413,7 +131413,7 @@
         "Max": 99,
         "MintmarkClass": 49,
         "Quality": 5,
-        "Rare": 4,
+        "Rare": 5,
         "Rarity": 0,
         "TotalConsume": 0,
         "Type": 3
@@ -131449,7 +131449,7 @@
         "Max": 99,
         "MintmarkClass": 49,
         "Quality": 5,
-        "Rare": 4,
+        "Rare": 5,
         "Rarity": 0,
         "TotalConsume": 0,
         "Type": 3
@@ -131485,7 +131485,7 @@
         "Max": 99,
         "MintmarkClass": 61,
         "Quality": 5,
-        "Rare": 4,
+        "Rare": 5,
         "Rarity": 0,
         "TotalConsume": 0,
         "Type": 3
@@ -131521,7 +131521,7 @@
         "Max": 99,
         "MintmarkClass": 61,
         "Quality": 5,
-        "Rare": 4,
+        "Rare": 5,
         "Rarity": 0,
         "TotalConsume": 0,
         "Type": 3
@@ -131557,7 +131557,7 @@
         "Max": 99,
         "MintmarkClass": 95,
         "Quality": 5,
-        "Rare": 4,
+        "Rare": 5,
         "Rarity": 0,
         "TotalConsume": 0,
         "Type": 3
@@ -131991,6 +131991,118 @@
         "Grade": 5,
         "Hide": 0,
         "ID": 42715,
+        "Level": 100,
+        "Max": 99,
+        "MintmarkClass": 0,
+        "Quality": 5,
+        "Rare": 1,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "Des": "帝皇·无极",
+        "EffectDes": "攻击5/50,防御5/50,特攻5/50,特防5/50,体力11/110",
+        "Arg": null,
+        "BaseAttriValue": [
+          5,
+          5,
+          5,
+          5,
+          0,
+          11
+        ],
+        "ExtraAttriValue": null,
+        "MaxAttriValue": [
+          50,
+          50,
+          50,
+          50,
+          0,
+          110
+        ],
+        "MonsterID": null,
+        "MoveID": null,
+        "Connect": 0,
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42716,
+        "Level": 100,
+        "Max": 99,
+        "MintmarkClass": 97,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "Des": "帝皇铠甲专属全能刻印",
+        "EffectDes": "攻击4/45,防御2/25,特防2/25,速度3/40,体力10/100",
+        "Arg": null,
+        "BaseAttriValue": [
+          4,
+          2,
+          0,
+          2,
+          4,
+          9
+        ],
+        "ExtraAttriValue": null,
+        "MaxAttriValue": [
+          45,
+          25,
+          0,
+          25,
+          40,
+          100
+        ],
+        "MonsterID": [
+          4930
+        ],
+        "MoveID": null,
+        "Connect": 0,
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42725,
+        "Level": 100,
+        "Max": 99,
+        "MintmarkClass": 0,
+        "Quality": 5,
+        "Rare": 1,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "Des": "炎龙铠甲专属全能刻印",
+        "EffectDes": "攻击4/40,防御2/25,特防2/25,速度3/35,体力9/90",
+        "Arg": null,
+        "BaseAttriValue": [
+          4,
+          2,
+          0,
+          2,
+          3,
+          9
+        ],
+        "ExtraAttriValue": null,
+        "MaxAttriValue": [
+          40,
+          25,
+          0,
+          25,
+          35,
+          90
+        ],
+        "MonsterID": [
+          4931
+        ],
+        "MoveID": null,
+        "Connect": 0,
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42726,
         "Level": 100,
         "Max": 99,
         "MintmarkClass": 0,
@@ -135683,6 +135795,10 @@
       {
         "ClassName": "黄金残影系列",
         "ID": 96
+      },
+      {
+        "ClassName": "铠甲勇士系列",
+        "ID": 97
       }
     ]
   }

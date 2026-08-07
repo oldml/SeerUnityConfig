@@ -1811,6 +1811,15 @@
     },
     {
       "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "自身在场时，从己方手牌中使用的电力充能会额外释放a次",
+      "id": 10208,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
       "object": "魔法",
       "param": "a",
       "paramDes": "获得a枚金币",

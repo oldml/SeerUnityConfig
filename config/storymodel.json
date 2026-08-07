@@ -533,7 +533,7 @@
       "emoji": "",
       "emojixy": "",
       "head": "",
-      "initialposition": "0,-18",
+      "initialposition": "-21,-18",
       "name": "NONO",
       "portrait": "nono_fg",
       "id": 49,
@@ -4420,6 +4420,50 @@
       "name": "亚巴兰托",
       "portrait": "yabalantuo_fg",
       "id": 402,
+      "scale": 1
+    },
+    {
+      "CharacterID": "dingge",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,-57",
+      "name": "丁格",
+      "portrait": "dingge_fg",
+      "id": 403,
+      "scale": 0.7
+    },
+    {
+      "CharacterID": "dinglute",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "丁鲁特",
+      "portrait": "dinglute_fg",
+      "id": 404,
+      "scale": 1
+    },
+    {
+      "CharacterID": "duxz",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,146",
+      "name": "鬼地行者",
+      "portrait": "duxz_fg",
+      "id": 405,
+      "scale": 1
+    },
+    {
+      "CharacterID": "xgrenaduo",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,118",
+      "name": "雷纳多",
+      "portrait": "xgrenaduo_fg",
+      "id": 406,
       "scale": 1
     }
   ]

@@ -5448,6 +5448,20 @@
       "isFullScreen": 1
     },
     {
+      "moduleName": "getDhkj",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 899,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "getDhkjSkin",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 900,
+      "isFullScreen": 0
+    },
+    {
       "moduleName": "zuma",
       "resConfig": null,
       "currAppDo": 1,
@@ -6160,6 +6174,48 @@
       "currAppDo": 1,
       "id": 1187,
       "isFullScreen": 1
+    },
+    {
+      "moduleName": "activityDuel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1188,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getDragonManPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1189,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "armorHeroBattlePassMainPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1190,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "kaijiayongshiEmoji",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1191,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "kjysyypanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1192,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "kaijiayongshiFramePanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1193,
+      "isFullScreen": 0
     }
   ]
 }

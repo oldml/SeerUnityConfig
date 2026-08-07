@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "Name": "极光经验",
+      "Bean": 0,
+      "catID": 14,
+      "Hide": 1,
+      "ID": 1400175,
+      "Max": 9999,
+      "purpose": 0,
+      "Rarity": 2,
+      "Sort": 31,
+      "wd": 1
+    },
+    {
       "Name": "金辉鱼粮袋",
       "Bean": 0,
       "catID": 14,

@@ -600,6 +600,36 @@
         "price": 30,
         "productID": 200082,
         "vip": 1
+      },
+      {
+        "name": "购买极光御令进阶版",
+        "itemID": [
+          1728335
+        ],
+        "gold": 1,
+        "price": 15,
+        "productID": 200083,
+        "vip": 1
+      },
+      {
+        "name": "完成封印任务购买帝皇铠甲小小精灵",
+        "itemID": [
+          1728337
+        ],
+        "gold": 1,
+        "price": 12,
+        "productID": 200084,
+        "vip": 1
+      },
+      {
+        "name": "直接购买帝皇铠甲小小精灵",
+        "itemID": [
+          1728338
+        ],
+        "gold": 1,
+        "price": 30,
+        "productID": 200085,
+        "vip": 1
       }
     ]
   }

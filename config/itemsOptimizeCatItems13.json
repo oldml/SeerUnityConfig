@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "Name": "修罗铠甲腰带",
+      "type": "waist",
+      "Bean": 0,
+      "catID": 13,
+      "Hide": 0,
+      "ID": 1301171,
+      "isSpecial": 0,
+      "Max": 0,
+      "purpose": 0,
+      "Sort": 2,
+      "speed": 0,
+      "UseMax": 0,
+      "VipOnly": 0,
+      "wd": 1
+    },
+    {
       "Name": "帝皇驹",
       "type": "mount",
       "Bean": 0,

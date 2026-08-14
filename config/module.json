@@ -5462,6 +5462,13 @@
       "isFullScreen": 0
     },
     {
+      "moduleName": "getXlkj",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 901,
+      "isFullScreen": 0
+    },
+    {
       "moduleName": "zuma",
       "resConfig": null,
       "currAppDo": 1,
@@ -6215,6 +6222,48 @@
       "resConfig": null,
       "currAppDo": 1,
       "id": 1193,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "armorHeroXTGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1194,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "kaijiayongshiMintmarkPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1195,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "asuraArmorShow",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1196,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "armorHeroNWGameEntry",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1197,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "armorHeroNWGameEntry",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1198,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "niedaluoActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1199,
       "isFullScreen": 0
     }
   ]

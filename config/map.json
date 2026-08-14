@@ -17325,6 +17325,42 @@
       "id": 2180,
       "MapRatio": 1,
       "pic": 2180
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "α场景占位",
+      "notes": "剧情场景",
+      "sound": "",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": null,
+      "WildBossID": null,
+      "WildBossPoint": null,
+      "WildBossWeight": null,
+      "enterMap": 0,
+      "GroupID": 0,
+      "id": 2181,
+      "MapRatio": 0,
+      "pic": 2181
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "α场景占位",
+      "notes": "真实场景",
+      "sound": "",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": null,
+      "WildBossID": null,
+      "WildBossPoint": null,
+      "WildBossWeight": null,
+      "enterMap": 0,
+      "GroupID": 0,
+      "id": 2182,
+      "MapRatio": 0,
+      "pic": 2182
     }
   ]
 }

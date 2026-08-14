@@ -4674,6 +4674,40 @@
       "type": 3,
       "unavailable": 0,
       "unlocktype": 1
+    },
+    {
+      "desc": "初始体力框",
+      "goto": "",
+      "name": "初始体力框",
+      "spine": "",
+      "text": "我是体力框",
+      "checkown": 0,
+      "finishTime": 0,
+      "hide": 0,
+      "icon": 1,
+      "id": 276,
+      "rarity": 4,
+      "tab": 1,
+      "type": 7,
+      "unavailable": 0,
+      "unlocktype": 0
+    },
+    {
+      "desc": "获得【于生命中得见】皮肤后附赠获取",
+      "goto": "",
+      "name": "于生命中得见",
+      "spine": "",
+      "text": "我是体力框",
+      "checkown": 0,
+      "finishTime": 0,
+      "hide": 0,
+      "icon": 2,
+      "id": 277,
+      "rarity": 4,
+      "tab": 2,
+      "type": 7,
+      "unavailable": 0,
+      "unlocktype": 1
     }
   ]
 }

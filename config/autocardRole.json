@@ -766,7 +766,7 @@
       "desc": "谁说赛尔们不能进食，只能喝机油，就不允许烹饪其他美食了？简直荒谬至极！瞧好了，我将用这一锅美食，炒热整个牌局的激情",
       "name": "食神",
       "skillName": "食神之勺",
-      "skillTxt": "选择一只己方精灵，使其获得等同于商店等级的攻击值，下回合切换为生命值，每回合限1次",
+      "skillTxt": "选择一只己方精灵，使其获得等同于商店等级的攻击值，下回合切换为生命值，每回合限2次",
       "skillUpgrade": "",
       "CountNum": 0,
       "Display": 1,
@@ -777,7 +777,7 @@
       "skillCostNum": 0,
       "skillGameLimit": 0,
       "skillID": 39,
-      "skillRoundLimit": 1,
+      "skillRoundLimit": 2,
       "skillType": 2
     },
     {
@@ -886,7 +886,7 @@
       "desc": "犀利的造型是“天虎战将”的追求，但其本身的实力也不容小觑。他是牌桌上的一位劲敌，任何轻视他的赛尔都将获得惨烈的失败。",
       "name": "食神",
       "skillName": "食神之勺",
-      "skillTxt": "选择一只己方精灵，使其获得等同于商店等级的攻击值，下回合切换为生命值，每回合限1次",
+      "skillTxt": "选择一只己方精灵，使其获得等同于商店等级的攻击值，下回合切换为生命值，每回合限2次",
       "skillUpgrade": "",
       "CountNum": 0,
       "Display": 0,
@@ -897,7 +897,7 @@
       "skillCostNum": 0,
       "skillGameLimit": 0,
       "skillID": 10006,
-      "skillRoundLimit": 1,
+      "skillRoundLimit": 2,
       "skillType": 2
     },
     {

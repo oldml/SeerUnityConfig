@@ -165011,7 +165011,7 @@
         "vip": 1
       },
       {
-        "name": "至尊获得圣灵·格劳瑞",
+        "name": "至尊获得圣光格劳瑞",
         "itemID": [
           1721293
         ],
@@ -216578,6 +216578,177 @@
         ],
         "price": 50,
         "productID": 262641,
+        "vip": 1
+      },
+      {
+        "name": "至尊获得修罗铠甲",
+        "itemID": [
+          1728339
+        ],
+        "price": 798,
+        "productID": 262642,
+        "vip": 1
+      },
+      {
+        "name": "优惠获得猎影逐渊·修罗铠甲",
+        "itemID": [
+          1728340
+        ],
+        "price": 498,
+        "productID": 262643,
+        "vip": 1
+      },
+      {
+        "name": "一键获得猎影逐渊·修罗铠甲",
+        "itemID": [
+          1728341
+        ],
+        "price": 598,
+        "productID": 262644,
+        "vip": 1
+      },
+      {
+        "name": "至尊获得精灵【工程型TOH】",
+        "itemID": [
+          1728342
+        ],
+        "price": 598,
+        "productID": 262645,
+        "vip": 1
+      },
+      {
+        "name": "购买每日挑战次数（工程型TOH）",
+        "itemID": [
+          1728343
+        ],
+        "price": 30,
+        "productID": 262646,
+        "vip": 1
+      },
+      {
+        "name": "付费扫荡简单关卡（工程型TOH）",
+        "itemID": [
+          1728344
+        ],
+        "price": 20,
+        "productID": 262647,
+        "vip": 1
+      },
+      {
+        "name": "付费扫荡困难关卡（工程型TOH）",
+        "itemID": [
+          1728345
+        ],
+        "price": 30,
+        "productID": 262648,
+        "vip": 1
+      },
+      {
+        "name": "付费扫荡地狱关卡（工程型TOH）",
+        "itemID": [
+          1728346
+        ],
+        "price": 40,
+        "productID": 262649,
+        "vip": 1
+      },
+      {
+        "name": "购买获得工程型TOH因子",
+        "itemID": [
+          1728347
+        ],
+        "price": 2,
+        "productID": 262650,
+        "vip": 1
+      },
+      {
+        "name": "特惠购买铠甲勇士全套刻印",
+        "itemID": [
+          1728348
+        ],
+        "price": 3188,
+        "productID": 262651,
+        "vip": 1
+      },
+      {
+        "name": "购买炎龙·炽焰",
+        "itemID": [
+          1728349
+        ],
+        "price": 498,
+        "productID": 262652,
+        "vip": 1
+      },
+      {
+        "name": "购买炎龙·火舞",
+        "itemID": [
+          1728350
+        ],
+        "price": 498,
+        "productID": 262653,
+        "vip": 1
+      },
+      {
+        "name": "购买修罗·镇星",
+        "itemID": [
+          1728351
+        ],
+        "price": 498,
+        "productID": 262654,
+        "vip": 1
+      },
+      {
+        "name": "购买修罗·寂灭",
+        "itemID": [
+          1728352
+        ],
+        "price": 498,
+        "productID": 262655,
+        "vip": 1
+      },
+      {
+        "name": "购买刑天·破岳",
+        "itemID": [
+          1728353
+        ],
+        "price": 498,
+        "productID": 262656,
+        "vip": 1
+      },
+      {
+        "name": "购买刑天·威临",
+        "itemID": [
+          1728354
+        ],
+        "price": 498,
+        "productID": 262657,
+        "vip": 1
+      },
+      {
+        "name": "购买拿瓦·熔岩",
+        "itemID": [
+          1728355
+        ],
+        "price": 498,
+        "productID": 262658,
+        "vip": 1
+      },
+      {
+        "name": "购买拿瓦·焚阳",
+        "itemID": [
+          1728356
+        ],
+        "price": 498,
+        "productID": 262659,
+        "vip": 1
+      },
+      {
+        "name": "购买【铠甲厨神Action】游戏次数",
+        "itemID": [
+          1728357
+        ],
+        "price": 10,
+        "productID": 262660,
         "vip": 1
       }
     ]

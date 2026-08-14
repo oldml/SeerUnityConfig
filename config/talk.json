@@ -28682,6 +28682,519 @@
       "groupId": 940,
       "id": 2855,
       "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "啊——终于搞定了！噗纽，复活玄武大人的前期研究工作终于全部完成了。",
+      "dir": 0,
+      "groupId": 941,
+      "id": 2856,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "按照计划，接下来需要去联络各个星球守护者参与后续的进程，但考虑到博士现在的安全状况……",
+      "dir": 0,
+      "groupId": 941,
+      "id": 2857,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "提议：寻找可靠同伴替米罗博士去联络各位星球守护者，请他们参与质点仪式。",
+      "dir": 0,
+      "groupId": 941,
+      "id": 2858,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "噗噗噗，不用噗纽提醒，关于此事，我早有人选。",
+      "dir": 0,
+      "groupId": 941,
+      "id": 2859,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "（打开通讯）",
+      "dir": 0,
+      "groupId": 941,
+      "id": 2860,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "米罗博士，您找我？",
+      "dir": 0,
+      "groupId": 941,
+      "id": 2861,
+      "npcId": 112
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "克里L尔，接下来我有事情要拜托你！",
+      "dir": 0,
+      "groupId": 941,
+      "id": 2862,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "事情是这样：复活玄武大人的前期工作已经完成，接下来需要请各星球的守护者参与质点仪式。",
+      "dir": 0,
+      "groupId": 941,
+      "id": 2863,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "但是你知道的，我因为特殊问题走不开，所以这件事得拜托你了！",
+      "dir": 0,
+      "groupId": 941,
+      "id": 2864,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "没问题，和其他外部组织交涉正是一名外交官所擅长的。",
+      "dir": 0,
+      "groupId": 941,
+      "id": 2865,
+      "npcId": 112
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "此前我在赛尔号上已经和大部分星球守护者打过照面，博士请放心，接下来就交给我吧。",
+      "dir": 0,
+      "groupId": 941,
+      "id": 2866,
+      "npcId": 112
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "冒昧打扰。我是Λ组织外交官克里L尔。",
+      "dir": 0,
+      "groupId": 942,
+      "id": 2867,
+      "npcId": 112
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我记得你，是有关质点仪式的事吗？",
+      "dir": 0,
+      "groupId": 942,
+      "id": 2868,
+      "npcId": 114
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "是的，前期工作我们已经准备完毕，接下来就是质点仪式的运作了。",
+      "dir": 0,
+      "groupId": 942,
+      "id": 2869,
+      "npcId": 112
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "明白了，火山星的这边请你们放心，不会有半点疏忽的。",
+      "dir": 0,
+      "groupId": 942,
+      "id": 2870,
+      "npcId": 114
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "玄武大人若能归来，各位守护者功不可没啊。",
+      "dir": 0,
+      "groupId": 942,
+      "id": 2871,
+      "npcId": 112
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "嗯？是熟悉的面孔？",
+      "dir": 0,
+      "groupId": 943,
+      "id": 2872,
+      "npcId": 113
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "想必您就是克洛斯星的守护者了吧，我是Λ组织的外交官“克里L尔”。",
+      "dir": 0,
+      "groupId": 943,
+      "id": 2873,
+      "npcId": 112
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "幸会，此前的同步会议我们已经参与过了，但这次前来是……？",
+      "dir": 0,
+      "groupId": 943,
+      "id": 2874,
+      "npcId": 113
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "正是关于守护。复活玄武的质点仪式即将启动，我们需要你在克洛斯星守护星球节点。",
+      "dir": 0,
+      "groupId": 943,
+      "id": 2875,
+      "npcId": 112
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "事关重大，我需要确保和每一位守护者都当面进行过联络。",
+      "dir": 0,
+      "groupId": 943,
+      "id": 2876,
+      "npcId": 112
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "明白了，关于克洛斯星的事宜，你们尽管放心，我们一定全力协助。",
+      "dir": 0,
+      "groupId": 943,
+      "id": 2877,
+      "npcId": 113
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "海洋星守护者，您好，我是Λ组织的外交官克里L尔，特来拜访。",
+      "dir": 0,
+      "groupId": 944,
+      "id": 2878,
+      "npcId": 112
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "是质点仪式的事吧。同步会议上已经定下框架，这次需要什么确认？",
+      "dir": 0,
+      "groupId": 944,
+      "id": 2879,
+      "npcId": 4798
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "仪式运转时，需要您在海洋星镇守水系节点，保障整座阵法的稳定性。",
+      "dir": 0,
+      "groupId": 944,
+      "id": 2880,
+      "npcId": 112
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "海洋星每一道暗流的走向，我比任何人都清楚。这个节点不会出问题。",
+      "dir": 0,
+      "groupId": 944,
+      "id": 2881,
+      "npcId": 4798
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "有您这句话，我们便安心了，感谢您的认可与付出。",
+      "dir": 0,
+      "groupId": 944,
+      "id": 2882,
+      "npcId": 112
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "魔狮迪露，您好，Λ组织外交官克里L尔，专程前来拜访。",
+      "dir": 0,
+      "groupId": 945,
+      "id": 2883,
+      "npcId": 112
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "是为了质点仪式吧，上次会议上只说了仪式的大致框架，我正好还想和你们确认一下。",
+      "dir": 0,
+      "groupId": 945,
+      "id": 2884,
+      "npcId": 117
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "没错。质点仪式需要斯诺星作为其中一个节点，作为守护者，您需要负责稳定。",
+      "dir": 0,
+      "groupId": 945,
+      "id": 2885,
+      "npcId": 112
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "没问题，我会完成这一使命。",
+      "dir": 0,
+      "groupId": 945,
+      "id": 2886,
+      "npcId": 117
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "感谢您的协助。",
+      "dir": 0,
+      "groupId": 945,
+      "id": 2887,
+      "npcId": 112
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "双子阿尔法星的守护者，Λ组织外交官克里L尔前来拜访。",
+      "dir": 0,
+      "groupId": 946,
+      "id": 2888,
+      "npcId": 112
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "嗯。",
+      "dir": 0,
+      "groupId": 946,
+      "id": 2889,
+      "npcId": 115
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "质点仪式的启动时间已经初步定下，此次前来需要当面确认一下相关事宜。",
+      "dir": 0,
+      "groupId": 946,
+      "id": 2890,
+      "npcId": 112
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "嗯。",
+      "dir": 0,
+      "groupId": 946,
+      "id": 2891,
+      "npcId": 115
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "感谢您的担当。",
+      "dir": 0,
+      "groupId": 946,
+      "id": 2892,
+      "npcId": 112
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "雷纳多阁下，我是Λ组织外交官克里L尔。",
+      "dir": 0,
+      "groupId": 947,
+      "id": 2893,
+      "npcId": 112
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "我大概知道你是为何而来，他们已经和我说了有关质点仪式的事情。",
+      "dir": 0,
+      "groupId": 947,
+      "id": 2894,
+      "npcId": 116
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "没错，此次前来，是进一步和您明确这项重大任务。",
+      "dir": 0,
+      "groupId": 947,
+      "id": 2895,
+      "npcId": 112
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "任务明确。仪式运转时，贝塔星不会有任何差池。",
+      "dir": 0,
+      "groupId": 947,
+      "id": 2896,
+      "npcId": 116
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "那就麻烦您了",
+      "dir": 0,
+      "groupId": 947,
+      "id": 2897,
+      "npcId": 112
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "米罗博士，这边是克里L尔。六位守护者已全部就位，随时可以启动仪式。",
+      "dir": 0,
+      "groupId": 948,
+      "id": 2898,
+      "npcId": 112
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "辛苦了！各位守护者都没有什么问题吧？",
+      "dir": 0,
+      "groupId": 948,
+      "id": 2899,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "六位守护者均于星球上镇守，六个节点信号现已全部在线。",
+      "dir": 0,
+      "groupId": 948,
+      "id": 2900,
+      "npcId": 112
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "好的，那接下来还差最后一步。我们把守护者们的能量彼此相连，让阵法产生共振。",
+      "dir": 0,
+      "groupId": 948,
+      "id": 2901,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "能量连线？",
+      "dir": 0,
+      "groupId": 948,
+      "id": 2902,
+      "npcId": 112
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "每位守护者的能量都有专属频率，必须一对一精确对齐，千万不能出现一点偏差。",
+      "dir": 0,
+      "groupId": 948,
+      "id": 2903,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "明白。博士，我会参与协助的。",
+      "dir": 0,
+      "groupId": 948,
+      "id": 2904,
+      "npcId": 112
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "那就准备启动仪式吧！",
+      "dir": 0,
+      "groupId": 948,
+      "id": 2905,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "博士，六个节点能量频率全部对齐，阵法共振稳定，校准完成。",
+      "dir": 0,
+      "groupId": 949,
+      "id": 2906,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "成了！克里L尔，能量连线全部到位，质点仪式的搭建部分，都完成了。",
+      "dir": 0,
+      "groupId": 949,
+      "id": 2907,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "那接下来呢？我看仪式好像还没有结束。",
+      "dir": 0,
+      "groupId": 949,
+      "id": 2908,
+      "npcId": 112
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "噗噗噗，没错！六颗行星的能量虽然各自稳定，但它们之间还缺少一条关键串联。",
+      "dir": 0,
+      "groupId": 949,
+      "id": 2909,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "补充：缺失赫尔卡星节点。",
+      "dir": 0,
+      "groupId": 949,
+      "id": 2910,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "没错。玄武的复活，只差这最后一步。",
+      "dir": 0,
+      "groupId": 949,
+      "id": 2911,
+      "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "不过赫尔卡星的情况……我们只能暂时等待一会了，希望不会等太久。",
+      "dir": 0,
+      "groupId": 949,
+      "id": 2912,
+      "npcId": 4925
     }
   ]
 }

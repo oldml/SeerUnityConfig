@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "Name": "工程型TOH因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400595,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "鬼地行者因子",
       "catID": 24,
       "Hide": 0,

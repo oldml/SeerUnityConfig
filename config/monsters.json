@@ -639023,6 +639023,318 @@
         "Vip": 0
       },
       {
+        "DefName": "工程型TOH",
+        "ExtraMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 38491,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 10001,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20071,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10327,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10089,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20090,
+              "LearningLv": 17,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10226,
+              "LearningLv": 21,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10137,
+              "LearningLv": 25,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10182,
+              "LearningLv": 29,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10605,
+              "LearningLv": 33,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20195,
+              "LearningLv": 37,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10608,
+              "LearningLv": 41,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10606,
+              "LearningLv": 45,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20263,
+              "LearningLv": 49,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10609,
+              "LearningLv": 53,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10607,
+              "LearningLv": 57,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20264,
+              "LearningLv": 61,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10610,
+              "LearningLv": 71,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 38489,
+              "LearningLv": 72,
+              "Rec": 1,
+              "Tag": 1
+            },
+            {
+              "ID": 29423,
+              "LearningLv": 73,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "ID": 29424,
+              "LearningLv": 74,
+              "Rec": 1,
+              "Tag": 3
+            },
+            {
+              "ID": 38490,
+              "LearningLv": 75,
+              "Rec": 1,
+              "Tag": 4
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 138,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 114,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 0,
+        "HP": 164,
+        "ID": 4932,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 3593,
+        "RealId": 0,
+        "SpAtk": 70,
+        "Spd": 135,
+        "SpDef": 114,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 6,
+        "Vip": 0
+      },
+      {
+        "DefName": "修罗铠甲",
+        "ExtraMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 38494,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 38492,
+              "LearningLv": 1,
+              "Rec": 1,
+              "Tag": 1
+            },
+            {
+              "ID": 29425,
+              "LearningLv": 5,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "ID": 29426,
+              "LearningLv": 9,
+              "Rec": 1,
+              "Tag": 3
+            },
+            {
+              "ID": 38493,
+              "LearningLv": 13,
+              "Rec": 1,
+              "Tag": 4
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 111,
+        "CharacterAttrParam": 4,
+        "Combo": 0,
+        "Def": 116,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 1,
+        "HP": 168,
+        "ID": 4933,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 3594,
+        "RealId": 0,
+        "SpAtk": 111,
+        "Spd": 138,
+        "SpDef": 116,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 89,
+        "Vip": 0
+      },
+      {
+        "DefName": "刑天铠甲",
+        "ExtraMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 38497,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 38495,
+              "LearningLv": 1,
+              "Rec": 1,
+              "Tag": 1
+            },
+            {
+              "ID": 29427,
+              "LearningLv": 5,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "ID": 29428,
+              "LearningLv": 9,
+              "Rec": 1,
+              "Tag": 3
+            },
+            {
+              "ID": 38496,
+              "LearningLv": 13,
+              "Rec": 1,
+              "Tag": 4
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 139,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 111,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 1,
+        "HP": 174,
+        "ID": 4934,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 3595,
+        "RealId": 0,
+        "SpAtk": 70,
+        "Spd": 135,
+        "SpDef": 111,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 76,
+        "Vip": 0
+      },
+      {
         "DefName": "圣灵谱尼",
         "ExtraMoves": {
           "AdvMove": null,
@@ -741327,6 +741639,36 @@
         "Gender": 0,
         "HP": 0,
         "ID": 1400861,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 0,
+        "Spd": 0,
+        "SpDef": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0
+      },
+      {
+        "DefName": "猎影逐渊·修罗铠甲",
+        "ExtraMoves": null,
+        "LearnableMoves": null,
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400862,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,

@@ -1,88 +1,34 @@
 {
   "data": [
     {
-      "adjust": "",
-      "resultpet": "10_3291_3491;20_4732;3_1_2_3_4_21_22_23_24",
-      "votepet": "",
-      "id": 1,
-      "number": 0,
-      "pool": 1,
-      "ranklimit1": 1,
-      "ranklimit2": 0,
-      "time1": 1790906400,
-      "time2": 1791907200,
-      "time3": 1792116000,
-      "type": 1
-    },
-    {
-      "adjust": "3",
-      "resultpet": "",
+      "officialsetpet": "10_3291_3491;20_4732;3_1_2_3_4_21_22_23_24",
+      "previousresultpet": "5_3291_3491_4125_4732_3516;10_4762",
       "votepet": "4125;3516;3741;3524;4762;4186;5;6;7;8",
-      "id": 2,
-      "number": 10,
-      "pool": 2,
+      "adjust": 3,
+      "id": 1,
+      "previousresultshowtime": 1795744800,
       "ranklimit1": 1,
       "ranklimit2": 0,
       "time1": 1790906400,
       "time2": 1791907200,
       "time3": 1792116000,
-      "type": 1
+      "type": 1,
+      "votenumber": 10
     },
     {
-      "adjust": "",
-      "resultpet": "5_3291_3491_4125_4732_3516;10_4762",
-      "votepet": "",
-      "id": 3,
-      "number": 0,
-      "pool": 3,
-      "ranklimit1": 1,
-      "ranklimit2": 0,
-      "time1": 0,
-      "time2": 0,
-      "time3": 1795744800,
-      "type": 1
-    },
-    {
-      "adjust": "",
-      "resultpet": "1_3986_4126_3711_9_10_11_12_31_32_33;5_4800;",
-      "votepet": "",
-      "id": 4,
-      "number": 0,
-      "pool": 1,
-      "ranklimit1": 1,
-      "ranklimit2": 0,
-      "time1": 1790906400,
-      "time2": 1791907200,
-      "time3": 1792116000,
-      "type": 2
-    },
-    {
-      "adjust": "3",
-      "resultpet": "",
+      "officialsetpet": "1_3986_4126_3711_9_10_11_12_31_32_33;5_4800;",
+      "previousresultpet": "3_3986_4126_3711;5_3541_4644；10_4800",
       "votepet": "3541;4644;3983;4797;4163;4800;3550;13;14;15;16",
-      "id": 5,
-      "number": 10,
-      "pool": 2,
+      "adjust": 3,
+      "id": 2,
+      "previousresultshowtime": 1795744800,
       "ranklimit1": 1,
       "ranklimit2": 0,
       "time1": 1790906400,
       "time2": 1791907200,
       "time3": 1792116000,
-      "type": 2
-    },
-    {
-      "adjust": "",
-      "resultpet": "3_3986_4126_3711;5_3541_4644；10_4800",
-      "votepet": "",
-      "id": 6,
-      "number": 0,
-      "pool": 3,
-      "ranklimit1": 1,
-      "ranklimit2": 0,
-      "time1": 0,
-      "time2": 0,
-      "time3": 1795744800,
-      "type": 2
+      "type": 2,
+      "votenumber": 10
     }
   ]
 }

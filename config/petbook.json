@@ -1414,8 +1414,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4929,
-            "ImageID": 4929,
+            "ID": 4932,
+            "ImageID": 4932,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1425,8 +1425,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4930,
-            "ImageID": 4930,
+            "ID": 4933,
+            "ImageID": 4933,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1436,8 +1436,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4931,
-            "ImageID": 4931,
+            "ID": 4934,
+            "ImageID": 4934,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1447,21 +1447,10 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 860,
-            "ImageID": 1400860,
+            "ID": 862,
+            "ImageID": 1400862,
             "Label": 0,
-            "monID": 4930,
-            "type": 1
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 861,
-            "ImageID": 1400861,
-            "Label": 0,
-            "monID": 4378,
+            "monID": 4933,
             "type": 1
           }
         ]
@@ -30843,6 +30832,24 @@
         "Features": "由召唤人和火之炎龙铠甲合体而成的战士。五行中属火，战斗风格为在近距离以拳击与对方进行格斗战。",
         "Target": "114123",
         "ID": 4931
+      },
+      {
+        "DefName": "工程型TOH",
+        "Features": "由工程师苏克设计改装的工程机械精灵，集破土、推平、压实于一身，为行星计算机的建造奔赴每一颗星球。",
+        "Target": "153201/962",
+        "ID": 4932
+      },
+      {
+        "DefName": "修罗铠甲",
+        "Features": "唯有具备天地间最强之气者方可驾驭，正可成王，邪可成魔！",
+        "Target": "114121",
+        "ID": 4933
+      },
+      {
+        "DefName": "刑天铠甲",
+        "Features": "综合型铠甲，远攻近战能力兼备，为银河系正义而战！",
+        "Target": "114124",
+        "ID": 4934
       }
     ],
     "RecMintmark": {

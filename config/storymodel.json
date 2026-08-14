@@ -4465,6 +4465,94 @@
       "portrait": "xgrenaduo_fg",
       "id": 406,
       "scale": 1
+    },
+    {
+      "CharacterID": "liebingzhihun",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,55",
+      "name": "冰雪廷尉",
+      "portrait": "liebingzhihun_fg",
+      "id": 407,
+      "scale": 1
+    },
+    {
+      "CharacterID": "saodang",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "扫荡魔锋",
+      "portrait": "saodang_fg",
+      "id": 408,
+      "scale": 1
+    },
+    {
+      "CharacterID": "aotian",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-27,378",
+      "name": "遨天魔煞",
+      "portrait": "aotian_fg",
+      "id": 409,
+      "scale": 1
+    },
+    {
+      "CharacterID": "shimeng",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-174,197",
+      "name": "噬梦魔灵",
+      "portrait": "shimeng_fg",
+      "id": 410,
+      "scale": 1
+    },
+    {
+      "CharacterID": "zangsheng",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "14.3,381",
+      "name": "葬生魔莲",
+      "portrait": "zangsheng_fg",
+      "id": 411,
+      "scale": 1
+    },
+    {
+      "CharacterID": "kelaifen",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "克莱芬斯",
+      "portrait": "kelaifen_fg",
+      "id": 412,
+      "scale": 1
+    },
+    {
+      "CharacterID": "yoyodi",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "苔岩·悠悠",
+      "portrait": "yoyodi_fg",
+      "id": 413,
+      "scale": 1
+    },
+    {
+      "CharacterID": "toh1",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "TOH工程型",
+      "portrait": "toh1_fg",
+      "id": 414,
+      "scale": 1
     }
   ]
 }

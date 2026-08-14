@@ -28095,7 +28095,7 @@
     {
       "hide": "",
       "image": "4929",
-      "isnew": "1",
+      "isnew": "",
       "param": "{Design:255}",
       "quality": "s",
       "recommendTime": "",
@@ -28131,9 +28131,7 @@
       "upgradeHide": "",
       "upgradeNew": "",
       "isrecommend": null,
-      "menutype": [
-        2
-      ],
+      "menutype": null,
       "petTag": null,
       "upgrade": null,
       "difficult": 0,
@@ -28161,7 +28159,7 @@
       "isrecommend": null,
       "menutype": [
         4,
-        2
+        1
       ],
       "petTag": null,
       "upgrade": null,
@@ -28171,6 +28169,63 @@
       "moduleid": -114120,
       "monsterid": 4930,
       "sort": 3,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4932",
+      "isnew": "1",
+      "param": "{Design:256}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精灵因子关卡系统功能,工程型TOH,点击进入关卡_点击兑换",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": null,
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 962,
+      "moduleid": 151,
+      "monsterid": 4932,
+      "sort": 1,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "2026_09_04 10:00:00",
+      "image": "4933",
+      "isnew": "2026_09_04 10:00:00",
+      "param": "",
+      "quality": "",
+      "recommendTime": "",
+      "statlog": "",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        4,
+        1
+      ],
+      "petTag": null,
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 0,
+      "id": 963,
+      "moduleid": -114121,
+      "monsterid": 4933,
+      "sort": 1,
       "upgradeSort": 0,
       "upgradeSource": 0,
       "weekly": 0,

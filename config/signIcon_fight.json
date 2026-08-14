@@ -5053,7 +5053,15 @@
         "className": "*",
         "dec": "神圣之霆",
         "Des": "自身使用攻击技能后消耗所有神圣之霆并附加对应次数的麻痹，触发成功则本场战斗自身获得神圣之霆时数量+1，每未触发1次为对手附加1层荣光之裁；最高6道，达到6道时神圣之霆不再减少",
-        "frame": null,
+        "frame": [
+          "0_0",
+          "1_1",
+          "2_2",
+          "3_3",
+          "4_4",
+          "5_5",
+          "6_6"
+        ],
         "NumDes": "当前道数",
         "spDes": null,
         "spicon": null,
@@ -5061,7 +5069,7 @@
         "tips": "神圣之霆",
         "id": 194,
         "isShowNum": 1,
-        "showmonster": 0,
+        "showmonster": 4004,
         "showtime": 0,
         "sort": 1
       },
@@ -5144,6 +5152,22 @@
         "showmonster": 0,
         "showtime": 0,
         "sort": 4
+      },
+      {
+        "className": "*",
+        "dec": "法之意念",
+        "Des": "回合开始时，若自身为正气状态，则消耗法之意念平均恢复至信仰对象为自身的精灵，若自身为邪气状态，则消耗法之意念使自身下次攻击时附加等量的固定伤害",
+        "frame": null,
+        "NumDes": "当前点数",
+        "spDes": null,
+        "spicon": null,
+        "sptips": null,
+        "tips": "法之意念",
+        "id": 200,
+        "isShowNum": 1,
+        "showmonster": 0,
+        "showtime": 0,
+        "sort": 1
       },
       {
         "className": "SignBuffView_1000",

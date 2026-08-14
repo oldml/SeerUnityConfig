@@ -8002,7 +8002,7 @@
       "id": 491,
       "iOSreviewshow": 1,
       "isShow": 1,
-      "redbadge": 150499,
+      "redbadge": 150520,
       "signType": 0,
       "sorting": 14,
       "type": 1
@@ -8497,7 +8497,7 @@
       "isShow": 1,
       "redbadge": 365,
       "signType": 0,
-      "sorting": 10,
+      "sorting": 1,
       "type": 8
     },
     {
@@ -8531,7 +8531,7 @@
       "isShow": 1,
       "redbadge": 371,
       "signType": 0,
-      "sorting": 40,
+      "sorting": 7,
       "type": 8
     },
     {
@@ -8546,9 +8546,9 @@
       "id": 523,
       "iOSreviewshow": 1,
       "isShow": 1,
-      "redbadge": 150517,
+      "redbadge": 372,
       "signType": 0,
-      "sorting": 50,
+      "sorting": 6,
       "type": 8
     },
     {
@@ -8565,7 +8565,7 @@
       "isShow": 1,
       "redbadge": 366,
       "signType": 0,
-      "sorting": 30,
+      "sorting": 7,
       "type": 8
     },
     {
@@ -8686,6 +8686,74 @@
       "signType": 0,
       "sorting": 6,
       "type": 9
+    },
+    {
+      "args": "",
+      "beginning": "2026_08_14 10:00:00",
+      "ending": "2026_09_04 10:00:00",
+      "labelName": "修罗铠甲",
+      "name": "getXlkj",
+      "channel": 0,
+      "Go": 901,
+      "helptips": 0,
+      "id": 532,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 376,
+      "signType": 0,
+      "sorting": 4,
+      "type": 8
+    },
+    {
+      "args": "Assets/Game/UI/asuraArmorShow/asuraArmorShow.prefab",
+      "beginning": "2026_08_14 10:00:00",
+      "ending": "2026_09_04 10:00:00",
+      "labelName": "铠甲食神MATCH",
+      "name": "asuraArmor",
+      "channel": 0,
+      "Go": 1196,
+      "helptips": 0,
+      "id": 533,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 377,
+      "signType": 0,
+      "sorting": 2,
+      "type": 8
+    },
+    {
+      "args": "",
+      "beginning": "2026_08_14 10:00:00",
+      "ending": "2026_09_04 10:00:00",
+      "labelName": "铠甲勇士刻印",
+      "name": "kaijiayongshiMintmarkPanel",
+      "channel": 0,
+      "Go": 1195,
+      "helptips": 0,
+      "id": 534,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 378,
+      "signType": 0,
+      "sorting": 5,
+      "type": 8
+    },
+    {
+      "args": "",
+      "beginning": "2026_08_14 10:00:00",
+      "ending": "2026_09_04 10:00:00",
+      "labelName": "铠甲厨神ACTION",
+      "name": "armorHeroXTGame",
+      "channel": 0,
+      "Go": 1194,
+      "helptips": 0,
+      "id": 535,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 379,
+      "signType": 0,
+      "sorting": 3,
+      "type": 8
     }
   ]
 }

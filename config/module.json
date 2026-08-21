@@ -5469,6 +5469,13 @@
       "isFullScreen": 0
     },
     {
+      "moduleName": "SuolunsenVoteSkin",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 902,
+      "isFullScreen": 0
+    },
+    {
       "moduleName": "zuma",
       "resConfig": null,
       "currAppDo": 1,
@@ -6264,6 +6271,27 @@
       "resConfig": null,
       "currAppDo": 1,
       "id": 1199,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "getalktmain",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1200,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "niedaluozhilianSkinSell",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1201,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "rayGaiaAssembleMainPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1202,
       "isFullScreen": 0
     }
   ]

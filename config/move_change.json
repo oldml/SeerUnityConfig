@@ -112,6 +112,20 @@
         "NewName": "恒·真心共鸣",
         "MoveID": 37109,
         "SkinID": 752
+      },
+      {
+        "moveName1": "契",
+        "moveName2": "沙海之恋",
+        "NewName": "契·沙海之恋",
+        "MoveID": 38327,
+        "SkinID": 863
+      },
+      {
+        "moveName1": "契",
+        "moveName2": "沙海之恋",
+        "NewName": "契·沙海之恋",
+        "MoveID": 38351,
+        "SkinID": 864
       }
     ]
   }

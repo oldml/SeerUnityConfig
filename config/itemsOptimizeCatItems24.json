@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "Name": "混沌·阿内斯因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400597,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "苔岩·磐岳因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400596,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "工程型TOH因子",
       "catID": 24,
       "Hide": 0,

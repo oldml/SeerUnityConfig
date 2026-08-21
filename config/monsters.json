@@ -639335,6 +639335,206 @@
         "Vip": 0
       },
       {
+        "DefName": "苔岩·磐岳",
+        "ExtraMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 38500,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 10001,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10129,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20004,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10284,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10258,
+              "LearningLv": 17,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20117,
+              "LearningLv": 21,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10285,
+              "LearningLv": 25,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20002,
+              "LearningLv": 29,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10283,
+              "LearningLv": 33,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10286,
+              "LearningLv": 37,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 38498,
+              "LearningLv": 41,
+              "Rec": 1,
+              "Tag": 1
+            },
+            {
+              "ID": 29429,
+              "LearningLv": 45,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "ID": 29430,
+              "LearningLv": 49,
+              "Rec": 1,
+              "Tag": 3
+            },
+            {
+              "ID": 38499,
+              "LearningLv": 53,
+              "Rec": 1,
+              "Tag": 4
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 120,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 130,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 2,
+        "HP": 165,
+        "ID": 4935,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 3596,
+        "RealId": 0,
+        "SpAtk": 70,
+        "Spd": 120,
+        "SpDef": 130,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 7,
+        "Vip": 0
+      },
+      {
+        "DefName": "拿瓦铠甲",
+        "ExtraMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 38503,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 38501,
+              "LearningLv": 1,
+              "Rec": 1,
+              "Tag": 1
+            },
+            {
+              "ID": 29431,
+              "LearningLv": 5,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "ID": 29432,
+              "LearningLv": 9,
+              "Rec": 1,
+              "Tag": 3
+            },
+            {
+              "ID": 38502,
+              "LearningLv": 13,
+              "Rec": 1,
+              "Tag": 4
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 137,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 114,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 1,
+        "HP": 166,
+        "ID": 4936,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 3597,
+        "RealId": 0,
+        "SpAtk": 70,
+        "Spd": 134,
+        "SpDef": 114,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 47,
+        "Vip": 0
+      },
+      {
         "DefName": "圣灵谱尼",
         "ExtraMoves": {
           "AdvMove": null,
@@ -741673,6 +741873,126 @@
         "isRidePet": 0,
         "PetClass": 0,
         "RealId": 0,
+        "SpAtk": 0,
+        "Spd": 0,
+        "SpDef": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0
+      },
+      {
+        "DefName": "沙海之恋·托勒斯 ",
+        "ExtraMoves": null,
+        "LearnableMoves": null,
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400863,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 0,
+        "Spd": 0,
+        "SpDef": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0
+      },
+      {
+        "DefName": "沙海之恋·安瑟伦",
+        "ExtraMoves": null,
+        "LearnableMoves": null,
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400864,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 0,
+        "Spd": 0,
+        "SpDef": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0
+      },
+      {
+        "DefName": "地核之寂·索伦森",
+        "ExtraMoves": null,
+        "LearnableMoves": null,
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400865,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 0,
+        "Spd": 0,
+        "SpDef": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0
+      },
+      {
+        "DefName": "格劳瑞 ",
+        "ExtraMoves": null,
+        "LearnableMoves": null,
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400866,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 3150,
         "SpAtk": 0,
         "Spd": 0,
         "SpDef": 0,

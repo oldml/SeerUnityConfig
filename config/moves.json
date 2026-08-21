@@ -530050,6 +530050,139 @@
           "Type": 8
         },
         {
+          "info": "开始免疫并反弹受到的异常状态了；附加了一定的百分比伤害；获得了护盾",
+          "Name": "岩壁建构",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            191,
+            876,
+            1661
+          ],
+          "SideEffectArg": [
+            4,
+            30,
+            300,
+            100,
+            9
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29429,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；开始恢复体力了；出手变得更快了；开始保护自身的能力提升了",
+          "Name": "苔痕侵蚀",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1326,
+            615,
+            843,
+            573
+          ],
+          "SideEffectArg": [
+            1,
+            3,
+            300,
+            2,
+            2,
+            2,
+            3,
+            100,
+            1,
+            3
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29430,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "开始免疫受到的异常状态了；对手开始受到固定伤害了；封锁了对手的属性技能",
+          "Name": "焰熔麟力",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            191,
+            2233,
+            152
+          ],
+          "SideEffectArg": [
+            4,
+            4,
+            1,
+            300,
+            4,
+            100,
+            22
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29431,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；开始恢复体力并附加百分比伤害了；出手变得更快了",
+          "Name": "焰熔麟火",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            893,
+            1065,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            4,
+            3,
+            2,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29432,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
           "info": "",
           "Name": "千星死魂灭",
           "FriendSideEffect": null,
@@ -765870,6 +766003,187 @@
           "Power": 160,
           "Priority": 0,
           "Type": 76
+        },
+        {
+          "info": "",
+          "Name": "沙骨朵",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            453,
+            1672
+          ],
+          "SideEffectArg": [
+            10,
+            300
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38498,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Type": 7
+        },
+        {
+          "info": "",
+          "Name": "敲一岩",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1272,
+            1752,
+            1401
+          ],
+          "SideEffectArg": [
+            200,
+            200,
+            1,
+            100,
+            9,
+            2
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38499,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 7
+        },
+        {
+          "info": "",
+          "Name": "沙海芒芒",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1523,
+            1120,
+            633,
+            964
+          ],
+          "SideEffectArg": [
+            300,
+            300,
+            300,
+            1,
+            300,
+            100
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38500,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 7
+        },
+        {
+          "info": "",
+          "Name": "熔焰螺旋拳",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1114,
+            1472
+          ],
+          "SideEffectArg": [
+            2,
+            50
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38501,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Type": 47
+        },
+        {
+          "info": "",
+          "Name": "熔焰分魔劈",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1208,
+            883,
+            1960
+          ],
+          "SideEffectArg": [
+            1,
+            10,
+            50,
+            2
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38502,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 47
+        },
+        {
+          "info": "",
+          "Name": "焰炬熔麟煞",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1734,
+            405,
+            863,
+            2012
+          ],
+          "SideEffectArg": [
+            100,
+            2,
+            50,
+            300,
+            1
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38503,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 47
         },
         {
           "info": "恢复自身一定体力",

@@ -1414,8 +1414,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4935,
-            "ImageID": 4935,
+            "ID": 4937,
+            "ImageID": 4937,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1425,8 +1425,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4936,
-            "ImageID": 4936,
+            "ID": 4938,
+            "ImageID": 4938,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1436,43 +1436,21 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 863,
-            "ImageID": 1400863,
+            "ID": 4939,
+            "ImageID": 4939,
             "Label": 0,
-            "monID": 4887,
-            "type": 1
+            "monID": 0,
+            "type": 0
           },
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 864,
-            "ImageID": 1400864,
+            "ID": 867,
+            "ImageID": 1400867,
             "Label": 0,
-            "monID": 4894,
-            "type": 1
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 865,
-            "ImageID": 1400865,
-            "Label": 0,
-            "monID": 3414,
-            "type": 1
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 866,
-            "ImageID": 1400866,
-            "Label": 0,
-            "monID": 4004,
+            "monID": 4258,
             "type": 1
           }
         ]
@@ -21648,7 +21626,7 @@
       {
         "DefName": "昔兰尼加",
         "Features": "魔君的强悍使者，被派往魂帝的身边，协助对抗精灵王！",
-        "Target": "",
+        "Target": "150139",
         "ID": 3388
       },
       {
@@ -30884,6 +30862,24 @@
         "Features": "焰之拿瓦铠甲，是焚烧邪念的铠甲，拥有吞噬猛焰的无穷力量，焚尽一切邪恶。",
         "Target": "114125",
         "ID": 4936
+      },
+      {
+        "DefName": "星光·雷纳多",
+        "Features": "自沉睡中苏醒的磁性晶体之躯，循着跨越星海的共鸣回到亲人身边。他是浴火重生、再度肩负守护之责的星光·雷纳多。",
+        "Target": "153201/966",
+        "ID": 4937
+      },
+      {
+        "DefName": "塞壬斯",
+        "Features": "2026年包月精灵，万象录之《探索真理之人》。他是过去阿派罗尼亚最为年轻的学者之一，即便变为了怪物，也不曾停止对真理的追求。",
+        "Target": "121000",
+        "ID": 4938
+      },
+      {
+        "DefName": "决囚钢骨",
+        "Features": "来自█‌‌█城遗址的报告：截至█‌█发现身体结构完整的遇难者共1名，经确认系‌‌‌█‌历‌█‌█年█‌█‌█‌事件失踪者之一。但其衰老状况与身份存在明显不符，推测和‌本次█‌█‌█事件再现具有直接联系。",
+        "Target": "113037",
+        "ID": 4939
       }
     ],
     "RecMintmark": {

@@ -2881,6 +2881,14 @@
         "Out": [
           {
             "Mintmark": null
+          }
+        ],
+        "ID": 2319
+      },
+      {
+        "Out": [
+          {
+            "Mintmark": null
           },
           {
             "Mintmark": null
@@ -2925,82 +2933,82 @@
         "Out": [
           {
             "Mintmark": {
-              "ID": 42387
+              "ID": 41315
             }
           },
           {
             "Mintmark": {
-              "ID": 42388
+              "ID": 41314
             }
           },
           {
             "Mintmark": {
-              "ID": 42389
+              "ID": 41324
             }
           },
           {
             "Mintmark": {
-              "ID": 42390
+              "ID": 41313
             }
           },
           {
             "Mintmark": {
-              "ID": 42391
+              "ID": 41316
             }
           },
           {
             "Mintmark": {
-              "ID": 42392
+              "ID": 41323
             }
           },
           {
             "Mintmark": {
-              "ID": 42393
+              "ID": 41317
             }
           },
           {
             "Mintmark": {
-              "ID": 42394
+              "ID": 41318
             }
           },
           {
             "Mintmark": {
-              "ID": 42395
+              "ID": 41322
             }
           },
           {
             "Mintmark": {
-              "ID": 42396
+              "ID": 41319
             }
           },
           {
             "Mintmark": {
-              "ID": 42397
+              "ID": 41320
             }
           },
           {
             "Mintmark": {
-              "ID": 42398
+              "ID": 41321
             }
           },
           {
             "Mintmark": {
-              "ID": 42399
+              "ID": 41325
             }
           },
           {
             "Mintmark": {
-              "ID": 42400
+              "ID": 41326
             }
           },
           {
             "Mintmark": {
-              "ID": 42401
+              "ID": 41327
             }
           },
           {
             "Mintmark": {
-              "ID": 42402
+              "ID": 41328
             }
           }
         ],

@@ -15570,6 +15570,24 @@
         "Jumptarget": 2,
         "MonID": 4004,
         "Type": 0
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "告死天使·莫蒂",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 867,
+        "Jumptarget": 114129,
+        "MonID": 4258,
+        "Type": 3
       }
     ]
   }

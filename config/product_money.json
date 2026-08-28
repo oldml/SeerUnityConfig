@@ -630,6 +630,16 @@
         "price": 30,
         "productID": 200085,
         "vip": 1
+      },
+      {
+        "name": "9月风尚月历",
+        "itemID": [
+          1728407
+        ],
+        "gold": 1,
+        "price": 30,
+        "productID": 200086,
+        "vip": 1
       }
     ]
   }

@@ -5476,6 +5476,34 @@
       "isFullScreen": 0
     },
     {
+      "moduleName": "DeathAngelMorty",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 903,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "getWtslRay",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 904,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getBmzhGaia",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 905,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getRayGaiaChoose",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 906,
+      "isFullScreen": 1
+    },
+    {
       "moduleName": "zuma",
       "resConfig": null,
       "currAppDo": 1,
@@ -6293,6 +6321,48 @@
       "currAppDo": 1,
       "id": 1202,
       "isFullScreen": 0
+    },
+    {
+      "moduleName": "dangoFood",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1203,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "countgameActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1204,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "CyrenaicaMainPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1205,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "assiyaHeroActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1206,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "turnofLuckSkinActivityPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1207,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "LevantMainPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1208,
+      "isFullScreen": 1
     }
   ]
 }

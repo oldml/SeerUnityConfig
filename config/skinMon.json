@@ -134,6 +134,33 @@
       "userinfo2": 401010,
       "userinfo3": 351005,
       "value": 15
+    },
+    {
+      "oncereward": [
+        1,
+        1727936,
+        1,
+        1,
+        1727935,
+        30
+      ],
+      "taskreward": [
+        1,
+        1727935,
+        2
+      ],
+      "endtime": 1790783999,
+      "id": 6,
+      "itemID": 1728407,
+      "onsaleprice": 30,
+      "price": 68,
+      "productID": 200086,
+      "rewardtime": 1791993600,
+      "starttime": 1788192000,
+      "userinfo1": 401011,
+      "userinfo2": 401012,
+      "userinfo3": 351006,
+      "value": 15
     }
   ]
 }

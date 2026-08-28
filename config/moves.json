@@ -530183,6 +530183,243 @@
           "Type": 8
         },
         {
+          "info": "开始免疫并反弹受到的异常状态了；获得了护盾；自身的能力提升开始得到保护；自身的能力开始提升",
+          "Name": "星光·合金壁垒",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            191,
+            1753,
+            1683,
+            433
+          ],
+          "SideEffectArg": [
+            4,
+            300,
+            3,
+            3,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29433,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；开始恢复体力并附加等量百分比伤害了；攻击变得更加锐利了；出手变得更快了",
+          "Name": "星光·涡轮增压",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1397,
+            1065,
+            1926,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            2,
+            4,
+            2,
+            3,
+            1,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29434,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "开始免疫并反弹受到的异常状态了；令对手麻痹了；吸取了对手的体力",
+          "Name": "扭曲片像",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            191,
+            159,
+            1540
+          ],
+          "SideEffectArg": [
+            4,
+            2,
+            100,
+            0,
+            2,
+            300
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29435,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；开始恢复体力；出手变得更快了",
+          "Name": "滋生钢骨",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1397,
+            1875,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            3,
+            4,
+            3,
+            2,
+            3,
+            1
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29436,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "降低了对手的PP值",
+          "Name": "隙间制动",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            39
+          ],
+          "SideEffectArg": [
+            100,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29437,
+          "MaxPP": 10,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "开始免疫并反弹受到的异常状态了；开始免疫对手的攻击了",
+          "Name": "十里枯监",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            191,
+            2306,
+            570
+          ],
+          "SideEffectArg": [
+            4,
+            1,
+            19,
+            200,
+            1
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29438,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "令对手感到害怕；开始恢复体力了；出手变得更快了",
+          "Name": "削山骼网",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            2193,
+            1855,
+            619
+          ],
+          "SideEffectArg": [
+            100,
+            6,
+            3,
+            1,
+            1,
+            1,
+            0,
+            1,
+            -1,
+            1,
+            2,
+            4,
+            3,
+            3,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29439,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
           "info": "",
           "Name": "千星死魂灭",
           "FriendSideEffect": null,
@@ -766184,6 +766421,351 @@
           "Power": 160,
           "Priority": 0,
           "Type": 47
+        },
+        {
+          "info": "",
+          "Name": "星光·极速射线",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1032,
+            2540
+          ],
+          "SideEffectArg": [
+            1,
+            0,
+            1,
+            1
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38504,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Type": 6
+        },
+        {
+          "info": "",
+          "Name": "星光·能源吸收",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            948,
+            894,
+            2564
+          ],
+          "SideEffectArg": [
+            19,
+            250,
+            2
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38505,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 6
+        },
+        {
+          "info": "",
+          "Name": "星光·魔动能量",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            2363,
+            882,
+            1198,
+            2366
+          ],
+          "SideEffectArg": [
+            10,
+            100,
+            300,
+            1,
+            100
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38506,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 6
+        },
+        {
+          "info": "",
+          "Name": "吱呀作响",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            868,
+            1133
+          ],
+          "SideEffectArg": [
+            2,
+            1,
+            60
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38507,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Type": 36
+        },
+        {
+          "info": "",
+          "Name": "苦痛奇迹",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1481,
+            938
+          ],
+          "SideEffectArg": [
+            30,
+            1
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38508,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 36
+        },
+        {
+          "info": "",
+          "Name": "强植自髓",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            55,
+            759,
+            811,
+            121
+          ],
+          "SideEffectArg": [
+            5,
+            3,
+            1,
+            -2,
+            100
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38509,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 36
+        },
+        {
+          "info": "",
+          "Name": "搅碎",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1767,
+            1157
+          ],
+          "SideEffectArg": [
+            1
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38510,
+          "MaxPP": 10,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 110,
+          "Priority": 2,
+          "Type": 72
+        },
+        {
+          "info": "",
+          "Name": "降维处决",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            456
+          ],
+          "SideEffectArg": [
+            200
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38511,
+          "MaxPP": 10,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 130,
+          "Priority": 0,
+          "Type": 72
+        },
+        {
+          "info": "",
+          "Name": "裂解坍压",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1380
+          ],
+          "SideEffectArg": [
+            1,
+            1,
+            3
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38512,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 140,
+          "Priority": 0,
+          "Type": 72
+        },
+        {
+          "info": "",
+          "Name": "狂椎散闪斩",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1807,
+            484
+          ],
+          "SideEffectArg": [
+            100,
+            25,
+            200
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38513,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 2,
+          "Priority": 0,
+          "Type": 72
+        },
+        {
+          "info": "",
+          "Name": "幽骸锁魂阵",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1734,
+            1674,
+            2351
+          ],
+          "SideEffectArg": [
+            100,
+            16,
+            100,
+            2,
+            4,
+            400,
+            1,
+            1
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38514,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 72
+        },
+        {
+          "info": "",
+          "Name": "源·神庭轰坠",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            699,
+            2566,
+            2565,
+            2240
+          ],
+          "SideEffectArg": [
+            40
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38515,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 103
         },
         {
           "info": "恢复自身一定体力",

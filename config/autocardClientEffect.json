@@ -4,7 +4,7 @@
       "Des": "【攻击流程】卡牌攻击动作效果，卡牌撞击",
       "Duration": 1020,
       "id": 10001,
-      "TimeLast": 500
+      "TimeLast": 1000
     },
     {
       "Des": "三合一卡牌升级效果",
@@ -70,7 +70,7 @@
       "Des": "卡牌远程法术攻击效果：单张攻击者可攻击多个目标造成伤害",
       "Duration": 583,
       "id": 10012,
-      "TimeLast": 200
+      "TimeLast": 500
     },
     {
       "Des": "卡牌触发入场效果（战吼）",
@@ -100,13 +100,13 @@
       "Des": "强毒生效效果：在目标卡牌位置播放中毒 Timeline 特效",
       "Duration": 1016,
       "id": 10017,
-      "TimeLast": 200
+      "TimeLast": 500
     },
     {
-      "Des": "【shi角色亡语效果：在卡牌位置播放亡语 Timeline 特效",
+      "Des": "角色亡语效果：在卡牌位置播放亡语 Timeline 特效",
       "Duration": 1254,
       "id": 10018,
-      "TimeLast": 200
+      "TimeLast": 500
     },
     {
       "Des": "单张卡牌升级出现效果",
@@ -124,7 +124,7 @@
       "Des": "在指定场上卡牌的指定 effectIcon 位置播放闪烁特效",
       "Duration": 1000,
       "id": 10021,
-      "TimeLast": 100
+      "TimeLast": 200
     },
     {
       "Des": "场上卡牌获得 effect 图标效果：更新数据并在图标位置播放出现特效",

@@ -241,6 +241,23 @@
     {
       "ExchangeOutCnt": "",
       "ExchangeOutId": "",
+      "Name": "决囚钢骨因子宝箱",
+      "Bean": 0,
+      "catID": 23,
+      "Hide": 0,
+      "icon": 0,
+      "ID": 2300086,
+      "LifeTime": 0,
+      "Max": 99,
+      "purpose": 1,
+      "Rarity": 4,
+      "Sort": 30,
+      "UseMax": 99,
+      "wd": 1
+    },
+    {
+      "ExchangeOutCnt": "",
+      "ExchangeOutId": "",
       "Name": "锢魂铁犀因子宝箱",
       "Bean": 0,
       "catID": 23,

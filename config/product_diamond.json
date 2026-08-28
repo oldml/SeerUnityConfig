@@ -216894,6 +216894,249 @@
         "price": 10,
         "productID": 262676,
         "vip": 1
+      },
+      {
+        "name": "至尊获得精灵【星光·雷纳多】",
+        "itemID": [
+          1728375
+        ],
+        "price": 798,
+        "productID": 262677,
+        "vip": 1
+      },
+      {
+        "name": "购买每日挑战次数（星光·雷纳多）",
+        "itemID": [
+          1728376
+        ],
+        "price": 30,
+        "productID": 262678,
+        "vip": 1
+      },
+      {
+        "name": "付费扫荡简单关卡（星光·雷纳多）",
+        "itemID": [
+          1728377
+        ],
+        "price": 20,
+        "productID": 262679,
+        "vip": 1
+      },
+      {
+        "name": "付费扫荡困难关卡（星光·雷纳多）",
+        "itemID": [
+          1728378
+        ],
+        "price": 30,
+        "productID": 262680,
+        "vip": 1
+      },
+      {
+        "name": "付费扫荡地狱关卡（星光·雷纳多）",
+        "itemID": [
+          1728379
+        ],
+        "price": 40,
+        "productID": 262681,
+        "vip": 1
+      },
+      {
+        "name": "购买获得星光·雷纳多因子",
+        "itemID": [
+          1728380
+        ],
+        "price": 2,
+        "productID": 262682,
+        "vip": 1
+      },
+      {
+        "name": "0904占位商品1",
+        "itemID": [
+          1728381
+        ],
+        "price": 20,
+        "productID": 262683,
+        "vip": 1
+      },
+      {
+        "name": "0904占位商品2",
+        "itemID": [
+          1728382
+        ],
+        "price": 98,
+        "productID": 262684,
+        "vip": 1
+      },
+      {
+        "name": "0904占位商品3",
+        "itemID": [
+          1728383
+        ],
+        "price": 12,
+        "productID": 262685,
+        "vip": 1
+      },
+      {
+        "name": "0904占位商品4",
+        "itemID": [
+          1728384
+        ],
+        "price": 298,
+        "productID": 262686,
+        "vip": 1
+      },
+      {
+        "name": "0904占位商品5",
+        "itemID": [
+          1728385
+        ],
+        "price": 15,
+        "productID": 262687,
+        "vip": 1
+      },
+      {
+        "name": "0904占位商品6",
+        "itemID": [
+          1728386
+        ],
+        "price": 298,
+        "productID": 262688,
+        "vip": 1
+      },
+      {
+        "name": "0904占位商品7",
+        "itemID": [
+          1728387
+        ],
+        "price": 15,
+        "productID": 262689,
+        "vip": 1
+      },
+      {
+        "name": "0904占位商品8",
+        "itemID": [
+          1728388
+        ],
+        "price": 498,
+        "productID": 262690,
+        "vip": 1
+      },
+      {
+        "name": "0904占位商品9",
+        "itemID": [
+          1728389
+        ],
+        "price": 10,
+        "productID": 262691,
+        "vip": 1
+      },
+      {
+        "name": "0904占位商品10",
+        "itemID": [
+          1728390
+        ],
+        "price": 298,
+        "productID": 262692,
+        "vip": 1
+      },
+      {
+        "name": "0904占位商品11",
+        "itemID": [
+          1728391
+        ],
+        "price": 498,
+        "productID": 262693,
+        "vip": 1
+      },
+      {
+        "name": "0904占位商品12",
+        "itemID": [
+          1728392
+        ],
+        "price": 10,
+        "productID": 262694,
+        "vip": 1
+      },
+      {
+        "name": "0904占位商品13",
+        "itemID": [
+          1728393
+        ],
+        "price": 20,
+        "productID": 262695,
+        "vip": 1
+      },
+      {
+        "name": "购买游戏次数",
+        "itemID": [
+          1728394
+        ],
+        "price": 10,
+        "productID": 262696,
+        "vip": 1
+      },
+      {
+        "name": "购买告死天使·莫蒂",
+        "itemID": [
+          1728395
+        ],
+        "price": 398,
+        "productID": 262697,
+        "vip": 1
+      },
+      {
+        "name": "0911占位商品1",
+        "itemID": [
+          1728400
+        ],
+        "price": 60,
+        "productID": 262698,
+        "vip": 1
+      },
+      {
+        "name": "0911占位商品2",
+        "itemID": [
+          1728401
+        ],
+        "price": 660,
+        "productID": 262699,
+        "vip": 1
+      },
+      {
+        "name": "0904占位商品14",
+        "itemID": [
+          1728402
+        ],
+        "price": 98,
+        "productID": 262700,
+        "vip": 1
+      },
+      {
+        "name": "0904占位商品15",
+        "itemID": [
+          1728403
+        ],
+        "price": 298,
+        "productID": 262701,
+        "vip": 1
+      },
+      {
+        "name": "0904占位商品16",
+        "itemID": [
+          1728405
+        ],
+        "price": 12,
+        "productID": 262702,
+        "vip": 1
+      },
+      {
+        "name": "0904占位商品17",
+        "itemID": [
+          1728406
+        ],
+        "price": 15,
+        "productID": 262703,
+        "vip": 1
       }
     ]
   }

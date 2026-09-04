@@ -5504,6 +5504,27 @@
       "isFullScreen": 1
     },
     {
+      "moduleName": "GetHdmz",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 907,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "extremeIceAksia",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 908,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "huanBack",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 909,
+      "isFullScreen": 0
+    },
+    {
       "moduleName": "zuma",
       "resConfig": null,
       "currAppDo": 1,
@@ -6362,6 +6383,62 @@
       "resConfig": null,
       "currAppDo": 1,
       "id": 1208,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "CatRun",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1209,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "brickBreakerGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1210,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "brickBreakerGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1211,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "signBackSchool",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1212,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "autocardSessionStore",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1213,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "roundgame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1214,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "hundunmoshiMainPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1215,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "akxySummerSkin",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1216,
       "isFullScreen": 1
     }
   ]

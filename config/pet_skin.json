@@ -12435,7 +12435,7 @@
           }
         ],
         "ID": 692,
-        "Jumptarget": 510007,
+        "Jumptarget": 0,
         "MonID": 4717,
         "Type": 18
       },
@@ -13155,7 +13155,7 @@
           }
         ],
         "ID": 732,
-        "Jumptarget": 510007,
+        "Jumptarget": 510004,
         "MonID": 4717,
         "Type": 3
       },
@@ -13443,7 +13443,7 @@
           }
         ],
         "ID": 748,
-        "Jumptarget": 510007,
+        "Jumptarget": 510004,
         "MonID": 4421,
         "Type": 3
       },
@@ -13497,7 +13497,7 @@
           }
         ],
         "ID": 751,
-        "Jumptarget": 114128,
+        "Jumptarget": 0,
         "MonID": 4589,
         "Type": 17
       },
@@ -13515,7 +13515,7 @@
           }
         ],
         "ID": 752,
-        "Jumptarget": 114128,
+        "Jumptarget": 0,
         "MonID": 4603,
         "Type": 17
       },
@@ -15014,7 +15014,7 @@
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
+        "Go": "",
         "GoType": "",
         "Name": "派鲁基达",
         "SkinKind": [
@@ -15446,8 +15446,8 @@
         "Type": 0
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "天极圣临·帝皇铠甲",
         "SkinKind": [
           {
@@ -15459,7 +15459,7 @@
           }
         ],
         "ID": 860,
-        "Jumptarget": 114122,
+        "Jumptarget": 0,
         "MonID": 4930,
         "Type": 18
       },
@@ -15482,8 +15482,8 @@
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "猎影逐渊·修罗铠甲",
         "SkinKind": [
           {
@@ -15495,13 +15495,13 @@
           }
         ],
         "ID": 862,
-        "Jumptarget": 114122,
+        "Jumptarget": 0,
         "MonID": 4933,
         "Type": 18
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "沙海之恋·托勒斯 ",
         "SkinKind": [
           {
@@ -15513,13 +15513,13 @@
           }
         ],
         "ID": 863,
-        "Jumptarget": 114126,
+        "Jumptarget": 0,
         "MonID": 4887,
         "Type": 17
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "沙海之恋·安瑟伦",
         "SkinKind": [
           {
@@ -15531,7 +15531,7 @@
           }
         ],
         "ID": 864,
-        "Jumptarget": 114126,
+        "Jumptarget": 0,
         "MonID": 4894,
         "Type": 17
       },
@@ -15554,8 +15554,8 @@
         "Type": 19
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "格劳瑞",
         "SkinKind": [
           {
@@ -15567,13 +15567,13 @@
           }
         ],
         "ID": 866,
-        "Jumptarget": 2,
+        "Jumptarget": 0,
         "MonID": 4004,
         "Type": 0
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "告死天使·莫蒂",
         "SkinKind": [
           {
@@ -15585,8 +15585,26 @@
           }
         ],
         "ID": 867,
-        "Jumptarget": 114129,
+        "Jumptarget": 0,
         "MonID": 4258,
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "龙墟寻迹·帕妮丝 ",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 868,
+        "Jumptarget": 2,
+        "MonID": 4516,
         "Type": 3
       }
     ]

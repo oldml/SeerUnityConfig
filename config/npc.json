@@ -1616,7 +1616,7 @@
       "name": "夏哆",
       "portrait": "shadow_fg",
       "CharacterID": 4913,
-      "id": 161,
+      "id": 162,
       "scale": 1,
       "silhouette": 0
     },
@@ -1626,7 +1626,7 @@
       "name": "米罗博士",
       "portrait": "drmilo_fg",
       "CharacterID": 4925,
-      "id": 161,
+      "id": 163,
       "scale": 1,
       "silhouette": 0
     },
@@ -1636,7 +1636,7 @@
       "name": "噗纽",
       "portrait": "puniu_fg",
       "CharacterID": 111,
-      "id": 162,
+      "id": 164,
       "scale": 1,
       "silhouette": 0
     },
@@ -1676,7 +1676,7 @@
       "name": "克里L尔",
       "portrait": "clear_fg",
       "CharacterID": 112,
-      "id": 163,
+      "id": 168,
       "scale": 1,
       "silhouette": 0
     },
@@ -1716,7 +1716,7 @@
       "name": "雷纳多",
       "portrait": "xgrenaduo_fg",
       "CharacterID": 116,
-      "id": 164,
+      "id": 172,
       "scale": 1,
       "silhouette": 0
     },
@@ -1727,6 +1727,16 @@
       "portrait": "moshidly_fg",
       "CharacterID": 117,
       "id": 173,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "雷伊",
+      "portrait": "ray9_fg",
+      "CharacterID": 3406,
+      "id": 174,
       "scale": 1,
       "silhouette": 0
     }

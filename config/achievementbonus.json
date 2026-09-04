@@ -9903,6 +9903,38 @@
       "id": 1236,
       "rewardtype": 1,
       "Rule": 17
+    },
+    {
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "Branch": 172,
+      "id": 1237,
+      "rewardtype": 1,
+      "Rule": 18
+    },
+    {
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "Branch": 162,
+      "id": 1238,
+      "rewardtype": 1,
+      "Rule": 4
+    },
+    {
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "Branch": 162,
+      "id": 1239,
+      "rewardtype": 1,
+      "Rule": 5
+    },
+    {
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "Branch": 162,
+      "id": 1240,
+      "rewardtype": 1,
+      "Rule": 6
     }
   ]
 }

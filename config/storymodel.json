@@ -4482,7 +4482,7 @@
       "emoji": "",
       "emojixy": "",
       "head": "",
-      "initialposition": "",
+      "initialposition": "-5,364",
       "name": "扫荡魔锋",
       "portrait": "saodang_fg",
       "id": 408,
@@ -4552,6 +4552,17 @@
       "name": "TOH工程型",
       "portrait": "toh1_fg",
       "id": 414,
+      "scale": 1
+    },
+    {
+      "CharacterID": "guniyasi",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-139,90",
+      "name": "古尼亚斯",
+      "portrait": "guniyasi_fg",
+      "id": 415,
       "scale": 1
     }
   ]

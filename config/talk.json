@@ -29195,6 +29195,87 @@
       "groupId": 949,
       "id": 2912,
       "npcId": 4925
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "前期工作基本上都已经构建完成了，大家…每一个人都在拼尽全力战斗。",
+      "dir": 0,
+      "groupId": 950,
+      "id": 2913,
+      "npcId": 3406
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "作为雷神，我没有理由去懈怠，我必须去完成只有我能做到的事情。",
+      "dir": 0,
+      "groupId": 950,
+      "id": 2914,
+      "npcId": 3406
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "……来吧，让一切都结束吧。",
+      "dir": 0,
+      "groupId": 950,
+      "id": 2915,
+      "npcId": 3406
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "根据大家整理的计划，我需要回到王座，“启动”并“驾驶”赫尔卡星前往指定的空间坐标。",
+      "dir": 0,
+      "groupId": 951,
+      "id": 2916,
+      "npcId": 3406
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "借由赫尔卡星，串联起其他星球的节点。如此一来，这项计划便得以顺利推进。",
+      "dir": 0,
+      "groupId": 951,
+      "id": 2917,
+      "npcId": 3406
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "不过重回王座，真是一阵陌生又熟悉的感觉……让我看看，接下来该怎么做。",
+      "dir": 0,
+      "groupId": 951,
+      "id": 2918,
+      "npcId": 3406
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "已抵达指定空间坐标，我能感受到帕诺星系的蕴藏的能量正在逐步升高……",
+      "dir": 0,
+      "groupId": 952,
+      "id": 2919,
+      "npcId": 3406
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "赫尔卡星将进入巡航模式，误差精度远远小于容错所需，我的任务暂时完成了。",
+      "dir": 0,
+      "groupId": 952,
+      "id": 2920,
+      "npcId": 3406
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "接下来……该去支援伙伴们了。",
+      "dir": 0,
+      "groupId": 952,
+      "id": 2921,
+      "npcId": 3406
     }
   ]
 }
